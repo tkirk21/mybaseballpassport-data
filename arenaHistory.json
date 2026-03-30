@@ -1,0 +1,397 @@
+[
+  {
+    "currentArena": "Chase Field",
+    "teamName": "Arizona Diamondbacks",
+    "league": "MLB",
+    "history": [
+	    { "name": "Bank One Ballpark", "from": "1998-03-01", "to": "2005-11-01" },
+      { "name": "Chase Field", "from": "2006-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Chase Field",
+    "teamName": "Arizona Diamondbacks",
+    "league": "MLB",
+    "history": [
+	    { "name": "Bank One Ballpark", "from": "1998-03-01", "to": "2005-11-01" },
+      { "name": "Chase Field", "from": "2006-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Oakland–Alameda County Coliseum",
+    "teamName": "Oakland Athletics",
+    "league": "MLB",
+    "history": [
+      { "name": "Oakland–Alameda County Coliseum", "from": "1966-02-01", "to": "1998-11-01" },
+      { "name": "Network Associates Coliseum", "from": "1998-02-01", "to": "2008-11-01" },
+      { "name": "McAfee Coliseum", "from": "2004-02-01", "to": "2008-11-01" },
+      { "name": "Oakland–Alameda County Coliseum", "from": "2008-02-01", "to": "2011-11-01" },
+      { "name": "Overstock.com", "from": "2011-02-01", "to": "2011-11-01" },
+      { "name": "O.co Colisuem", "from": "2011-02-01", "to": "2016-11-01" },
+      { "name": "Oakland–Alameda County Coliseum", "from": "2016-02-01", "to": "2019-11-01" },
+      { "name": "RingCentral Coliseum", "from": "2019-02-01", "to": "2020-11-01" },
+      { "name": "Oakland–Alameda County Coliseum", "from": "2020-02-01", "to": "2020-11-01" },
+	    { "name": "RingCentral Coliseum", "from": "2020-02-01", "to": "2023-11-01" },
+      { "name": "Oakland–Alameda County Coliseum", "from": "2024-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Atlanta–Fulton County Stadium",
+    "teamName": "Atlanta Btaves",
+    "league": "MLB",
+    "history": [
+	    { "name": "Atlanta Stadium", "from": "1965-02-01", "to": "1975-11-01" },
+      { "name": "Atlanta–Fulton County Stadium", "from": "1975-02-01", "to": "1996-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Rate Field",
+    "teamName": "Chicago White Sox",
+    "league": "MLB",
+    "history": [
+      { "name": "Comiskey Park II", "from": "1991-02-01", "to": "2002-11-01" },
+      { "name": "U.S. Cellular Field", "from": "2003-02-01", "to": "2015-11-01" },
+	    { "name": "Guaranteed Rate Field", "from": "2016-02-01", "to": "2024-11-01" },
+      { "name": "Rate Field", "from": "2025-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Progressive Field",
+    "teamName": "Cleveland Indians",
+    "league": "MLB",
+    "history": [
+	    { "name": "Jacobs Field", "from": "1994-02-01", "to": "2007-11-01" },
+      { "name": "Progressive Field", "from": "2008-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Tiger Stadium",
+    "teamName": "Detroit Tigers",
+    "league": "MLB",
+    "history": [
+      { "name": "Navin Field", "from": "1912-02-01", "to": "1937-11-01" },
+	    { "name": "Briggs Stadium", "from": "1938-02-01", "to": "1960-11-01" },
+      { "name": "Tiger Stadium", "from": "1961-02-01", "to": "1999-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Kauffman Stadium",
+    "teamName": "Kansas City Royals",
+    "league": "MLB",
+    "history": [
+	    { "name": "Royals Stadium", "from": "1973-02-01", "to": "1993-11-01" },
+      { "name": "Kauffman Stadium", "from": "1994-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Angel Stadium",
+    "teamName": "Los Angeles Angels",
+    "league": "MLB",
+    "history": [
+      { "name": "Anaheim Stadium", "from": "1966-02-01", "to": "1997-11-01" },
+	    { "name": "Edison International Field of Anaheim", "from": "1998-02-01", "to": "2003-11-01" },
+      { "name": "Angel Stadium", "from": "2004-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "LoanDepot Park",
+    "teamName": "Miami Marlins",
+    "league": "MLB",
+    "history": [
+	    { "name": "Marlins Park", "from": "2012-02-01", "to": "2020-11-01" },
+      { "name": "LoanDepot Park", "from": "2021-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Sun Life Stadium",
+    "teamName": "Miami Marlins",
+    "league": "MLB",
+    "history": [
+      { "name": "Pro Player Stadium", "from": "1996-02-01", "to": "2004-11-01" },
+      { "name": "Dolphins Stadium", "from": "2005-02-01", "to": "2005-11-01" },
+      { "name": "Dolphin Stadium", "from": "2006-02-01", "to": "2008-11-01" },
+      { "name": "Land Shark Stadium", "from": "2009-02-01", "to": "2010-11-01" },
+	    { "name": "Sun Life Stadium", "from": "2011-02-01", "to": "2015-11-01" },
+      { "name": "Hard Rock Stadium", "from": "2016-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "American Family Field",
+    "teamName": "Milwaukee Brewers",
+    "league": "MLB",
+    "history": [
+	    { "name": "Miller Park", "from": "2001-02-01", "to": "2020-11-01" },
+      { "name": "American Family Field", "from": "2021-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Qualcomm Stadium",
+    "teamName": "San Diego Padres",
+    "league": "MLB",
+    "history": [
+      { "name": "San Diego Stadium", "from": "1967-02-01", "to": "1980-11-01" },
+	    { "name": "Jack Murphy Stadium", "from": "1981-02-01", "to": "1996-11-01" },
+      { "name": "Qualcomm Stadium", "from": "1997-02-01", "to": "2017-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Oracle Park",
+    "teamName": "San Francisco Giants",
+    "league": "MLB",
+    "history": [
+      { "name": "Pacific Bell Park", "from": "2000-02-01", "to": "2003-11-01" },
+      { "name": "SBC Park", "from": "2004-02-01", "to": "2005-11-01" },
+	    { "name": "AT&T Park", "from": "2006-02-01", "to": "2018-11-01" },
+      { "name": "Oracle Park", "from": "2019-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "3Com Park at Candlestick Point",
+    "teamName": "San Francisco Giants",
+    "league": "MLB",
+    "history": [
+	    { "name": "Candlestick Park", "from": "1960-02-01", "to": "1995-11-01" },
+      { "name": "3Com Park at Candlestick Point", "from": "1995-02-01", "to": "1999-11-01" }
+    ]
+  },
+  {
+    "currentArena": "T-Mobile Park",
+    "teamName": "Seattle Mariners",
+    "league": "MLB",
+    "history": [
+	    { "name": "Safeco Field", "from": "1999-02-01", "to": "2018-11-01" },
+      { "name": "T-Mobile Park", "from": "2019-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Globe Life Park in Arlington",
+    "teamName": "Texas Rangers",
+    "league": "MLB",
+    "history": [
+      { "name": "The Ballpark in Arlington", "from": "1994-02-01", "to": "2004-11-01" },
+      { "name": "Ameriquest Field in Arlington", "from": "2005-02-01", "to": "2006-11-01" },
+	    { "name": "Rangers Ballpark in Arlington", "from": "2007-02-01", "to": "2013-11-01" },
+      { "name": "Globe Life Park in Arlington", "from": "2014-02-01", "to": "2021-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Rogers Centre",
+    "teamName": "Toronto Blue Jays",
+    "league": "MLB",
+    "history": [
+	    { "name": "SkyDome", "from": "1989-02-01", "to": "2005-11-01" },
+      { "name": "Rogers Centre", "from": "2006-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "TD Ballpark",
+    "teamName": "Toronto Blue Jays",
+    "league": "MLB",
+    "history": [
+      { "name": "Dunedin Stadium", "from": "1977-02-01", "to": "2003-11-01" },
+      { "name": "Knology Park", "from": "2004-02-01", "to": "2009-11-01" },
+      { "name": "Florida Auto Exchange Stadium", "from": "2010-02-01", "to": "2017-11-01" },
+      { "name": "Dunedin Stadium", "from": "2018-02-01", "to": "2018-11-01" },
+      { "name": "TD Ballpark", "from": "2019-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Sahlen Field",
+    "teamName": "Buffalo Bison",
+    "league": "IL",
+    "history": [
+        { "name": "North AmeriCare Park", "from": "1995-02-01", "to": "1998-11-01" },
+      { "name": "Dunn Tire Park", "from": "1999-02-01", "to": "2008-11-01" },
+      { "name": "Coco-Cola Field", "from": "2009-02-01", "to": "2018-11-01" },
+      { "name": "Sahlen Field", "from": "2019-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Truist Field",
+    "teamName": "Charlotte Knights",
+    "league": "IL",
+    "history": [
+      { "name": "BB&T Ballpark", "from": "2014-02-01", "to": "2019-11-01" },
+      { "name": "Truist Field", "from": "2020-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Cooper Stadium",
+    "teamName": "Columbus Clippers",
+    "league": "IL",
+    "history": [
+      { "name": "Franklin County Stadium", "from": "1977-02-01", "to": "1984-11-01" },
+      { "name": "Cooper Stadium", "from": "1985-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Coolray Field",
+    "teamName": "Columbus Clippers",
+    "league": "IL",
+    "history": [
+      { "name": "Gwinnett Stadium", "from": "2009-02-01", "to": "2009-11-01" },
+      { "name": "Coolray Field", "from": "2010-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "ESL Ballpark",
+    "teamName": "Columbus Clippers",
+    "league": "IL",
+    "history": [
+      { "name": "Frontier Field", "from": "1996-02-01", "to": "2022-11-01" },
+      { "name": "Innovative Field", "from": "2023-02-01", "to": "2025-11-01" },
+      { "name": "ESL Ballpark", "from": "2026-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Lynx Stadium",
+    "teamName": "Ottawa Lynx",
+    "league": "IL",
+    "history": [
+      { "name": "JetForm Park", "from": "1993-02-01", "to": "2001-11-01" },
+      { "name": "Lynx Stadium", "from": "2002-02-01", "to": "2007-11-01" }
+    ]
+  },
+  {
+    "currentArena": "The Diamond",
+    "teamName": "Richmond Braves",
+    "league": "IL",
+    "history": [
+      { "name": "Parker Field", "from": "1966-02-01", "to": "1984-11-01" },
+      { "name": "The Diamond", "from": "1985-02-01", "to": "2008-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Silver Stadium",
+    "teamName": "Rochester Red Wings",
+    "league": "IL",
+    "history": [
+      { "name": "Red Wing Stadium", "from": "1929-02-01", "to": "1968-11-01" },
+      { "name": "Silver Stadium", "from": "1969-02-01", "to": "1996-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Rio Grande Credit Union Field at Isotopes Park",
+    "teamName": "Albuquerque Isotopes",
+    "league": "PCL",
+    "history": [
+      { "name": "Isotopes Park", "from": "2003-02-01", "to": "2019-11-01" },
+      { "name": "Rio Grande Credit Union Field at Isotopes Park", "from": "2020-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Greater Nevada Field",
+    "teamName": "Reno Aces",
+    "league": "PCL",
+    "history": [
+      { "name": "Aces Ballpark", "from": "2009-02-01", "to": "2015-11-01" },
+      { "name": "Greater Nevada Field", "from": "2016-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Sutter Health Park",
+    "teamName": "Sacramento River Cats",
+    "league": "PCL",
+    "history": [
+      { "name": "Raley Field", "from": "2000-02-01", "to": "2019-11-01" },
+      { "name": "Sutter Health Park", "from": "2020-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Smith's Ballpark",
+    "teamName": "Salt Lake Bees",
+    "league": "PCL",
+    "history": [
+      { "name": "Franklin Covey Field", "from": "2006-02-01", "to": "2009-11-01" },
+      { "name": "Spring Mobile Ballpark", "from": "2010-02-01", "to": "2014-11-01" },
+      { "name": "Smith's Ballpark", "from": "2015-02-01", "to": "2024-11-01" }
+    ]
+  },
+  {
+    "currentArena": "Civic Stadium",
+    "teamName": "Portland Beavers",
+    "league": "PCL",
+    "history": [
+      { "name": "Civic Stadium", "from": "1966-02-01", "to": "2000-10-31" },
+      { "name": "PGE Park", "from": "2001-02-01", "to": "2010-10-31" },
+      { "name": "Jeld-Wen Field", "from": "2011-02-01", "to": "2014-10-31" },
+      { "name": "Providence Park", "from": "2015-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Security Service Field",
+    "teamName": "Colorado Springs Sky Sox",
+    "league": "PCL",
+    "history": [
+      { "name": "Sky Sox Stadium", "from": "1988-02-01", "to": "2004-10-31" },
+      { "name": "Security Service Field", "from": "2005-02-01", "to": "2018-11-01" }
+    ]
+  },
+  {
+    "currentArena": "7 17 Credit Union Park",
+    "teamName": "Akron RubberDucks",
+    "league": "EL",
+    "history": [
+      { "name": "Canal Park", "from": "1997-03-01", "to": "2025-10-31" },
+      { "name": "7 17 Credit Union Park", "from": "2026-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Peoples Natural Gas Field",
+    "teamName": "Altoona Curve",
+    "league": "EL",
+    "history": [
+      { "name": "Blair County Ballpark", "from": "1999-03-01", "to": "2012-10-31" },
+      { "name": "Peoples Natural Gas Field", "from": "2013-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Mirabito Stadium",
+    "teamName": "Binghamton Rumble Ponies",
+    "league": "EL",
+    "history": [
+      { "name": "Binghamton Municipal Stadium", "from": "1992-02-01", "to": "2001-02-28" },
+      { "name": "NYSEG Stadium", "from": "2001-03-01", "to": "2021-10-31" },
+      { "name": "Mirabito Stadium", "from": "2022-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Mirabito Stadium",
+    "teamName": "Binghamton Mets",
+    "league": "EL",
+    "history": [
+      { "name": "Binghamton Municipal Stadium", "from": "1992-02-01", "to": "2001-02-28" },
+      { "name": "NYSEG Stadium", "from": "2001-03-01", "to": "2021-10-31" },
+      { "name": "Mirabito Stadium", "from": "2022-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "UPMC Park",
+    "teamName": "Altoona Curve",
+    "league": "EL",
+    "history": [
+      { "name": "Jerry Uht Park", "from": "1999-03-01", "to": "2016-10-31" },
+      { "name": "UPMC Park", "from": "2017-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "FNB Field",
+    "teamName": "Harrisburg Senators",
+    "league": "EL",
+    "history": [
+      { "name": "Riverside Stadium", "from": "1987-03-01", "to": "2004-10-31" },
+      { "name": "Commerce Bank Park", "from": "2005-03-01", "to": "2009-10-31" },
+      { "name": "Metro Bank Park", "from": "2009-03-01", "to": "2015-10-31" },
+      { "name": "FNB Field", "from": "2016-02-01", "to": null }
+    ]
+  },
+  {
+    "currentArena": "Dunkin' Park",
+    "teamName": "Hartford Yard Goats",
+    "league": "EL",
+    "history": [
+      { "name": "Dunkin' Donuts Park ", "from": "2017-03-01", "to": "2022-10-31" },
+      { "name": "Dunkin' Park", "from": "2023-02-01", "to": null }
+    ]
+  }
+]
