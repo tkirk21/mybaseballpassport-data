@@ -32,7 +32,7 @@
 	"colorCode2": "#EFB21E",
 	"colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
 	"startDate": "2025-02-01",
     "endDate": null
   },
@@ -51,7 +51,7 @@
 	"colorCode3": "#EAAA00",
     "colorCode4": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/Atlanta",
+    "timezone": "America/New_York",
 	"startDate": "2017-02-01",
     "endDate": null
   },
@@ -205,7 +205,7 @@
     "teamName": "Houston Astros",
     "teamCode": "HOU",
     "arena": "Daikin Park",
-    "arenaId": "diakin_park_houston",
+    "arenaId": "daikin_park_houston",
     "city": "Houston, Texas",
     "address": "501 Crawford St, Houston, TX 77002",
     "website": "mlb.com/astros",
@@ -252,7 +252,7 @@
 	"colorCode2": "#003263",
 	"colorCode3": "#C4CED4",
     "league": "MLB",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
 	"startDate": "2016-02-01",
     "endDate": null
   },
@@ -270,7 +270,7 @@
 	"colorCode2": "#FFFFFF",
 	"colorCode3": "#EF3E42",
     "league": "MLB",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
 	"startDate": "1962-02-01",
     "endDate": null
   },
@@ -325,7 +325,7 @@
 	"colorCode2": "#E31E34",
 	"colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/Minneapolis",
+    "timezone": "America/Phoenix",
 	"startDate": "2010-02-01",
     "endDate": null
   },
@@ -343,7 +343,7 @@
 	"colorCode2": "#FF5910",
 	"colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2009-02-01",
     "endDate": null
   },
@@ -360,7 +360,7 @@
     "colorCode": "#132448", 
 	"colorCode2": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2009-02-01",
     "endDate": null
   },
@@ -378,7 +378,7 @@
 	"colorCode2": "#FFFFFF",
     "colorCode3": "#003278",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2004-02-01",
     "endDate": null
   },
@@ -396,7 +396,7 @@
 	"colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2001-02-01",
     "endDate": null
   },
@@ -414,7 +414,7 @@
 	"colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
 	"startDate": "2004-02-01",
     "endDate": null
   },
@@ -433,7 +433,7 @@
     "colorCode3": "#8B6F4E",
     "colorCode4": "#E6D8AF",
     "league": "MLB",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
 	"startDate": "2000-02-01",
     "endDate": null
   },
@@ -454,7 +454,7 @@
     "colorCode5": "#FFC425",
     "colorCode6": "#FFF6DC",
     "league": "MLB",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
 	"startDate": "1999-02-01",
     "endDate": null
   },
@@ -492,7 +492,7 @@
     "colorCode3": "#F5D130",
     "colorCode4": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2026-02-01",
     "endDate": null
   },
@@ -510,7 +510,7 @@
 	"colorCode2": "#C0111F",
     "colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/Dallas",
+    "timezone": "America/Chicago",
 	"startDate": "2020-02-01",
     "endDate": null
   },
@@ -529,7 +529,7 @@
     "colorCode3": "#D50032",
     "colorCode4": "#D50032",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2021-08-01",
     "endDate": null
   },
@@ -547,7 +547,7 @@
 	"colorCode2": "#11225B",
     "colorCode3": "#FFFFFF",
     "league": "MLB",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
 	"startDate": "2008-02-01",
     "endDate": null
   },
@@ -565,7 +565,7 @@
     "colorCode2": "#11225B",
     "colorCode3": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2022-02-01",
     "endDate": null
   },
@@ -585,7 +585,7 @@
     "colorCode4": "#C3CDD6",
     "colorCode5": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2014-02-01",
     "endDate": null
   },
@@ -604,7 +604,7 @@
     "colorCode3": "#B9BDBF",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2009-02-01",
     "endDate": null
   },
@@ -623,7 +623,7 @@
     "colorCode3": "#000000",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1998-02-01",
     "endDate": null
   },
@@ -642,7 +642,7 @@
     "colorCode3": "#CE0F43",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2018-02-01",
     "endDate": null
   },
@@ -650,7 +650,7 @@
     "teamName": "Indianapolis Indians",
     "teamCode": "IND",
     "arena": "Victory Field",
-    "arenaId": "victoru_field_indianapolis",
+    "arenaId": "victory_field_indianapolis",
     "city": "Indianapolis, Indiana",
     "address": "501 W Maryland St, Indianapolis, IN 46225",
     "website": "milb.com/indianapolis",
@@ -661,7 +661,7 @@
     "colorCode3": "#F4B530",
     "colorCode4": "#000000",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1998-02-01",
     "endDate": null
   },
@@ -698,7 +698,7 @@
     "colorCode3": "#EF3E42",
     "colorCode4": "#FBBB9B",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2021-02-01",
     "endDate": null
   },
@@ -717,7 +717,7 @@
     "colorCode3": "#C2C8CA",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2008-02-01",
     "endDate": null
   },
@@ -725,7 +725,7 @@
     "teamName": "Louisville Bats",
     "teamCode": "LOU",
     "arena": "Louisville Slugger Field",
-    "arenaId": "louisville_slugger_field_louisvulle",
+    "arenaId": "louisville_slugger_field_louisville",
     "city": "Louisville , Kentucky",
     "address": "401 E Main St, Louisville, KY 40202",
     "website": "milb.com/louisville",
@@ -735,7 +735,7 @@
     "colorCode2": "#151240",
     "colorCode3": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2002-02-01",
     "endDate": null
   },
@@ -754,7 +754,7 @@
     "colorCode3": "#FFE512",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2021-02-01",
     "endDate": null
   },
@@ -793,7 +793,7 @@
     "colorCode5": "#6ECEB2",
     "colorCode6": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1993-02-01",
     "endDate": null
   },
@@ -801,7 +801,7 @@
     "teamName": "Omaha Storm Chasers",
     "teamCode": "OMA",
     "arena": "Werner Park",
-    "arenaId": "werner_park_papilliom",
+    "arenaId": "werner_park_papillion",
     "city": "Papillion, Nebraska",
     "address": "12356 Ballpark Way, Papillion, NE 68046",
     "website": "milb.com/omaha",
@@ -830,7 +830,7 @@
     "colorCode3": "#FFD200",
     "colorCode4": "#000000",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1997-02-01",
     "endDate": null
   },
@@ -849,7 +849,7 @@
     "colorCode3": "#D4AF37",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2013-02-01",
     "endDate": null
   },
@@ -869,7 +869,7 @@
     "colorCode4": "#000000",
     "colorCode5": "#FFC72C",
     "league": "IL",
-    "timezone": "America/Minneapolis",
+    "timezone": "America/Phoenix",
     "startDate": "2021-02-01",
     "endDate": null
   },
@@ -887,7 +887,7 @@
     "colorCode2": "#F47D30",
     "colorCode3": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2019-02-01",
     "endDate": null
   },
@@ -906,7 +906,7 @@
     "colorCode3": "#FFFFFF",
     "colorCode4": "#FDB913",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2002-02-01",
     "endDate": null
   },
@@ -914,7 +914,7 @@
     "teamName": "Worcester Red Sox",
     "teamCode": "WOR",
     "arena": "Polar Park",
-    "arenaId": "poplar_park_worcester",
+    "arenaId": "polar_park_worcester",
     "city": "Worcester, Massachusetts",
     "address": "100 Madison St, Worcester, MA 01608",
     "website": "milb.com/toledo",
@@ -925,7 +925,7 @@
     "colorCode3": "#FFD300",
     "colorCode4": "#FFFFFF",
     "league": "IL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2021-02-01",
     "endDate": null
   },
@@ -943,7 +943,7 @@
     "colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2003-02-01",
     "endDate": null
   },
@@ -962,7 +962,7 @@
     "colorCode3": "#E1A95F",
     "colorCode4": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2014-02-01",
     "endDate": null
   },
@@ -983,7 +983,7 @@
     "colorCode5": "#FCE200",
     "colorCode6": "#A7A8A9",
     "league": "PCL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2019-02-01",
     "endDate": null
   },
@@ -1002,7 +1002,7 @@
     "colorCode3": "#EF3E42",
     "colorCode4": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2025-02-01",
     "endDate": null
   },
@@ -1020,7 +1020,7 @@
     "colorCode2": "#FFFFFF",
     "colorCode3": "#D21146",
     "league": "PCL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2009-02-01",
     "endDate": null
   },
@@ -1039,7 +1039,7 @@
     "colorCode3": "#A2A9AD",
     "colorCode4": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/Dallas",
+    "timezone": "America/Chicago",
     "startDate": "2005-02-01",
     "endDate": null
   },
@@ -1057,7 +1057,7 @@
     "colorCode2": "#000000",
     "colorCode3": "#CDB478",
     "league": "PCL",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
     "startDate": "2000-02-01",
     "endDate": null
   },
@@ -1075,7 +1075,7 @@
     "colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
     "startDate": "2025-02-01",
     "endDate": null
   },
@@ -1096,7 +1096,7 @@
     "colorCode5": "#4A4F53",
     "colorCode6": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
     "startDate": "2022-02-01",
     "endDate": null
   },
@@ -1114,7 +1114,7 @@
     "colorCode2": "#EB1750",
     "colorCode3": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/Los Angeles",
+    "timezone": "America/Los_Angeles",
     "startDate": "1995-02-01",
     "endDate": null
   },
@@ -1134,7 +1134,7 @@
     "colorCode4": "#FFD100",
     "colorCode5": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2014-02-01",
     "endDate": null
   },
@@ -1155,7 +1155,7 @@
     "colorCode5": "#FFFFFF",
     "colorCode6": "#E1B87F",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1999-02-01",
     "endDate": null
   },
@@ -1174,7 +1174,7 @@
     "colorCode3": "#8A9392",
     "colorCode4": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2017-02-01",
     "endDate": null
   },
@@ -1193,7 +1193,7 @@
     "colorCode3": "#000000",
     "colorCode4": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2025-02-01",
     "endDate": null
   },
@@ -1213,7 +1213,7 @@
     "colorCode4": "#BABCBE",
     "colorCode5": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1999-02-01",
     "endDate": null
   },
@@ -1232,7 +1232,7 @@
     "colorCode3": "#CBB777",
     "colorCode4": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "1987-02-01",
     "endDate": null
   },
@@ -1251,7 +1251,7 @@
     "colorCode3": "#BF965C",
     "colorCode4": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2017-02-01",
     "endDate": null
   },
@@ -1270,7 +1270,7 @@
     "colorCode3": "#C80815",
     "colorCode4": "#FFFFFF",
     "league": "EL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2005-02-01",
     "endDate": null
   },	
@@ -1289,7 +1289,7 @@
     "colorCode3": "#E76E7C",
     "colorCode4": "#000000",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2015-02-01",
     "endDate": null
   },
@@ -1307,7 +1307,7 @@
     "colorCode2": "#BF0D3E",
     "colorCode3": "#FFFFFF",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2013-02-01",
     "endDate": null
   },
@@ -1325,7 +1325,7 @@
     "colorCode2": "#000000",
     "colorCode3": "#FFFFFF",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2026-02-01",
     "endDate": null
   },
@@ -1344,7 +1344,7 @@
     "colorCode3": "#00823D",
 	"colorCode4": "#000000",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2025-02-01",
     "endDate": null
   },
@@ -1364,7 +1364,7 @@
 	"colorCode4": "#F3D074",
     "colorCode5": "#FFFFFF",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2025-02-01",
     "endDate": null
   },
@@ -1384,7 +1384,7 @@
 	"colorCode4": "#FFFFFF",
     "colorCode5": "#E4D77E",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2004-02-01",
     "endDate": null
   },
@@ -1403,7 +1403,7 @@
     "colorCode3": "#E20177",
 	"colorCode4": "#C4CED4",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2012-02-01",
     "endDate": null
   },
@@ -1423,7 +1423,7 @@
 	"colorCode5": "#FFFFFF",
 	"colorCode6": "#000000",
     "league": "SL",
-    "timezone": "America/New York",
+    "timezone": "America/New_York",
     "startDate": "2012-02-01",
     "endDate": null
   }			
