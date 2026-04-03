@@ -1273,6 +1273,27 @@
     "timezone": "America/New_York",
     "startDate": "2005-02-01",
     "endDate": null
+  },
+  {
+    "teamName": "Portland Sea Dogs",
+    "teamCode": "PSD",
+    "arena": "Delta Dental Park at Hadlock Field",
+    "arenaId": "delta_dental_park_at_hadlock_field_portland",
+    "city": "Portland, Maine",
+    "address": "271 Park Ave, Portland, ME 04102",
+    "website": "milb.com/portland",
+    "latitude": 43.65665431076496, 
+    "longitude": -70.27828674625968 ,
+    "colorCode": "#0C2340",
+    "colorCode2": "#C8102E",
+    "colorCode3": "#C1C6C8",
+    "colorCode4": "#FFFFFF",
+	"colorCode4": "F1B434",
+	"colorCode4": "#000000",
+    "league": "EL",
+    "timezone": "America/New_York",
+    "startDate": "1994-02-01",
+    "endDate": null
   },	
   {
     "teamName": "Biloxi Shuckers",
