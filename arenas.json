@@ -1256,6 +1256,25 @@
     "endDate": null
   },
   {
+    "teamName": "New Hampshire Fisher Cats",
+    "teamCode": "NHFC",
+    "arena": "Delta Dental Stadium",
+    "arenaId": "delta_dental_stadium_manchester",
+    "city": "Manchester, New Hampshire",
+    "address": "1 Line Dr, Manchester, NH 03101",
+    "website": "milb.com/new-hampshire",
+    "latitude": 42.98118228044761, 
+    "longitude": -71.46647924543053,
+    "colorCode": "#0D254C",
+    "colorCode2": "#C80815",
+    "colorCode3": "#C80815",
+    "colorCode4": "#FFFFFF",
+    "league": "EL",
+    "timezone": "America/New York",
+    "startDate": "2005-02-01",
+    "endDate": null
+  },	
+  {
     "teamName": "Biloxi Shuckers",
     "teamCode": "BIL",
     "arena": "Keesler Federal Park",
