@@ -1873,7 +1873,7 @@
     "teamName": "South Bend Cubs",
     "teamCode": "SBC",
     "arena": "Four Winds Field at Coveleski Stadium",
-    "arenaId": "four_winds_field_at_coveleski_stadium",
+    "arenaId": "four_winds_field_at_coveleski_stadium_south_bend",
     "city": "South Bend, Indiana",
     "address": "501 W South St, South Bend, IN 46601",
     "website": "milb.com/south-bend",
@@ -1883,7 +1883,7 @@
     "colorCode2": "#CC3433",
 	"colorCode3": "#FFFFFF",
     "league": "MWL",
-    "timezone": "America/Chicago",
+    "timezone": "America/New_York",
     "startDate": "2015-02-01",
     "endDate": null
   },	
@@ -1905,5 +1905,5 @@
     "timezone": "America/Chicago",
     "startDate": "1995-02-01",
     "endDate": null
-  },	
+  }
 ]
