@@ -1920,7 +1920,7 @@
     "colorCode2": "#000000",
 	"colorCode3": "#44D62C",
 	"colorCode4": "#FFFFFF",
-    "league": "MWL",
+    "league": "NWL",
     "timezone": "America/Los_Angeles",
     "startDate": "2010-02-01",
     "endDate": null
@@ -1940,7 +1940,7 @@
 	"colorCode3": "#CEDC00",
 	"colorCode4": "#E03C31",
 	"colorCode5": "#FFFFFF",
-    "league": "MWL",
+    "league": "NWL",
     "timezone": "America/Los_Angeles",
     "startDate": "1995-02-01",
     "endDate": null
@@ -1959,7 +1959,7 @@
     "colorCode2": "#74C360",
 	"colorCode3": "#318CE7",
 	"colorCode4": "#FFFFFF",
-    "league": "MWL",
+    "league": "NWL",
     "timezone": "America/Los_Angeles",
     "startDate": "2013-02-01",
     "endDate": null
@@ -1978,7 +1978,7 @@
     "colorCode2": "#041E42",
 	"colorCode3": "#69B3E7",
 	"colorCode4": "#F3CFB3",
-    "league": "MWL",
+    "league": "NWL",
     "timezone": "America/Los_Angeles",
     "startDate": "1983-02-01",
     "endDate": null
@@ -1996,7 +1996,7 @@
     "colorCode": "#003061",
     "colorCode2": "#CFAA7D",
 	"colorCode3": "#FFFFFF",
-    "league": "MWL",
+    "league": "NWL",
     "timezone": "America/Los_Angeles",
     "startDate": "2001-02-01",
     "endDate": null
@@ -2016,7 +2016,7 @@
 	"colorCode3": "#010101",
 	"colorCode4": "#8D9093",  
 	"colorCode5": "#FFFFFF", 
-    "league": "MWL",
+    "league": "NWL",
     "timezone": "America/Los_Angeles",
     "startDate": "2000-02-01",
     "endDate": null
