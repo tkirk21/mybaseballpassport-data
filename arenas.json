@@ -2133,5 +2133,24 @@
     "timezone": "America/New_York",
     "startDate": "2021-02-01",
     "endDate": null
+  },
+  {
+    "teamName": "Jersey Shore BlueClaws",
+    "teamCode": "JSBC",
+    "arena": "ShoreTown Ballpark",
+    "arenaId": "shoretown_ballpark_lakewood",
+    "city": "Lakewood, New Jersey",
+    "address": "2 Stadium Way, Lakewood, NJ 08701",
+    "website": 	"milb.com/jersey-shore",
+    "latitude": 40.07511641943509, 
+    "longitude": -74.18701609385933,
+    "colorCode": "#C20F2F",
+    "colorCode2": "#0D1D41",
+	"colorCode3": "#0971CE",
+	"colorCode4": "#FACD02",
+    "league": "SAL",
+    "timezone": "America/New_York",
+    "startDate": "2021-02-01",
+    "endDate": null
   }		
 ]
