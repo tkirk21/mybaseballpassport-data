@@ -2075,5 +2075,24 @@
     "timezone": "America/New_York",
     "startDate": "2021-02-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Frederick Keys",
+    "teamCode": "FRE",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arenaId": "nymeo_field_at_harry_grove_stadium_frederick",
+    "city": "Frederick, Maryland",
+    "address": "1904 Surf Ave, Brooklyn, NY 11224",
+    "website": 	"milb.com/frederick",
+    "latitude": 39.401559145747136, 
+    "longitude": -77.41365840437975,
+    "colorCode": "#000000",
+    "colorCode2": "#FC4C02",
+	"colorCode3": "#FFD100",
+	"colorCode4": "#FFFFFF",
+    "league": "SAL",
+    "timezone": "America/New_York",
+    "startDate": "2026-02-01",
+    "endDate": null
+  }	
 ]
