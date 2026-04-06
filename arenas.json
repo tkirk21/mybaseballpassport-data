@@ -2094,5 +2094,44 @@
     "timezone": "America/New_York",
     "startDate": "2026-02-01",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "Greensboro Grasshoppers",
+    "teamCode": "GRE",
+    "arena": "First National Bank Field",
+    "arenaId": "first_national_bank_first_greensboro",
+    "city": "Greensboro, North Carolina",
+    "address": "408 Bellemeade St, Greensboro, NC 27401",
+    "website": 	"milb.com/greensboro",
+    "latitude": 36.0764025248007, 
+    "longitude": -79.7949607175626,
+    "colorCode": "#00843D",
+    "colorCode2": "#010101",
+	"colorCode3": "#FF6A14",
+	"colorCode4": "#D5CB9F",
+	"colorCode5": "#FFFFFF",
+    "league": "SAL",
+    "timezone": "America/New_York",
+    "startDate": "2005-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Hudson Valley Renegades",
+    "teamCode": "HVR",
+    "arena": "Heritage Financial Park",
+    "arenaId": "heritage_financial_park_wappingers_falls",
+    "city": "Wappingers Falls, New York",
+    "address": "1500 NY-9D, Wappingers Falls, NY 12590",
+    "website": 	"milb.com/hudson-valley",
+    "latitude": 41.527933087881806, 
+    "longitude": -73.96087924596475,
+    "colorCode": "#0C2340",
+    "colorCode2": "#97999B",
+	"colorCode3": "#FFFFFF",
+	"colorCode4": "#009CDE",
+    "league": "SAL",
+    "timezone": "America/New_York",
+    "startDate": "2021-02-01",
+    "endDate": null
+  }		
 ]
