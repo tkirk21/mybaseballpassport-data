@@ -1926,6 +1926,25 @@
     "endDate": null
   },
   {
+    "teamName": "West Michigan Whitecaps",
+    "teamCode": "WMW",
+    "arena": "LMCU Ballpark",
+    "arenaId": "lmcu_ballpark_cornstock_park",
+    "city": "Comstock Park, Michigan",
+    "address": "4500 W River Dr NE, Comstock Park, MI 49321",
+    "website": "milb.com/west-michigan",
+    "latitude": 43.040402304107594, 
+    "longitude": -85.6595078997131,
+    "colorCode": "#0C2340",
+    "colorCode2": "#012169",
+	"colorCode3": "#69B3E7",
+	"colorCode4": "#FFFFFF",
+    "league": "MWL",
+    "timezone": "America/Chicago",
+    "startDate": "1994-02-01",
+    "endDate": null
+  },
+  {
     "teamName": "Everett AquaSox",
     "teamCode": "EVE",
     "arena": "Funko Field",
