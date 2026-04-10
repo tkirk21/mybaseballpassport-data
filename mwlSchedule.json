@@ -170,5 +170,58 @@
     "city": "Appleton, Wisconsin",
     "date": "2026-04-15T00:40:00Z"
   },
-  
+  {
+    "id": "mwl_2026041007",
+    "league": "MWL",
+    "team": "West Michigan Whitecaps",
+    "opponent": "Great Lakes Loons",
+    "arena": "LMCU Ballpark",
+    "city": "Comstock Park, Michigan",
+    "date": "2026-04-10T23:35:00Z"
+  },
+  {
+    "id": "mwl_2026041106",
+    "league": "MWL",
+    "team": "West Michigan Whitecaps",
+    "opponent": "Great Lakes Loons",
+    "arena": "LMCU Ballpark",
+    "city": "Comstock Park, Michigan",
+    "date": "2026-04-11T19:00:00Z"
+  },
+  {
+    "id": "mwl_2026041206",
+    "league": "MWL",
+    "team": "West Michigan Whitecaps",
+    "opponent": "Great Lakes Loons",
+    "arena": "LMCU Ballpark",
+    "city": "Comstock Park, Michigan",
+    "date": "2026-04-12T19:00:00Z"
+  },
+  {
+    "id": "mwl_2026041404",
+    "league": "MWL",
+    "team": "Great Lakes Loons",
+    "opponent": "Dayton Dragons",
+    "arena": "Dow Diamond",
+    "city": "Midland, Michigan",
+    "date": "2026-04-14T23:05:00Z"
+  },
+  {
+    "id": "mwl_2026041405",
+    "league": "MWL",
+    "team": "Lansing Lugnuts",
+    "opponent": "West Michigan Whitecaps",
+    "arena": "Jackson Field",
+    "city": "Lansing, Michigan",
+    "date": "2026-04-14T23:05:00Z"
+  },
+  {
+    "id": "mwl_2026041406",
+    "league": "MWL",
+    "team": "Lake County Captains",
+    "opponent": "Fort Wayne TinCaps",
+    "arena": "Classic Auto Group Park",
+    "city": "Eastlake, Ohio",
+    "date": "2026-04-14T23:35:00Z"
+  }
 ]
