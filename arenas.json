@@ -1907,25 +1907,6 @@
     "endDate": null
   },
   {
-    "teamName": "Eugene Emeralds",
-    "teamCode": "EUG",
-    "arena": "PK Park",
-    "arenaId": "pk_park_eugene",
-    "city": "Eugene, Oregon",
-    "address": "2760 Martin Luther King Jr Blvd, Eugene, OR 97401",
-    "website": "milb.com/eugene",
-    "latitude": 44.05927662912954,
-    "longitude": -123.06584215037788,
-    "colorCode": "#007A53",
-    "colorCode2": "#000000",
-	"colorCode3": "#44D62C",
-	"colorCode4": "#FFFFFF",
-    "league": "NWL",
-    "timezone": "America/Los_Angeles",
-    "startDate": "2010-02-01",
-    "endDate": null
-  },
-  {
     "teamName": "West Michigan Whitecaps",
     "teamCode": "WMW",
     "arena": "LMCU Ballpark",
@@ -1942,6 +1923,25 @@
     "league": "MWL",
     "timezone": "America/Chicago",
     "startDate": "1994-02-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Eugene Emeralds",
+    "teamCode": "EUG",
+    "arena": "PK Park",
+    "arenaId": "pk_park_eugene",
+    "city": "Eugene, Oregon",
+    "address": "2760 Martin Luther King Jr Blvd, Eugene, OR 97401",
+    "website": "milb.com/eugene",
+    "latitude": 44.05927662912954,
+    "longitude": -123.06584215037788,
+    "colorCode": "#007A53",
+    "colorCode2": "#000000",
+	"colorCode3": "#44D62C",
+	"colorCode4": "#FFFFFF",
+    "league": "NWL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2010-02-01",
     "endDate": null
   },
   {
