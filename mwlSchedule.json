@@ -1,1 +1,174 @@
-[]
+[
+  {
+    "id": "mwl_2026041001",
+    "league": "MWL",
+    "team": "Beloit Sky Carp",
+    "opponent": "Cedar Rapids Kernels",
+    "arena": "ABC Supply Stadium",
+    "city": "Beloit, Wisconsin",
+    "date": "2026-04-10T22:00:00Z"
+  },
+  {
+    "id": "mwl_2026041002",
+    "league": "MWL",
+    "team": "Beloit Sky Carp",
+    "opponent": "Cedar Rapids Kernels",
+    "arena": "ABC Supply Stadium",
+    "city": "Beloit, Wisconsin",
+    "date": "2026-04-10T23:30:00Z"
+  },
+  {
+    "id": "mwl_2026041003",
+    "league": "MWL",
+    "team": "Dayton Dragons",
+    "opponent": "Lake County Captains",
+    "arena": "Day Air Ballpark",
+    "city": "Dayton, Ohio",
+    "date": "2026-04-11T00:05:00Z"
+  },
+  {
+    "id": "mwl_2026041004",
+    "league": "MWL",
+    "team": "Fort Wayne TinCaps",
+    "opponent": "Lansing Lugnuts",
+    "arena": "Parkview Field",
+    "city": "Fort Wayne, Indiana",
+    "date": "2026-04-11T00:05:00Z"
+  },
+  {
+    "id": "mwl_2026041005",
+    "league": "MWL",
+    "team": "Quad Cities River Bandits",
+    "opponent": "Wisconsin Timber Rattlers",
+    "arena": "Modern Woodmen Park",
+    "city": "Davenport, Iowa",
+    "date": "2026-04-11T00:30:00Z"
+  },
+  {
+    "id": "mwl_2026041006",
+    "league": "MWL",
+    "team": "Peoria Chiefs",
+    "opponent": "South Bend Cubs",
+    "arena": "Dozer Park",
+    "city": "Peoria, Illinois",
+    "date": "2026-04-11T00:35:00Z"
+  },
+  {
+    "id": "mwl_2026041101",
+    "league": "MWL",
+    "team": "Dayton Dragons",
+    "opponent": "Lake County Captains",
+    "arena": "Day Air Ballpark",
+    "city": "Dayton, Ohio",
+    "date": "2026-04-11T18:05:00Z"
+  },
+  {
+    "id": "mwl_2026041102",
+    "league": "MWL",
+    "team": "Fort Wayne TinCaps",
+    "opponent": "Lansing Lugnuts",
+    "arena": "Parkview Field",
+    "city": "Fort Wayne, Indiana",
+    "date": "2026-04-11T18:05:00Z"
+  },
+  {
+    "id": "mwl_2026041103",
+    "league": "MWL",
+    "team": "Beloit Sky Carp",
+    "opponent": "Cedar Rapids Kernels",
+    "arena": "ABC Supply Stadium",
+    "city": "Beloit, Wisconsin",
+    "date": "2026-04-11T19:05:00Z"
+  },
+  {
+    "id": "mwl_2026041104",
+    "league": "MWL",
+    "team": "Quad Cities River Bandits",
+    "opponent": "Wisconsin Timber Rattlers",
+    "arena": "Modern Woodmen Park",
+    "city": "Davenport, Iowa",
+    "date": "2026-04-11T23:30:00Z"
+  },
+  {
+    "id": "mwl_2026041105",
+    "league": "MWL",
+    "team": "Peoria Chiefs",
+    "opponent": "South Bend Cubs",
+    "arena": "Dozer Park",
+    "city": "Peoria, Illinois",
+    "date": "2026-04-12T00:05:00Z"
+  },
+  {
+    "id": "mwl_2026041201",
+    "league": "MWL",
+    "team": "Dayton Dragons",
+    "opponent": "Lake County Captains",
+    "arena": "Day Air Ballpark",
+    "city": "Dayton, Ohio",
+    "date": "2026-04-12T18:05:00Z"
+  },
+  {
+    "id": "mwl_2026041202",
+    "league": "MWL",
+    "team": "Fort Wayne TinCaps",
+    "opponent": "Lansing Lugnuts",
+    "arena": "Parkview Field",
+    "city": "Fort Wayne, Indiana",
+    "date": "2026-04-12T18:05:00Z"
+  },
+  {
+    "id": "mwl_2026041203",
+    "league": "MWL",
+    "team": "Quad Cities River Bandits",
+    "opponent": "Wisconsin Timber Rattlers",
+    "arena": "Modern Woodmen Park",
+    "city": "Davenport, Iowa",
+    "date": "2026-04-12T19:00:00Z"
+  },
+  {
+    "id": "mwl_2026041204",
+    "league": "MWL",
+    "team": "Beloit Sky Carp",
+    "opponent": "Cedar Rapids Kernels",
+    "arena": "ABC Supply Stadium",
+    "city": "Beloit, Wisconsin",
+    "date": "2026-04-12T19:05:00Z"
+  },
+  {
+    "id": "mwl_2026041205",
+    "league": "MWL",
+    "team": "Peoria Chiefs",
+    "opponent": "South Bend Cubs",
+    "arena": "Dozer Park",
+    "city": "Peoria, Illinois",
+    "date": "2026-04-12T20:05:00Z"
+  },
+  {
+    "id": "mwl_2026041401",
+    "league": "MWL",
+    "team": "Cedar Rapids Kernels",
+    "opponent": "Quad Cities River Bandits",
+    "arena": "Veterans Memorial Stadium",
+    "city": "Cedar Rapids, Iowa",
+    "date": "2026-04-15T00:05:00Z"
+  },
+  {
+    "id": "mwl_2026041402",
+    "league": "MWL",
+    "team": "South Bend Cubs",
+    "opponent": "Beloit Sky Carp",
+    "arena": "Four Winds Field at Coveleski Stadium",
+    "city": "South Bend, Indiana",
+    "date": "2026-04-15T00:05:00Z"
+  },
+  {
+    "id": "mwl_2026041403",
+    "league": "MWL",
+    "team": "Wisconsin Timber Rattlers",
+    "opponent": "Peoria Chiefs",
+    "arena": "Neuroscience Group Field at Fox Cities Stadium",
+    "city": "Appleton, Wisconsin",
+    "date": "2026-04-15T00:40:00Z"
+  },
+  
+]
