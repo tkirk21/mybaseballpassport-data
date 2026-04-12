@@ -2268,5 +2268,25 @@
     "timezone": "America/New_York",
     "startDate": "2021-02-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Bradenton Marauders",
+    "teamCode": "BRA",
+    "arena": "LECOM Park",
+    "arenaId": "lecom_park_bradenton",
+    "city": "Bradenton, Florida",
+    "address": "1611 9th St W, Bradenton, FL 34205",
+    "website": "milb.com/bradenton",
+    "latitude": 27.4914,
+    "longitude": -82.5701,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#FFF200",
+    "colorCode3": "#000000",
+    "colorCode4": "#000000",
+    "league": "FSL",
+    "timezone": "America/New_York",
+    "startDate": "2010-01-01",
+    "endDate": null
+  },
+  }	
 ]
