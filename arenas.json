@@ -2295,8 +2295,8 @@
     "city": "Clearwater, Florida",
     "address": "601 N Old Coachman Rd, Clearwater, FL 33765",
     "website": "milb.com/clearwater",
-    "latitude": 27.9713,
-    "longitude": -82.7303,
+    "latitude": 27.97148444464132, 
+    "longitude": -82.73186533236019,
     "colorCode": "#D31346",
     "colorCode2": "#005595",
     "colorCode3": "#00245E",
@@ -2307,5 +2307,23 @@
     "timezone": "America/New_York",
     "startDate": "2004-01-01",
     "endDate": null
-  }	
+  }. 
+  {
+    "teamName": "Daytona Tortugas",
+    "teamCode": "DAY",
+    "arena": "Jackie Robinson Ballpark",
+    "arenaId": "jackie_robinson_ballpark_daytona_beach",
+    "city": "Daytona Beach, Florida",
+    "address": "105 E Orange Ave, Daytona Beach, FL 32114",
+    "website": "milb.com/daytona",
+    "latitude": 29.209617686018245,  
+    "longitude": -81.01608234534146,
+    "colorCode": "#005747",
+    "colorCode2": "#003E7A",
+    "colorCode3": "#E0C298",
+    "league": "FSL",
+    "timezone": "America/New_York",
+    "startDate": "2015-01-01",
+    "endDate": null
+  }		
 ]
