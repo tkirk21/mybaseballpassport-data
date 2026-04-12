@@ -2286,5 +2286,26 @@
     "timezone": "America/New_York",
     "startDate": "2010-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Clearwater Threshers",
+    "teamCode": "CLW",
+    "arena": "BayCare Ballpark",
+    "arenaId": "baycare_ballpark_clearwater",
+    "city": "Clearwater, Florida",
+    "address": "601 N Old Coachman Rd, Clearwater, FL 33765",
+    "website": "milb.com/clearwater",
+    "latitude": 27.9713,
+    "longitude": -82.7303,
+    "colorCode": "#D31346",
+    "colorCode2": "#005595",
+    "colorCode3": "#00245E",
+    "colorCode4": "#FCBC7E",
+	"colorCode5": "#F8EED3",
+	"colorCode6": "#FFFFFF",
+    "league": "FSL",
+    "timezone": "America/New_York",
+    "startDate": "2004-01-01",
+    "endDate": null
   }	
 ]
