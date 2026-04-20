@@ -2632,5 +2632,24 @@
     "timezone": "America/New_York",
     "startDate": "2021-01-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Myrtle Beach Pelicans",
+    "teamCode": "MBP",
+	"arena": "Pelicans Ballpark",
+    "arenaId": "pelicans_ballpark_mrytle_beach",
+    "city": "Myrtle Beach, South Carolina",
+    "address": "1251 21st Ave N, Myrtle Beach, SC 29577",
+    "website": "milb.com/myrtle-beach",
+    "latitude": 33.71159963074341, 
+    "longitude": -78.88448041649444,
+    "colorCode": "#007DC3",
+    "colorCode2": "#FFC423",
+    "colorCode3": "#002A5C",
+	"colorCode4": "#FFFFFF",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "1999-01-01",
+    "endDate": null
+  }				
 ]
