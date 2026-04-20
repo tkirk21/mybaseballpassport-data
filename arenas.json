@@ -2592,5 +2592,25 @@
     "timezone": "America/New_York",
     "startDate": "2025-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Hill City Howlers",
+    "teamCode": "HCH",
+	"arena": "Bank of the James Stadium",
+    "arenaId": "bank_of_the_james_stadium_lynchburg",
+    "city": "Lynchburg, Virginia",
+    "address": "3180 Fort Ave, Lynchburg, VA 24501",
+    "website": "milb.com/hill-city",
+    "latitude": 37.39281038598317, 
+    "longitude": -79.16563944146175,
+    "colorCode": "#005596",
+    "colorCode2": "#D31245",
+    "colorCode3": "#79BDE8",
+	"colorCode4": "#5F6062",
+	"colorCode5": "#B0B7BC",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2026-01-01",
+    "endDate": null
   }		
 ]
