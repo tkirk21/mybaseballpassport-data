@@ -2499,5 +2499,24 @@
     "timezone": "America/New_York",
     "startDate": "2021-01-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Columbia Fireflies",
+    "teamCode": "CFF",
+	"arena": "Segra Park",
+    "arenaId": "segra_park_columbia",
+    "city": "Columbia, South Carolina",
+    "address": "1640 Freed Street, Columbia, SC 29201",
+    "website": "milb.com/columbia",
+    "latitude": 34.01841115340896, 
+    "longitude": -81.03126917775907,
+    "colorCode": "#0D223F",
+    "colorCode2": "#E2E323",
+    "colorCode3": "#B1B0B0",
+	"colorCode4": "#FFFFFF",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2021-01-01",
+    "endDate": null
+  }	
 ]
