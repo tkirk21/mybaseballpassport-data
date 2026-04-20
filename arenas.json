@@ -2573,5 +2573,24 @@
     "timezone": "America/New_York",
     "startDate": "2020-01-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Hickory Crawdads",
+    "teamCode": "HIC",
+	"arena": "L. P. Frans Stadium",
+    "arenaId": "l_p_frans_stadium_hickory",
+    "city": "Hickory, North Carolina",
+    "address": "2500 Clement Blvd NW, Hickory, NC 28601",
+    "website": "milb.com/hickory",
+    "latitude": 35.74898283741497, 
+    "longitude": -81.3788402536967,
+    "colorCode": "#EA1C2D",
+    "colorCode2": "#000000",
+    "colorCode3": "#71A9DB",
+	"colorCode4": "#FFFFFF",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2025-01-01",
+    "endDate": null
+  }		
 ]
