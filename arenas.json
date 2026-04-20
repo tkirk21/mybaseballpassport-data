@@ -2670,5 +2670,26 @@
     "timezone": "America/New_York",
     "startDate": "2026-01-01",
     "endDate": null
+  },
+  {
+    "teamName": "Wilson Warbirds",
+    "teamCode": "WIL",
+	"arena": "Wilson Stadium",
+    "arenaId": "wilson_stadium_wilson",
+    "city": "Wilson, North Carolina",
+    "address": "305 Hines St SW, Wilson, NC 27893",
+    "website": "milb.com/myrtle-beach",
+    "latitude": 35.7211760866786, 
+    "longitude": -77.91443965056985,
+    "colorCode": "#102A37",
+    "colorCode2": "#C1DDC4",
+    "colorCode3": "#EBECE6",
+	"colorCode4": "#6B9C99",
+	"colorCode5": "#003399",
+    "colorCode6": "#CD0719",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2026-04-01",
+    "endDate": null
   }			
 ]
