@@ -2612,5 +2612,25 @@
     "timezone": "America/New_York",
     "startDate": "2026-01-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Kannapolis Cannon Ballers",
+    "teamCode": "KCB",
+	"arena": "Atrium Health Ballpark",
+    "arenaId": "atrium_health_ballpark_kannapolis",
+    "city": "Kannapolis, North Carolina",
+    "address": "1 Cannon Baller Wy, Kannapolis, NC 28081",
+    "website": "milb.com/kannapolis",
+    "latitude": 35.49815115476189, 
+    "longitude": -80.62726857974889,
+    "colorCode": "#194077",
+    "colorCode2": "#E31E2D",
+    "colorCode3": "#56BBEB",
+	"colorCode4": "#E6AF41",
+	"colorCode5": "#FFFFFF",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2021-01-01",
+    "endDate": null
+  }			
 ]
