@@ -2555,5 +2555,23 @@
     "timezone": "America/New_York",
     "startDate": "2019-01-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Fredericksburg Nationals",
+    "teamCode": "FRE",
+	"arena": "Virginia Credit Union Stadium",
+    "arenaId": "virginia_credit_union_stadium_fredericksburg",
+    "city": "Fredericksburg, Virginia",
+    "address": "42 Jackie Robinson Wy, Fredericksburg, VA 22401",
+    "website": "milb.com/fredericksburg",
+    "latitude": 38.31839628611697, 
+    "longitude": -77.50908484748128,
+    "colorCode": "#BA122B",
+    "colorCode2": "#FFFFFF",
+    "colorCode3": "#14225A",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2020-01-01",
+    "endDate": null
+  }			
 ]
