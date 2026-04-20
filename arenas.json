@@ -2518,5 +2518,23 @@
     "timezone": "America/New_York",
     "startDate": "2021-01-01",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "Delmarva Shorebirds",
+    "teamCode": "DEL",
+	"arena": "Arthur W. Perdue Stadium",
+    "arenaId": "arthur_w_perdue_stadium_salisbury",
+    "city": "Salisbury, Maryland",
+    "address": "6400 Hobbs Rd, Salisbury, MD 21804",
+    "website": "mmilb.com/delmarva",
+    "latitude": 38.36990322854245, 
+    "longitude": -75.53005629661718,
+    "colorCode": "#000000",
+    "colorCode2": "#FF4500",
+    "colorCode3": "#FFFFFF",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2021-01-01",
+    "endDate": null
+  }		
 ]
