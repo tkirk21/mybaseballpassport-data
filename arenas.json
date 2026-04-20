@@ -2480,5 +2480,24 @@
     "timezone": "America/New_York",
     "startDate": "2021-01-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Charleston RiverDogs",
+    "teamCode": "CHA",
+	"arena": "Joseph P. Riley Jr. Park",
+    "arenaId": "joseph_p_riley_jr_park_charleston",
+    "city": "Charleston, South Carolina",
+    "address": "360 Fishburne St, Charleston, SC 29403",
+    "website": "milb.com/charleston",
+    "latitude": 32.790705954877815, 
+    "longitude": -79.96127937345994,
+    "colorCode": "#0F1F2E",
+    "colorCode2": "#FBA500",
+    "colorCode3": "#FFFFFF",
+	"colorCode4": "#B1ABA6",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2021-01-01",
+    "endDate": null
+  },	
 ]
