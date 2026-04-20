@@ -2427,13 +2427,13 @@
   {
     "teamName": "St. Lucie Mets",
     "teamCode": "SLM",
-    "arena": "Clover Park",
-    "arenaId": "clover_park_port_st_lucie",
-    "city": "Port St. Lucie, Florida",
-    "address": "31 Piazza Dr, Port St. Lucie, FL 34986",
-    "website": "milb.com/st-lucie",
-    "latitude": 27.3331,
-    "longitude": -80.4042,
+    "arena": "George M. Steinbrenner Field",
+    "arenaId": "george_m_steinbrenner_field_tampa",
+    "city": "Tampa, Florida",
+    "address": "1 Steinbrenner Dr, Tampa, FL 33614",
+    "website": "milb.com/tampa",
+    "latitude": 27.980066252660382, 
+    "longitude": -82.50685720432246,
     "colorCode": "#004B8E",
     "colorCode2": "#F57D2F",
     "colorCode3": "#FFFFFF",
@@ -2441,5 +2441,24 @@
     "timezone": "America/New_York",
     "startDate": "1988-01-01",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "Tampa Tarpons",
+    "teamCode": "TAM",
+    "arena": "Clover Park",
+    "arenaId": "clover_park_port_st_lucie",
+    "city": "Port St. Lucie, Florida",
+    "address": "31 Piazza Dr, Port St. Lucie, FL 34986",
+    "website": "milb.com/st-lucie",
+    "latitude": 27.3331,
+    "longitude": -80.4042,
+    "colorCode": "#132448",
+    "colorCode2": "#C4CED4",
+    "colorCode3": "#1A8CE2",
+	"colorCode4": "#FFFFFF",
+    "league": "FSL",
+    "timezone": "America/New_York",
+    "startDate": "2018-01-01",
+    "endDate": null
+  }		
 ]
