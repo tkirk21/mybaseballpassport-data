@@ -2526,7 +2526,7 @@
     "arenaId": "arthur_w_perdue_stadium_salisbury",
     "city": "Salisbury, Maryland",
     "address": "6400 Hobbs Rd, Salisbury, MD 21804",
-    "website": "mmilb.com/delmarva",
+    "website": "milb.com/delmarva",
     "latitude": 38.36990322854245, 
     "longitude": -75.53005629661718,
     "colorCode": "#000000",
@@ -2535,6 +2535,25 @@
     "league": "CL",
     "timezone": "America/New_York",
     "startDate": "2021-01-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Fayetteville Woodpeckers",
+    "teamCode": "FAY",
+	"arena": "Segra Stadium",
+    "arenaId": "segra_stadium_fayetteville",
+    "city": "Fayetteville, North Carolina",
+    "address": "460 Hay St, Fayetteville, NC 28301",
+    "website": "milb.com/fayetteville",
+    "latitude": 35.05586188220094, 
+    "longitude": -78.88368678485035,
+    "colorCode": "#000000",
+    "colorCode2": "#DA1E48",
+    "colorCode3": "#54585B",
+	"colorCode4": "#FFFFFF",
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2019-01-01",
     "endDate": null
   }		
 ]
