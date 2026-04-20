@@ -2460,5 +2460,25 @@
     "timezone": "America/New_York",
     "startDate": "2018-01-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Augusta GreenJackets",
+    "teamCode": "AUG",
+	"arena": "SRP Park",
+    "arenaId": "srp_park_north_augusta",
+    "city": "North Augusta, South Carolina",
+    "address": "187 Railroad Ave, North Augusta, SC 29841",
+    "website": "milb.com/st-lucie",
+    "latitude": 33.48469092534292, 
+    "longitude": -81.97444028475655,
+    "colorCode": "#007853",
+    "colorCode2": "#74BC1F",
+    "colorCode3": "#EED282",
+	"colorCode4": "#000000",
+	"colorCode5": "#FFFFFF",  
+    "league": "CL",
+    "timezone": "America/New_York",
+    "startDate": "2018-01-01",
+    "endDate": null
+  }			
 ]
