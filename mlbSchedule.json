@@ -3674,13 +3674,13 @@
     "date": "2026-04-26T23:20:00Z"
   },
   {
-    "id": "mlb_2026042616",  
+    "id": "mlb_2026042616",
     "league": "MLB",
     "team": "Kansas City Royals",
     "opponent": "New York Yankees",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-04-26T20:30:00"
+    "date": "2026-04-26T08:30:00-05:00"
   }
 
 ]
