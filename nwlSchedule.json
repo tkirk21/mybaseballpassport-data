@@ -475,5 +475,743 @@
     "arena": "Nat Bailey Stadium",
     "city": "Vancouver, British Columbia",
     "date": "2026-05-01T05:05:00Z"
-  }
+  },
+  {
+    "id": "nwl_2026050101",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Hillsboro Hops",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-01T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026050102",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Everett AquaSox",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-01T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026050103",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Spokane Indians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-01T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050201",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Hillsboro Hops",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-02T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026050202",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Spokane Indians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-02T20:05:00Z"
+  },
+  {
+    "id": "nwl_2026050203",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Spokane Indians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-02T22:35:00Z"
+  },
+  {
+    "id": "nwl_2026050204",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Everett AquaSox",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-02T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026050301",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Hillsboro Hops",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-03T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026050302",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Spokane Indians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-03T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026050303",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Everett AquaSox",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-03T16:30:00Z"
+  },
+  {
+    "id": "nwl_2026050401",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Vancouver Canadians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-04T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050501",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-05T14:05:00Z"
+  },
+  {
+    "id": "nwl_2026050502",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Hillsboro Hops",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-05T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026050601",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-06T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050602",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Hillsboro Hops",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-06T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026050701",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Vancouver Canadians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-07T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050702",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-07T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050703",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Hillsboro Hops",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-07T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026050801",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Hillsboro Hops",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-08T15:05:00Z"
+  },
+  {
+    "id": "nwl_2026050802",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Vancouver Canadians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-08T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050803",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-08T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050901",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Vancouver Canadians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-09T20:05:00Z"
+  },
+  {
+    "id": "nwl_2026050902",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Vancouver Canadians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-09T22:35:00Z"
+  },
+  {
+    "id": "nwl_2026050903",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-09T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026050904",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Hillsboro Hops",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-09T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026051001",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Vancouver Canadians",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-10T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026051002",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-10T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026051003",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Hillsboro Hops",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-10T19:05:00Z"
+  },
+  {
+    "id": "nwl_2026051201",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Eugene Emeralds",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-12T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026051202",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Spokane Indians",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-12T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026051203",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Everett AquaSox",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-12T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026051301",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Eugene Emeralds",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-13T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026051302",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Spokane Indians",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-13T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026051303",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Everett AquaSox",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-13T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026051401",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Eugene Emeralds",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-14T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026051402",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Spokane Indians",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-14T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026051403",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Everett AquaSox",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-14T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026051501",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Everett AquaSox",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-15T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026051502",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Eugene Emeralds",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-15T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026051503",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Spokane Indians",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-15T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026051601",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Everett AquaSox",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-16T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026051602",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Spokane Indians",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-16T20:03:00Z"
+  },
+  {
+    "id": "nwl_2026051603",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Eugene Emeralds",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-16T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026051701",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Everett AquaSox",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-17T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026051702",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Spokane Indians",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-17T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026051703",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Eugene Emeralds",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-17T16:30:00Z"
+  },
+  {
+    "id": "nwl_2026051901",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Hillsboro Hops",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-19T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026051902",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Vancouver Canadians",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-19T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026051903",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-19T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052001",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Hillsboro Hops",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-20T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052002",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Vancouver Canadians",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-20T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052003",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-20T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052101",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Hillsboro Hops",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-21T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052102",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Vancouver Canadians",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-21T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052103",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-21T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052201",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Hillsboro Hops",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-22T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052202",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Vancouver Canadians",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-22T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052203",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-22T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052301",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Hillsboro Hops",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-23T20:05:00Z"
+  },
+  {
+    "id": "nwl_2026052302",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Vancouver Canadians",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-23T20:09:00Z"
+  },
+  {
+    "id": "nwl_2026052303",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-23T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052401",
+    "league": "NWL",
+    "team": "Eugene Emeralds",
+    "opponent": "Hillsboro Hops",
+    "arena": "PK Park",
+    "city": "Eugene, Oregon",
+    "date": "2026-05-24T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026052402",
+    "league": "NWL",
+    "team": "Spokane Indians",
+    "opponent": "Vancouver Canadians",
+    "arena": "Avista Stadium",
+    "city": "Spokane Valley, Washington",
+    "date": "2026-05-24T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026052403",
+    "league": "NWL",
+    "team": "Everett AquaSox",
+    "opponent": "Tri-City Dust Devils",
+    "arena": "Funko Field",
+    "city": "Everett, Washington",
+    "date": "2026-05-24T19:05:00Z"
+  },
+  {
+    "id": "nwl_2026052601",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Spokane Indians",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-26T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026052602",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Everett AquaSox",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-26T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052603",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Eugene Emeralds",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-26T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052701",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Spokane Indians",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-27T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026052702",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Everett AquaSox",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-27T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052703",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Eugene Emeralds",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-27T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052801",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Spokane Indians",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-28T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026052802",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Everett AquaSox",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-28T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026052803",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Eugene Emeralds",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-28T22:05:00Z"
+  },
+  {
+    "id": "nwl_2026052901",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Eugene Emeralds",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-29T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026052902",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Spokane Indians",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-29T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026052903",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Everett AquaSox",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-29T21:35:00Z"
+  },
+  {
+    "id": "nwl_2026053001",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Eugene Emeralds",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-30T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026053002",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Everett AquaSox",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-30T20:03:00Z"
+  },
+  {
+    "id": "nwl_2026053003",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Spokane Indians",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-30T21:30:00Z"
+  },
+  {
+    "id": "nwl_2026053101",
+    "league": "NWL",
+    "team": "Hillsboro Hops",
+    "opponent": "Everett AquaSox",
+    "arena": "Hillsboro Ballpark",
+    "city": "Hillsboro, Oregon",
+    "date": "2026-05-31T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026053102",
+    "league": "NWL",
+    "team": "Vancouver Canadians",
+    "opponent": "Eugene Emeralds",
+    "arena": "Nat Bailey Stadium",
+    "city": "Vancouver, British Columbia",
+    "date": "2026-05-31T16:05:00Z"
+  },
+  {
+    "id": "nwl_2026053103",
+    "league": "NWL",
+    "team": "Tri-City Dust Devils",
+    "opponent": "Spokane Indians",
+    "arena": "Gesa Stadium",
+    "city": "Pasco, Washington",
+    "date": "2026-05-31T16:30:00Z"
+  }  
 ]
