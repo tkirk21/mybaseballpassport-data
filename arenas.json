@@ -2823,5 +2823,23 @@
     "timezone": "America/Los_Angeles",
     "startDate": "2026-04-01",
     "endDate": null
+  },
+  {
+    "teamName": "Rancho Cucamonga Quakes",
+    "teamCode": "RCQ",
+	"arena": "LoanMart Field",
+    "arenaId": "loanmart_field_rancho_cucamonga",
+    "city": "Rancho Cucamonga, California",
+    "address": "8408 Rochester Ave, Rancho Cucamonga, CA 91730",
+    "website": "milb.com/team/ontario",
+    "latitude": 34.10272117693671,
+    "longitude": -117.54798969538291,
+    "colorCode": "#CF093F",
+    "colorCode2": "#CF093F",
+    "colorCode3": "#FFFFFF",
+    "league": "CAL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "1993-04-01",
+    "endDate": null
   }			
 ]
