@@ -2699,7 +2699,7 @@
     "arenaId": "chukchansi_park_fresno",
     "city": "Fresno, California",
     "address": "1800 Tulare St, Fresno, CA 93721",
-    "website": "milb.com/myrtle-beach",
+    "website": "	milb.com/fresno",
     "latitude": 36.73215147530233, 
     "longitude": -119.79065671912838,
     "colorCode": "#D31245",
@@ -2709,6 +2709,24 @@
     "league": "CAL",
     "timezone": "America/Los_Angeles",
     "startDate": "2021-04-01",
+    "endDate": null
+  },
+  {
+    "teamName": "San Jose Giants",
+    "teamCode": "SJG",
+	"arena": "Excite Ballpark",
+    "arenaId": "excite_ballpark_san_jose",
+    "city": "San Jose, California",
+    "address": "588 E Alma Ave, San Jose, CA 95112",
+    "website": "milb.com/san-jose",
+    "latitude": 37.32070485995678, 
+    "longitude": -121.86228502427093 ,
+    "colorCode": "#F47932",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "league": "CAL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "1988-04-01",
     "endDate": null
   }		
 ]
