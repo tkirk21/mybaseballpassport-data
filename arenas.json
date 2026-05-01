@@ -2691,5 +2691,24 @@
     "timezone": "America/New_York",
     "startDate": "2026-04-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "Fresno Grizzlies",
+    "teamCode": "FRE",
+	"arena": "Chukchansi Park",
+    "arenaId": "chukchansi_park_fresno",
+    "city": "Fresno, California",
+    "address": "1800 Tulare St, Fresno, CA 93721",
+    "website": "milb.com/myrtle-beach",
+    "latitude": 36.73215147530233, 
+    "longitude": -119.79065671912838,
+    "colorCode": "#D31245",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+	"colorCode4": "#A6714D",
+    "league": "CAL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2021-04-01",
+    "endDate": null
+  }		
 ]
