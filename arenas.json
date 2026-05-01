@@ -2785,5 +2785,23 @@
     "timezone": "America/Los_Angeles",
     "startDate": "2003-04-01",
     "endDate": null
+  },
+  {
+    "teamName": "Lake Elsinore Storm",
+    "teamCode": "LES",
+	"arena": "Lake Elsinore Diamond",
+    "arenaId": "lake_elsinore_diamond_lake_elsinore",
+    "city": "Lake Elsinore, California",
+    "address": "500 Diamond Dr, Lake Elsinore, CA 92530",
+    "website": "milb.com/inland-empire",
+    "latitude": 33.6542691322507,
+    "longitude": -117.3023634727171,
+    "colorCode": "#000000",
+    "colorCode2": "#E3183A",
+    "colorCode3": "#FFFFFF",
+    "league": "CAL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "1994-04-01",
+    "endDate": null
   }		
 ]
