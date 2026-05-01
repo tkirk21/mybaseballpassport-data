@@ -2764,5 +2764,26 @@
     "timezone": "America/Los_Angeles",
     "startDate": "2009-04-01",
     "endDate": null
+  },
+  {
+    "teamName": "Inland Empire 66ers",
+    "teamCode": "IE",
+	"arena": "San Manuel Stadium",
+    "arenaId": "san_manuel_stadium_san_bernardino",
+    "city": "San Bernardino, California",
+    "address": "280 S E St, San Bernardino, CA 92401",
+    "website": "milb.com/inland-empire",
+    "latitude": 34.09749484490649, 
+    "longitude": -117.2954067624569,
+    "colorCode": "#69B3E7",
+    "colorCode2": "#FA4616",
+    "colorCode3": "#000000",
+	"colorCode4": "#605E5C",
+	"colorCode5": "#C1C6C8",
+	"colorCode6": "#FFFFFF",
+    "league": "CAL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2003-04-01",
+    "endDate": null
   }		
 ]
