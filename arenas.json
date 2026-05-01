@@ -2803,5 +2803,25 @@
     "timezone": "America/Los_Angeles",
     "startDate": "1994-04-01",
     "endDate": null
-  }		
+  },
+  {
+    "teamName": "Ontario Tower Buzzers",
+    "teamCode": "OTB",
+	"arena": "ONT Field",
+    "arenaId": "ont_field_Ontario",
+    "city": "Ontario, California",
+    "address": "9375 E Riverside Dr, Ontario, CA 91761",
+    "website": "milb.com/team/ontario",
+    "latitude": 34.01813067045506, 
+    "longitude": -117.60338998478998,
+    "colorCode": "#16458F",
+    "colorCode2": "#95C1EF",
+    "colorCode3": "#E53046",
+	"colorCode4": "#FDC52A",
+	"colorCode5": "#FFFFFF",
+    "league": "CAL",
+    "timezone": "America/Los_Angeles",
+    "startDate": "2026-04-01",
+    "endDate": null
+  }			
 ]
