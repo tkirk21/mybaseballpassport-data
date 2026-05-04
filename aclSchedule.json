@@ -1,1 +1,1364 @@
-[]
+[
+  {
+    "id": "acl_2026050401",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Padres",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050402",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Mariners",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050403",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Angels",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050404",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Rockies",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050405",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Cubs",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050406",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Rangers",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050407",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL White Sox",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-04T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050501",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Angels",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050502",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Rangers",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050503",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL D-backs",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050504",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Royals",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050505",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Mariners",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050506",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Dodgers",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050507",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL Guardians",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-05T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050601",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL White Sox",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-06T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050701",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Angels",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050702",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Padres",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050703",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Cubs",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050704",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Reds",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050705",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Rangers",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050706",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Dodgers",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050707",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Athletics",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-07T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050801",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Brewers",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050802",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Giants",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050803",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Royals",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050804",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Rangers",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050805",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL Angels",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050806",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Guardians",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050807",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Rockies",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-08T21:00:00Z"
+  },
+  {
+    "id": "acl_2026050901",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Mariners",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026050902",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL D-backs",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026050903",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Rockies",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026050904",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL White Sox",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026050905",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Reds",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026050906",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Guardians",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026050907",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Athletics",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-09T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051101",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Angels",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051102",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Cubs",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051103",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL White Sox",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051104",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Brewers",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051105",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Dodgers",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051106",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL D-backs",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051107",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Athletics",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-11T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051201",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Cubs",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051202",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Royals",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051203",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Angels",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051204",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Guardians",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051205",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL Brewers",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051206",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Padres",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051207",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Reds",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-12T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051301",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Angels",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-13T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051302",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Royals",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-13T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051303",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Dodgers",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-13T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051401",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Angels",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051402",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Padres",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051403",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Brewers",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051404",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Mariners",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051405",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Reds",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051406",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL White Sox",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051407",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Guardians",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-14T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051501",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Angels",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051502",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Rangers",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051503",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Rockies",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051504",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL White Sox",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051505",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Giants",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051506",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Guardians",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051507",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Athletics",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-15T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051601",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Royals",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051602",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL D-backs",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051603",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Rockies",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051604",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Reds",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051605",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Padres",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051606",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Athletics",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051607",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Mariners",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-16T14:00:00Z"
+  },
+  {
+    "id": "acl_2026051801",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Giants",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051802",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Brewers",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051803",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Rangers",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051804",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Reds",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051805",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Angels",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051806",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Royals",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051807",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL White Sox",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-18T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051901",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Angels",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051902",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Mariners",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051903",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Cubs",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051904",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL White Sox",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051905",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Dodgers",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051906",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Guardians",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026051907",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Athletics",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-19T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052001",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL Padres",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-20T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052002",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Royals",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-20T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052003",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL D-backs",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-20T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052004",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Giants",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-20T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052005",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Athletics",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-20T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052101",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Brewers",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-21T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052102",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Mariners",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-21T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052103",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Rockies",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-21T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052104",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Guardians",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-21T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052105",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Dodgers",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-21T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052201",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Rangers",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052202",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL D-backs",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052203",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL White Sox",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052204",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Cubs",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052205",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Giants",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052206",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Dodgers",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052207",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Athletics",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-22T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052301",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL Giants",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052302",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Padres",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052303",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL Royals",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052304",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Angels",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052305",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Guardians",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052306",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL Rockies",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052307",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Reds",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-23T14:00:00Z"
+  },
+  {
+    "id": "acl_2026052501",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Brewers",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052502",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL D-backs",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052503",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL Rockies",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052504",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Mariners",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052505",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Reds",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052506",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Athletics",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052507",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Dodgers",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-25T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052601",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Cubs",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052602",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Rangers",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052603",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Giants",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052604",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Padres",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052605",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Mariners",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052606",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL Athletics",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052607",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Guardians",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-26T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052701",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Royals",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-27T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052702",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Angels",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-27T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052703",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL White Sox",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-27T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052704",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Dodgers",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-27T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052801",
+    "league": "ACL",
+    "team": "ACL Padres",
+    "opponent": "ACL Mariners",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052802",
+    "league": "ACL",
+    "team": "ACL Giants",
+    "opponent": "ACL Rangers",
+    "arena": "Scottsdale Stadium",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052803",
+    "league": "ACL",
+    "team": "ACL Rockies",
+    "opponent": "ACL Cubs",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052804",
+    "league": "ACL",
+    "team": "ACL Royals",
+    "opponent": "ACL Guardians",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052805",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL Angels",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052806",
+    "league": "ACL",
+    "team": "ACL Dodgers",
+    "opponent": "ACL Brewers",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052807",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL D-backs",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-28T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052901",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Mariners",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052902",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Padres",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052903",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL Royals",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052904",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Cubs",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052905",
+    "league": "ACL",
+    "team": "ACL D-backs",
+    "opponent": "ACL Rockies",
+    "arena": "Salt River Fields at Talking Stick",
+    "city": "Scottsdale, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052906",
+    "league": "ACL",
+    "team": "ACL Reds",
+    "opponent": "ACL Athletics",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026052907",
+    "league": "ACL",
+    "team": "ACL White Sox",
+    "opponent": "ACL Dodgers",
+    "arena": "Camelback Ranch",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-29T21:00:00Z"
+  },
+  {
+    "id": "acl_2026053001",
+    "league": "ACL",
+    "team": "ACL Rangers",
+    "opponent": "ACL Royals",
+    "arena": "Surprise Stadium",
+    "city": "Surprise, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  },
+  {
+    "id": "acl_2026053002",
+    "league": "ACL",
+    "team": "ACL Cubs",
+    "opponent": "ACL D-backs",
+    "arena": "Sloan Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  },
+  {
+    "id": "acl_2026053003",
+    "league": "ACL",
+    "team": "ACL Angels",
+    "opponent": "ACL Rockies",
+    "arena": "Tempe Diablo Stadium",
+    "city": "Tempe, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  },
+  {
+    "id": "acl_2026053004",
+    "league": "ACL",
+    "team": "ACL Mariners",
+    "opponent": "ACL White Sox",
+    "arena": "Peoria Sports Complex",
+    "city": "Peoria, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  },
+  {
+    "id": "acl_2026053005",
+    "league": "ACL",
+    "team": "ACL Brewers",
+    "opponent": "ACL Reds",
+    "arena": "American Family Fields of Phoenix",
+    "city": "Phoenix, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  },
+  {
+    "id": "acl_2026053006",
+    "league": "ACL",
+    "team": "ACL Athletics",
+    "opponent": "ACL Giants",
+    "arena": "Fitch Park",
+    "city": "Mesa, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  },
+  {
+    "id": "acl_2026053007",
+    "league": "ACL",
+    "team": "ACL Guardians",
+    "opponent": "ACL Dodgers",
+    "arena": "Goodyear Ballpark",
+    "city": "Goodyear, Arizona",
+    "date": "2026-05-30T14:00:00Z"
+  }
+  
+  
+  
+]
