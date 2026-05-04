@@ -3289,6 +3289,21 @@
     "timezone": "America/New_York",
     "startDate": "2021-03-01",
     "endDate": null
-  }			
+  },
+  {
+    "teamName": "FCL Rays",
+    "teamCode": "RAY",
+    "arena": "Charlotte Sports Park",
+    "arenaId": "charlotte_sports_park_port_charlotte",
+    "city": "Port Charlotte, Florida",
+    "address": "Charlotte Sports Park, Port Charlotte, FL 33948",
+    "website": null,
+    "latitude": 26.998977056723742, 
+    "longitude": -82.18197398577531,  
+    "league": "FCL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
+    "endDate": null
+  }	
   	
 ]
