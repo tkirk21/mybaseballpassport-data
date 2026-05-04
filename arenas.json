@@ -2857,7 +2857,7 @@
 	"colorCode3": "#C4CED4",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -2875,7 +2875,7 @@
 	"colorCode3": "#FFFFFF",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -2893,7 +2893,7 @@
 	"colorCode3": "#003DA5",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2023-04-01",
+    "startDate": "2023-03-01",
     "endDate": null
   },
   {
@@ -2911,7 +2911,7 @@
 	"colorCode3": "#FFFFFF",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -2930,7 +2930,7 @@
     "colorCode4": "#FFFFFF",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -2949,7 +2949,7 @@
     "colorCode4": "#E6D8AF",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2024-04-01",
+    "startDate": "2024-03-01",
     "endDate": null
   },
   {
@@ -2968,7 +2968,7 @@
     "colorCode4": "#000000",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -2985,7 +2985,7 @@
     "colorCode2": "#FFFFFF",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3002,7 +3002,7 @@
     "colorCode2": "#E31937",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3020,7 +3020,7 @@
     "colorCode3": "#C4CED4",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3037,7 +3037,7 @@
     "colorCode2": "#FFC425",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3054,7 +3054,7 @@
     "colorCode2": "#C0111F",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3071,7 +3071,7 @@
     "colorCode2": "#000000",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3088,7 +3088,7 @@
     "colorCode2": "#BD9B60",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
     "endDate": null
   },
   {
@@ -3105,7 +3105,101 @@
     "colorCode2": "#C4CED4",
     "league": "ACL",
     "timezone": "America/Phoenix",
-    "startDate": "2021-04-01",
+    "startDate": "2021-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "FCL Astros",
+    "teamCode": "AST",
+    "arena": "Cacti Park of the Palm Beaches",
+    "arenaId": "cacti_park_of_the_palm_beaches_west_palm_beach",
+    "city": "West Palm Beach, Florida",
+    "address": "5444 N Haverhill Rd, West Palm Beach, FL 33407",
+    "website": null,
+    "latitude": 26.754894591685282, 
+    "longitude": -80.11305851248089,
+    "colorCode": "#EB6E1F",
+	"colorCode2": "#002D62",
+	"colorCode3": "#FFFFFF",
+    "league": "FCL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "FCL Blue Jays",
+    "teamCode": "BJ",
+    "arena": "Bobby Mattick Training Center",
+    "arenaId": "bobby_matticj_training_center_dunedin",
+    "city": "Dunedin, Florida",
+    "address": "1700 Solon Ave, Dunedin, FL 34698",
+    "website": null,
+    "latitude": 28.030849067426676, 
+    "longitude": -82.75811576925025,
+    "colorCode": "#1D2D5C", 
+	"colorCode2": "#134A8E",
+    "colorCode3": "#D50032",
+    "colorCode4": "#D50032",
+    "league": "FCL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "FCL Braves",
+    "teamCode": "BRA",
+    "arena": "CoolToday Park",
+    "arenaId": "cooltoday_park_venice",
+    "city": "Venice, Florida",
+    "address": "18800 W Villages Pkwy, Venice, FL 34293",
+    "website": null,
+    "latitude": 27.03281737295229,  
+    "longitude": -82.31950990056552,
+    "colorCode": "#13274F",
+	"colorCode2": "#CE1141",
+	"colorCode3": "#EAAA00",
+    "colorCode4": "#FFFFFF",
+    "league": "FCL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "FCL Cardinals",
+    "teamCode": "CAR",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "arenaId": "roger_dean_chevrolet_stadium_jupiter",
+    "city": "Jupiter, Florida",
+    "address": "4751 Main St, Jupiter, FL 33458",
+    "website": null,
+    "latitude": 26.890935587843416,   
+    "longitude": -80.116619968782,
+    "colorCode": "#BE0A14", 
+	"colorCode2": "#001541",
+    "colorCode3": "#FEDB00",
+    "colorCode4": "#FFFFFF",
+    "league": "FCL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
+    "endDate": null
+  },
+	{
+    "teamName": "FCL Marlins",
+    "teamCode": "MAR",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "arenaId": "roger_dean_chevrolet_stadium_jupiter",
+    "city": "Jupiter, Florida",
+    "address": "4751 Main St, Jupiter, FL 33458",
+    "website": null,
+    "latitude": 26.890935587843416,   
+    "longitude": -80.116619968782,
+    "colorCode": "#00A3E0",
+	"colorCode2": "#EF3340",
+	"colorCode3": "#41748D",
+    "colorCode4": "#000000",
+    "league": "FCL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
     "endDate": null
   }	
   	
