@@ -3351,7 +3351,7 @@
   {
     "teamName": "DSL Angels",
     "teamCode": "DANG",
-    "arena": "Arizona Diamondbacks AZPB DR, Boca Chica",
+    "arena": "Arizona Diamondbacks AZPB DR",
     "arenaId": "arizona_diamondbacks_azpb_dr_boca_chica",
     "city": "Boca Chica, Dominican Republic",
     "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
@@ -3369,8 +3369,8 @@
   {
     "teamName": "DSL Arizona Black",
     "teamCode": "DARIB",
-    "arena": "Arizona Diamondbacks AZPB DR, Boca Chica",
-    "arenaId": "arizona_diamondbacks_azpb_dr_boco_chica",
+    "arena": "Arizona Diamondbacks AZPB DR 2",
+    "arenaId": "arizona_diamondbacks_azpb_dr_boco_chica_2",
     "city": "Boca Chica, Dominican Republic",
     "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
     "website": null,
@@ -3387,8 +3387,8 @@
   {
     "teamName": "DSL Arizona Red",
     "teamCode": "DARIR",
-    "arena": "Arizona Diamondbacks AZPB DR, Boca Chica",
-    "arenaId": "arizona_diamondbacks_azpb_dr_boco_chica1",
+    "arena": "Arizona Diamondbacks AZPB DR 1",
+    "arenaId": "arizona_diamondbacks_azpb_dr_boco_chica_1",
     "city": "Boca Chica, Dominican Republic",
     "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
     "website": null,
