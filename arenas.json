@@ -3347,6 +3347,25 @@
     "timezone": "America/New_York",
     "startDate": "2021-03-01",
     "endDate": null
+  },
+  ,
+  {
+    "teamName": "DSL Angels",
+    "teamCode": "DANG",
+    "arena": "Arizona Diamondbacks AZPB DR",
+    "arenaId": "arizona_diamondbacks_azpb_dr_boca_chica",
+    "city": "Boca Chica, Dominican Republic",
+    "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
+    "website": null,
+    "latitude": 18.459086533125884, 
+    "longitude": -69.62327517070081,  
+	"colorCode": "#BA0021",
+	"colorCode2": "#003263",
+	"colorCode3": "#C4CED4",
+    "league": "DSL",
+    "timezone": "America/New_York",
+    "startDate": "1989-03-01",
+    "endDate": null
   }
   	
 ]
