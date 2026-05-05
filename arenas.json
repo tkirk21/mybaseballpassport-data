@@ -3347,6 +3347,24 @@
     "timezone": "America/New_York",
     "startDate": "2021-03-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "DSL Angels",
+    "teamCode": "D-ANG",
+    "arena": "Los Angeles Angels of Anaheim DR Complex",
+    "arenaId": "los_angeles_angels_of_anaheim_dr_complex",
+    "city": "Boca Chica, Dominican Republic",
+    "address": "Ezequiel Espinosa, Dominican Republic",
+    "website": null,
+    "latitude": 18.464881652559654, 
+    "longitude": -69.58270995187186,  
+	"colorCode": "#BA0021",
+	"colorCode2": "#003263",
+	"colorCode3": "#C4CED4",
+    "league": "DSL",
+    "timezone": "America/New_York",
+    "startDate": "1989-03-01",
+    "endDate": null
+  }	
   	
 ]
