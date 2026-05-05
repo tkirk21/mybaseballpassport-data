@@ -3351,8 +3351,8 @@
   {
     "teamName": "DSL Angels",
     "teamCode": "DANG",
-    "arena": "Arizona Diamondbacks AZPB DR",
-    "arenaId": "arizona_diamondbacks_azpb_dr_boca_chica",
+    "arena": "Los Angeles Angels of Anaheim DR Complex",
+    "arenaId": "los_angeles_angels_of_anaheim_dr_complex",
     "city": "Boca Chica, Dominican Republic",
     "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
     "website": null,
@@ -3365,6 +3365,43 @@
     "timezone": "America/New_York",
     "startDate": "1989-03-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "DSL Arizona Black",
+    "teamCode": "DAB",
+    "arena": "Arizona Diamondbacks AZPB DR 2",
+    "arenaId": "arizona_diamondbacks_azpb_dr_boco_chica_2",
+    "city": "Boca Chica, Dominican Republic",
+    "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
+    "website": null,
+    "latitude": 18.45906510169259, 
+    "longitude": -69.62327520862293,  
+	"colorCode": "#000000",
+	"colorCode2": "#3EC1CC",
+    "colorCode3": "#FFFFFF",
+    "league": "DSL",
+    "timezone": "America/New_York",
+    "startDate": "1996-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "DSL Arizona Red",
+    "teamCode": "DAR",
+    "arena": "Arizona Diamondbacks AZPB DR 1",
+    "arenaId": "arizona_diamondbacks_azpb_dr_boco_chica_1",
+    "city": "Boca Chica, Dominican Republic",
+    "address": "F95G+RRJ, Boca Chica 15700, Dominican Republic",
+    "website": null,
+    "latitude": 18.45899386379861,
+    "longitude": -69.62384383694945,  
+	"colorCode": "#AA182C",
+	"colorCode2": "#3EC1CC",
+	"colorCode3": "#000000",
+    "colorCode4": "#FFFFFF",
+    "league": "DSL",
+    "timezone": "America/New_York",
+    "startDate": "1996-03-01",
+    "endDate": null
+  }			
   	
 ]
