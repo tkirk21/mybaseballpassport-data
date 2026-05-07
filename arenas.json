@@ -3402,6 +3402,112 @@
     "timezone": "America/New_York",
     "startDate": "1996-03-01",
     "endDate": null
-  }			
+  },
+
+
+
+
+
+
+
+  {
+    "teamName": "Brockton Rox",
+    "teamCode": "BROC",
+    "arena": "Campanelli Stadium",
+    "arenaId": "campanelli_stadium_brockton",
+    "city": "Brockton, Massachusetts",
+    "address": "1 Feinberg Way, Brockton, MA 02301",
+    "website": "brocktonrox.com",
+    "latitude": 42.06935440009403, 
+    "longitude": -71.04272821555217,  
+	"colorCode": "#041E42",
+	"colorCode2": "#BA0C2F",
+	"colorCode3": "#BBBCBC",
+    "colorCode4": "#FFFFFF",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2024-03-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Down East Bird Dawgs",
+    "teamCode": "DEBD",
+    "arena": "Grainger Stadium",
+    "arenaId": "grainger_stadium_kinston",
+    "city": "Kinston, North Carolina",
+    "address": "400 E Grainger Ave, Kinston, NC 28501",
+    "website": "downeastbirddawgs.com",
+    "latitude": 35.270002197423544, 
+    "longitude": -77.57447306643569,  
+	"colorCode": "#0C2340",
+	"colorCode2": "#FF6900",
+	"colorCode3": "#EFDBB2",
+    "colorCode4": "#FFFFFF",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2025-03-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Evansville Otters",
+    "teamCode": "EVAN",
+    "arena": "Bosse Field",
+    "arenaId": "bosse_field_evansville",
+    "city": "Evansville, Indiana",
+    "address": "23 Don Mattingly Way, Evansville, IN 47711",
+    "website": "evansvilleotters.com",
+    "latitude": 37.992879463172585, 
+    "longitude": -87.56255995840783,  
+	"colorCode": "#002D72",
+	"colorCode2": "#DA291C",
+	"colorCode3": "#FFFFFF",
+    "colorCode4": "#A4C8E1",
+	"colorCode5": "#99552B",
+	"colorCode6": "#C58B68",
+	"colorCode7": "#F2ECE5",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "1995-03-01",
+    "endDate": null
+  },	
+  {
+    "teamName": "Florence Y'alls",
+    "teamCode": "FLO",
+    "arena": "Thomas More Stadium",
+    "arenaId": "thomas_more_stadium_florence",
+    "city": "Florence, Kentucky",
+    "address": "7950 Freedom Way, Florence, KY 41042",
+    "website": "florenceyalls.com",
+    "latitude": 38.9824768200067, 
+    "longitude": -84.63896401493322,  
+	"colorCode": "#8BBEE8",
+	"colorCode2": "#D6001C",
+	"colorCode3": "#FCF9EC",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2020-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Gateway Grizzlies",
+    "teamCode": "GATE",
+    "arena": "Arsenal BG Ballpark",
+    "arenaId": "arsenal_bg_ballpark_sauget",
+    "city": "Sauget, Illinois",
+    "address": "2301 Grizzlie Bear Blvd, Sauget, IL 62206",
+    "website": "gatewaygrizzlies.com",
+    "latitude": 38.5660505659825, 
+    "longitude": -90.13583555245918,  
+	"colorCode": "#0C2340",
+	"colorCode2": "#B86125",
+	"colorCode3": "#FFFFFF",
+	"colorCode4": "#010101",
+	"colorCode5": "#509E2F",
+	"colorCode6": "#A7A8A9",  
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2001-03-01",
+    "endDate": null
+  }
   	
 ]
