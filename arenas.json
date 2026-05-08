@@ -3505,9 +3505,28 @@
 	"colorCode5": "#509E2F",
 	"colorCode6": "#A7A8A9",  
     "league": "FL",
-    "timezone": "America/New_York",
+    "timezone": "America/Chicago",
     "startDate": "2001-03-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Joliet Slammers",
+    "teamCode": "JOL",
+    "arena": "Duly Health and Care Field",
+    "arenaId": "duly_health_and_care_field_joliet",
+    "city": "Joliet, Illinois",
+    "address": "1 Mayor Art Schultz Dr, Joliet, IL 60432",
+    "website": "jolietslammers.com",
+    "latitude": 41.52571903222981, 
+    "longitude": -88.07790268227642,  
+	"colorCode": "#055B3E",
+	"colorCode2": "#F48034",
+	"colorCode3": "#FFFFFF",
+	"colorCode4": "#000000",
+    "league": "FL",
+    "timezone": "America/Chicago",
+    "startDate": "2011-03-01",
+    "endDate": null
+  }	
   	
 ]
