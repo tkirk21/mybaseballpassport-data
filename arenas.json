@@ -3527,6 +3527,24 @@
     "timezone": "America/Chicago",
     "startDate": "2011-03-01",
     "endDate": null
+  },
+  {
+    "teamName": "Lake Erie Crushers",
+    "teamCode": "LEC",
+    "arena": "ForeFront Field",
+    "arenaId": "forefront_field_avon",
+    "city": "Avon, Ohio",
+    "address": "2009 Baseball Blvd, Avon, OH 44011",
+    "website": "lakeeriecrushers.com",
+    "latitude": 41.45969632478912, 
+    "longitude": -82.06140734146935,  
+	"colorCode": "#330072",
+	"colorCode2": "#FFFFFF",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2009-03-01",
+    "endDate": null
   }	
+  	
   	
 ]
