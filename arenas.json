@@ -3543,7 +3543,24 @@
     "timezone": "America/New_York",
     "startDate": "2009-03-01",
     "endDate": null
-  }	
+  },
+  {
+    "teamName": "Washington Wild Things",
+    "teamCode": "WWT",
+    "arena": "EQT Park",
+    "arenaId": "eqt_park_washington",
+    "city": "Washington, Pennsylvania",
+    "address": "1 Washington Federal Way, Washington, PA 15301",
+    "website": "washingtonwildthings.com",
+    "latitude": 40.17304166546617,
+    "longitude": -80.24605897265753,
+    "colorCode": "#5A2D81",
+    "colorCode2": "#FFFFFF",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2002-03-01",
+    "endDate": null
+  }
   	
   	
 ]
