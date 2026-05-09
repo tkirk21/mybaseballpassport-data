@@ -12,10 +12,23 @@
   "id": "fl_2026050802",
   "league": "FL",
   "team": "Evansville Otters",
+{
+  "id": "fl_2026050801",
+  "league": "FL",
+  "team": "Joliet Slammers",
+  "opponent": "Washington Wild Things",
+  "arena": "Slammers Stadium",
+  "city": "Joliet, Illinois",
+  "date": "2026-05-09T00:05:00Z"
+},
+{
+  "id": "fl_2026050802",
+  "league": "FL",
+  "team": "Evansville Otters",
   "opponent": "Florence Y'alls",
   "arena": "Bosse Field",
   "city": "Evansville, Indiana",
-  "date": "2026-05-08T19:35:00Z"
+  "date": "2026-05-09T00:35:00Z"
 },
 {
   "id": "fl_2026050803",
@@ -24,7 +37,7 @@
   "opponent": "Gateway Grizzlies",
   "arena": "Trustmark Park",
   "city": "Pearl, Mississippi",
-  "date": "2026-05-08T19:00:00Z"
+  "date": "2026-05-09T00:00:00Z"
 },
 {
   "id": "fl_2026050804",
@@ -33,7 +46,7 @@
   "opponent": "Down East Bird Dawgs",
   "arena": "Wintrust Field",
   "city": "Schaumburg, Illinois",
-  "date": "2026-05-08T19:00:00Z"
+  "date": "2026-05-09T00:00:00Z"
 },
 {
   "id": "fl_2026050805",
@@ -42,16 +55,16 @@
   "opponent": "Quebec Capitales",
   "arena": "Ottawa Stadium",
   "city": "Ottawa, Ontario",
-  "date": "2026-05-08T18:30:00Z"
+  "date": "2026-05-08T23:30:00Z"
 },
 {
   "id": "fl_2026050806",
   "league": "FL",
   "team": "Lake Erie Crushers",
   "opponent": "Sussex County Miners",
-  "arena": "Crusher Stadium",
+  "arena": "ForeFront Field",
   "city": "Avon, Ohio",
-  "date": "2026-05-08T19:05:00Z"
+  "date": "2026-05-09T00:05:00Z"
 },
 {
   "id": "fl_2026050807",
@@ -60,7 +73,7 @@
   "opponent": "Rocky Mountain Vibes",
   "arena": "Clover Stadium",
   "city": "Pomona, New York",
-  "date": "2026-05-08T19:00:00Z"
+  "date": "2026-05-09T00:00:00Z"
 },
 {
   "id": "fl_2026050808",
@@ -69,6 +82,6 @@
   "opponent": "Tri-City ValleyCats",
   "arena": "Hinchliffe Stadium",
   "city": "Paterson, New Jersey",
-  "date": "2026-05-08T18:30:00Z"
+  "date": "2026-05-08T23:30:00Z"
 }
 ]
