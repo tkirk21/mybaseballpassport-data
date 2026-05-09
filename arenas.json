@@ -3659,7 +3659,66 @@
     "timezone": "America/Chicago",
     "startDate": "2012-03-01",
     "endDate": null
-  },	
+  },
+  {
+    "teamName": "Sussex County Miners",
+    "teamCode": "SCM",
+    "arena": "Skylands Stadium",
+    "arenaId": "skylands_stadium_Augusta",
+    "city": "Augusta, New Jersey",
+    "address": "94 Championship Place, Augusta, NJ 07822",
+    "website": "sussexcountyminers.com",
+    "latitude": 41.12638388669598, 
+    "longitude": -74.71293907130091,
+    "colorCode": "#FFB81C",
+    "colorCode2": "#000000",
+    "colorCode3": "#ffffff",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2015-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Tri-City ValleyCats",
+    "teamCode": "TCVC",
+    "arena": "Joseph L. Bruno Stadium",
+    "arenaId": "joseph_l_bruno_stadium_troy",
+    "city": "Troy, New York",
+    "address": "80 Vandenburgh Ave, Troy, NY 12180",
+    "website": "tcvalleycats.com",
+    "latitude": 42.695454826143845,  
+    "longitude": -73.6803043468399,
+    "colorCode": "#C8102E",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "colorCode4": "#A2AAAD",
+    "colorCode5": "#008264",
+    "colorCode6": "#B9975B",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2021-03-01",
+    "endDate": null
+  },
+  {
+    "teamName": "Trois-Rivières Aigles",
+    "teamCode": "TRA",
+    "arena": "Stade Quillorama",
+    "arenaId": "stade_quillorama_trois_rivieres",
+    "city": "Trois-Rivières, Quebec",
+    "address": "1550 Av. Gilles-Villeneuve, Trois-Rivières, QC G8Z 3R7, Canada",
+    "website": "lesaiglestr.com",
+    "latitude": 46.347700238052155, 
+    "longitude": -72.5567323228605,
+    "colorCode": "#D22730",
+    "colorCode2": "#AF272F",
+    "colorCode3": "#000000",
+    "colorCode4": "#B1B3B3",
+    "colorCode35": "#FFFFFF",
+    "league": "FL",
+    "timezone": "America/New_York",
+    "startDate": "2020-03-01",
+    "endDate": null
+  },
   {
     "teamName": "Washington Wild Things",
     "teamCode": "WWT",
@@ -3676,7 +3735,26 @@
     "timezone": "America/New_York",
     "startDate": "2002-03-01",
     "endDate": null
-  }
+  },
+  {
+    "teamName": "Windy City ThunderBolts",
+    "teamCode": "WCTB",
+    "arena": "Ozinga Field",
+    "arenaId": "ozinga_field_crestwood",
+    "city": "Crestwood, Illinois",
+    "address": "14011 Kenton Ave, Crestwood, IL 60445",
+    "website": "www.wcthunderbolts.com",
+    "latitude": 41.63720108210831,
+    "longitude": -87.73155371310376,
+    "colorCode": "#000000",
+    "colorCode2": "#45E5FF",
+    "colorCode3": "#C5986B",
+    "league": "FL",
+    "timezone": "America/Chicago",
+    "startDate": "1999-03-01",
+    "endDate": null
+  }	
+  	
   	
   	
 ]
