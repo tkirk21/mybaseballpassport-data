@@ -1,17 +1,4 @@
 [
-  {
-  "id": "fl_2026050801",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Washington Wild Things",
-  "arena": "Slammers Stadium",
-  "city": "Joliet, Illinois",
-  "date": "2026-05-08T19:05:00Z"
-},
-{
-  "id": "fl_2026050802",
-  "league": "FL",
-  "team": "Evansville Otters",
 {
   "id": "fl_2026050801",
   "league": "FL",
