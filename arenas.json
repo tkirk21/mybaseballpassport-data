@@ -3612,6 +3612,75 @@
 	  "startDate": "1991-03-01",
 	  "endDate": null
 	},	
+	{
+	  "teamName": "DSL Dodgers Bautista",
+	  "teamCode": "DDB",
+	  "arena": " Dodgers Campo de béisbol Las Palmas de los dodgers de los Angeles DR",
+	  "arenaId": " dodgers_campo_de_béisbol_las_palmas_de_los_dodgers_de_los_angeles_dr",
+	  "city": "Santo Domingo, Dominican Republic",
+	  "address": "G7PH+54X, 23, Santo Domingo, Dominican Republic",
+	  "website": n,ull
+	  "latitude": 18.53527804199888, 
+	  "longitude": -69.72072493568876,
+	  "colorCode": "#FFFFFF",
+	  "colorCode2": "#005A9D",
+	  "league": "DSL",
+	  "timezone": "America/New_York",
+	  "startDate": "1989-03-01",
+	  "endDate": null
+	},
+	{
+	  "teamName": "DSL Dodgers Mega",
+	  "teamCode": "DDM",
+	  "arena": " Dodgers Campo de béisbol Las Palmas de los dodgers de los Angeles DR1",
+	  "arenaId": " dodgers_campo_de_béisbol_las_palmas_de_los_dodgers_de_los_angeles_dr1",
+	  "city": "Santo Domingo, Dominican Republic",
+	  "address": "G7PH+54X, 23, Santo Domingo, Dominican Republic",
+	  "website": null,
+	  "latitude": 18.535153527423493,  
+	  "longitude": -69.72009456754282,
+	  "colorCode": "#FFFFFF",
+	  "colorCode2": "#005A9D",
+	  "league": "DSL",
+	  "timezone": "America/New_York",
+	  "startDate": "1989-03-01",
+	  "endDate": null
+	},
+	{
+	  "teamName": "DSL Giants Black",
+	  "teamCode": "DGB",
+	  "arena": "San Francisco Giants DR Complex",
+	  "arenaId": "san_franisco_giants_dr_complex_santo_domingo",
+	  "city": "Santo Domingo, Dominican Republic",
+	  "address": "FC4J+PJ Boca Chica, Dominican Republic",
+	  "website": null,
+	  "latitude": 18.481289073544655, 
+	  "longitude": -69.60719650252841,
+	  "colorCode": "#ffffff",
+	  "colorCode2": "#FD5A18",
+	  "league": "DSL",
+	  "timezone": "America/New_York",
+	  "startDate": "1989-03-01",
+	  "endDate": null
+	},
+	
+	{
+	  "teamName": "DSL Giants Orange",
+	  "teamCode": "DGO",
+	  "arena": "Academia De Béisbol Felipe Alou",
+	  "arenaId": "academia_de_beisbol_felipe_alou_santo_domingo",
+	  "city": "Santo Domingo, Dominican Republic",
+	  "address": "FC6G+QGM, Boca Chica, Dominican Republic",
+	  "website": null,
+	  "latitude": 18.462528060049717,    
+	  "longitude": -69.57400492403266,
+	  ""colorCode2": "#ffffff",
+	  "colorCode": "#FD5A18",
+	  "league": "DSL",
+	  "timezone": "America/New_York",
+	  "startDate": "1989-03-01",
+	  "endDate": null
+	},
 
 
 
