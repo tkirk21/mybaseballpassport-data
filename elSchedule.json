@@ -1879,6 +1879,64 @@
     "arena": "Canal Park",
     "city": "Akron, OH",
     "date": "2026-05-15T23:17:00Z"
+  },
+
+
+
+
+  {
+    "id": "el_2026051701",
+    "league": "EL",
+    "team": "New Hampshire Fisher Cats",
+    "opponent": "Reading Fightin Phils",
+    "arena": "Delta Dental Stadium",
+    "city": "Manchester, New Hampshire",
+    "date": "2026-05-17T16:05:00Z"
+  },
+  {
+    "id": "el_2026051702",
+    "league": "EL",
+    "team": "Erie SeaWolves",
+    "opponent": "Richmond Flying Squirrels",
+    "arena": "UPMC Park",
+    "city": "Erie, Pennsylvania",
+    "date": "2026-05-17T16:05:00Z"
+  },
+  {
+    "id": "el_2026051703",
+    "league": "EL",
+    "team": "Akron RubberDucks",
+    "opponent": "Chesapeake Baysox",
+    "arena": "Canal Park",
+    "city": "Akron, Ohio",
+    "date": "2026-05-17T17:05:00Z"
+  },
+  {
+    "id": "el_2026051704",
+    "league": "EL",
+    "team": "Somerset Patriots",
+    "opponent": "Binghamton Rumble Ponies",
+    "arena": "TD Bank Ballpark",
+    "city": "Bridgewater, New Jersey",
+    "date": "2026-05-17T17:05:00Z"
+  },
+  {
+    "id": "el_2026051705",
+    "league": "EL",
+    "team": "Hartford Yard Goats",
+    "opponent": "Portland Sea Dogs",
+    "arena": "Dunkin' Park",
+    "city": "Hartford, Connecticut",
+    "date": "2026-05-17T17:10:00Z"
+  },
+  {
+    "id": "el_2026051706",
+    "league": "EL",
+    "team": "Altoona Curve",
+    "opponent": "Harrisburg Senators",
+    "arena": "Peoples Natural Gas Field",
+    "city": "Altoona, Pennsylvania",
+    "date": "2026-05-17T22:00:00Z"
   }
   
 ]
