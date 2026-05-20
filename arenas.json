@@ -4227,6 +4227,29 @@
     "timezone": "Australia/Adelaide",
     "startDate": "2010-03-01",
     "endDate": null
-  }				
+  },
+
+
+  {
+    "teamName": "Test Testers",
+    "teamCode": "TEST",
+    "arena": "Test Field",
+    "arenaId": "test_field_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "3326 Wisocnsin Ave, St. Louis, MO, 63118",
+    "website": null,
+    "latitude": 38.593661272779194, 
+    "longitude": -90.22049417555475,
+    "colorCode": "#00AEDB",
+    "colorCode2": "#000000",
+    "colorCode3": "#B99E67",
+    "colorCode4": "#C3CDD6",
+    "colorCode5": "#FFFFFF",
+    "league": "IL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-02-01",
+    "endDate": null
+  },
+	
  	
 ]
