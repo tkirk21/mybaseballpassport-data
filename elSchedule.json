@@ -1990,7 +1990,222 @@
     "opponent": "Altoona Curve",
     "arena": "Dunkin' Park",
     "city": "Hartford, Connecticut",
+    "date": "2026-05-27T23:10:00Z"
+  },
+  {
+    "id": "el_2026052801",
+    "league": "EL",
+    "team": "Erie SeaWolves",
+    "opponent": "Chesapeake Baysox",
+    "arena": "UPMC Park",
+    "city": "Erie, Pennsylvania",
+    "date": "2026-05-28T22:05:00Z"
+  },
+  {
+    "id": "el_2026052802",
+    "league": "EL",
+    "team": "Binghamton Rumble Ponies",
+    "opponent": "Portland Sea Dogs",
+    "arena": "Mirabito Stadium",
+    "city": "Binghamton, New York",
+    "date": "2026-05-28T22:07:00Z"
+  },
+  {
+    "id": "el_2026052803",
+    "league": "EL",
+    "team": "Somerset Patriots",
+    "opponent": "New Hampshire Fisher Cats",
+    "arena": "TD Bank Ballpark",
+    "city": "Bridgewater, New Jersey",
+    "date": "2026-05-28T22:35:00Z"
+  },
+  {
+    "id": "el_2026052804",
+    "league": "EL",
+    "team": "Akron RubberDucks",
+    "opponent": "Richmond Flying Squirrels",
+    "arena": "Canal Park",
+    "city": "Akron, Ohio",
+    "date": "2026-05-28T22:35:00Z"
+  },
+  {
+    "id": "el_2026052805",
+    "league": "EL",
+    "team": "Reading Fightin Phils",
+    "opponent": "Harrisburg Senators",
+    "arena": "FirstEnergy Stadium",
+    "city": "Reading, Pennsylvania",
+    "date": "2026-05-28T22:45:00Z"
+  },
+  {
+    "id": "el_2026052806",
+    "league": "EL",
+    "team": "Hartford Yard Goats",
+    "opponent": "Altoona Curve",
+    "arena": "Dunkin' Park",
+    "city": "Hartford, Connecticut",
     "date": "2026-05-28T23:10:00Z"
-  }
-  
+  },
+  {
+    "id": "el_2026052901",
+    "league": "EL",
+    "team": "Erie SeaWolves",
+    "opponent": "Chesapeake Baysox",
+    "arena": "UPMC Park",
+    "city": "Erie, Pennsylvania",
+    "date": "2026-05-29T22:05:00Z"
+  },
+  {
+    "id": "el_2026052902",
+    "league": "EL",
+    "team": "Somerset Patriots",
+    "opponent": "New Hampshire Fisher Cats",
+    "arena": "TD Bank Ballpark",
+    "city": "Bridgewater, New Jersey",
+    "date": "2026-05-29T22:35:00Z"
+  },
+  {
+    "id": "el_2026052903",
+    "league": "EL",
+    "team": "Reading Fightin Phils",
+    "opponent": "Harrisburg Senators",
+    "arena": "FirstEnergy Stadium",
+    "city": "Reading, Pennsylvania",
+    "date": "2026-05-29T22:45:00Z"
+  },
+  {
+    "id": "el_2026052904",
+    "league": "EL",
+    "team": "Binghamton Rumble Ponies",
+    "opponent": "Portland Sea Dogs",
+    "arena": "Mirabito Stadium",
+    "city": "Binghamton, New York",
+    "date": "2026-05-29T23:00:00Z"
+  },
+  {
+    "id": "el_2026052905",
+    "league": "EL",
+    "team": "Hartford Yard Goats",
+    "opponent": "Altoona Curve",
+    "arena": "Dunkin' Park",
+    "city": "Hartford, Connecticut",
+    "date": "2026-05-29T23:10:00Z"
+  },
+  {
+    "id": "el_2026052906",
+    "league": "EL",
+    "team": "Akron RubberDucks",
+    "opponent": "Richmond Flying Squirrels",
+    "arena": "Canal Park",
+    "city": "Akron, Ohio",
+    "date": "2026-05-29T23:17:00Z"
+  },
+  {
+    "id": "el_2026053001",
+    "league": "EL",
+    "team": "Erie SeaWolves",
+    "opponent": "Chesapeake Baysox",
+    "arena": "UPMC Park",
+    "city": "Erie, Pennsylvania",
+    "date": "2026-05-30T22:05:00Z"
+  },
+  {
+    "id": "el_2026053002",
+    "league": "EL",
+    "team": "Binghamton Rumble Ponies",
+    "opponent": "Portland Sea Dogs",
+    "arena": "Mirabito Stadium",
+    "city": "Binghamton, New York",
+    "date": "2026-05-30T22:07:00Z"
+  },
+  {
+    "id": "el_2026053003",
+    "league": "EL",
+    "team": "Hartford Yard Goats",
+    "opponent": "Altoona Curve",
+    "arena": "Dunkin' Park",
+    "city": "Hartford, Connecticut",
+    "date": "2026-05-30T22:10:00Z"
+  },
+  {
+    "id": "el_2026053004",
+    "league": "EL",
+    "team": "Somerset Patriots",
+    "opponent": "New Hampshire Fisher Cats",
+    "arena": "TD Bank Ballpark",
+    "city": "Bridgewater, New Jersey",
+    "date": "2026-05-30T22:35:00Z"
+  },
+  {
+    "id": "el_2026053005",
+    "league": "EL",
+    "team": "Reading Fightin Phils",
+    "opponent": "Harrisburg Senators",
+    "arena": "FirstEnergy Stadium",
+    "city": "Reading, Pennsylvania",
+    "date": "2026-05-30T22:45:00Z"
+  },
+  {
+    "id": "el_2026053006",
+    "league": "EL",
+    "team": "Akron RubberDucks",
+    "opponent": "Richmond Flying Squirrels",
+    "arena": "Canal Park",
+    "city": "Akron, Ohio",
+    "date": "2026-05-30T23:05:00Z"
+  },
+  {
+    "id": "el_2026053101",
+    "league": "EL",
+    "team": "Binghamton Rumble Ponies",
+    "opponent": "Portland Sea Dogs",
+    "arena": "Mirabito Stadium",
+    "city": "Binghamton, New York",
+    "date": "2026-05-31T17:00:00Z"
+  },
+  {
+    "id": "el_2026053102",
+    "league": "EL",
+    "team": "Somerset Patriots",
+    "opponent": "New Hampshire Fisher Cats",
+    "arena": "TD Bank Ballpark",
+    "city": "Bridgewater, New Jersey",
+    "date": "2026-05-31T17:05:00Z"
+  },
+  {
+    "id": "el_2026053103",
+    "league": "EL",
+    "team": "Akron RubberDucks",
+    "opponent": "Richmond Flying Squirrels",
+    "arena": "Canal Park",
+    "city": "Akron, Ohio",
+    "date": "2026-05-31T17:05:00Z"
+  },
+  {
+    "id": "el_2026053104",
+    "league": "EL",
+    "team": "Hartford Yard Goats",
+    "opponent": "Altoona Curve",
+    "arena": "Dunkin' Park",
+    "city": "Hartford, Connecticut",
+    "date": "2026-05-31T17:10:00Z"
+  },
+  {
+    "id": "el_2026053105",
+    "league": "EL",
+    "team": "Erie SeaWolves",
+    "opponent": "Chesapeake Baysox",
+    "arena": "UPMC Park",
+    "city": "Erie, Pennsylvania",
+    "date": "2026-05-31T17:35:00Z"
+  },
+  {
+    "id": "el_2026053106",
+    "league": "EL",
+    "team": "Reading Fightin Phils",
+    "opponent": "Harrisburg Senators",
+    "arena": "FirstEnergy Stadium",
+    "city": "Reading, Pennsylvania",
+    "date": "2026-05-31T21:15:00Z"
+  } 
 ]
