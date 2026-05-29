@@ -2040,7 +2040,16 @@
     "opponent": "Northwest Arkansas Naturals",
     "arena": "ONEOK Field",
     "city": "Tulsa, Oklahoma",
-    "date": "2026-05-29T20:00:00Z"
+    "date": "2026-05-29T21:30:00Z"
+  },
+  {
+    "id": "tl_2026052906",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-05-30T00:30:00Z"
   },
   {
     "id": "tl_2026052902",
@@ -2049,7 +2058,7 @@
     "opponent": "Amarillo Sod Poodles",
     "arena": "Momentum Bank Ballpark",
     "city": "Midland, Texas",
-    "date": "2026-05-29T20:00:00Z"
+    "date": "2026-05-30T00:00:00Z"
   },
   {
     "id": "tl_2026052903",
@@ -2058,7 +2067,7 @@
     "opponent": "Corpus Christi Hooks",
     "arena": "Nelson W. Wolff Municipal Stadium",
     "city": "San Antonio, Texas",
-    "date": "2026-05-29T20:05:00Z"
+    "date": "2026-05-30T00:05:00Z"
   },
   {
     "id": "tl_2026052904",
@@ -2067,7 +2076,16 @@
     "opponent": "Frisco RoughRiders",
     "arena": "Dickey–Stephens Park",
     "city": "Little Rock, Arkansas",
-    "date": "2026-05-29T20:05:00Z"
+    "date": "2026-05-30T00:05:00Z"
+  },
+  {
+    "id": "tl_2026052907",
+    "league": "TL",
+    "team": "Arkansas Travelers",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Dickey–Stephens Park",
+    "city": "Little Rock, Arkansas",
+    "date": "2026-05-30T03:05:00Z"
   },
   {
     "id": "tl_2026052905",
@@ -2076,7 +2094,7 @@
     "opponent": "Wichita Wind Surge",
     "arena": "Hammons Field",
     "city": "Springfield, Missouri",
-    "date": "2026-05-29T20:05:00Z"
+    "date": "2026-05-30T00:05:00Z"
   },
   {
     "id": "tl_2026053001",
