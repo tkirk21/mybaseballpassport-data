@@ -1662,7 +1662,7 @@
     "opponent": "Knoxville Smokies",
     "arena": "Erlanger Park",
     "city": "Chattanooga, Tennessee",
-    "date": "2026-05-29T19:00:00Z"
+    "date": "2026-05-29T23:00:00Z"
   },
   {
     "id": "sl_2026052902",
@@ -1671,7 +1671,7 @@
     "opponent": "Biloxi Shuckers",
     "arena": "Synovus Park",
     "city": "Columbus, Georgia",
-    "date": "2026-05-29T19:06:00Z"
+    "date": "2026-05-29T23:06:00Z"
   },
   {
     "id": "sl_2026052903",
@@ -1680,7 +1680,7 @@
     "opponent": "Rocket City Trash Pandas",
     "arena": "Dabos Park",
     "city": "Montgomery, Alabama",
-    "date": "2026-05-29T19:35:00Z"
+    "date": "2026-05-29T23:35:00Z"
   },
   {
     "id": "sl_2026052904",
@@ -1689,7 +1689,7 @@
     "opponent": "Pensacola Blue Wahoos",
     "arena": "Regions Field",
     "city": "Birmingham, Alabama",
-    "date": "2026-05-29T20:00:00Z"
+    "date": "2026-05-30T00:00:00Z"
   },
   {
     "id": "sl_2026053001",
@@ -1698,7 +1698,7 @@
     "opponent": "Biloxi Shuckers",
     "arena": "Synovus Park",
     "city": "Columbus, Georgia",
-    "date": "2026-05-30T18:05:00Z"
+    "date": "2026-05-30T22:05:00Z"
   },
   {
     "id": "sl_2026053002",
@@ -1707,7 +1707,7 @@
     "opponent": "Knoxville Smokies",
     "arena": "Erlanger Park",
     "city": "Chattanooga, Tennessee",
-    "date": "2026-05-30T18:30:00Z"
+    "date": "2026-05-30T22:30:00Z"
   },
   {
     "id": "sl_2026053003",
@@ -1716,7 +1716,7 @@
     "opponent": "Rocket City Trash Pandas",
     "arena": "Dabos Park",
     "city": "Montgomery, Alabama",
-    "date": "2026-05-30T19:05:00Z"
+    "date": "2026-05-30T23:05:00Z"
   },
   {
     "id": "sl_2026053004",
@@ -1725,7 +1725,7 @@
     "opponent": "Pensacola Blue Wahoos",
     "arena": "Regions Field",
     "city": "Birmingham, Alabama",
-    "date": "2026-05-30T19:30:00Z"
+    "date": "2026-05-30T23:30:00Z"
   },
   {
     "id": "sl_2026053101",
@@ -1734,7 +1734,7 @@
     "opponent": "Knoxville Smokies",
     "arena": "Erlanger Park",
     "city": "Chattanooga, Tennessee",
-    "date": "2026-05-31T13:00:00Z"
+    "date": "2026-05-31T17:00:00Z"
   },
   {
     "id": "sl_2026053102",
@@ -1743,7 +1743,7 @@
     "opponent": "Biloxi Shuckers",
     "arena": "Synovus Park",
     "city": "Columbus, Georgia",
-    "date": "2026-05-31T13:05:00Z"
+    "date": "2026-05-31T17:05:00Z"
   },
   {
     "id": "sl_2026053103",
@@ -1752,7 +1752,7 @@
     "opponent": "Pensacola Blue Wahoos",
     "arena": "Regions Field",
     "city": "Birmingham, Alabama",
-    "date": "2026-05-31T15:05:00Z"
+    "date": "2026-05-31T19:05:00Z"
   },
   {
     "id": "sl_2026053104",
@@ -1761,6 +1761,6 @@
     "opponent": "Rocket City Trash Pandas",
     "arena": "Dabos Park",
     "city": "Montgomery, Alabama",
-    "date": "2026-05-31T16:33:00Z"
+    "date": "2026-05-31T20:33:00Z"
   }  
 ]
