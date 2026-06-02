@@ -1128,7 +1128,88 @@
     "arena": "ForeFront Field",
     "city": "Avon, Ohio",
     "date": "2026-05-31T17:00:00Z"
-  }
+  },
+  {
+    "id": "fl_2026060201",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Gateway Grizzlies",
+    "arena": "Wild Things Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-06-02T14:25:00Z"
+  },
+  {
+    "id": "fl_2026060202",
+    "league": "FL",
+    "team": "Brockton Rox",
+    "opponent": "Delaware",
+    "arena": "Campanelli Stadium",
+    "city": "Brockton, Massachusetts",
+    "date": "2026-06-02T14:25:00Z"
+  },
+  {
+    "id": "fl_2026060203",
+    "league": "FL",
+    "team": "Evansville Otters",
+    "opponent": "Mississippi Mud Monsters",
+    "arena": "Bosse Field",
+    "city": "Evansville, Indiana",
+    "date": "2026-06-02T23:25:00Z"
+  },
+  {
+    "id": "fl_2026060204",
+    "league": "FL",
+    "team": "Joliet Slammers",
+    "opponent": "Schaumburg Boomers",
+    "arena": "Slammers Stadium",
+    "city": "Joliet, Illinois",
+    "date": "2026-06-02T23:25:00Z"
+  },
+  {
+    "id": "fl_2026060205",
+    "league": "FL",
+    "team": "Trois-Rivières Aigles",
+    "opponent": "Lake Erie Crushers",
+    "arena": "Stade Quillorama",
+    "city": "Trois-Rivières, Québec",
+    "date": "2026-06-02T22:55:00Z"
+  },
+  {
+    "id": "fl_2026060206",
+    "league": "FL",
+    "team": "Québec Capitales",
+    "opponent": "New Jersey Jackals",
+    "arena": "Stade Canac",
+    "city": "Québec City, Québec",
+    "date": "2026-06-02T22:50:00Z"
+  },
+  {
+    "id": "fl_2026060207",
+    "league": "FL",
+    "team": "Florence Y'alls",
+    "opponent": "Windy City ThunderBolts",
+    "arena": "Thomas More Stadium",
+    "city": "Florence, Kentucky",
+    "date": "2026-06-02T22:42:00Z"
+  },
+  {
+    "id": "fl_2026060208",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "New York Boulders",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-06-02T22:20:00Z"
+  },
+  {
+    "id": "fl_2026060209",
+    "league": "FL",
+    "team": "Tri-City ValleyCats",
+    "opponent": "Sussex County Miners",
+    "arena": "Joseph L. Bruno Stadium",
+    "city": "Troy, New York",
+    "date": "2026-06-02T22:20:00Z"
+  }  
   
 
   
