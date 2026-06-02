@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "dsl_2026060101",
+    "league": "DSL",
+    "team": "DSL Rays",
+    "opponent": "DSL Red Sox Red",
+    "arena": "Tampa Bay Rays DR Complex",
+    "city": "Boca Chica, Dominican Republic",
+    "date": "2026-06-01T18:00:00Z"
+  },
+  {
+    "id": "dsl_2026060102",
+    "league": "DSL",
+    "team": "DSL Arizona Red",
+    "opponent": "DSL Pirates Black",
+    "arena": "Arizona D-backs DR Complex",
+    "city": "Boca Chica, Dominican Republic",
+    "date": "2026-06-01T18:00:00Z"
+  }
+]
