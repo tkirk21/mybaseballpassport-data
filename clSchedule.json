@@ -1465,5 +1465,1371 @@
     "arena": "Pelicans Ballpark",
     "city": "Myrtle Beach, South Carolina",
     "date": "2026-05-31T22:35:00Z"
-  } 
+  },
+  {
+    "id": "cl_2026060201",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-02T22:05:00Z"
+  },
+  {
+    "id": "cl_2026060202",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Hill City",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-02T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060203",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-03T23:00:00Z"
+  },
+  {
+    "id": "cl_2026060204",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Salem Red Sox",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-03T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060205",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-03T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060206",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-03T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026060301",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-03T15:05:00Z"
+  },
+  {
+    "id": "cl_2026060302",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Hill City",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-03T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060303",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-04T23:00:00Z"
+  },
+  {
+    "id": "cl_2026060304",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Salem Red Sox",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-04T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060305",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-04T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060306",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-04T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060401",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Hill City",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-04T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060402",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-04T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060403",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-04T23:00:00Z"
+  },
+  {
+    "id": "cl_2026060404",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Salem Red Sox",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-04T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060405",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-04T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060406",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-04T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026060501",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Hill City",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-05T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060502",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-05T23:00:00Z"
+  },
+  {
+    "id": "cl_2026060503",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Salem Red Sox",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-05T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060504",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-05T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060505",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-05T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060506",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-05T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026060601",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-06T22:05:00Z"
+  },
+  {
+    "id": "cl_2026060602",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Hill City",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-06T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060603",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-06T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060604",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-06T23:00:00Z"
+  },
+  {
+    "id": "cl_2026060605",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Salem Red Sox",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-06T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060606",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-06T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060701",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Salem Red Sox",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-07T20:05:00Z"
+  },
+  {
+    "id": "cl_2026060702",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Hill City",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-07T20:35:00Z"
+  },
+  {
+    "id": "cl_2026060703",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-07T21:00:00Z"
+  },
+  {
+    "id": "cl_2026060704",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-07T21:05:00Z"
+  },
+  {
+    "id": "cl_2026060705",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-08T00:05:00Z"
+  },
+  {
+    "id": "cl_2026060706",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-08T00:05:00Z"
+  },
+
+  {
+    "id": "cl_2026060901",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Wilson Warbirds",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-09T22:30:00Z"
+  },
+  {
+    "id": "cl_2026060902",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-09T22:35:00Z"
+  },
+  {
+    "id": "cl_2026060903",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-09T23:00:00Z"
+  },
+  {
+    "id": "cl_2026060904",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Hickory Crawdads",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-09T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060905",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-09T23:05:00Z"
+  },
+  {
+    "id": "cl_2026060906",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-09T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061001",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Hickory Crawdads",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-10T16:05:00Z"
+  },
+  {
+    "id": "cl_2026061002",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Wilson Warbirds",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-10T22:30:00Z"
+  },
+  {
+    "id": "cl_2026061003",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-10T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061004",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-10T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061005",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-10T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061006",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-10T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026061101",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Wilson Warbirds",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-11T22:30:00Z"
+  },
+  {
+    "id": "cl_2026061102",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-11T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061103",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-11T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061104",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Hickory Crawdads",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-11T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061105",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-11T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061106",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-11T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026061201",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Wilson Warbirds",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-12T22:30:00Z"
+  },
+  {
+    "id": "cl_2026061202",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-12T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061203",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-12T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061204",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Hickory Crawdads",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-12T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061205",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-12T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061206",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-12T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061301",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Hickory Crawdads",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-13T22:05:00Z"
+  },
+  {
+    "id": "cl_2026061302",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-13T22:05:00Z"
+  },
+  {
+    "id": "cl_2026061303",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Wilson Warbirds",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-13T22:30:00Z"
+  },
+  {
+    "id": "cl_2026061304",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-13T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061305",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-13T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061306",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-13T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026061401",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-14T17:30:00Z"
+  },
+  {
+    "id": "cl_2026061402",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Wilson Warbirds",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-14T18:00:00Z"
+  },
+  {
+    "id": "cl_2026061403",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-14T20:05:00Z"
+  },
+  {
+    "id": "cl_2026061404",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Hickory Crawdads",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-14T21:05:00Z"
+  },
+  {
+    "id": "cl_2026061405",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-14T21:05:00Z"
+  },
+  {
+    "id": "cl_2026061406",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-14T22:35:00Z"
+  },
+
+  {
+    "id": "cl_2026061601",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Salem Red Sox",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-16T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061602",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-16T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061603",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Columbia Fireflies",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-16T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061604",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-16T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061605",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Hill City",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-16T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061606",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-16T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061701",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Columbia Fireflies",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-17T16:05:00Z"
+  },
+  {
+    "id": "cl_2026061702",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Salem Red Sox",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-17T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061703",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-17T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061704",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-17T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061705",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Hill City",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-17T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061706",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-17T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026061801",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Salem Red Sox",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-18T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061802",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-18T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061803",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Columbia Fireflies",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-18T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061804",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-18T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061805",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Hill City",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-18T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061806",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-18T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026061901",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Salem Red Sox",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-19T22:35:00Z"
+  },
+  {
+    "id": "cl_2026061902",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Columbia Fireflies",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-19T23:00:00Z"
+  },
+  {
+    "id": "cl_2026061903",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-19T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061904",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Hill City",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-19T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061905",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-19T23:05:00Z"
+  },
+  {
+    "id": "cl_2026061906",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-19T23:05:00Z"
+  },
+  {
+    "id": "cl_2026062001",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Salem Red Sox",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-20T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062002",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Hill City",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-20T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062003",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Columbia Fireflies",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-20T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062004",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-20T23:05:00Z"
+  },
+  {
+    "id": "cl_2026062005",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-20T23:05:00Z"
+  },
+  {
+    "id": "cl_2026062006",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-20T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026062101",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-21T17:05:00Z"
+  },
+  {
+    "id": "cl_2026062102",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Salem Red Sox",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-21T17:35:00Z"
+  },
+  {
+    "id": "cl_2026062103",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Columbia Fireflies",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-21T18:00:00Z"
+  },
+  {
+    "id": "cl_2026062104",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Hill City",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-21T18:05:00Z"
+  },
+  {
+    "id": "cl_2026062105",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-21T18:05:00Z"
+  },
+  {
+    "id": "cl_2026062106",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-21T21:05:00Z"
+  },
+
+  {
+    "id": "cl_2026062301",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-23T16:05:00Z"
+  },
+  {
+    "id": "cl_2026062302",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Wilson Warbirds",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-23T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062303",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-23T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062304",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Hill City",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-23T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062305",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-23T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062306",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-23T23:05:00Z"
+  },
+  {
+    "id": "cl_2026062401",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-24T16:05:00Z"
+  },
+  {
+    "id": "cl_2026062402",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Wilson Warbirds",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-24T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062403",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-24T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062404",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-24T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062405",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Hill City",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-24T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062406",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-24T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026062501",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Wilson Warbirds",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-25T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062502",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-25T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062503",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-25T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062504",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Hill City",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-25T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062505",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-25T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062506",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-25T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026062601",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Wilson Warbirds",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-26T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062602",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-26T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062603",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Hill City",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-26T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062604",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-26T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062605",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-26T23:05:00Z"
+  },
+  {
+    "id": "cl_2026062606",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-26T23:05:00Z"
+  },
+  {
+    "id": "cl_2026062701",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-27T22:05:00Z"
+  },
+  {
+    "id": "cl_2026062702",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Wilson Warbirds",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-27T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062703",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-27T22:35:00Z"
+  },
+  {
+    "id": "cl_2026062704",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Hill City",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-27T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062705",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-27T23:00:00Z"
+  },
+  {
+    "id": "cl_2026062706",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-27T23:05:00Z"
+  },
+
+  {
+    "id": "cl_2026062801",
+    "league": "CL",
+    "team": "Kannapolis Cannon Ballers",
+    "opponent": "Columbia Fireflies",
+    "arena": "Atrium Health Ballpark",
+    "city": "Kannapolis, North Carolina",
+    "date": "2026-06-28T17:30:00Z"
+  },
+  {
+    "id": "cl_2026062802",
+    "league": "CL",
+    "team": "Fredericksburg Nationals",
+    "opponent": "Wilson Warbirds",
+    "arena": "Virginia Credit Union Stadium",
+    "city": "Fredericksburg, Virginia",
+    "date": "2026-06-28T17:35:00Z"
+  },
+  {
+    "id": "cl_2026062803",
+    "league": "CL",
+    "team": "Hickory Crawdads",
+    "opponent": "Hill City",
+    "arena": "LP Frans Stadium",
+    "city": "Hickory, North Carolina",
+    "date": "2026-06-28T18:00:00Z"
+  },
+  {
+    "id": "cl_2026062804",
+    "league": "CL",
+    "team": "Salem Red Sox",
+    "opponent": "Myrtle Beach Pelicans",
+    "arena": "Carilion Clinic Field",
+    "city": "Salem, Virginia",
+    "date": "2026-06-28T20:05:00Z"
+  },
+  {
+    "id": "cl_2026062805",
+    "league": "CL",
+    "team": "Fayetteville Woodpeckers",
+    "opponent": "Delmarva Shorebirds",
+    "arena": "Segra Stadium",
+    "city": "Fayetteville, North Carolina",
+    "date": "2026-06-28T21:05:00Z"
+  },
+  {
+    "id": "cl_2026062806",
+    "league": "CL",
+    "team": "Charleston RiverDogs",
+    "opponent": "Augusta GreenJackets",
+    "arena": "Joseph P. Riley Jr. Park",
+    "city": "Charleston, South Carolina",
+    "date": "2026-06-28T21:35:00Z"
+  },
+
+  {
+    "id": "cl_2026063001",
+    "league": "CL",
+    "team": "Hill City",
+    "opponent": "Fayetteville Woodpeckers",
+    "arena": "Hill City Ballpark",
+    "city": "Lynchburg, Virginia",
+    "date": "2026-06-30T22:30:00Z"
+  },
+  {
+    "id": "cl_2026063002",
+    "league": "CL",
+    "team": "Augusta GreenJackets",
+    "opponent": "Salem Red Sox",
+    "arena": "SRP Park",
+    "city": "North Augusta, South Carolina",
+    "date": "2026-06-30T23:05:00Z"
+  },
+  {
+    "id": "cl_2026063003",
+    "league": "CL",
+    "team": "Wilson Warbirds",
+    "opponent": "Kannapolis Cannon Ballers",
+    "arena": "Warbird Park",
+    "city": "Wilson, North Carolina",
+    "date": "2026-06-30T23:05:00Z"
+  },
+  {
+    "id": "cl_2026063004",
+    "league": "CL",
+    "team": "Myrtle Beach Pelicans",
+    "opponent": "Hickory Crawdads",
+    "arena": "Pelicans Ballpark",
+    "city": "Myrtle Beach, South Carolina",
+    "date": "2026-06-30T23:05:00Z"
+  },
+  {
+    "id": "cl_2026063005",
+    "league": "CL",
+    "team": "Delmarva Shorebirds",
+    "opponent": "Charleston RiverDogs",
+    "arena": "Arthur W. Perdue Stadium",
+    "city": "Salisbury, Maryland",
+    "date": "2026-06-30T23:05:00Z"
+  },
+  {
+    "id": "cl_2026063006",
+    "league": "CL",
+    "team": "Columbia Fireflies",
+    "opponent": "Fredericksburg Nationals",
+    "arena": "Segra Park",
+    "city": "Columbia, South Carolina",
+    "date": "2026-06-30T23:05:00Z"
+  }
 ]
