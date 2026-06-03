@@ -4654,8 +4654,8 @@
   {
 	"teamName": "Lexington Legends",
 	"teamCode": "LL",
-	"arena": "Legends Field",
-	"arenaId": "legends_field_lexington",
+	"arena": "Legend Field",
+	"arenaId": "legend_field_lexington",
 	"city": "Lexington, Kentucky",
 	"address": "207 Legends Ln, Lexington, KY 40505",
 	"website": "lexingtonlegends.com",
