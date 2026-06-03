@@ -1,1 +1,1114 @@
-[]
+[
+  {
+    "id": "alpb_2026060201",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lancaster Stormers",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-02T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026060202",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lexington Legends",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-02T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060203",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-02T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060204",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-02T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060205",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-02T22:35:00Z"
+  },
+
+  {
+    "id": "alpb_2026060301",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lexington Legends",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-03T15:00:00Z"
+  },
+  {
+    "id": "alpb_2026060302",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lancaster Stormers",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-03T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026060303",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-03T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060304",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-03T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060305",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-03T22:35:00Z"
+  },
+
+  {
+    "id": "alpb_2026060401",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lexington Legends",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-04T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060402",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-04T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060403",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-04T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060404",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-04T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060405",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lancaster Stormers",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-04T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026060501",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lexington Legends",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-05T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060502",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-05T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060503",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-05T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060504",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-05T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060505",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lancaster Stormers",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-05T23:00:00Z"
+  },
+
+  {
+    "id": "alpb_2026060601",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lexington Legends",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-06T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026060602",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-06T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026060603",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-06T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060604",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-06T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060605",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lancaster Stormers",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-06T23:00:00Z"
+  },
+
+  {
+    "id": "alpb_2026060701",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-07T17:00:00Z"
+  },
+  {
+    "id": "alpb_2026060702",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-07T17:35:00Z"
+  },
+  {
+    "id": "alpb_2026060703",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lexington Legends",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-07T18:00:00Z"
+  },
+  {
+    "id": "alpb_2026060704",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-07T19:36:00Z"
+  },
+  {
+    "id": "alpb_2026060705",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lancaster Stormers",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-07T20:00:00Z"
+  },
+  {
+    "id": "alpb_2026060901",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "High Point Rockers",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-09T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060902",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "Long Island Ducks",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-09T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026060903",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "York Revolution",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-09T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026060904",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-09T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061001",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-10T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061002",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "High Point Rockers",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-10T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061003",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "Long Island Ducks",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-10T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061004",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "York Revolution",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-10T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061005",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-10T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061101",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-11T20:00:00Z"
+  },
+  {
+    "id": "alpb_2026061102",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "High Point Rockers",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-11T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061103",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "Long Island Ducks",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-11T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061104",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "York Revolution",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-11T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061105",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-11T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061201",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "High Point Rockers",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-12T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061202",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "Long Island Ducks",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-12T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061203",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "York Revolution",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-12T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061204",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-12T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026061205",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-12T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026061301",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-13T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061302",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "High Point Rockers",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-13T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061303",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "Long Island Ducks",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-13T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061304",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "York Revolution",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-13T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026061305",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-13T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026061401",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "High Point Rockers",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-14T16:34:00Z"
+  },
+  {
+    "id": "alpb_2026061402",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "Long Island Ducks",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-14T17:05:00Z"
+  },
+  {
+    "id": "alpb_2026061403",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "York Revolution",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-14T17:30:00Z"
+  },
+  {
+    "id": "alpb_2026061404",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-14T17:30:00Z"
+  },
+  {
+    "id": "alpb_2026061405",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-14T18:00:00Z"
+  },
+  {
+    "id": "alpb_2026061601",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-16T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026061602",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-16T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061603",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-16T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061604",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Lexington Legends",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-16T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061605",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Lancaster Stormers",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-16T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061701",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Lexington Legends",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-17T16:05:00Z"
+  },
+  {
+    "id": "alpb_2026061702",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-17T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026061703",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-17T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061704",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-17T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061705",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Lancaster Stormers",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-17T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061801",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-18T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026061802",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-18T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061803",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-18T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061804",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Lexington Legends",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-18T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061805",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Lancaster Stormers",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-18T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061901",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-19T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061902",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-19T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026061903",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Lexington Legends",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-19T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061904",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Lancaster Stormers",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-19T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026061905",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-19T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026062001",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-20T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026062002",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-20T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026062003",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Lexington Legends",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-20T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062004",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Lancaster Stormers",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-20T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062005",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-20T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026062101",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-21T17:00:00Z"
+  },
+  {
+    "id": "alpb_2026062102",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Lancaster Stormers",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-21T17:35:00Z"
+  },
+  {
+    "id": "alpb_2026062103",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-21T18:00:00Z"
+  },
+  {
+    "id": "alpb_2026062104",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Lexington Legends",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-21T19:36:00Z"
+  },
+  {
+    "id": "alpb_2026062105",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-21T20:00:00Z"
+  },
+  {
+    "id": "alpb_2026062301",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "York Revolution",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-23T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062302",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "High Point Rockers",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-23T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062303",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-23T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062304",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-23T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062401",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-24T15:00:00Z"
+  },
+  {
+    "id": "alpb_2026062402",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Long Island Ducks",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-24T20:00:00Z"
+  },
+  {
+    "id": "alpb_2026062403",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "York Revolution",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-24T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062404",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "High Point Rockers",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-24T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062405",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-24T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062501",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Long Island Ducks",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-25T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026062502",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "York Revolution",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-25T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062503",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "High Point Rockers",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-25T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062504",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-25T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062505",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-25T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062601",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "York Revolution",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-26T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062602",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "High Point Rockers",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-26T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062603",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-26T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062604",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-26T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026062605",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Long Island Ducks",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-26T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026062701",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Long Island Ducks",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-27T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026062702",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "York Revolution",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-27T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062703",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "High Point Rockers",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-27T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026062704",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-27T22:45:00Z"
+  },
+  {
+    "id": "alpb_2026062705",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-27T23:00:00Z"
+  },
+  {
+    "id": "alpb_2026062801",
+    "league": "ALPB",
+    "team": "Charleston Dirty Birds",
+    "opponent": "York Revolution",
+    "arena": "GoMart Ballpark",
+    "city": "Charleston, West Virginia",
+    "date": "2026-06-28T16:34:00Z"
+  },
+  {
+    "id": "alpb_2026062802",
+    "league": "ALPB",
+    "team": "Southern Maryland Blue Crabs",
+    "opponent": "High Point Rockers",
+    "arena": "Regency Furniture Stadium",
+    "city": "Waldorf, Maryland",
+    "date": "2026-06-28T17:05:00Z"
+  },
+  {
+    "id": "alpb_2026062803",
+    "league": "ALPB",
+    "team": "Lancaster Stormers",
+    "opponent": "Gastonia Ghost Peppers",
+    "arena": "Penn Medicine Park",
+    "city": "Lancaster, Pennsylvania",
+    "date": "2026-06-28T17:30:00Z"
+  },
+  {
+    "id": "alpb_2026062804",
+    "league": "ALPB",
+    "team": "Staten Island FerryHawks",
+    "opponent": "Long Island Ducks",
+    "arena": "SIUH Community Park",
+    "city": "Staten Island, New York",
+    "date": "2026-06-28T17:30:00Z"
+  },
+  {
+    "id": "alpb_2026062805",
+    "league": "ALPB",
+    "team": "Lexington Legends",
+    "opponent": "Hagerstown Flying Boxcars",
+    "arena": "Legends Field",
+    "city": "Lexington, Kentucky",
+    "date": "2026-06-28T18:00:00Z"
+  },
+  {
+    "id": "alpb_2026063001",
+    "league": "ALPB",
+    "team": "Gastonia Ghost Peppers",
+    "opponent": "Lexington Legends",
+    "arena": "CaroMont Health Park",
+    "city": "Gastonia, North Carolina",
+    "date": "2026-06-30T22:00:00Z"
+  },
+  {
+    "id": "alpb_2026063002",
+    "league": "ALPB",
+    "team": "Hagerstown Flying Boxcars",
+    "opponent": "Lancaster Stormers",
+    "arena": "Meritus Park",
+    "city": "Hagerstown, Maryland",
+    "date": "2026-06-30T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026063003",
+    "league": "ALPB",
+    "team": "York Revolution",
+    "opponent": "Staten Island FerryHawks",
+    "arena": "WellSpan Park",
+    "city": "York, Pennsylvania",
+    "date": "2026-06-30T22:30:00Z"
+  },
+  {
+    "id": "alpb_2026063004",
+    "league": "ALPB",
+    "team": "High Point Rockers",
+    "opponent": "Charleston Dirty Birds",
+    "arena": "Truist Point",
+    "city": "High Point, North Carolina",
+    "date": "2026-06-30T22:35:00Z"
+  },
+  {
+    "id": "alpb_2026063005",
+    "league": "ALPB",
+    "team": "Long Island Ducks",
+    "opponent": "Southern Maryland Blue Crabs",
+    "arena": "Fairfield Properties Ballpark",
+    "city": "Central Islip, New York",
+    "date": "2026-06-30T22:35:00Z"
+  }
+
+]
