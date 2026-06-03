@@ -4570,8 +4570,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2021-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Gastonia Ghost Peppers",
 	"teamCode": "GGP",
 	"arena": "CaroMont Health Park",
@@ -4590,8 +4590,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2024-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Hagerstown Flying Boxcars",
 	"teamCode": "HFB",
 	"arena": "Meritus Park",
@@ -4611,8 +4611,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2024-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "High Point Rockers",
 	"teamCode": "HPR",
 	"arena": "Truist Point",
@@ -4631,8 +4631,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2019-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Lancaster Stormers",
 	"teamCode": "LS",
 	"arena": "Penn Medicine Park",
@@ -4650,8 +4650,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2005-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Lexington Legends",
 	"teamCode": "LL",
 	"arena": "Legends Field",
@@ -4669,8 +4669,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2021-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Long Island Ducks",
 	"teamCode": "LID",
 	"arena": "Fairfield Properties Ballpark",
@@ -4688,8 +4688,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2000-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Southern Maryland Blue Crabs",
 	"teamCode": "SMBC",
 	"arena": "Regency Furniture Stadium",
@@ -4708,8 +4708,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2008-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "Staten Island FerryHawks",
 	"teamCode": "SIF",
 	"arena": "SIUH Community Park",
@@ -4729,8 +4729,8 @@
 	"timezone": "America/New_York",
 	"startDate": "2022-02-01",
 	"endDate": null
-	},
-	{
+  },
+  {
 	"teamName": "York Revolution",
 	"teamCode": "YR",
 	"arena": "WellSpan Park",
