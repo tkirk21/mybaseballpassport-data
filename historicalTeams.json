@@ -6733,6 +6733,61 @@
 	"timezone": "Asia/Tokyo",
 	"startDate": "2004-11-26",
 	"endDate": null
+  },
+  {
+	"teamName": "Lotte Giants",
+	"teamCode": "LOT"
+	"arena": "Ulsan Munsu Baseball Stadium",
+	"arenaId": "ulsan_munsu_baseball_stadium_",
+	"city": "Ulsan, South Korea",
+	"address": "44 Munsu-ro, Nam-gu, Ulsan, South Korea",
+	"website": "www.giantsclub.com",
+	"latitude": 35.53216306672133, 
+	"longitude": 129.2656513689569,
+	"colorCode": "#FFFFFF",
+	"colorCode2": "#D50032",
+	"colorCode3": "#6CACE4",
+	"colorCode4": "#0C2340",
+	"league": "KBOL",
+	"timezone": "Asia/Seoul",
+	"startDate": "2014-01-01",
+	"endDate": null
+  },
+  {
+	"teamName": "Samsung Lions",
+	"teamCode": "SAM"
+	"arena": "Pohang Baseball Stadium",
+	"arenaId": "pohang_baseball_stadium_pohang",
+	"city": "Pohang, South Korea",
+	"address": "790 Huimang-daero, Nam-gu, Pohang-si, Gyeongsangbuk-do, South Korea",
+	"website": "www.samsunglions.com",
+	"latitude": 36.007991206318735, 
+	"longitude": 129.35924642614006,
+	"colorCode": "#074CA1",
+	"colorCode2": "#FFFFFF",
+	"colorCode2": "#C0C0C0",
+	"league": "KBOL",
+	"timezone": "Asia/Seoul",
+	"startDate": "2016-01-01",
+	"endDate": null
+  },
+  {
+	"teamName": "Wei Chuan Dragons",
+	"teamCode": "WEI"
+	"arena": "Hsinchu Baseball Stadium",
+	"arenaId": "hsinchu_baseball_stadium_hsinchu_city",
+	"city": "Hsinchu City, Taiwan",
+	"address": "No. 559號, Xida Rd, Minfu Village, North District, Hsinchu City, Taiwan 300",
+	"website": null,
+	"latitude": 24.807028055115083, 
+	"longitude": 120.96095323998702,
+	"colorCode": "#BC0011",
+	"colorCode2": "#ffffff",
+	"league": "CPBL",
+	"timezone": "Asia/Taipei"
+	"startDate": "2022-01-01",
+	"endDate": null
   }
+	
 	
 ]
