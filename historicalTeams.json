@@ -6736,7 +6736,7 @@
   },
   {
 	"teamName": "Lotte Giants",
-	"teamCode": "LOT"
+	"teamCode": "LOT",
 	"arena": "Ulsan Munsu Baseball Stadium",
 	"arenaId": "ulsan_munsu_baseball_stadium_",
 	"city": "Ulsan, South Korea",
@@ -6755,7 +6755,7 @@
   },
   {
 	"teamName": "Samsung Lions",
-	"teamCode": "SAM"
+	"teamCode": "SAM",
 	"arena": "Pohang Baseball Stadium",
 	"arenaId": "pohang_baseball_stadium_pohang",
 	"city": "Pohang, South Korea",
@@ -6773,7 +6773,7 @@
   },
   {
 	"teamName": "Wei Chuan Dragons",
-	"teamCode": "WEI"
+	"teamCode": "WEI",
 	"arena": "Hsinchu Baseball Stadium",
 	"arenaId": "hsinchu_baseball_stadium_hsinchu_city",
 	"city": "Hsinchu City, Taiwan",
