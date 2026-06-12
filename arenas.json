@@ -5516,7 +5516,7 @@
 },
 {
   "teamName": "Lotte Giants",
-  "teamCode": "LOT"
+  "teamCode": "LOT",
   "arena": "Sajik Baseball Stadium",
   "arenaId": "sajik_baseball_stadium_busan",
   "city": "Busan, South Korea",
@@ -5535,7 +5535,7 @@
 },
 {
   "teamName": "NC Dinos",
-  "teamCode": "NC"
+  "teamCode": "NC",
   "arena": "Changwon NC Park",
   "arenaId": "changwon_nc_park_gyeongsangnam",
   "city": "Changwon, South Korea",
@@ -5552,7 +5552,7 @@
 },
 {
   "teamName": "Samsung Lions",
-  "teamCode": "SAM"
+  "teamCode": "SAM",
   "arena": "Daegu Samsung Lions Park",
   "arenaId": "daegu_samsung_lions_park_daegu",
   "city": "Daegu, South Korea",
@@ -5570,7 +5570,7 @@
 },
 {
   "teamName": "SSG Landers",
-  "teamCode": "SSG"
+  "teamCode": "SSG",
   "arena": "Incheon SSG Landers Field",
   "arenaId": "incheon_ssg_landers_field_incheon",
   "city": "Incheon, South Korea",
@@ -5588,7 +5588,7 @@
 },
 {
   "teamName": "CTBC Brothers",
-  "teamCode": "CTBC"
+  "teamCode": "CTBC",
   "arena": "Taichung Intercontinental Baseball Stadium",
   "arenaId": "taichung_intercontinental_baseball_stadium_taichung_city",
   "city": "Taichung City, Taiwan",
@@ -5605,7 +5605,7 @@
 },
 {
   "teamName": "Fubon Guardians",
-  "teamCode": "FUB"
+  "teamCode": "FUB",
   "arena": "Xinzhuang Baseball Stadium",
   "arenaId": "xinzhuang_baseball_stadium_new_taipei_city",
   "city": "New Taipei City, Taiwan",
@@ -5622,7 +5622,7 @@
 },
 {
   "teamName": "Rakuten Monkeys",
-  "teamCode": "RAK"
+  "teamCode": "RAK",
   "arena": "Rakuten Taoyuan Baseball Stadium",
   "arenaId": "rakuten_taoyuan_baseball_stadium_taoyuan_city",
   "city": "Taoyuan City, Taiwan",
@@ -5639,7 +5639,7 @@
 },
 {
   "teamName": "TSG Hawks",
-  "teamCode": "TSG"
+  "teamCode": "TSG",
   "arena": "Chengcing Lake Baseball Stadium",
   "arenaId": "chengcing_lake_baseball_stadium_kaohsiung_city",
   "city": "Kaohsiung City, Taiwan",
@@ -5656,7 +5656,7 @@
 },
 {
   "teamName": "Uni-President 7-Eleven Lions",
-  "teamCode": "UP"
+  "teamCode": "UP",
   "arena": "ASPAC Main Stadium",
   "arenaId": "aspac_main_stadium_tainan_city",
   "city": "Tainan City, Taiwan",
@@ -5674,7 +5674,7 @@
 },
 {
   "teamName": "Wei Chuan Dragons",
-  "teamCode": "WEI"
+  "teamCode": "WEI",
   "arena": "Tianmu Baseball Stadium",
   "arenaId": "tianmu_baseball_stadium_tainan_city",
   "city": "Tainan City, Taiwan",
