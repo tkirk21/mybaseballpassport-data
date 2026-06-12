@@ -5319,7 +5319,7 @@
 	"arenaId": "mizuho_paypay_dome_fukuoka",
 	"city": "Fukuoka, Fukuoka",
 	"address": "2 Chome-2-2 Jigyohama, Chuo Ward, Fukuoka, 810-8660, Japan",
-	"website": "https://www.marines.co.jp/",
+	"website": "https://www.softbankhawks.co.jp/",
 	"latitude": 33.5953738219142,  
 	"longitude": 130.36206059147437,
 	"colorCode": "#FFC30F",
@@ -5436,7 +5436,7 @@
   "colorCode": "#FC4E00",
   "colorCode2": "#07111F",
   "colorCode3": "#D9D9D9",
-  "colorCode3": "#FFFFFF",
+  "colorCode4": "#FFFFFF",
   "league": "KBOL",
   "timezone": "Asia/Seoul",
   "startDate": "2025-01-01",
@@ -5485,7 +5485,7 @@
   "arenaId": "Suwon_kt_wiz_park_suwon",
   "city": "Gyeonggi-do, South Korea",
   "address": "893 Gyeongsu-daero, Jangan-gu, Suwon-si, Gyeonggi-do, South Korea",
-  "website": "www.heroesbaseball.co.kr",
+  "website": null,
   "latitude": 37.300070821993, 
   "longitude": 127.0097296364017,
   "colorCode": "#000000",
@@ -5540,7 +5540,7 @@
   "arenaId": "changwon_nc_park_gyeongsangnam",
   "city": "Changwon, South Korea",
   "address": "63 Samho-ro, Masanhoewon-gu, Changwon-si, Gyeongsangnam-do, South Korea",
-  "website": "www.giantsclub.com",
+  "website": null,
   "latitude": 35.22273857702069, 
   "longitude": 128.5820299002741,
   "colorCode": "#002B69",
@@ -5676,10 +5676,10 @@
   "teamName": "Wei Chuan Dragons",
   "teamCode": "WEI",
   "arena": "Tianmu Baseball Stadium",
-  "arenaId": "tianmu_baseball_stadium_tainan_city",
-  "city": "Tainan City, Taiwan",
+  "arenaId": "tianmu_baseball_stadium_taipi_city",
+  "city": "Taipei City, Taiwan",
   "address": "4G7M+66F Sanyu Village, Shilin District, Taipei City, Taiwan",
-  "website": "www.uni-lions.com.tw",
+  "website": null,
   "latitude": 25.11358784914177, 
   "longitude": 121.53317137194567,
   "colorCode": "#BC0011",
@@ -5766,9 +5766,5 @@
     "timezone": "Australia/Adelaide",
     "startDate": "2010-03-01",
     "endDate": null
-  }
-	
-
-	
- 	
+  } 	
 ]
