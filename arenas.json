@@ -5599,7 +5599,7 @@
   "colorCode": "#0B1B3D",
   "colorCode2": "#FCCF00",
   "league": "CPBL",
-  "timezone": "Asia/Taipei"
+  "timezone": "Asia/Taipei",
   "startDate": "2014-01-01",
   "endDate": null
 },
@@ -5616,7 +5616,7 @@
   "colorCode": "#004A9C",
   "colorCode2": "#ffffff",
   "league": "CPBL",
-  "timezone": "Asia/Taipei"
+  "timezone": "Asia/Taipei",
   "startDate": "2014-01-01",
   "endDate": null
 },
@@ -5633,7 +5633,7 @@
   "colorCode": "#C00000",
   "colorCode2": "#000000",
   "league": "CPBL",
-  "timezone": "Asia/Taipei"
+  "timezone": "Asia/Taipei",
   "startDate": "2003-01-01",
   "endDate": null
 },
@@ -5650,7 +5650,7 @@
   "colorCode": "#006400",
   "colorCode2": "#EFB21E",
   "league": "CPBL",
-  "timezone": "Asia/Taipei"
+  "timezone": "Asia/Taipei",
   "startDate": "2022-01-01",
   "endDate": null
 },
@@ -5668,7 +5668,7 @@
   "colorCode2": "#000000",
   "colorCode3": "#FFFFFF",
   "league": "CPBL",
-  "timezone": "Asia/Taipei"
+  "timezone": "Asia/Taipei",
   "startDate": "2008-01-01",
   "endDate": null
 },
@@ -5685,7 +5685,7 @@
   "colorCode": "#BC0011",
   "colorCode2": "#ffffff",
   "league": "CPBL",
-  "timezone": "Asia/Taipei"
+  "timezone": "Asia/Taipei",
   "startDate": "2021-01-01",
   "endDate": null
 },
