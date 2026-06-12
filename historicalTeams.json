@@ -6710,5 +6710,29 @@
     "timezone": "America/New York",
     "startDate": "1983-02-01",
     "endDate": "1994-10-31"
+  },
+
+
+
+
+
+  {
+	"teamName": "Orix Buffaloes",
+	"teamCode": "ORI",
+	"arena": "Hotto Motto Field",
+	"arenaId": "hotto_motto_field_kobe",
+	"city": "Kobe, Hyogo",
+	"address": "3251-10 Midoridai, Suma Ward, Kobe, Hyogo 654-0163, Japan",
+	"website": null,
+	"latitude": 34.681036382017446, 
+	"longitude": 135.07356342170644 ,
+	"colorCode": "#000020",
+	"colorCode2": "#A19C80",
+	"colorCode3": "#FFFFFF",
+	"league": "NPB",
+	"timezone": "Asia/Tokyo",
+	"startDate": "2004-11-26",
+	"endDate": null
   }
+	
 ]
