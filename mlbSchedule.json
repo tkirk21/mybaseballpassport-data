@@ -11502,5 +11502,14 @@
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
     "date": "2026-07-01T01:40:00Z"
+  },
+  {
+    "id": "mlb_2026061799",
+    "league": "MLB",
+    "team": "Test Team",
+    "opponent": "San Francisco Giants",
+    "arena": "Test Park",
+    "city": "St. Louis, Arizona",
+    "date": "2026-06-17T22:00:00Z"
   }
 ]
