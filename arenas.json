@@ -5769,7 +5769,7 @@
   },
 
   {
-    "teamName": "TEST TEAM",
+    "teamName": "Test Team",
     "teamCode": "TEST",
     "arena": "Test Park",
     "arenaId": "test_park_st_louis",
@@ -5786,4 +5786,5 @@
     "timezone": "America/Chicago",
 	"startDate": "2006-02-01",
     "endDate": null
-  },	
+  }
+]
