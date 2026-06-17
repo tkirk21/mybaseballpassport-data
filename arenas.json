@@ -5766,5 +5766,24 @@
     "timezone": "Australia/Adelaide",
     "startDate": "2010-03-01",
     "endDate": null
-  } 	
-]
+  },
+
+  {
+    "teamName": "TEST TEAM",
+    "teamCode": "TEST",
+    "arena": "Test Park",
+    "arenaId": "test_park_st_louis",
+    "city": "St. Louis, Missouri",
+    "address": "3326 Wisconsin Ave, St. Louis, MO 63118",
+    "website": "mlb.com/cardinals",
+    "latitude": 38.59366850443889, 
+    "longitude": -90.2205193371419,
+    "colorCode": "#BE0A14", 
+	"colorCode2": "#001541",
+    "colorCode3": "#FEDB00",
+    "colorCode4": "#FFFFFF",
+    "league": "MLB",
+    "timezone": "America/Chicago",
+	"startDate": "2006-02-01",
+    "endDate": null
+  },	
