@@ -5831,6 +5831,23 @@
 	"startDate": "2024-02-01",
 	"endDate": null
   },
+  {
+	"teamName": "El Águila de Veracruz",
+	"teamCode": "ELA",
+	"arena": "Estadio Universitario Beto Ávila",
+	"arenaId": "estadio_universitario_beto_avila_veracruz_city",
+	"city": "Veracruz City, Veracruz",
+	"address": "Paseo de Las Jacarandas 224 B, entre Calle Antón de Alaminos y Virginia, Virginia, 94294 Boca del Río, Ver., Mexico",
+	"website": "https://www.elaguilabeisbol.com/",
+	"latitude": 19.165007761884105, 
+	"longitude": -96.1229374463624,
+	"colorCode": "#EB3324",
+	"colorCode2": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "2020-02-01",
+	"endDate": null
+  },	
 	
 
 
