@@ -5689,7 +5689,59 @@
   "startDate": "2021-01-01",
   "endDate": null
 },
-
+{
+  "teamName": "Acereros de Monclova",
+  "teamCode": "ACE",
+  "arena": "Estadio Kickapoo Lucky Eagle",
+  "arenaId": "estadio_kickapoo_lucky_eagle_coahuila",
+  "city": "Monclova, Coahuila",
+  "address": "Cuauhtémoc, Cd Deportiva, 25750 Monclova, Coah., Mexico",
+  "website": "acereros.com.mx",
+  "latitude": 26.907105657618594, 
+  "longitude": -101.44397215101952,
+  "colorCode": "#253784",
+  "colorCode2": "#E22026",
+  "colorCode3": "#FFFFFF",
+  "league": "LMB",
+  "timezone": "America/Denver",
+  "startDate": "1975-02-01",
+  "endDate": null
+},
+{
+  "teamName": "Algodoneros de Unión Laguna",
+  "teamCode": "ACE",
+  "arena": "Estadio de la Revolución",
+  "arenaId": "estadio_de_la_revolución_torreón",
+  "city": "Torreón, Coahuila",
+  "address": "Av. Juarez s/n, Primero de Cobián Centro, 27000 Torreón, Coah., Mexico",
+  "website": "www.unionlaguna.mx",
+  "latitude": 25.539228099511504,
+  "longitude": -103.42904015620435,
+  "colorCode": "#381117",
+  "colorCode2": "#FFFFFF",
+  "colorCode3": "#D6AE67",
+  "league": "LMB",
+  "timezone": "America/Denver",
+  "startDate": "1940-02-01",
+  "endDate": null
+},
+{
+  "teamName": "Bravos de León",
+  "teamCode": "BRA",
+  "arena": "Estadio Domingo Santana TV4",
+  "arenaId": "estadio_domingo_santana_tv4_leon",
+  "city": "León, Guanajuato",
+  "address": "Blvr. Congreso de Chilpancingo 803, Unidad Deportiva, 37237 León de los Aldama, Gto., Mexico",
+  "website": "www.bravosdeleon.com",
+  "latitude": 21.14545639569692, 
+  "longitude": -101.65954841172574,
+  "colorCode": "#0A332B",
+  "colorCode2": "#E9AD00",
+  "league": "LMB",
+  "timezone": "America/Denver",
+  "startDate": "1978-02-01",
+  "endDate": null
+},
 
 
 
