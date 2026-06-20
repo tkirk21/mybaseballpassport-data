@@ -5760,7 +5760,24 @@
 	"startDate": "2024-02-01",
 	"endDate": null
   },
-
+  {
+	"teamName": "Charros de Jalisco",
+	"teamCode": "CHA",
+	"arena": "Estadio Panamericano",
+	"arenaId": "estadio_panamericano_zapopan",
+	"city": "Zapopan, Jalisco",
+	"address": "Calle Sta. Lucía 373, Tepeyac, 45150 Zapopan, Jal., Mexico",
+	"website": "charrosjalisco.com",
+	"latitude": 20.72735528293966, 
+	"longitude": -103.38160157012527,
+	"colorCode": "#0033A1",
+	"colorCode2": "#EBA900",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "2024-02-01",
+	"endDate": null
+  },
 	
 
 
