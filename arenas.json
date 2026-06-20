@@ -5919,6 +5919,23 @@
 	"startDate": "1975-02-01",
 	"endDate": null
   },
+  {
+	"teamName": "Pericos de Puebla",
+	"teamCode": "OLM",
+	"arena": "Estadio Hermanos Serdán",
+	"arenaId": "estadio_hermanos_serdán_puebla_city",
+	"city": "Puebla City, Puebla",
+	"address": "Calz. Ignacio Zaragoza No. 666, Malintzi, 72210 Heroica Puebla de Zaragoza, Pue., Mexico",
+	"website": "pericosdepuebla.com",
+	"latitude": 19.07550389916131, 
+	"longitude": -98.1648712977844,
+	"colorCode": "#00553D",
+	"colorCode2": "#00553D",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "1973-02-01",
+	"endDate": null
+  },
 
 
 
