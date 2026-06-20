@@ -5936,6 +5936,24 @@
 	"startDate": "1973-02-01",
 	"endDate": null
   },
+  {
+	"teamName": "Piratas de Campeche",
+	"teamCode": "PIR",
+	"arena": "Estadio Cruz Azul Nelson Barrera",
+	"arenaId": "estadio_cruz_azul_nelson_barrera_campeche_city",
+	"city": "Campeche City, Campeche",
+	"address": "Benjamín Ganzo, San Joaquín, 24027 San Francisco de Campeche, Camp., Mexico",
+	"website": "www.piratasmx.com",
+	"latitude": 19.86256606609287,  
+	"longitude": -90.5106638049338,
+	"colorCode": "#C0111E",
+	"colorCode2": "#FFFFFF",
+	"colorCode3": "#000000",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "1980-02-01",
+	"endDate": null
+  },	
 
 
 
