@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "id": "lmb_2026062001",
+    "league": "LMB",
+    "team": "Rieleros de Aguascalientes",
+    "opponent": "Pericos de Puebla",
+    "arena": "Parque Alberto Romo Chávez",
+    "city": "Aguascalientes City, Aguascalientes",
+    "date": "2026-06-21T01:00:00Z"
+  },
+  {
+    "id": "lmb_2026062002",
+    "league": "LMB",
+    "team": "Piratas de Campeche",
+    "opponent": "Acereros de Monclova",
+    "arena": "Estadio Cruz Azul Nelson Barrera",
+    "city": "Campeche City, Campeche",
+    "date": "2026-06-21T01:15:00Z"
+  },
+  {
+    "id": "lmb_2026062003",
+    "league": "LMB",
+    "team": "Algodoneros de Unión Laguna",
+    "opponent": "Leones de Yucatán",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-06-21T01:30:00Z"
+  },
+  {
+    "id": "lmb_2026062004",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Conspiradores de Querétaro",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-06-21T02:05:00Z"
+  },
+  {
+    "id": "lmb_2026062005",
+    "league": "LMB",
+    "team": "Tecolotes de los Dos Laredos",
+    "opponent": "El Águila de Veracruz",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-06-21T03:00:00Z"
+  },
+  {
+    "id": "lmb_2026062006",
+    "league": "LMB",
+    "team": "Toros de Tijuana",
+    "opponent": "Olmecas de Tabasco",
+    "arena": "Toros Mobil Park",
+    "city": "Tijuana, Baja California",
+    "date": "2026-06-21T03:35:00Z"
+  },
+  {
+    "id": "lmb_2026062101",
+    "league": "LMB",
+    "team": "Diablos Rojos del México",
+    "opponent": "Sultanes de Monterrey",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-06-21T21:00:00Z"
+  },
+  {
+    "id": "lmb_2026062102",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Conspiradores de Querétaro",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-06-21T21:05:00Z"
+  },
+  {
+    "id": "lmb_2026062103",
+    "league": "LMB",
+    "team": "Tigres de Quintana Roo",
+    "opponent": "Dorados de Chihuahua",
+    "arena": "Estadio Sherwin-Williams Beto Ávila",
+    "city": "Cancún, Quintana Roo",
+    "date": "2026-06-21T23:00:00Z"
+  },
+  {
+    "id": "lmb_2026062104",
+    "league": "LMB",
+    "team": "Guerreros de Oaxaca",
+    "opponent": "Charros de Jalisco",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "lmb_2026062105",
+    "league": "LMB",
+    "team": "Saraperos de Saltillo",
+    "opponent": "Bravos de León",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "lmb_2026062106",
+    "league": "LMB",
+    "team": "Rieleros de Aguascalientes",
+    "opponent": "Pericos de Puebla",
+    "arena": "Parque Alberto Romo Chávez",
+    "city": "Aguascalientes City, Aguascalientes",
+    "date": "2026-06-22T01:00:00Z"
+  },
+  {
+    "id": "lmb_2026062107",
+    "league": "LMB",
+    "team": "Tecolotes de los Dos Laredos",
+    "opponent": "El Águila de Veracruz",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-06-22T01:00:00Z"
+  },
+  {
+    "id": "lmb_2026062108",
+    "league": "LMB",
+    "team": "Piratas de Campeche",
+    "opponent": "Acereros de Monclova",
+    "arena": "Estadio Cruz Azul Nelson Barrera",
+    "city": "Campeche City, Campeche",
+    "date": "2026-06-22T01:15:00Z"
+  },
+  {
+    "id": "lmb_2026062109",
+    "league": "LMB",
+    "team": "Algodoneros de Unión Laguna",
+    "opponent": "Leones de Yucatán",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-06-22T01:30:00Z"
+  },
+  {
+    "id": "lmb_2026062110",
+    "league": "LMB",
+    "team": "Saraperos de Saltillo",
+    "opponent": "Bravos de León",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-06-22T02:00:00Z"
+  }
+]
