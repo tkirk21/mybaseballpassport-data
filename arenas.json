@@ -5708,6 +5708,24 @@
   "endDate": null
 },
 
+{
+  "teamName": "Algodoneros de Unión Laguna",
+  "teamCode": "ALG",
+  "arena": "Estadio de la Revolución",
+  "arenaId": "estadio_de_la_revolución_torreón",
+  "city": "Torreón, Coahuila",
+  "address": "Av. Juarez s/n, Primero de Cobián Centro, 27000 Torreón, Coah., Mexico",
+  "website": "www.unionlaguna.mx",
+  "latitude": 25.539228099511504,
+  "longitude": -103.42904015620435,
+  "colorCode": "#381117",
+  "colorCode2": "#FFFFFF",
+  "colorCode3": "#D6AE67",
+  "league": "LMB",
+  "timezone": "America/Denver",
+  "startDate": "1940-02-01",
+  "endDate": null
+},
 
 
 
