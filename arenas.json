@@ -5813,6 +5813,25 @@
     "startDate": "1940-02-01",
     "endDate": null
   },
+  {
+	"teamName": "Dorados de Chihuahua",
+	"teamCode": "DOR",
+	"arena": "Estadio Monumental Chihuahua",
+	"arenaId": "estadio_monumental_chihuahua_chihuahua_city",
+	"city": "Chihuahua City, Chihuahua",
+	"address": "Calle Guadalupe Victoria, Ávalos, 31074 Chihuahua, Chih., Mexico",
+	"website": "https://lmb.com.mx/equipos/dorados",
+	"latitude": 28.625962882722124, 
+	"longitude": -106.02212787598019,
+	"colorCode": "#3E2565",
+	"colorCode2": "#EAC339",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "2024-02-01",
+	"endDate": null
+  },
+	
 
 
 
