@@ -5901,6 +5901,24 @@
 	"startDate": "1954-02-01",
 	"endDate": null
   },	
+  {
+	"teamName": "Olmecas de Tabasco",
+	"teamCode": "OLM",
+	"arena": "Estadio Centenario Orsan",
+	"arenaId": "estadio_centenario_orsan_villahermosa",
+	"city": "Villahermosa, Tabasco",
+	"address": "Circuito Deportivo, Primero de Mayo, 86100 Villahermosa, Tab., Mexico",
+	"website": "https://www.leones.mx/",
+	"latitude": 17.97657845645042, 
+	"longitude": -92.94417415204553,
+	"colorCode": "#0B3F95",
+	"colorCode2": "#C0111E",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "1975-02-01",
+	"endDate": null
+  },
 
 
 
