@@ -1,1 +1,38 @@
-[]
+[
+  {
+  "id": "abl_2025111201",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Brisbane Showgrounds",
+  "city": "Brisbane, Queensland",
+  "date": "2026-11-12T19:00:00Z"
+},
+{
+  "id": "abl_2025111202",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire Ballpark",
+  "city": "Perth, Western Australia",
+  "date": "2026-11-12T19:00:00Z"
+},
+{
+  "id": "abl_2025111901",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blacktown International Sportspark",
+  "city": "Sydney, New South Wales",
+  "date": "2026-11-19T19:00:00Z"
+},
+{
+  "id": "abl_2025111902",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-11-19T19:00:00Z"
+}
+]
