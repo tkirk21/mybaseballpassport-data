@@ -5953,6 +5953,24 @@
 	"timezone": "America/Denver",
 	"startDate": "1980-02-01",
 	"endDate": null
+  },
+  {
+	"teamName": "Rieleros de Aguascalientes",
+	"teamCode": "RIE",
+	"arena": "Parque Alberto Romo Chávez",
+	"arenaId": "parque_alberto_romo_chávez",
+	"city": "Aguascalientes City, Aguascalientes",
+	"address": "Juan de La Barrera 102, Héroes, 20190 Aguascalientes, Ags., Mexico",
+	"website": "www.piratasmx.com",
+	"latitude": 21.880228458215743,   
+	"longitude": -102.2740841139651,
+	"colorCode": "#021D49",
+	"colorCode2": "#F7C003",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "1975-02-01",
+	"endDate": null
   },	
 
 
