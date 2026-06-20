@@ -412,5 +412,113 @@
     "arena": "Estadio Kickapoo Lucky Eagle",
     "city": "Monclova, Coahuila",
     "date": "2026-06-26T02:45:00Z"
+  },
+  {
+    "id": "lmb_2026062509",
+    "league": "LMB",
+    "team": "Dorados de Chihuahua",
+    "opponent": "Toros de Tijuana",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-06-26T03:00:00Z"
+  },
+  {
+    "id": "lmb_2026062901",
+    "league": "LMB",
+    "team": "Acereros de Monclova",
+    "opponent": "Toros de Tijuana",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-06-30T02:45:00Z"
+  },
+  {
+    "id": "lmb_2026063001",
+    "league": "LMB",
+    "team": "Tigres de Quintana Roo",
+    "opponent": "El Águila de Veracruz",
+    "arena": "Estadio Sherwin-Williams Beto Ávila",
+    "city": "Cancún, Quintana Roo",
+    "date": "2026-07-01T01:30:00Z"
+  },
+  {
+    "id": "lmb_2026063002",
+    "league": "LMB",
+    "team": "Guerreros de Oaxaca",
+    "opponent": "Diablos Rojos del México",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-07-01T02:00:00Z"
+  },
+  {
+    "id": "lmb_2026063003",
+    "league": "LMB",
+    "team": "Pericos de Puebla",
+    "opponent": "Leones de Yucatán",
+    "arena": "Estadio Hermanos Serdán",
+    "city": "Puebla City, Puebla",
+    "date": "2026-07-01T02:00:00Z"
+  },
+  {
+    "id": "lmb_2026063004",
+    "league": "LMB",
+    "team": "Conspiradores de Querétaro",
+    "opponent": "Piratas de Campeche",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-01T02:00:00Z"
+  },
+  {
+    "id": "lmb_2026063005",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Charros de Jalisco",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-07-01T02:10:00Z"
+  },
+  {
+    "id": "lmb_2026063006",
+    "league": "LMB",
+    "team": "Bravos de León",
+    "opponent": "Olmecas de Tabasco",
+    "arena": "Estadio Domingo Santana TV4",
+    "city": "León, Guanajuato",
+    "date": "2026-07-01T02:30:00Z"
+  },
+  {
+    "id": "lmb_2026063007",
+    "league": "LMB",
+    "team": "Algodoneros de Unión Laguna",
+    "opponent": "Rieleros de Aguascalientes",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-07-01T02:30:00Z"
+  },
+  {
+    "id": "lmb_2026063008",
+    "league": "LMB",
+    "team": "Sultanes de Monterrey",
+    "opponent": "Dorados de Chihuahua",
+    "arena": "Walmart Park",
+    "city": "Monterrey, Nuevo León",
+    "date": "2026-07-01T02:30:00Z"
+  },
+  {
+    "id": "lmb_2026063009",
+    "league": "LMB",
+    "team": "Saraperos de Saltillo",
+    "opponent": "Tecolotes de los Dos Laredos",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-01T02:30:00Z"
+  },
+  {
+    "id": "lmb_2026063010",
+    "league": "LMB",
+    "team": "Acereros de Monclova",
+    "opponent": "Toros de Tijuana",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-07-01T02:45:00Z"
   }
 ]
