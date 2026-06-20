@@ -5778,7 +5778,24 @@
 	"startDate": "2024-02-01",
 	"endDate": null
   },
-	
+  {
+	"teamName": "Conspiradores de Querétaro",
+	"teamCode": "CON",
+	"arena": "Estadio Finsus",
+	"arenaId": "estadio_finsus_huimilpan",
+	"city": "Huimilpan, Querétaro",
+	"address": "Rancho la Mora, 76952 Querétaro, Qro., Mexico",
+	"website": "https://lmb.com.mx/equipos/conspiradores",
+	"latitude": 20.42476025949401, 
+	"longitude": -100.301443307219,
+	"colorCode": "#5B118B",
+	"colorCode2": "#000000",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "2022-02-01",
+	"endDate": null
+  },
 
 
 
