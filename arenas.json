@@ -5883,7 +5883,24 @@
 	"startDate": "1954-02-01",
 	"endDate": null
   },	
-	
+  {
+	"teamName": "Leones de Yucatán",
+	"teamCode": "LEO",
+	"arena": "Parque Kukulcán Alamo",
+	"arenaId": "parque_kukulcan_alamo_merida",
+	"city": "Mérida, Yucatán",
+	"address": "Kukulcán, 97174 Merida, Yucatan, Mexico",
+	"website": "https://www.leones.mx/",
+	"latitude": 20.94097975264393, 
+	"longitude": -89.59600108988683,
+	"colorCode": "#134D2B",
+	"colorCode2": "#E66125",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "1954-02-01",
+	"endDate": null
+  },	
 
 
 
