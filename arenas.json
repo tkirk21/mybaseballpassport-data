@@ -5742,6 +5742,25 @@
     "startDate": "1978-02-01",
     "endDate": null
   },
+  {
+	"teamName": "Caliente de Durango",
+	"teamCode": "CAL",
+	"arena": "Estadio Francisco Villa",
+	"arenaId": "estadio_francisco_villa_durango_city",
+	"city": "Durango City, Durango",
+	"address": "Avenida Universidad 1641, Los Remedios, 34113 Durango, Dgo., Mexico",
+	"website": "https://www.caliente.mx",
+	"latitude": 24.01622317384726, 
+	"longitude": -104.68924720999622,
+	"colorCode": "#D62928",
+	"colorCode2": "#000000",
+	"colorCode3": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "2024-02-01",
+	"endDate": null
+  },
+
 	
 
 
