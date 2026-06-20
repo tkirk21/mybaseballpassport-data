@@ -5848,6 +5848,23 @@
 	"startDate": "2020-02-01",
 	"endDate": null
   },	
+  {
+	"teamName": "Guerreros de Oaxaca",
+	"teamCode": "GUE",
+	"arena": "Estadio Yu'va",
+	"arenaId": "estadio_yuva_oaxaca_city",
+	"city": "Oaxaca City, Oaxaca",
+	"address": "De Los Derechos Humanos, Centro, 68000 Oaxaca de Juárez, Oax., Mexico",
+	"website": "www.guerreros.mx",
+	"latitude": 17.069688476411514, 
+	"longitude": -96.71292277186313,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "LMB",
+	"timezone": "America/Denver",
+	"startDate": "1996-02-01",
+	"endDate": null
+  },
 	
 
 
