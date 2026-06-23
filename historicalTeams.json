@@ -6990,23 +6990,6 @@
     "endDate": "1979-10-31"
   },
   {
-    "teamName": "Manchester Yankees",
-    "teamCode": "MAN",
-    "arena": "Gill Stadium",
-    "arenaId": "gill_stadium_manchester",
-    "city": "Manchester, New Hampshire",
-    "address": "396 Valley St, Manchester, NH 03103",
-    "website": "milb.com/akron",
-    "latitude": 42.98201515207349,
-    "longitude": -71.45395499248632,
-    "colorCode": "#000000",
-    "colorCode2": "#FFFFFF",
-    "league": "EL",
-    "timezone": "America/New York",
-    "startDate": "1969-02-01",
-    "endDate": "1971-10-31"
-  },
-  {
     "teamName": "Binghamton Triplets",
     "teamCode": "BNG",
     "arena": "Johnson Field",
@@ -7156,6 +7139,23 @@
     "startDate": "1995-02-01",
     "endDate": "1995-10-31"
   },
+  {
+    "teamName": "Manchester Yankees",
+    "teamCode": "MAN",
+    "arena": "Gill Stadium",
+    "arenaId": "gill_stadium_manchester",
+    "city": "Manchester, New Hampshire",
+    "address": "396 Valley St, Manchester, NH 03103",
+    "website": "milb.com/akron",
+    "latitude": 42.98201515207349,
+    "longitude": -71.45395499248632,
+    "colorCode": "#000000",
+    "colorCode2": "#FFFFFF",
+    "league": "EL",
+    "timezone": "America/New York",
+    "startDate": "1969-02-01",
+    "endDate": "1971-10-31"
+  },	
   {
     "teamName": "New Britain Red Sox",
     "teamCode": "NBRS",
