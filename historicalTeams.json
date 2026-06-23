@@ -2085,7 +2085,7 @@
     "endDate": "1960-11-01"
   },
   {
-    "teamName": "Washington Nationals",
+    "teamName": "Washington Senators",
     "teamCode": "WSH",
     "arena": "Griffith Stadium",
     "arenaId": "griffith_stadium_washington",
@@ -2100,6 +2100,24 @@
     "league": "MLB",
     "timezone": "America/New York",
 	"startDate": "1901-02-01",
+    "endDate": "1904-11-01"
+  },	
+  {
+    "teamName": "Washington Nationals",
+    "teamCode": "WSH",
+    "arena": "Griffith Stadium",
+    "arenaId": "griffith_stadium_washington",
+    "city": "Washington, DC",
+    "address": "2041 Georgia Ave NW #1-400, Washington, DC 20060",
+    "website": "mlb.com/twins",
+    "latitude": 38.9174759123994, 
+    "longitude": -77.02027241306413,
+    "colorCode": "#091F40",
+	"colorCode2": "#E31E34",
+	"colorCode3": "#FFFFFF",
+    "league": "MLB",
+    "timezone": "America/New York",
+	"startDate": "1905-02-01",
     "endDate": "1955-11-01"
   },
   {
