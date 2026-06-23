@@ -3550,6 +3550,24 @@
     "timezone": "America/New_York",
     "startDate": "1944-01-01",
     "endDate": "1953-12-31"
+  },
+  {
+    "teamName": "Binghamton Bingoes",
+    "teamCode": "BIN",
+    "arena": "Johnson Field",
+    "arenaId": "johnson_field_binghamton",
+    "city": "Binghamton, New York",
+    "address": "Lt Vanwinkle Dr, Binghamton, NY 13905",
+    "website": null,
+    "latitude": 42.133283966936894, 
+    "longitude": -75.91375597805032,
+    "colorCode": "#DF4601",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "league": "IL",
+    "timezone": "America/New_York",
+    "startDate": "1918-01-01",
+    "endDate": "1919-12-31"
   },	
   {
     "teamName": "Buffalo Bisons",
