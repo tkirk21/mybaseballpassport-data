@@ -7128,6 +7128,24 @@
 	"timezone": "America/New_York",
 	"startDate": "1935-01-01",
 	"endDate": "1936-12-31"
+  },
+  {
+	"teamName": "Elmira Pioneers",
+	"teamCode": "ELM",
+	"arena": "Dunn Field",
+	"arenaId": "dunn_field_elmira",
+	"city": "Elmira, New York",
+	"address": "546 Luce St, Elmira, NY 14904",
+	"website": "https://www.theelmirapioneers.com/",
+	"latitude": 42.080183604363185, 
+	"longitude": -76.7806210839048,
+	"colorCode": "#B80001",
+	"colorCode2": "#295CD8",
+	"colorCode3": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1938-01-01",
+	"endDate": "1955-12-31"
   },	
   {
 	"teamName": "Elmira Red Wings",
