@@ -4756,6 +4756,24 @@
     "startDate": "1920-02-01",
     "endDate": "1927-11-01"
   },
+	{
+    "teamName": "Syracuse Stars",
+    "teamCode": "SYR",
+    "arena": "MacArthur Stadium",
+    "arenaId": "nbt_bank_stadium_syracuse",
+    "city": "Syracuse, New York",
+    "address": "1 Tex Simone Dr, Syracuse, NY 13208",
+    "website": "milb.com/syracuse",
+    "latitude": 43.07671993082339,
+    "longitude": -76.16290198815923,
+    "colorCode": "#004B8D",
+    "colorCode2": "#F47D30",
+    "colorCode3": "#FFFFFF",
+    "league": "IL",
+    "timezone": "America/New York",
+    "startDate": "1918-02-01",
+    "endDate": "1918-11-01"
+  },
   {
     "teamName": "Tidewater Tides",
     "teamCode": "TDW",
