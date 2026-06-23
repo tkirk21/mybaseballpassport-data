@@ -3443,7 +3443,26 @@
 
 
 
-
+  
+  {
+    "teamName": "Akron Buckeyes",
+    "teamCode": "AKR",
+    "arena": "Ray Winder Field",
+    "arenaId": "ray_winder_field_little_rock",
+    "city": "Little Rock, Arkansas",
+    "address": "400 Broadway St, Little Rock, AR 72205",
+    "website": "milb.com/arkansas",
+    "latitude": 34.745273499132296,
+    "longitude": -92.32749760650533,
+    "colorCode": "#C40233",
+    "colorCode2": "#000000",
+    "colorCode3": "#C0C0C0",
+    "colorCode4": "#800000",
+    "league": "IL",
+    "timezone": "America/New York",
+    "startDate": "1920-02-01",
+    "endDate": "1920-11-01"
+  },
   {
     "teamName": "Arkansas Travelers",
     "teamCode": "ARK",
