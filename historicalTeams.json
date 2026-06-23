@@ -4368,6 +4368,25 @@
     "startDate": "1921-02-01",
     "endDate": "1922-11-01"
   },
+	{
+    "teamName": "Reading Coal Barons",
+    "teamCode": "REA",
+    "arena": "FirstEnergy Stadium",
+    "arenaId": "firstenergy_stadium_reading",
+    "city": "Reading, Pennsylvania",
+    "address": "1900 Centre Ave, Reading, PA 19605",
+    "website": "milb.com/reading",
+    "latitude": 40.36523075723369,
+    "longitude": -75.9340133313462,
+    "colorCode": "#D31145",
+    "colorCode2": "#002C61",
+    "colorCode3": "#B5A98F",
+    "colorCode4": "#FFFFFF",
+    "league": "IL",
+    "timezone": "America/New York",
+    "startDate": "1919-02-01",
+    "endDate": "1919-11-01"
+  },
   {
     "teamName": "Reading Keystones",
     "teamCode": "REA",
