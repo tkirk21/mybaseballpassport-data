@@ -2771,24 +2771,6 @@
     "endDate": "1890-11-01"
   },
   {
-    "teamName": "Allegheny",
-    "teamCode": "PIT",
-    "arena": "Exposition Park",
-    "arenaId": "exposition_park_pittsburgh",
-    "city": "Pittsburgh, Pennsylvania",
-    "address": "358 North Shore Drive, Pittsburgh, PA 15212",
-    "website": "mlb.com/pirates",
-    "latitude": 40.44688318807408,    
-    "longitude": -80.01054855211339,
-    "colorCode": "#FDB827", 
-	"colorCode2": "#000000",
-    "colorCode3": "#FFFFFF",
-    "league": "MLB",
-    "timezone": "America/New York",
-	"startDate": "1882-02-01",
-    "endDate": "1983-11-01"
-  },
-  {
     "teamName": "San Diego Padres",
     "teamCode": "SD",
     "arena": "Desert Sun Stadium",
