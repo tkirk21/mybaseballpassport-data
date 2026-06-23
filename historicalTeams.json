@@ -6762,7 +6762,7 @@
     "city": "Vancouver, British Columbia",
     "address": "4601 Ontario St, Vancouver, BC V5V 3H4, Canada",
     "website": "milb.com/salt-lake",
-    "latitude": 449.24294403032395,
+    "latitude": 49.24294403032395,
     "longitude": -123.10648630871634,
     "colorCode": "#000066",
     "colorCode2": "#FC0000",
@@ -6861,6 +6861,18 @@
     "startDate": "2020-02-01",
     "endDate": "2020-11-01"
   },
+
+
+
+
+
+
+
+
+
+
+
+	
   {
     "teamName": "Akron Aeros",
     "teamCode": "AKR",
