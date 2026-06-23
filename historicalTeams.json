@@ -7185,6 +7185,23 @@
     "timezone": "America/New York",
     "startDate": "2016-02-01",
     "endDate": "2016-10-31"
+  },
+  {
+	"teamName": "Hazleton Mountaineers",
+	"teamCode": "HAZ",
+	"arena": "Cranberry Ballpark",
+	"arenaId": "cranberry_ballpark_hazelton",
+	"city": "Hazleton, Pennsylvania",
+	"address": "899 E 9th St, Hazleton, PA 18201",
+	"website": null,
+	"latitude": 40.968456174110074,   
+	"longitude": -75.95862961090225,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1929-06-16",
+	"endDate": "1936-12-31"
   },	
   {
     "teamName": "Manchester Yankees",
@@ -7310,7 +7327,24 @@
 	"timezone": "America/New_York",
 	"startDate": "1925-01-01",
 	"endDate": "1925-12-31"
-	},	
+  },
+  {
+	"teamName": "Syracuse Stars",
+	"teamCode": "SYR",
+	"arena": " Star Park",
+	"arenaId": "star_park_syracuse",
+	"city": "Syracuse, New York",
+	"address": "135 State Fair Blvd, Syracuse, NY 13204",
+	"website": null,
+	"latitude": 43.053190775441074,    
+	"longitude": -76.18165880419139,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1928-01-01",
+	"endDate": "1929-06-15"
+  },	
   {
 	"teamName": "Utica Utes",
 	"teamCode": "UTI",
