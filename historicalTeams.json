@@ -5080,7 +5080,7 @@
     "colorCode3": "#FFFFFF",
     "colorCode4": "#A6714D",
     "league": "PCL",
-    "timezone": "America/Des Moines",
+    "timezone": "America/Chicago",
     "startDate": "2002-02-01",
     "endDate": "2020-11-01"
   },
@@ -5617,7 +5617,7 @@
     "colorCode2": "#947C51",
     "colorCode3": "#FFFFFF",
     "league": "PCL",
-    "timezone": "America/Calgary",
+    "timezone": "America/Edmonton",
     "startDate": "1979-02-01",
     "endDate": "1980-11-01"
   },
@@ -5730,7 +5730,7 @@
     "colorCode2": "#B9976A",
     "colorCode3": "#000000",
     "league": "PCL",
-    "timezone": "America/Omaha",
+    "timezone": "America/Chicago",
     "startDate": "1999-02-01",
     "endDate": "2001-11-01"
   },
@@ -6040,7 +6040,7 @@
     "teamCode": "SAM",
     "arena": "Edmonds Field",
     "arenaId": "edmonds_field_sacarmento",
-    "city": "Sacarmento, California",
+    "city": "Sacramento, California",
     "address": "1216 Broadway, Sacramento, CA 95818",
     "website": "milb.com/san-antonio",
     "latitude": 38.56284265370163,
@@ -6054,10 +6054,10 @@
   },
   {
     "teamName": "Sacramento Solons",
-    "teamCode": "SAM",
+    "teamCode": "SAC",
     "arena": "Hughes Stadium",
     "arenaId": "hughes_stadium_sacarmento",
-    "city": "Sacarmento, California",
+    "city": "Sacramento, California",
     "address": "3835 Freeport Blvd, Sacramento, CA 95822",
     "website": "milb.com/san-antonio",
     "latitude": 38.54120808783037, 
@@ -6482,7 +6482,7 @@
 	"endDate": "1906-12-31"
   },
   {
-    "teamName": "Spokana Indians",
+    "teamName": "Spokane Indians",
     "teamCode": "SPO",
     "arena": "Fairgrounds Ballpark",
     "arenaId": "avista_stadium_spokane",
@@ -6496,12 +6496,12 @@
     "colorCode3": "#69B3E7",
     "colorCode4": "#69B3E7",
     "league": "PCL",
-    "timezone": "America/Seattle",
+    "timezone": "America/Los_Angeles",
     "startDate": "1958-02-01",
     "endDate": "1971-11-01"
   },
   {
-    "teamName": "Spokana Indians",
+    "teamName": "Spokane Indians",
     "teamCode": "SPO",
     "arena": "Fairgrounds Ballpark",
     "arenaId": "avista_stadium_spokane",
@@ -6524,7 +6524,7 @@
     "teamCode": "SLS",
     "arena": "Constellation Field",
     "arenaId": "constellation_field_suger_land",
-    "city": "Suger Land, TX",
+    "city": "Sugar Land, TX",
     "address": "1 Stadium Dr, Sugar Land, TX 77498",
     "website": "milb.com/sugar-land",
     "latitude": 29.6227464983256,
