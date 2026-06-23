@@ -224,6 +224,24 @@
     "endDate": "1899-12-31"
   },
   {
+    "teamName": "Baltimore Orioles",
+    "teamCode": "BAL",
+    "arena": "Union Park",
+    "arenaId": "union_park_baltimore",
+    "city": "Baltimore, Maryland",
+    "address": "300 E 25th St, Baltimore, MD 21218",
+    "website": "mlb.com/orioles",
+    "latitude": 39.31821527242643, 
+    "longitude": -76.61268247311757,
+    "colorCode": "#DF4601",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "league": "MLB",
+    "timezone": "America/New_York",
+    "startDate": "1901-01-01",
+    "endDate": "1902-12-31"
+  },	
+  {
     "teamName": "Boston Red Sox",
     "teamCode": "BOS",
     "arena": "JetBlue Park",
