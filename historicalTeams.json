@@ -3496,6 +3496,24 @@
     "timezone": "America/New York",
     "startDate": "1965-02-01",
     "endDate": "1965-11-01"
+  },	
+  {
+    "teamName": "Baltimore Orioles",
+    "teamCode": "BAL",
+    "arena": "Buffalo Baseball Park",
+    "arenaId": "buffalo_baseball_park",
+    "city": "Buffalo, New York",
+    "address": "337 Summer St, Buffalo, NY 14222",
+    "website": "mlb.com/orioles",
+    "latitude": 42.90558121925727, 
+    "longitude": -78.88109935875322,
+    "colorCode": "#DF4601",
+    "colorCode2": "#000000",
+    "colorCode3": "#FFFFFF",
+    "league": "IL",
+    "timezone": "America/New_York",
+    "startDate": "1912-01-01",
+    "endDate": "1914-12-31"
   },		
   {
     "teamName": "Charlotte Knights",
