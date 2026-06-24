@@ -1000,7 +1000,11 @@
     "opponent": "San Francisco Giants",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-02T01:40:00Z"
+    "date": "2026-07-02T01:40:00Z",
+    "giveaway": {
+      "title": "Paint at the Park - Special Event",
+      "details": "Special event ticket required."
+    }
   },
   {
     "id": "mlb_2026070201",
@@ -1180,7 +1184,11 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-04T01:45:00Z"
+    "date": "2026-07-04T01:45:00Z",
+    "giveaway": {
+      "title": "Girl Scout Night - Special Event",
+      "details": "Special event ticket required."
+    }
   },
   {
     "id": "mlb_2026070312",
@@ -1324,7 +1332,11 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-05T01:40:00Z"
+    "date": "2026-07-05T01:40:00Z",
+    "giveaway": {
+      "title": "4th of July Weekend + Fireworks Spectaculars presented by Bar-S",
+      "details": "Postgame fireworks spectacular."
+    }
   },
   {
     "id": "mlb_2026070415",
@@ -1433,6 +1445,10 @@
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
     "date": "2026-07-05T20:10:00Z"
+    "giveaway": {
+      "title": "Scouting Arizona Day",
+      "details": "Special event ticket required. This is not a stadium-wide giveaway."
+    }
   },
   {
     "id": "mlb_2026070512",
@@ -2476,7 +2492,11 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-18T01:40:00Z"
+    "date": "2026-07-18T01:40:00Z",
+    "giveaway": {
+      "title": "U of A Night presented by Chase - Special Event",
+      "details": "Special event ticket required. This is not a stadium-wide giveaway."
+    }
   },
   {
     "id": "mlb_2026071715",
@@ -2557,7 +2577,12 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-18T20:10:00Z"
+    "date": "2026-07-18T20:10:00Z",
+    "date": "2026-07-18T20:10:00Z",
+    "giveaway": {
+      "title": "Geraldo Perdomo Audio Bobble",
+      "details": "First 20,000 fans receive a Geraldo Perdomo Audio Bobble courtesy of Chas Roberts."
+    }
   },
   {
     "id": "mlb_2026071809",
@@ -2746,7 +2771,11 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-19T20:10:00Z"
+    "date": "2026-07-19T20:10:00Z",
+    "giveaway": {
+      "title": "Baxter Ears Cap",
+      "details": "First 5,000 kids receive a Baxter Ears Cap courtesy of Honeywell Aerospace."
+    }
   },
   {
     "id": "mlb_2026071915",
@@ -2872,7 +2901,11 @@
     "opponent": "Athletics",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-21T01:40:00Z"
+    "date": "2026-07-21T01:40:00Z",
+    "giveaway": {
+      "title": "The Church of Jesus Christ of Latter-Day Saints Family Night - Special Event",
+      "details": "Special event ticket required."
+    }
   },
   {
     "id": "mlb_2026072014",
@@ -3016,7 +3049,11 @@
     "opponent": "Athletics",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-22T01:40:00Z"
+    "date": "2026-07-22T01:40:00Z",
+    "giveaway": {
+      "title": "Youth Football - Special Event",
+      "details": "Special event ticket required."
+    }
   },
   {
     "id": "mlb_2026072115",
