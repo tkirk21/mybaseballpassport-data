@@ -1175,7 +1175,11 @@
     "opponent": "Miami Marlins",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-04T01:40:00Z"
+    "date": "2026-07-04T01:40:00Z",
+    "giveaway": {
+      "title": "Country Hat",
+      "details": "Early arriving fans receive a Country Hat while supplies last."
+    }
   },
   {
     "id": "mlb_2026070311",
@@ -1323,7 +1327,11 @@
     "opponent": "Miami Marlins",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-05T01:40:00Z"
+    "date": "2026-07-05T01:40:00Z",
+    "giveaway": {
+      "title": "Patriotic Fireworks",
+      "details": "Postgame fireworks spectacular."
+    }
   },
   {
     "id": "mlb_2026070414",
@@ -1457,7 +1465,11 @@
     "opponent": "Miami Marlins",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-05T20:30:00Z"
+    "date": "2026-07-05T20:30:00Z",
+    "giveaway": {
+      "title": "Pool Float",
+      "details": "Children ages 14 and under receive a Pool Float while supplies last."
+    }
   },
   {
     "id": "mlb_2026070513",
@@ -2483,7 +2495,11 @@
     "opponent": "Washington Nationals",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-18T01:40:00Z"
+    "date": "2026-07-18T01:40:00Z",
+    "giveaway": {
+      "title": "Championship Belt Bag Giveaway",
+      "details": "Early arriving fans receive a Championship Belt Bag while supplies last."
+    }
   },
   {
     "id": "mlb_2026071714",
@@ -2636,7 +2652,11 @@
     "opponent": "Washington Nationals",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-19T02:05:00Z"
+    "date": "2026-07-19T02:05:00Z",
+    "giveaway": {
+      "title": "Short Sleeve Hoodie",
+      "details": "Early arriving fans receive a Short Sleeve Hoodie while supplies last."
+    }
   },
   {
     "id": "mlb_2026071815",
@@ -2744,7 +2764,11 @@
     "opponent": "Washington Nationals",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-19T20:05:00Z"
+    "date": "2026-07-19T20:05:00Z",
+    "giveaway": {
+      "title": "Backyard Baseball T-Shirt",
+      "details": "Children ages 14 and under receive a Backyard Baseball T-Shirt while supplies last."
+    }
   },
   {
     "id": "mlb_2026071912",
@@ -3854,7 +3878,11 @@
     "opponent": "Boston Red Sox",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-07-29T01:40:00Z"
+    "date": "2026-07-29T01:40:00Z",
+    "giveaway": {
+      "title": "Filipino Heritage Night",
+      "details": "Special ticket required. Includes an exclusive Filipino Heritage Night hat."
+    }
   },
   {
     "id": "mlb_2026072813",
@@ -4214,7 +4242,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-08-01T01:40:00Z"
+    "date": "2026-08-01T01:40:00Z",
+    "giveaway": {
+      "title": "Bravo Night Tote",
+      "details": "Early arriving fans receive an exclusive Bravo x A's co-branded tote while supplies last."
+    }
   },
   {
     "id": "mlb_2026073113",
