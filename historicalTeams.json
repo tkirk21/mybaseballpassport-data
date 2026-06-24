@@ -6905,8 +6905,24 @@
 	"timezone": "America/New_York",
 	"startDate": "1935-07-09",
 	"endDate": "1936-06-15"
- },
-	
+  },
+  {
+	"teamName": "Allentown Cardinals",
+	"teamCode": "ALL",
+	"arena": "Fairgrounds Field",
+	"arenaId": "fairgrounds_field_allentown",
+	"city": "Allentown, Pennsylvania",
+	"address": "302 N 17th St, Allentown, PA 18104",
+	"website": null,
+	"latitude": 40.60185118611343, 
+	"longitude": -75.4993868082265,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1954-07-09",
+	"endDate": "1956-06-15"
+  },	
   {
     "teamName": "Akron Aeros",
     "teamCode": "AKR",
@@ -7453,6 +7469,23 @@
 	"endDate": "1935-07-08"
   },
   {
+	"teamName": "Reading Indians",
+	"teamCode": "REA",
+	"arena": "FirstEnergy Stadium",
+	"arenaId": "firstenergy_stadium_reading",
+	"city": "Reading, Pennsylvania",
+	"address": "1900 Centre Ave, Reading, PA 19605",
+	"website": "milb.com/reading",
+	"latitude": 40.36523075723369,
+	"longitude": -75.9340133313462,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1952-01-01",
+	"endDate": "1961-06-15"
+  },	
+  {
 	"teamName": "Reading Red Sox",
 	"teamCode": "REA",
 	"arena": "FirstEnergy Stadium",
@@ -7469,6 +7502,23 @@
 	"startDate": "1933-01-01",
 	"endDate": "1934-06-15"
   },
+  {
+	"teamName": "Schenectady Blue Jays",
+	"teamCode": "SCH",
+	"arena": "McNearney Stadium",
+	"arenaId": "mcnearney_stadium_schenectady",
+	"city": "Schenectady, New York",
+	"address": "333 Jackson Ave, Schenectady, NY 12304",
+	"website": null,
+	"latitude": 42.78043856188764,  
+	"longitude": -73.91257684792518,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1951-01-01",
+	"endDate": "1957-12-31"
+  },	
   {
 	"teamName": "Scranton Miners",
 	"teamCode": "SCR",
