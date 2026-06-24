@@ -870,11 +870,12 @@
     "opponent": "San Francisco Giants",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-01T01:40:00Z"
+    "date": "2026-07-01T01:40:00Z",
+    "giveaway": {
+      "title": "Peanuts Bobble Pack",
+      "details": "Special event ticket required."
+    }
   },
-
-
-
   {
     "id": "mlb_2026070101",
     "league": "MLB",
