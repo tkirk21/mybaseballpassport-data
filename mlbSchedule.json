@@ -1050,6 +1050,10 @@
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
     "date": "2026-07-02T23:15:00Z"
+    "giveaway": {
+      "title": "Corduroy Throwback Cap Giveaway",
+      "details": "First 15,000 fans receive a Corduroy Throwback Cap featuring an American flag."
+    }
   },
   {
     "id": "mlb_2026070206",
@@ -1139,7 +1143,11 @@
     "opponent": "New York Mets",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-03T23:15:00Z"
+    "date": "2026-07-03T23:15:00Z",
+    "giveaway": {
+      "title": "Friday Night Fireworks",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026070307",
@@ -1291,7 +1299,11 @@
     "opponent": "New York Mets",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-05T00:08:00Z"
+    "date": "2026-07-05T00:08:00Z",
+    "giveaway": {
+      "title": "4th of July Fireworks",
+      "details": "Celebrate Independence Day with the Southeast's largest postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026070410",
@@ -1362,7 +1374,11 @@
     "opponent": "New York Mets",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-05T16:30:00Z"
+    "date": "2026-07-05T16:30:00Z",
+    "giveaway": {
+      "title": "Drake Baldwin Rookie of the Year Mini Bobblehead",
+      "details": "First 3,000 kids receive a Drake Baldwin Rookie of the Year Mini Bobblehead."
+    }
   },
   {
     "id": "mlb_2026070502",
@@ -1452,7 +1468,7 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
-    "date": "2026-07-05T20:10:00Z"
+    "date": "2026-07-05T20:10:00Z",
     "giveaway": {
       "title": "Scouting Arizona Day",
       "details": "Special event ticket required. This is not a stadium-wide giveaway."
@@ -1532,7 +1548,11 @@
     "opponent": "New York Mets",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-06T23:15:00Z"
+    "date": "2026-07-06T23:15:00Z",
+    "giveaway": {
+      "title": "Matt Olson Bobblecard™ Giveaway",
+      "details": "First 15,000 fans receive a Matt Olson Bobblecard™."
+    }
   },
   {
     "id": "mlb_2026070605",
@@ -2423,7 +2443,11 @@
     "opponent": "Texas Rangers",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-17T23:15:00Z"
+    "date": "2026-07-17T23:15:00Z",
+    "giveaway": {
+      "title": "Friday Night Fireworks",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026071706",
@@ -2701,7 +2725,11 @@
     "opponent": "Texas Rangers",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-19T17:35:00Z"
+    "date": "2026-07-19T17:35:00Z",
+    "giveaway": {
+      "title": "ATL Clear Purse",
+      "details": "First 3,000 kids receive an ATL Clear Purse."
+    }
   },
   {
     "id": "mlb_2026071905",
@@ -3001,7 +3029,11 @@
     "opponent": "San Diego Padres",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-21T23:15:00Z"
+    "date": "2026-07-21T23:15:00Z",
+    "giveaway": {
+      "title": "Ha-Seong Kim Bobblehead Giveaway",
+      "details": "First 15,000 fans receive a Ha-Seong Kim Bobblehead."
+    }
   },
   {
     "id": "mlb_2026072107",
@@ -3194,7 +3226,11 @@
     "opponent": "San Diego Padres",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-22T23:15:00Z"
+    "date": "2026-07-22T23:15:00Z",
+    "giveaway": {
+      "title": "Jermaine Dupri Bobblehead Giveaway",
+      "details": "First 15,000 fans receive a Jermaine Dupri bobblehead."
+    }
   },
   {
     "id": "mlb_2026072213",
@@ -4107,7 +4143,11 @@
     "opponent": "Washington Nationals",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-30T23:15:00Z"
+    "date": "2026-07-30T23:15:00Z",
+    "giveaway": {
+      "title": "Andruw Jones National Baseball Hall of Fame Bobblehead Giveaway",
+      "details": "First 15,000 fans receive an Andruw Jones Hall of Fame bobblehead."
+    }
   },
   {
     "id": "mlb_2026073008",
@@ -4206,7 +4246,11 @@
     "opponent": "Washington Nationals",
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
-    "date": "2026-07-31T23:15:00Z"
+    "date": "2026-07-31T23:15:00Z",
+    "giveaway": {
+      "title": "Friday Night Fireworks",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026073109",
