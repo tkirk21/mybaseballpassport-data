@@ -6922,7 +6922,44 @@
 	"timezone": "America/New_York",
 	"startDate": "1954-07-09",
 	"endDate": "1956-06-15"
-  },	
+  },
+  {
+	"teamName": "Allentown Chiefs",
+	"teamCode": "ALL",
+	"arena": "Fairgrounds Field",
+	"arenaId": "fairgrounds_field_allentown",
+	"city": "Allentown, Pennsylvania",
+	"address": "302 N 17th St, Allentown, PA 18104",
+	"website": null,
+	"latitude": 40.60185118611343, 
+	"longitude": -75.4993868082265,
+	"colorCode": "#004B8D",
+	"colorCode2": "#F47D30",
+	"colorCode3": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New York",
+	"startDate": "1957-02-01",
+	"endDate": "1957-07-12"
+  },
+  {
+	"teamName": "Allentown Red Sox",
+	"teamCode": "ALL",
+	"arena": "Max Hess Stadium",
+	"arenaId": "max_hess_stadium_allentown",
+	"city": "Allentown, Pennsylvania",
+	"address": "302 N 17th St, Allentown, PA 18104",
+	"website": null,
+	"latitude": 40.62970398439917,  
+	"longitude": -75.48332286729925,
+	"colorCode": "#004B8D",
+	"colorCode2": "#F47D30",
+	"colorCode3": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New York",
+	"startDate": "1958-02-01",
+	"endDate": "1960-07-12"
+	},
+	
   {
     "teamName": "Akron Aeros",
     "teamCode": "AKR",
@@ -7379,6 +7416,23 @@
 	"endDate": "1938-12-31"
   },	
   {
+	"teamName": "Johnstown Johnnies",
+	"teamCode": "JOH",
+	"arena": "Point Stadium",
+	"arenaId": "point_stadium_johnstown",
+	"city": "Johnstown, Pennsylvania",
+	"address": "90 Johns St, Johnstown, PA 15901",
+	"website": null,
+	"latitude": 40.32910038462147,  
+	"longitude": -78.92492300046044,
+	"colorCode": "#000000",
+	"colorCode2": "#FFFFFF",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1955-01-01",
+	"endDate": "1956-12-31"
+  },	
+  {
     "teamName": "Manchester Yankees",
     "teamCode": "MAN",
     "arena": "Gill Stadium",
@@ -7607,6 +7661,23 @@
 	"startDate": "1925-01-01",
 	"endDate": "1925-12-31"
   },
+  {
+	"teamName": "Springfield Giants",
+	"teamCode": "SPR",
+	"arena": "Hampden Park",
+	"arenaId": "hampden_park_springfield",
+	"city": "Springfield, Massachusetts",
+	"address": "77 West St, Springfield, MA 01104",
+	"website": null,
+	"latitude": 42.110284441027574,  
+	"longitude": -72.61034650693792,
+	"colorCode": "#000000",
+	"colorCode2": "#ffffff",
+	"league": "EL",
+	"timezone": "America/New_York",
+	"startDate": "1942-01-01",
+	"endDate": "1943-12-31"
+  }, 	
   {
 	"teamName": "Springfield Nationals",
 	"teamCode": "SPR",
