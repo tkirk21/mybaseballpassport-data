@@ -725,18 +725,20 @@
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
     "date": "2026-06-30T00:05:00Z",
-    "giveaway": {
-      "title": "University of Notre Dame Cap",
-      "details": "Special ticket purchase required."
-    },
-    {
-      "title": "Indiana University Cap",
-      "details": "Special ticket purchase required."
-    },
-    {
-      "title": "Purdue University Cap",
-      "details": "Special ticket purchase required."
-    }
+    "giveaway": [
+      {
+        "title": "University of Notre Dame Cap",
+        "details": "Special ticket purchase required."
+      },
+      {
+        "title": "Indiana University Cap",
+        "details": "Special ticket purchase required."
+      },
+      {
+        "title": "Purdue University Cap",
+        "details": "Special ticket purchase required."
+      }
+    ]
   },
   {
     "id": "mlb_2026062909",
@@ -876,22 +878,24 @@
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
     "date": "2026-07-01T00:05:00Z",
-    "giveaway": {
-      "title": "University of Iowa Cap",
-      "details": "Special ticket purchase required."
-    },
-    {
-      "title": "University of Michigan Cap",
-      "details": "Special ticket purchase required."
-    },
-    {
-      "title": "Michigan State University Cap",
-      "details": "Special ticket purchase required."
-    },
-    {
-      "title": "Topps Series 2 Baseball Packs",
-      "details": "First 20,000 early arriving fans receive Topps Series 2 Baseball Packs."
-    }
+    "giveaway": [
+      {
+        "title": "University of Iowa Cap",
+        "details": "Special ticket purchase required."
+      },
+      {
+        "title": "University of Michigan Cap",
+        "details": "Special ticket purchase required."
+      },
+      {
+        "title": "Michigan State University Cap",
+        "details": "Special ticket purchase required."
+      },
+      {
+        "title": "Topps Series 2 Baseball Packs",
+        "details": "First 20,000 early arriving fans receive Topps Series 2 Baseball Packs."
+      }
+    ]
   },
   {
     "id": "mlb_2026063011",
@@ -950,14 +954,16 @@
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
     "date": "2026-07-01T16:35:00Z",
-    "giveaway": {
-      "title": "Run Club Hat",
-      "details": "Special ticket package required."
-    },
-    {
-      "title": "Pickleball Paddle",
-      "details": "Special ticket package required."
-    }  
+    "giveaway": [
+      {
+        "title": "Run Club Hat",
+        "details": "Special ticket package required."
+      },
+      {
+        "title": "Pickleball Paddle",
+        "details": "Special ticket package required."
+      }
+    ] 
   },
   {
     "id": "mlb_2026070102",
@@ -2256,14 +2262,16 @@
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
     "date": "2026-07-11T18:10:00Z",
-    "giveaway": {
-      "title": "Mexican Heritage Jersey",
-      "details": "First 15,000 fans age 21+ receive a Mexican Heritage Jersey."
-    },
-    {
-      "title": "Postgame Fireworks",
-      "details": "Postgame fireworks show."
-    }
+    "giveaway": [
+      {
+        "title": "Mexican Heritage Jersey",
+        "details": "First 15,000 fans age 21+ receive a Mexican Heritage Jersey."
+      },
+      {
+        "title": "Postgame Fireworks",
+        "details": "Postgame fireworks show."
+      }
+    ]
   },
   {
     "id": "mlb_2026071103",
