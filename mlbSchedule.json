@@ -181,7 +181,10 @@
     "opponent": "Colorado Rockies",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-06-27T00:10:00Z"
+    "date": "2026-06-27T00:10:00Z",
+    "fireworks": {
+      "title": "Ludacris Postgame Concert."
+    }
   },
   {
     "id": "mlb_2026062612",
@@ -322,7 +325,11 @@
     "opponent": "Colorado Rockies",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-06-27T23:10:00Z"
+    "date": "2026-06-27T23:10:00Z",
+    "giveaway": {
+      "title": "Buxton Bobblehead",
+      "details": "First 10,000 fans receive a Buxton Bobblehead."
+    }
   },
   {
     "id": "mlb_2026062711",
@@ -446,7 +453,11 @@
     "opponent": "Colorado Rockies",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-06-28T18:10:00Z"
+    "date": "2026-06-28T18:10:00Z",
+    "giveaway": {
+      "title": "Royce Lewis Jersey",
+      "details": "First 10,000 fans receive a Royce Lewis."
+    }
   },
   {
     "id": "mlb_2026062809",
@@ -2235,7 +2246,10 @@
     "opponent": "Los Angeles Angels",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-07-11T00:10:00Z"
+    "date": "2026-07-11T00:10:00Z",
+    "fireworks": {
+      "title": "Brawl in the Ballpark - Postgame AEW wrestling event at Gate 34 (free with game ticket). Limited special ticket packages available."
+    }
   },
   {
     "id": "mlb_2026071012",
@@ -2284,7 +2298,11 @@
     "opponent": "Los Angeles Angels",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-07-11T18:10:00Z"
+    "date": "2026-07-11T18:10:00Z",
+    "giveaway": {
+      "title": "Twins Hall of Fame Pin",
+      "details": "First 5,000 fans receive a Dick Bremer Hall of Fame pin."
+    }
   },
   {
     "id": "mlb_2026071102",
@@ -2537,7 +2555,11 @@
     "opponent": "Los Angeles Angels",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-07-12T18:10:00Z"
+    "date": "2026-07-12T18:10:00Z",
+    "giveaway": {
+      "title": "Beach Tote Bag",
+      "details": "First 5,000 fans receive a Beach Tote."
+    }
   },
   {
     "id": "mlb_2026071210",
@@ -3745,7 +3767,10 @@
     "opponent": "Athletics",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-07-25T00:10:00Z"
+    "date": "2026-07-25T00:10:00Z",
+    "fireworks": {
+      "title": "Postgame Fireworks"
+    }
   },
   {
     "id": "mlb_2026072414",
@@ -3865,7 +3890,11 @@
     "opponent": "Athletics",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-07-25T23:10:00Z"
+    "date": "2026-07-25T23:10:00Z",
+    "giveaway": {
+      "title": "Kirby Puckett Jersey",
+      "details": "First 10,000 fans receive a Kirby Puckett Jersey."
+    }
   },
   {
     "id": "mlb_2026072511",
@@ -4016,7 +4045,11 @@
     "opponent": "Athletics",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-07-26T18:10:00Z"
+    "date": "2026-07-26T18:10:00Z",
+    "giveaway": {
+      "title": "Back to School Lunch Bag",
+      "details": "First 5,000 kids 12 & under receive a Back to School Lunch Bag."
+    }
   },
   {
     "id": "mlb_2026072610",
