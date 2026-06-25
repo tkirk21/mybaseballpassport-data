@@ -2712,7 +2712,11 @@
     "opponent": "Minnesota Twins",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-18T18:20:00Z"
+    "date": "2026-07-18T18:20:00Z",
+    "giveaway": {
+      "title": "National Hot Dog Day Cap",
+      "details": "First 4,000 early arriving fans in the Budweiser Bleachers receive a National Hot Dog Day Cap."
+    }
   },
   {
     "id": "mlb_2026071802",
@@ -2816,10 +2820,6 @@
     "arena": "T-Mobile Park",
     "city": "Seattle, Washington",
     "date": "2026-07-19T00:08:00Z",
-    "giveaway": {
-      "title": "National Hot Dog Day Cap",
-      "details": "First 4,000 early arriving fans in the Budweiser Bleachers receive a National Hot Dog Day Cap."
-    }
   },
   {
     "id": "mlb_2026071813",
@@ -3079,14 +3079,16 @@
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
     "date": "2026-07-21T00:05:00Z",
-    "giveaway": {
-      "title": "Greek Heritage Jersey",
-      "details": "Special ticket purchase required."
-    },
-    {
-      "title": "University of Missouri Cap",
-      "details": "Special ticket purchase required."
-    }
+    "giveaway": [
+      {
+        "title": "Greek Heritage Jersey",
+        "details": "Special ticket purchase required."
+      },
+      {
+        "title": "University of Missouri Cap",
+        "details": "Special ticket purchase required."
+      }
+    ]
   },
   {
     "id": "mlb_2026072010",
