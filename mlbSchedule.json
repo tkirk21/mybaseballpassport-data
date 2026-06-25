@@ -577,14 +577,16 @@
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
     "date": "2026-06-28T18:10:00Z",
-    "giveaway": {
-      "title": "America's 250th Homage T-Shirt",
-      "details": "First 15,000 fans receive an America's 250th Homage T-Shirt."
-    },
-    {
-      "title": "Nickelodeon Day Bucket Hat",
-      "details": "Special ticket package required."
-    }
+    "giveaway": [
+      {
+        "title": "America's 250th Homage T-Shirt",
+        "details": "First 15,000 fans receive an America's 250th Homage T-Shirt."
+      },
+      {
+        "title": "Nickelodeon Day Bucket Hat",
+        "details": "Special ticket package required."
+      }
+    ]
   },
   {
     "id": "mlb_2026062810",
