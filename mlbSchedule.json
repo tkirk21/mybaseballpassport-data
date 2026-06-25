@@ -6,13 +6,13 @@
     "opponent": "Kansas City Royals",
     "arena": "George M. Steinbrenner Field",
     "city": "Tampa, Florida",
-    "date": "2026-06-25T16:10:00Z"
+    "date": "2026-06-25T16:10:00Z",
     "giveaway": {
       "title": "Test giveaway",
       "details": "just a test"
     },
     "fireworks": {
-      "title": "Test Fireworks",
+      "title": "Test Fireworks"
     }
   },
   {
@@ -633,7 +633,7 @@
     "opponent": "Minnesota Twins",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-06-30T00:10:00Z",
+    "date": "2026-06-30T00:10:00Z"
   },
   {
     "id": "mlb_2026062910",
@@ -1068,7 +1068,7 @@
     "giveaway": {
       "title": "Armed Forces Night Thermo Giveaway",
       "details": "First 10,000 fans receive an Armed Forces Night Thermo."
-    }
+    },
     "fireworks": {
       "title": "Fireworks Extravaganza"
     }
@@ -2128,7 +2128,7 @@
     "giveaway": {
       "title": "Grateful Dead Co-Branded Hat",
       "details": "Special ticket package required."
-    }
+    },
     "fireworks": {
       "title": "Postgame Fireworks Show"
     }
@@ -2569,7 +2569,7 @@
     "city": "Atlanta, Georgia",
     "date": "2026-07-17T23:15:00Z",
     "fireworks": {
-      "title": "Friday Night Fireworks",
+      "title": "Friday Night Fireworks"
     }
   },
   {
@@ -2629,7 +2629,7 @@
         "title": "Heart Health Awareness Night",
         "details": "Heart Health Awareness Night."
       }
-    ]
+    ],
     "fireworks": {
       "title": "Postgame fireworks show."
     }
@@ -2854,7 +2854,7 @@
     "city": "Anaheim, California",
     "date": "2026-07-19T02:07:00Z",
     "fireworks": {
-      "title": "Saturday Night Fireworks",
+      "title": "Saturday Night Fireworks"
     }
   },
   {
@@ -3075,7 +3075,7 @@
     "city": "Kansas City, Missouri",
     "date": "2026-07-20T23:40:00Z",
     "fireworks": {
-      "title": "Peanut Free Game",
+      "title": "Peanut Free Game"
     }
   },
   {
@@ -3760,7 +3760,7 @@
     "city": "Chicago, Illinois",
     "date": "2026-07-25T23:10:00Z",
     "fireworks": {
-      "title": "Postgame Fireworks show.",
+      "title": "Postgame Fireworks show."
     }
   },
   {
@@ -4460,7 +4460,7 @@
     "city": "Cincinnati, Ohio",
     "date": "2026-07-31T22:10:00Z",
     "fireworks": {
-      "title": "Marshmello Postgame Concert",
+      "title": "Marshmello Postgame Concert"
     }    
   },
   {
@@ -4517,7 +4517,7 @@
     "city": "Atlanta, Georgia",
     "date": "2026-07-31T23:15:00Z",
     "fireworks": {
-      "title": "Friday Night Fireworks",
+      "title": "Friday Night Fireworks"
     }
   },
   {
