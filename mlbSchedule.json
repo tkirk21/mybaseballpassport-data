@@ -558,11 +558,10 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-06-28T20:05:00Z",
-    "giveaways": [
-      {
-        "title": "Camo T-shirt",
-        "details": "First 20,000 fans"
-      }
+    "giveaways": {
+      "title": "Camo T-shirt",
+      "details": "First 20,000 fans"
+    }
   },
   {
     "id": "mlb_2026062814",
