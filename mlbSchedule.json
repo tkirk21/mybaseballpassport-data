@@ -1069,7 +1069,11 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-01T23:40:00Z"
+    "date": "2026-07-01T23:40:00Z",
+    "giveaway": {
+      "title": "Here Comes the Bloom Hawaiian Shirt Giveaway",
+      "details": "First 10,000 fans receive a Here Comes the Bloom Hawaiian Shirt."
+    }
   },
   {
     "id": "mlb_2026070110",
@@ -1186,7 +1190,21 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-02T23:40:00Z"
+    "date": "2026-07-02T23:40:00Z",
+    "giveaway": [
+      {
+        "title": "Armed Forces Night Thermo Giveaway",
+        "details": "First 10,000 fans receive an Armed Forces Night Thermo."
+      },
+      {
+        "title": "Armed Forces Day",
+        "details": "Special pregame military recognition and celebration."
+      },
+      {
+        "title": "Fireworks Extravaganza",
+        "details": "Postgame fireworks show."
+      }
+    ]
   },
   {
     "id": "mlb_2026070207",
@@ -1505,7 +1523,21 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-05T00:10:00Z"
+    "date": "2026-07-05T00:10:00Z",
+    "giveaway": [
+      {
+        "title": "Red, White & Bobby Bobblehead Giveaway",
+        "details": "First 25,000 fans receive a Red, White & Bobby Bobblehead."
+      },
+      {
+        "title": "America 250 Celebration",
+        "details": "Celebrate America's 250th anniversary."
+      },
+      {
+        "title": "Fireworks Spectacular",
+        "details": "Postgame fireworks show."
+      }
+    ]
   },
   {
     "id": "mlb_2026070412",
@@ -1616,7 +1648,11 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-05T19:00:00Z"
+    "date": "2026-07-05T19:00:00Z",
+    "giveaway": {
+      "title": "John Wathan Royals Hall of Fame Induction Pregame Ceremony",
+      "details": "Special pregame Hall of Fame induction ceremony."
+    }
   },
   {
     "id": "mlb_2026070508",
@@ -2742,7 +2778,21 @@
     "opponent": "San Diego Padres",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-18T00:10:00Z"
+    "date": "2026-07-18T00:10:00Z",
+    "giveaway": [
+      {
+        "title": "City Connect Big Bobby Bobblehead Giveaway",
+        "details": "First 20,000 fans receive a City Connect Big Bobby Bobblehead."
+      },
+      {
+        "title": "Fireworks Friday",
+        "details": "Postgame fireworks show."
+      },
+      {
+        "title": "Heart Health Awareness Night",
+        "details": "Heart Health Awareness Night."
+      }
+    ]
   },
   {
     "id": "mlb_2026071711",
@@ -2874,7 +2924,11 @@
     "opponent": "San Diego Padres",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-18T20:10:00Z"
+    "date": "2026-07-18T20:10:00Z",
+    "giveaway": {
+      "title": "Big Bobby Bobblehead Giveaway",
+      "details": "First 20,000 fans receive a Big Bobby Bobblehead."
+    }
   },
   {
     "id": "mlb_2026071808",
@@ -3021,7 +3075,11 @@
     "opponent": "San Diego Padres",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-19T18:10:00Z"
+    "date": "2026-07-19T18:10:00Z",
+    "giveaway": {
+      "title": "Big Bobby Bobblehead Giveaway",
+      "details": "First 20,000 fans receive a Big Bobby Bobblehead."
+    }
   },
   {
     "id": "mlb_2026071908",
@@ -3168,7 +3226,11 @@
     "opponent": "San Francisco Giants",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-20T23:40:00Z"
+    "date": "2026-07-20T23:40:00Z",
+    "giveaway": {
+      "title": "Peanut Free Game",
+      "details": "Peanut Free Game."
+    }
   },
   {
     "id": "mlb_2026072008",
@@ -3331,7 +3393,17 @@
     "opponent": "San Francisco Giants",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-07-21T23:40:00Z"
+    "date": "2026-07-21T23:40:00Z",
+    "giveaway": [
+      {
+        "title": "Maikel's Big Time Bat Flip Bobblehead Giveaway",
+        "details": "First 15,000 fans receive a Maikel's Big Time Bat Flip Bobblehead."
+      },
+      {
+        "title": "Dollar Dog Night",
+        "details": "Dollar Dog Night."
+      }
+    ]
   },
   {
     "id": "mlb_2026072108",
