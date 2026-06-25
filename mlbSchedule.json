@@ -1228,7 +1228,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-03T00:05:00Z"
+    "date": "2026-07-03T00:05:00Z",
+    "giveaway": {
+      "title": "Corey Seager Hitting Bobblehead",
+      "details": "First 10,000 fans."
+    }
   },
   {
     "id": "mlb_2026070208",
@@ -1446,7 +1450,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-04T20:05:00Z"
+    "date": "2026-07-04T20:05:00Z",
+    "giveaway": {
+      "title": "America's 250th Birthday Jersey",
+      "details": "First 10,000 fans."
+    }
   },
   {
     "id": "mlb_2026070404",
@@ -1713,7 +1721,17 @@
     "opponent": "Detroit Tigers",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-05T19:30:00Z"
+    "date": "2026-07-05T19:30:00Z",
+    "giveaway": [
+      {
+        "title": "Fútbol Scarf",
+        "details": "First 10,000 fans."
+      },
+      {
+        "title": "$1 Ice Cream",
+        "details": "13 & Under."
+      }
+    ]
   },
   {
     "id": "mlb_2026070510",
@@ -2187,7 +2205,11 @@
     "opponent": "Los Angeles Angels",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-09T00:05:00Z"
+    "date": "2026-07-09T00:05:00Z",
+    "giveaway": {
+      "title": "$1 Hot Dog Night",
+      "details": "All fans."
+    }
   },
   {
     "id": "mlb_2026070814",
@@ -2324,7 +2346,14 @@
     "opponent": "Los Angeles Angels",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-10T00:05:00Z"
+    "date": "2026-07-10T00:05:00Z",
+    "giveaway": {
+      "title": "Wyatt Langford Sliding Catch Bobblehead",
+      "details": "First 10,000 fans."
+    },
+    "fireworks": {
+      "title": "Country Nights - Pregame performance by Matthew Mata"
+    }
   },
   {
     "id": "mlb_2026070912",
@@ -2460,7 +2489,11 @@
     "opponent": "Houston Astros",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-11T00:05:00Z"
+    "date": "2026-07-11T00:05:00Z",
+    "giveaway": {
+      "title": "Hawaiian Shirt",
+      "details": "First 10,000 fans."
+    }
   },
   {
     "id": "mlb_2026071011",
@@ -2887,7 +2920,11 @@
     "opponent": "Houston Astros",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-12T18:35:00Z"
+    "date": "2026-07-12T18:35:00Z",
+    "giveaway": {
+      "title": "$1 Ice Cream",
+      "details": "13 & Under."
+    }
   },
   {
     "id": "mlb_2026071213",
@@ -3957,7 +3994,11 @@
     "opponent": "Chicago White Sox",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-23T00:05:00Z"
+    "date": "2026-07-23T00:05:00Z",
+    "giveaway": {
+      "title": "$1 Hot Dog Night",
+      "details": "All fans."
+    }
   },
   {
     "id": "mlb_2026072215",
@@ -4134,7 +4175,11 @@
     "opponent": "Seattle Mariners",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-25T00:05:00Z"
+    "date": "2026-07-25T00:05:00Z",
+    "giveaway": {
+      "title": "Choctaw Stadium Radio",
+      "details": "First 10,000 fans 18+."
+    }
   },
   {
     "id": "mlb_2026072413",
@@ -4539,7 +4584,11 @@
     "opponent": "Seattle Mariners",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-07-26T18:35:00Z"
+    "date": "2026-07-26T18:35:00Z",
+    "giveaway": {
+      "title": "$1 Ice Cream",
+      "details": "13 & Under."
+    }
   },
   {
     "id": "mlb_2026072614",
