@@ -578,7 +578,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylvania",
-    "date": "2026-06-29T22:40:00Z"
+    "date": "2026-06-29T22:40:00Z",
+    "giveaway": {
+      "title": "2026 MLB All-Star Game Pennant",
+      "details": "Children 14 and under."
+    }
   },
   {
     "id": "mlb_2026062903",
@@ -732,7 +736,10 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylvania",
-    "date": "2026-06-30T22:40:00Z"
+    "date": "2026-06-30T22:40:00Z",
+    "fireworks": {
+      "title": "Xfinity Fireworks Show #1"
+    }
   },
   {
     "id": "mlb_2026063004",
@@ -741,7 +748,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-06-30T23:05:00Z"
+    "date": "2026-06-30T23:05:00Z",
+    "giveaway": {
+      "title": "Yankees Collectible Cup Night",
+      "details": "First 18,000 guests."
+    }
   },
   {
     "id": "mlb_2026063005",
@@ -951,7 +962,10 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylvania",
-    "date": "2026-07-01T22:40:00Z"
+    "date": "2026-07-01T22:40:00Z",
+    "fireworks": {
+      "title": "Xfinity Fireworks Show #2"
+    }
   },
   {
     "id": "mlb_2026070108",
@@ -1169,7 +1183,10 @@
     "opponent": "Minnesota Twins",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-07-03T23:05:00Z"
+    "date": "2026-07-03T23:05:00Z",
+    "fireworks": {
+      "title": "Fireworks Night"
+    }
   },
   {
     "id": "mlb_2026070304",
@@ -1312,7 +1329,11 @@
     "opponent": "Minnesota Twins",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-07-04T17:35:00Z"
+    "date": "2026-07-04T17:35:00Z",
+    "giveaway": {
+      "title": "Yankees 4th of July Cap Day",
+      "details": "First 18,000 guests."
+    }
   },
   {
     "id": "mlb_2026070403",
@@ -3186,7 +3207,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-07-20T23:05:00Z"
+    "date": "2026-07-20T23:05:00Z",
+    "giveaway": {
+      "title": "Yankees T-Shirt Night",
+      "details": "First 15,000 guests."
+    }
   },
   {
     "id": "mlb_2026072003",
@@ -3352,7 +3377,11 @@
     "opponent": "Los Angeles Dodgers",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylvania",
-    "date": "2026-07-21T22:40:00Z"
+    "date": "2026-07-21T22:40:00Z",
+    "giveaway": {
+      "title": "Chick-fil-A Phillies Big Chain",
+      "details": "Children 14 and under."
+    }
   },
   {
     "id": "mlb_2026072103",
@@ -3361,7 +3390,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-07-21T23:05:00Z"
+    "date": "2026-07-21T23:05:00Z",
+    "giveaway": {
+      "title": "Aaron Judge Harry Potter Houses Bobblehead",
+      "details": "First 18,000 guests. The specific house bobblehead received by each fan will be distributed at random."
+    }
   },
   {
     "id": "mlb_2026072104",
@@ -3572,7 +3605,10 @@
     "opponent": "Los Angeles Dodgers",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylvania",
-    "date": "2026-07-22T22:40:00Z"
+    "date": "2026-07-22T22:40:00Z",
+    "fireworks": {
+      "title": "I Heart Phillies Night"
+    }
   },
   {
     "id": "mlb_2026072210",
@@ -4159,7 +4195,11 @@
     "opponent": "New York Yankees",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylvania",
-    "date": "2026-07-26T23:20:00Z"
+    "date": "2026-07-26T23:20:00Z",
+    "giveaway": {
+      "title": "Philadelphia Water Ice Phanatic Cap",
+      "details": "Children 14 and under."
+    }
   },
   {
     "id": "mlb_2026072701",
