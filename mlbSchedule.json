@@ -246,8 +246,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-06-27T02:15:00Z",
-    "giveaways": [
-    {
+    "giveaways": {
       "title": "Firefighter Appreciation Night Jersey",
       "details": "Special event ticket required. Includes a Firefighter Appreciation Night Jersey."
     }
