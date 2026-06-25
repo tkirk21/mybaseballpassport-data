@@ -89,7 +89,11 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-06-25T23:45:00Z"
+    "date": "2026-06-25T23:45:00Z",
+    "giveaway": {
+      "title": "Barbie & Cardinals Sequin Cap",
+      "details": "Special Theme Ticket required."
+    }
   },
   {
     "id": "mlb_2026062601",
@@ -211,7 +215,20 @@
     "opponent": "Miami Marlins",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-06-27T00:15:00Z"
+    "date": "2026-06-27T00:15:00Z",
+    "giveaway": [
+      {
+        "title": "Cardinals All-Over Print Shirt and Shorts Set",
+        "details": "15,000 fans, 13 and older."
+      },
+      {
+       "title": "Margaritaville-inspired Cardinals Cap",
+       "details": "Special Theme Ticket required."
+      }
+    ],
+    "fireworks": {
+      "title": "Pregame concert by The Boat Drunks"
+    }
   },
   {
     "id": "mlb_2026062613",
@@ -539,7 +556,24 @@
     "opponent": "Miami Marlins",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-06-28T18:15:00Z"
+    "date": "2026-06-28T18:15:00Z",
+    "giveaway": [
+      {
+        "title": "Adult Soccer Jersey",
+        "details": "15,000 fans, 13 and older."
+      },
+      {
+        "title": "Kids Soccer Ball",
+        "details": "10,000 kids, 12 and under."
+      },
+      {
+        "title": "Black Heritage Day Cardinals Jersey",
+        "details": "Special Theme Ticket required. Designed by artist Corry Rogers."
+      }
+    ],
+    "fireworks": {
+      "title": "Black Heritage Day pregame festival"
+    }
   },
   {
     "id": "mlb_2026062812",
@@ -2237,7 +2271,11 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-09T23:45:00Z"
+    "date": "2026-07-09T23:45:00Z",
+    "giveaway": {
+      "title": "House-Themed Cardinals Scarf",
+      "details": "Harry Potter Night - Special Theme Ticket required. Choose your house."
+    }
   },
   {
     "id": "mlb_2026070911",
@@ -2403,7 +2441,19 @@
     "opponent": "Atlanta Braves",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-11T00:15:00Z"
+    "date": "2026-07-11T00:15:00Z",
+    "giveaway": [
+      {
+        "title": "Cardinals Garage Shirt",
+        "details": "15,000 fans, 13 and older."
+      },
+      {
+        "title": "Cardinals Captain's Hat",
+        "details": "Yacht Rock Night - Special Theme Ticket required."
+      }
+    ],
+    "fireworks": {
+      "title": "Yacht Rock Night. Pregame concert by The Yacht Rockers"
   },
   {
     "id": "mlb_2026071013",
@@ -2606,7 +2656,17 @@
     "opponent": "Atlanta Braves",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-11T23:15:00Z"
+    "date": "2026-07-11T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "David Eckstein Bobblehead",
+        "details": "15,000 fans, 13 and older."
+      },
+      {
+        "title": "Disability Pride Night Cardinals T-Shirt",
+        "details": "Special Theme Ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026071114",
@@ -2759,7 +2819,17 @@
     "opponent": "Atlanta Braves",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-12T18:15:00Z"
+    "date": "2026-07-12T18:15:00Z",
+    "giveaway": [
+      {
+        "title": "Kids Jersey",
+        "details": "10,000 kids, 12 and under."
+      },
+      {
+        "title": "Oscar the Grouch Bobblehead or Grover Plush",
+        "details": "Sesame Street Day - Special Theme Ticket required. Choice of item."
+      }
+    ] 
   },
   {
     "id": "mlb_2026071212",
@@ -4032,7 +4102,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-25T00:15:00Z"
+    "date": "2026-07-25T00:15:00Z",
+    "giveaway": {
+      "title": "Cardinals x Bravo Cap",
+      "details": "Bravo Night - Special Theme Ticket required."
+    }
   },
   {
     "id": "mlb_2026072415",
@@ -4212,7 +4286,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-25T23:15:00Z"
+    "date": "2026-07-25T23:15:00Z",
+    "giveaway": {
+      "title": "Victory Blue Saturday Jersey",
+      "details": "15,000 fans, 13 and older."
+    }
   },
   {
     "id": "mlb_2026072515",
@@ -4367,7 +4445,20 @@
     "opponent": "Cincinnati Reds",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-26T18:15:00Z"
+    "date": "2026-07-26T18:15:00Z",
+    "giveaway": [
+      {
+        "title": "Kids Fredbird Hat",
+        "details": "10,000 kids, 12 and under."
+      },
+      {
+        "title": "Christmas in July Cardinals Cap",
+        "details": "Special Theme Ticket required."
+      }
+    ],
+    "fireworks": {
+      "title": "Christmas in July pregame celebration"
+    }
   },
   {
     "id": "mlb_2026072613",
@@ -4629,7 +4720,11 @@
     "opponent": "Chicago Cubs",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-28T23:45:00Z"
+    "date": "2026-07-28T23:45:00Z",
+    "giveaway": {
+      "title": "Cardinals Mental Health Awareness T-Shirt",
+      "details": "Mental Health Awareness Night - Special Theme Ticket required."
+    }
   },
   {
     "id": "mlb_2026072811",
@@ -4812,7 +4907,11 @@
     "opponent": "Chicago Cubs",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-07-29T23:45:00Z"
+    "date": "2026-07-29T23:45:00Z",
+    "giveaway": {
+      "title": "Spider-Man Bobblehead",
+      "details": "Marvel Super Hero Night - Special Theme Ticket required."
+    }
   },
   {
     "id": "mlb_2026072913",
