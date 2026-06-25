@@ -151,7 +151,11 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-06-26T23:10:00Z"
+    "date": "2026-06-26T23:10:00Z",
+    "giveaway": {
+      "title": "Junior Caminero Dominican Heritage Bobblehead",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026062607",
@@ -340,7 +344,17 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-06-27T22:10:00Z"
+    "date": "2026-06-27T22:10:00Z",
+    "giveaway": [
+      {
+        "title": "Chandler Simpson Bobblelegs",
+        "details": "First 10,000 fans."
+      },
+      {
+        "title": "Law Enforcement Appreciation Snapback",
+        "details": "Special ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026062708",
@@ -493,7 +507,17 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-06-28T17:40:00Z"
+    "date": "2026-06-28T17:40:00Z",
+    "giveaway": [
+      {
+        "title": "Toy Story 5 Jersey",
+        "details": "Special ticket required."
+      },
+      {
+        "title": "Dog Day-Themed Item",
+        "details": "Special ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026062807",
@@ -1779,7 +1803,11 @@
     "opponent": "New York Yankees",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-06T22:40:00Z"
+    "date": "2026-07-06T22:40:00Z",
+    "giveaway": {
+      "title": "Venezuelan Heritage Jersey",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026070603",
@@ -1922,7 +1950,11 @@
     "opponent": "New York Yankees",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-07T22:40:00Z"
+    "date": "2026-07-07T22:40:00Z",
+    "giveaway": {
+      "title": "NASCAR Hat",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026070708",
@@ -2081,7 +2113,11 @@
     "opponent": "New York Yankees",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-08T22:40:00Z"
+    "date": "2026-07-08T22:40:00Z",
+    "giveaway": {
+      "title": "Jewish Community Jersey",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026070807",
@@ -2208,7 +2244,11 @@
     "opponent": "New York Yankees",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-09T17:10:00Z"
+    "date": "2026-07-09T17:10:00Z",
+    "giveaway": {
+      "title": "KISS Shirt",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026070904",
@@ -2585,7 +2625,11 @@
     "opponent": "Seattle Mariners",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-11T20:10:00Z"
+    "date": "2026-07-11T20:10:00Z",
+    "giveaway": {
+      "title": "Evan Longoria Snapback",
+      "details": "First 10,000 fans."
+    }
   },
   {
     "id": "mlb_2026071108",
@@ -2761,7 +2805,11 @@
     "opponent": "Seattle Mariners",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-12T17:40:00Z"
+    "date": "2026-07-12T17:40:00Z",
+    "giveaway": {
+      "title": "Evan Longoria Bobblecard",
+      "details": "First 10,000 fans."
+    }
   },
   {
     "id": "mlb_2026071207",
@@ -4046,7 +4094,11 @@
     "opponent": "Cleveland Guardians",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-24T23:10:00Z"
+    "date": "2026-07-24T23:10:00Z",
+    "giveaway": {
+      "title": "Cuban Heritage Snapback",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026072409",
@@ -4201,7 +4253,16 @@
     "opponent": "Cleveland Guardians",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-25T22:10:00Z"
+    "date": "2026-07-25T22:10:00Z",
+    "giveaway": [
+      {
+        "title": "Devil Rays Retro Snapback",
+        "details": "First 10,000 fans."
+      },
+      {
+        "title": "UF Hoodie",
+        "details": "Special ticket required."
+      }
   },
   {
     "id": "mlb_2026072508",
@@ -4309,7 +4370,17 @@
     "opponent": "Cleveland Guardians",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-26T16:15:00Z"
+    "date": "2026-07-26T16:15:00Z",
+    "giveaway": [
+      {
+        "title": "Raymond Shoulder Plush",
+        "details": "First 10,000 fans."
+      },
+      {
+        "title": "Disability Pride and Awareness Bracelet",
+        "details": "Special ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026072602",
@@ -5116,7 +5187,17 @@
     "opponent": "Chicago White Sox",
     "arena": "Tropicana Field",
     "city": "Tampa, Florida",
-    "date": "2026-07-31T23:10:00Z"
+    "date": "2026-07-31T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "FAMU Hoodie",
+        "details": "Special ticket required."
+      },
+      {
+        "title": "Harry Potter Snapback",
+        "details": "Special ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026073107",
