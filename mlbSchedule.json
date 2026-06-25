@@ -2417,14 +2417,16 @@
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
     "date": "2026-07-12T17:35:00Z",
-    "giveaway": {
-      "title": "Hot Dog Race Caps",
-      "details": "First 20,000 fans receive a randomly distributed Hot Dog Race Cap."
-    },
-    {
-      "title": "Postgame Drone Show",
-      "details": "Celebrate America's 250th birthday with a postgame drone show."
-    }
+    "giveaway": [
+      {
+        "title": "Hot Dog Race Caps",
+        "details": "First 20,000 fans receive a randomly distributed Hot Dog Race Cap."
+      },
+      {
+        "title": "Postgame Drone Show",
+        "details": "Celebrate America's 250th birthday with a postgame drone show."
+      }
+    ]
   },
   {
     "id": "mlb_2026071203",
