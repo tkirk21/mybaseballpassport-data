@@ -46,7 +46,11 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-06-25T22:45:00Z"
+    "date": "2026-06-25T22:45:00Z",
+    "giveaway": {
+      "title": "Nationals Soccer Jersey",
+      "details": "20,000 fans, ages 21+."
+    }
   },
   {
     "id": "mlb_2026062506",
@@ -55,7 +59,11 @@
     "opponent": "Texas Rangers",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-06-25T23:07:00Z"
+    "date": "2026-06-25T23:07:00Z",
+    "giveaway": {
+      "title": "Blue Jays Potato Head",
+      "details": "Specialty ticket required."
+    }
   },
   {
     "id": "mlb_2026062507",
@@ -133,7 +141,11 @@
     "opponent": "Texas Rangers",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-06-26T23:07:00Z"
+    "date": "2026-06-26T23:07:00Z",
+    giveaway": {
+      "title": "Alejandro Kirk City Connect Replica Jersey",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026062605",
@@ -854,7 +866,11 @@
     "opponent": "New York Mets",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-06-30T23:07:00Z"
+    "date": "2026-06-30T23:07:00Z",
+    "giveaway": {
+      "title": "$1 Hot Dog Night",
+      "details": "All fans."
+    }
   },
   {
     "id": "mlb_2026063006",
@@ -1050,7 +1066,14 @@
     "opponent": "New York Mets",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-07-01T19:07:00Z"
+    "date": "2026-07-01T19:07:00Z",
+    "giveaway": {
+      "title": "Shane Bieber Red Cut-Off Replica Jersey",
+      "details": "First 15,000 fans."
+    },
+    "fireworks": {
+      "title": "Canada Day activities"
+    }
   },
   {
     "id": "mlb_2026070107",
@@ -1279,7 +1302,10 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-03T22:45:00Z"
+    "date": "2026-07-03T22:45:00Z",
+    "fireworks": {
+      "title": "Freedom Fireworks"
+    }
   },
   {
     "id": "mlb_2026070303",
@@ -1428,7 +1454,10 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-04T15:05:00Z"
+    "date": "2026-07-04T15:05:00Z",
+    "fireworks": {
+      "title": "Patriotic Series: Independence Day"
+    }
   },
   {
     "id": "mlb_2026070402",
@@ -1651,7 +1680,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-05T17:00:00Z"
+    "date": "2026-07-05T17:00:00Z",
+    "giveaway": {
+      "title": "Nationals Patriotic Shirt",
+      "details": "20,000 fans."
+    }
   },
   {
     "id": "mlb_2026070503",
@@ -2144,7 +2177,11 @@
     "opponent": "Houston Astros",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-08T22:45:00Z"
+    "date": "2026-07-08T22:45:00Z",
+    "giveaway": {
+      "title": "NARUTO Day Jersey",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026070808",
@@ -2409,7 +2446,11 @@
     "opponent": "New York Yankees",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-10T22:45:00Z"
+    "date": "2026-07-10T22:45:00Z",
+    "giveaway": {
+      "title": "Marvel's Captain America Bobblehead",
+      "details": "20,000 fans."
+    }
   },
   {
     "id": "mlb_2026071004",
@@ -2811,7 +2852,11 @@
     "opponent": "New York Yankees",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-12T17:35:00Z"
+    "date": "2026-07-12T17:35:00Z",
+    "giveaway": {
+      "title": "Syracuse University Night T-Shirt",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026071204",
@@ -3180,7 +3225,14 @@
     "opponent": "Chicago White Sox",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-07-18T19:07:00Z"
+    "date": "2026-07-18T19:07:00Z",
+    "giveaway": {
+      "title": "Set of '92 & '93 World Series Replica Rings",
+      "details": "First 15,000 fans."
+    },
+    "fireworks": {
+      "title": "Back-to-Back Statue Unveil"
+    }
   },
   {
     "id": "mlb_2026071803",
@@ -3531,7 +3583,11 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-07-20T23:07:00Z"
+    "date": "2026-07-20T23:07:00Z",
+    "giveaway": {
+      "title": "Kazuma Okamoto T-Shirt",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026072004",
@@ -3728,7 +3784,11 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-07-21T23:07:00Z"
+    "date": "2026-07-21T23:07:00Z",
+    "giveaway": {
+      "title": "$1 Hot Dog Night",
+      "details": "All fans."
+    }
   },
   {
     "id": "mlb_2026072105",
@@ -3946,7 +4006,11 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-07-22T23:07:00Z"
+    "date": "2026-07-22T23:07:00Z",
+    "giveaway": {
+      "title": "Blue Jays Mike Wheeler Bobblehead",
+      "details": "Specialty ticket required."
+    }
   },
   {
     "id": "mlb_2026072211",
@@ -4096,7 +4160,14 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-24T22:45:00Z"
+    "date": "2026-07-24T22:45:00Z",
+    "giveaway": {
+      "title": "HBCU Night T-Shirt",
+      "details": "Special ticket required."
+    },
+    "fireworks": {
+      "title": "Postgame Summer Concert Series: Jason Derulo"
+    }
   },
   {
     "id": "mlb_2026072405",
@@ -4245,7 +4316,15 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-25T20:05:00Z"
+    "date": "2026-07-25T20:05:00Z",
+    "giveaway": [
+      {
+        "title": "Harry Potter Day Tank Top",
+        "details": "20,000 fans."
+      },
+      {
+        "title": "University of Virginia Night T-Shirt",
+        "details": "Special ticket required."
   },
   {
     "id": "mlb_2026072503",
@@ -4434,8 +4513,17 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-26T17:35:00Z"
-  },
+    "date": "2026-07-26T17:35:00Z",
+    "giveaway": [
+      {
+        "title": "Kids Plush Keychain",
+        "details": "Ages 12 & under."
+      },
+      {
+        "title": "Virginia Tech Night T-Shirt",
+        "details": "Special ticket required."
+      }
+    ],
   {
     "id": "mlb_2026072603",
     "league": "MLB",
@@ -4788,7 +4876,11 @@
     "opponent": "Toronto Blue Jays",
     "arena": "Nationals Park",
     "city": "Washington, District of Columbia",
-    "date": "2026-07-28T22:45:00Z"
+    "date": "2026-07-28T22:45:00Z",
+    "giveaway": {
+      "title": "Canadian Heritage Day Hat",
+      "details": "Special ticket required."
+    }
   },
   {
     "id": "mlb_2026072806",
