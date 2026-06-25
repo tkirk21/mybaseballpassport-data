@@ -4325,6 +4325,8 @@
       {
         "title": "University of Virginia Night T-Shirt",
         "details": "Special ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026072503",
@@ -4387,6 +4389,7 @@
         "title": "UF Hoodie",
         "details": "Special ticket required."
       }
+    ]
   },
   {
     "id": "mlb_2026072508",
@@ -4523,7 +4526,8 @@
         "title": "Virginia Tech Night T-Shirt",
         "details": "Special ticket required."
       }
-    ],
+    ]
+  },
   {
     "id": "mlb_2026072603",
     "league": "MLB",
