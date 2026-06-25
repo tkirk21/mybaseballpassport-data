@@ -1339,7 +1339,19 @@
     "opponent": "Baltimore Orioles",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-04T23:10:00Z"
+    "date": "2026-07-04T23:10:00Z",
+    "giveaway": {
+      "title": "USA-Themed Cowboy Hat",
+      "details": "Available to fans in attendance while supplies last."
+    },
+    {
+      "title": "America250 Drone Show",
+      "details": "Postgame drone show celebrating America's 250th birthday."
+    },
+    {
+      "title": "Fourth of July Fireworks Night",
+      "details": "Postgame fireworks show celebrating America's 250th birthday."
+    }
   },
   {
     "id": "mlb_2026070406",
@@ -1762,7 +1774,11 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-07T23:10:00Z"
+    "date": "2026-07-07T23:10:00Z",
+    "giveaway": {
+      "title": "Rico Bobblehead",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026070711",
@@ -1897,7 +1913,11 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-08T23:10:00Z"
+    "date": "2026-07-08T23:10:00Z",
+    "giveaway": {
+      "title": "Jon Pardi Postgame Concert",
+      "details": "Live postgame concert included with game admission."
+    }
   },
   {
     "id": "mlb_2026070810",
@@ -2113,7 +2133,15 @@
     "opponent": "Chicago Cubs",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-10T23:10:00Z"
+    "date": "2026-07-10T23:10:00Z",
+    "giveaway": {
+      "title": "Postgame Fireworks Show",
+      "details": "Postgame fireworks presented by PNC."
+    },
+    {
+      "title": "Grateful Dead Co-Branded Hat",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026071006",
@@ -2323,7 +2351,11 @@
     "opponent": "Chicago Cubs",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-11T23:10:00Z"
+    "date": "2026-07-11T23:10:00Z",
+    "giveaway": {
+      "title": "Team Baseball Card Set",
+      "details": "Available to fans in attendance while supplies last."
+    }
   },
   {
     "id": "mlb_2026071113",
@@ -4288,7 +4320,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-30T23:10:00Z"
+    "date": "2026-07-30T23:10:00Z",
+    "giveaway": {
+      "title": "Reds & Skyline Chili Co-Branded Cap",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026073006",
@@ -4355,7 +4391,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-07-31T22:10:00Z"
+    "date": "2026-07-31T22:10:00Z",
+    "giveaway": {
+      "title": "Marshmello Postgame Concert",
+      "details": "Live postgame concert included with game admission."
+    }
   },
   {
     "id": "mlb_2026073103",
