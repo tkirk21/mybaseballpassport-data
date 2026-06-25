@@ -1091,7 +1091,14 @@
     "opponent": "San Diego Padres",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-03T02:10:00Z"
+    "date": "2026-07-03T02:10:00Z",
+    "giveaway": {
+      "title": "One Piece Night",
+      "details": "First 52,000 fans receive a One Piece giveaway."
+    },
+    "fireworks": {
+      "title": "Drone Show"
+    }
   },
   {
     "id": "mlb_2026070301",
@@ -1425,7 +1432,20 @@
     "opponent": "San Diego Padres",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-05T02:10:00Z"
+    "date": "2026-07-05T02:10:00Z",
+    "giveaway": [
+      {
+        "title": "America 250 Commemorative Coin",
+        "details": "Fans receive an America 250 Commemorative Coin."
+      },
+      {
+        "title": "Fourth of July Picnic Blanket",
+        "details": "Special Event Ticket Package."
+      }
+    ],
+    "fireworks": {
+      "title": "Fireworks"
+    }
   },
   {
     "id": "mlb_2026070501",
@@ -1661,7 +1681,11 @@
     "opponent": "Colorado Rockies",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-07T02:10:00Z"
+    "date": "2026-07-07T02:10:00Z",
+    "giveaway": {
+      "title": "Freddie Freeman \"18th Inning Walk-Off\" Bobblehead",
+      "details": "Fans receive a Freddie Freeman \"18th Inning Walk-Off\" Bobblehead."
+    }
   },
   {
     "id": "mlb_2026070701",
@@ -1813,7 +1837,11 @@
     "opponent": "Colorado Rockies",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-08T02:10:00Z"
+    "date": "2026-07-08T02:10:00Z",
+    "giveaway": {
+      "title": "Hawaiian Shirt Night",
+      "details": "Special Event Ticket Package."
+    }
   },
   {
     "id": "mlb_2026070801",
@@ -1946,7 +1974,11 @@
     "opponent": "Colorado Rockies",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-09T02:10:00Z"
+    "date": "2026-07-09T02:10:00Z",
+    "giveaway": {
+      "title": "Shohei Ohtani \"Greatest Game\" Bobblehead Part 2",
+      "details": "First 54,000 fans receive a Shohei Ohtani \"Greatest Game\" Bobblehead Part 2."
+    }
   },
   {
     "id": "mlb_2026070815",
@@ -2205,7 +2237,11 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-11T02:10:00Z"
+    "date": "2026-07-11T02:10:00Z",
+    "giveaway": {
+      "title": "Black Heritage Night Jersey",
+      "details": "Special Event Ticket Package."
+    }
   },
   {
     "id": "mlb_2026071015",
@@ -2364,7 +2400,11 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-12T01:10:00Z"
+    "date": "2026-07-12T01:10:00Z",
+    "giveaway": {
+      "title": "Son Heung-min Bobblehead",
+      "details": "Fans receive a Son Heung-min Bobblehead."
+  }
   },
   {
     "id": "mlb_2026071201",
@@ -2497,7 +2537,11 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-12T20:10:00Z"
+    "date": "2026-07-12T20:10:00Z",
+    "giveaway": {
+      "title": "Kiké Hernández Pitching Bobblehead",
+      "details": "Fans receive a Kiké Hernández Pitching Bobblehead."
+    }
   },
   {
     "id": "mlb_2026071215",
@@ -4188,7 +4232,11 @@
     "opponent": "Seattle Mariners",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-29T02:10:00Z"
+    "date": "2026-07-29T02:10:00Z",
+    "giveaway": {
+      "title": "2025 World Series Player Rings",
+      "details": "Fans receive 2025 World Series Player Rings."
+    }
   },
   {
     "id": "mlb_2026072901",
@@ -4433,7 +4481,17 @@
     "opponent": "Seattle Mariners",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-31T02:10:00Z"
+    "date": "2026-07-31T02:10:00Z",
+    "giveaway": [
+      {
+        "title": "Edwin Díaz Bobblehead",
+        "details": "Fans receive an Edwin Díaz Bobblehead."
+      },
+      {
+        "title": "Guatemalan Heritage Night Jersey",
+        "details": "Special Event Ticket Package."
+      }
+    ]
   },
   {
     "id": "mlb_2026073101",
@@ -4573,7 +4631,11 @@
     "opponent": "Boston Red Sox",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-08-01T02:10:00Z"
+    "date": "2026-08-01T02:10:00Z",
+    "giveaway": {
+      "title": "Kyle Tucker Bobblehead",
+      "details": "Fans receive a Kyle Tucker Bobblehead."
+    }
   },
   {
     "id": "mlb_2026073115",
