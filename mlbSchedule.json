@@ -2146,14 +2146,16 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-07-10T23:10:00Z",
-    "giveaway": {
-      "title": "Postgame Fireworks Show",
-      "details": "Postgame fireworks presented by PNC."
-    },
-    {
-      "title": "Grateful Dead Co-Branded Hat",
-      "details": "Special ticket package required."
-    }
+    "giveaway": [
+      {
+        "title": "Postgame Fireworks Show",
+        "details": "Postgame fireworks presented by PNC."
+      },
+      {
+        "title": "Grateful Dead Co-Branded Hat",
+        "details": "Special ticket package required."
+      }
+    ]
   },
   {
     "id": "mlb_2026071006",
