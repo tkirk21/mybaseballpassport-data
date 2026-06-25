@@ -899,7 +899,11 @@
     "giveaway": {
       "title": "Run Club Hat",
       "details": "Special ticket package required."
-    }
+    },
+    {
+      "title": "Pickleball Paddle",
+      "details": "Special ticket package required."
+    }  
   },
   {
     "id": "mlb_2026070102",
@@ -2296,6 +2300,10 @@
     "giveaway": {
       "title": "Hot Dog Race Caps",
       "details": "First 20,000 fans receive a randomly distributed Hot Dog Race Cap."
+    },
+    {
+      "title": "Postgame Drone Show",
+      "details": "Celebrate America's 250th birthday with a postgame drone show."
     }
   },
   {
