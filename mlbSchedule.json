@@ -1,140 +1,5 @@
 [
   {
-    "id": "mlb_2026062401",
-    "league": "MLB",
-    "team": "Miami Marlins",
-    "opponent": "Texas Rangers",
-    "arena": "loanDepot Park",
-    "city": "Miami, Florida",
-    "date": "2026-06-24T16:10:00Z"
-  },
-  {
-    "id": "mlb_2026062402",
-    "league": "MLB",
-    "team": "Chicago White Sox",
-    "opponent": "Cleveland Guardians",
-    "arena": "Rate Field",
-    "city": "Chicago, Illinois",
-    "date": "2026-06-24T18:10:00Z"
-  },
-  {
-    "id": "mlb_2026062403",
-    "league": "MLB",
-    "team": "Colorado Rockies",
-    "opponent": "Boston Red Sox",
-    "arena": "Coors Field",
-    "city": "Denver, Colorado",
-    "date": "2026-06-24T19:10:00Z"
-  },
-  {
-    "id": "mlb_2026062404",
-    "league": "MLB",
-    "team": "Los Angeles Angels",
-    "opponent": "Baltimore Orioles",
-    "arena": "Angel Stadium",
-    "city": "Anaheim, California",
-    "date": "2026-06-24T20:07:00Z"
-  },
-  {
-    "id": "mlb_2026062405",
-    "league": "MLB",
-    "team": "Pittsburgh Pirates",
-    "opponent": "Seattle Mariners",
-    "arena": "PNC Park",
-    "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-06-24T22:40:00Z"
-  },
-  {
-    "id": "mlb_2026062406",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "Kansas City Royals",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-06-24T22:40:00Z"
-  },
-  {
-    "id": "mlb_2026062407",
-    "league": "MLB",
-    "team": "Detroit Tigers",
-    "opponent": "New York Yankees",
-    "arena": "Comerica Park",
-    "city": "Detroit, Michigan",
-    "date": "2026-06-24T22:40:00Z"
-  },
-  {
-    "id": "mlb_2026062408",
-    "league": "MLB",
-    "team": "Washington Nationals",
-    "opponent": "Philadelphia Phillies",
-    "arena": "Nationals Park",
-    "city": "Washington, District of Columbia",
-    "date": "2026-06-24T22:45:00Z"
-  },
-  {
-    "id": "mlb_2026062409",
-    "league": "MLB",
-    "team": "Toronto Blue Jays",
-    "opponent": "Houston Astros",
-    "arena": "Rogers Centre",
-    "city": "Toronto, Ontario",
-    "date": "2026-06-24T23:07:00Z"
-  },
-  {
-    "id": "mlb_2026062410",
-    "league": "MLB",
-    "team": "New York Mets",
-    "opponent": "Chicago Cubs",
-    "arena": "Citi Field",
-    "city": "Queens, New York",
-    "date": "2026-06-24T23:10:00Z"
-  },
-  {
-    "id": "mlb_2026062411",
-    "league": "MLB",
-    "team": "Cincinnati Reds",
-    "opponent": "Milwaukee Brewers",
-    "arena": "Great American Ball Park",
-    "city": "Cincinnati, Ohio",
-    "date": "2026-06-24T23:10:00Z"
-  },
-  {
-    "id": "mlb_2026062412",
-    "league": "MLB",
-    "team": "Minnesota Twins",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "Target Field",
-    "city": "Minneapolis, Minnesota",
-    "date": "2026-06-24T23:40:00Z"
-  },
-  {
-    "id": "mlb_2026062413",
-    "league": "MLB",
-    "team": "St. Louis Cardinals",
-    "opponent": "Arizona Diamondbacks",
-    "arena": "Busch Stadium",
-    "city": "St. Louis, Missouri",
-    "date": "2026-06-24T23:45:00Z"
-  },
-  {
-    "id": "mlb_2026062414",
-    "league": "MLB",
-    "team": "San Diego Padres",
-    "opponent": "Atlanta Braves",
-    "arena": "Petco Park",
-    "city": "San Diego, California",
-    "date": "2026-06-25T00:40:00Z"
-  },
-  {
-    "id": "mlb_2026062415",
-    "league": "MLB",
-    "team": "San Francisco Giants",
-    "opponent": "Athletics",
-    "arena": "Oracle Park",
-    "city": "San Francisco, California",
-    "date": "2026-06-25T01:45:00Z"
-  },
-  {
     "id": "mlb_2026062501",
     "league": "MLB",
     "team": "Tampa Bay Rays",
@@ -142,6 +7,13 @@
     "arena": "George M. Steinbrenner Field",
     "city": "Tampa, Florida",
     "date": "2026-06-25T16:10:00Z"
+    "giveaway": {
+      "title": "Test giveaway",
+      "details": "just a test"
+    },
+    "fireworks": {
+      "title": "Test Fireworks",
+    }
   },
   {
     "id": "mlb_2026062502",
@@ -334,7 +206,11 @@
     "opponent": "Athletics",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-06-27T01:38:00Z"
+    "date": "2026-06-27T01:38:00Z",
+    "giveaway": {
+      "title": "Plaid Santa Hat",
+      "details": "First 25,000 fans receive a Plaid Santa Hat."
+    }
   },
   {
     "id": "mlb_2026062614",
@@ -407,9 +283,8 @@
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
     "date": "2026-06-27T20:10:00Z",
-    "giveaway": {
-      "title": "Marshmello Postgame Concert",
-      "details": "Postgame concert included with game admission."
+    "fireworks": {
+      "title": "Marshmello Postgame Concert"
     }
   },
   {
@@ -499,7 +374,10 @@
     "opponent": "Athletics",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-06-28T01:38:00Z"
+    "date": "2026-06-28T01:38:00Z",
+    "fireworks": {
+      "title": "Saturday Night Fireworks"
+    }
   },
   {
     "id": "mlb_2026062801",
@@ -756,10 +634,6 @@
     "arena": "Daikin Park",
     "city": "Houston, Texas",
     "date": "2026-06-30T00:10:00Z",
-    "giveaway": {
-      "title": "City Connect Monday",
-      "details": "City Connect Monday."
-    }
   },
   {
     "id": "mlb_2026062910",
@@ -1191,20 +1065,13 @@
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
     "date": "2026-07-02T23:40:00Z",
-    "giveaway": [
-      {
-        "title": "Armed Forces Night Thermo Giveaway",
-        "details": "First 10,000 fans receive an Armed Forces Night Thermo."
-      },
-      {
-        "title": "Armed Forces Day",
-        "details": "Special pregame military recognition and celebration."
-      },
-      {
-        "title": "Fireworks Extravaganza",
-        "details": "Postgame fireworks show."
-      }
-    ]
+    "giveaway": {
+      "title": "Armed Forces Night Thermo Giveaway",
+      "details": "First 10,000 fans receive an Armed Forces Night Thermo."
+    }
+    "fireworks": {
+      "title": "Fireworks Extravaganza"
+    }
   },
   {
     "id": "mlb_2026070207",
@@ -1290,9 +1157,8 @@
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
     "date": "2026-07-03T23:15:00Z",
-    "giveaway": {
-      "title": "Friday Night Fireworks",
-      "details": "Postgame fireworks show."
+    "fireworks": {
+      "title": "Friday Night Fireworks"
     }
   },
   {
@@ -1303,9 +1169,8 @@
     "arena": "Coors Field",
     "city": "Denver, Colorado",
     "date": "2026-07-04T00:10:00Z",
-    "giveaway": {
-      "title": "Postgame Fireworks Show",
-      "details": "Postgame fireworks show."
+    "fireworks": {
+      "title": "Friday Night Fireworks"
     }
   },
   {
@@ -1316,16 +1181,13 @@
     "arena": "Daikin Park",
     "city": "Houston, Texas",
     "date": "2026-07-04T00:15:00Z",
-    "giveaway": [
-      {
-        "title": "Josh Hader Patriotic Jersey",
-        "details": "First 10,000 fans receive a Josh Hader Patriotic Jersey."
-      },
-      {
-        "title": "Friday Night Fireworks",
-        "details": "Postgame fireworks show."
-      }
-    ]
+    "giveaway": {
+      "title": "Josh Hader Patriotic Jersey",
+      "details": "First 10,000 fans receive a Josh Hader Patriotic Jersey."
+    },
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
   },
   {
     "id": "mlb_2026070309",
@@ -1334,7 +1196,14 @@
     "opponent": "Boston Red Sox",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-04T01:38:00Z"
+    "date": "2026-07-04T01:38:00Z",
+    "giveaway": {
+      "title": "Patriotic Hat",
+      "details": "First 25,000 fans receive a Patriotic Hat."
+    },
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
   },
   {
     "id": "mlb_2026070310",
@@ -1424,20 +1293,13 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-07-04T23:10:00Z",
-    "giveaway": [
-      {
-        "title": "USA-Themed Cowboy Hat",
-        "details": "Available to fans in attendance while supplies last."
-      },
-      {
-        "title": "America250 Drone Show",
-        "details": "Postgame drone show celebrating America's 250th birthday."
-      },
-      {
-        "title": "Fourth of July Fireworks Night",
-        "details": "Postgame fireworks show celebrating America's 250th birthday."
-      }
-    ]
+    "giveaway": {
+      "title": "USA-Themed Cowboy Hat",
+      "details": "Available to fans in attendance while supplies last."
+    },
+    "fireworks": {
+      "title": "Fourth of July Fireworks and America250 Drone Show"
+    }
   },
   {
     "id": "mlb_2026070406",
@@ -1447,16 +1309,13 @@
     "arena": "Daikin Park",
     "city": "Houston, Texas",
     "date": "2026-07-04T23:10:00Z",
-    "giveaway": [
-      {
-        "title": "Independence Day Postgame Fireworks",
-        "details": "Postgame fireworks show."
-      },
-      {
-        "title": "Patriotic Orbit Beach Towel",
-        "details": "First 10,000 fans receive a Patriotic Orbit Beach Towel."
-      }
-    ]
+    "giveaway": {
+      "title": "Patriotic Orbit Beach Towel",
+      "details": "First 10,000 fans receive a Patriotic Orbit Beach Towel."
+    },
+    "fireworks": {
+      "title": "Independence Day Postgame Fireworks"
+    }
   },
   {
     "id": "mlb_2026070407",
@@ -1498,9 +1357,8 @@
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
     "date": "2026-07-05T00:08:00Z",
-    "giveaway": {
-      "title": "4th of July Fireworks",
-      "details": "Celebrate Independence Day with the Southeast's largest postgame fireworks show."
+    "fireworks": {
+      "title": "4th of July Fireworks"
     }
   },
   {
@@ -1511,9 +1369,8 @@
     "arena": "Coors Field",
     "city": "Denver, Colorado",
     "date": "2026-07-05T00:10:00Z",
-    "giveaway": {
-      "title": "Postgame Fireworks Show",
-      "details": "Postgame fireworks show."
+    "fireworks": {
+      "title": "Post game Fireworks"
     }
   },
   {
@@ -1524,20 +1381,13 @@
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
     "date": "2026-07-05T00:10:00Z",
-    "giveaway": [
-      {
-        "title": "Red, White & Bobby Bobblehead Giveaway",
-        "details": "First 25,000 fans receive a Red, White & Bobby Bobblehead."
-      },
-      {
-        "title": "America 250 Celebration",
-        "details": "Celebrate America's 250th anniversary."
-      },
-      {
-        "title": "Fireworks Spectacular",
-        "details": "Postgame fireworks show."
-      }
-    ]
+    "giveaway": {
+      "title": "Red, White & Bobby Bobblehead Giveaway",
+      "details": "First 25,000 fans receive a Red, White & Bobby Bobblehead."
+    },
+    "fireworks": {
+      "title": "Fireworks Spectacular and America 250 Celebration"
+    }
   },
   {
     "id": "mlb_2026070412",
@@ -1546,7 +1396,10 @@
     "opponent": "Boston Red Sox",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-05T01:38:00Z"
+    "date": "2026-07-05T01:38:00Z",
+    "fireworks": {
+      "title": "Saturday night Fireworks"
+    }
   },
   {
     "id": "mlb_2026070413",
@@ -1556,9 +1409,8 @@
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
     "date": "2026-07-05T01:40:00Z",
-    "giveaway": {
-      "title": "Patriotic Fireworks",
-      "details": "Postgame fireworks spectacular."
+    "fireworks": {
+      "title": "Patriotic Fireworks"
     }
   },
   {
@@ -1569,9 +1421,8 @@
     "arena": "Chase Field",
     "city": "Phoenix, Arizona",
     "date": "2026-07-05T01:40:00Z",
-    "giveaway": {
-      "title": "4th of July Weekend + Fireworks Spectaculars presented by Bar-S",
-      "details": "Postgame fireworks spectacular."
+    "fireworks": {
+      "title": "4th of July Weekend + Fireworks Spectaculars"
     }
   },
   {
@@ -1649,9 +1500,8 @@
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
     "date": "2026-07-05T19:00:00Z",
-    "giveaway": {
-      "title": "John Wathan Royals Hall of Fame Induction Pregame Ceremony",
-      "details": "Special pregame Hall of Fame induction ceremony."
+    "fireworks": {
+      "title": "John Wathan Royals Hall of Fame Induction Pregame Ceremony"
     }
   },
   {
@@ -1684,9 +1534,8 @@
     "arena": "Coors Field",
     "city": "Denver, Colorado",
     "date": "2026-07-05T20:00:00Z",
-    "giveaway": {
-      "title": "Autograph Sunday",
-      "details": "Players available for autographs beginning at approximately 12:00pm on the first base side."
+    "fireworks": {
+      "title": "Players available for autographs beginning at approximately 12:00pm on the first base side."
     }
   },
   {
@@ -1740,7 +1589,10 @@
     "opponent": "Boston Red Sox",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-06T01:30:00Z"
+    "date": "2026-07-06T01:30:00Z",
+    "fireworks": {
+      "title": "Fourth of July Weekend Fireworks"
+    }
   },
   {
     "id": "mlb_2026070601",
@@ -2054,9 +1906,8 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-07-08T23:10:00Z",
-    "giveaway": {
-      "title": "Jon Pardi Postgame Concert",
-      "details": "Live postgame concert included with game admission."
+    "fireworks": {
+      "title": "Jon Pardi Postgame Concert"
     }
   },
   {
@@ -2274,16 +2125,13 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-07-10T23:10:00Z",
-    "giveaway": [
-      {
-        "title": "Postgame Fireworks Show",
-        "details": "Postgame fireworks presented by PNC."
-      },
-      {
-        "title": "Grateful Dead Co-Branded Hat",
-        "details": "Special ticket package required."
-      }
-    ]
+    "giveaway": {
+      "title": "Grateful Dead Co-Branded Hat",
+      "details": "Special ticket package required."
+    }
+    "fireworks": {
+      "title": "Postgame Fireworks Show"
+    }
   },
   {
     "id": "mlb_2026071006",
@@ -2392,16 +2240,13 @@
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
     "date": "2026-07-11T18:10:00Z",
-    "giveaway": [
-      {
-        "title": "Mexican Heritage Jersey",
-        "details": "First 15,000 fans age 21+ receive a Mexican Heritage Jersey."
-      },
-      {
-        "title": "Postgame Fireworks",
-        "details": "Postgame fireworks show."
-      }
-    ]
+    "giveaway": {
+      "title": "Mexican Heritage Jersey",
+      "details": "First 15,000 fans age 21+ receive a Mexican Heritage Jersey."
+    },
+    "fireworks": {
+      "title": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026071103",
@@ -2545,16 +2390,13 @@
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
     "date": "2026-07-12T17:35:00Z",
-    "giveaway": [
-      {
-        "title": "Hot Dog Race Caps",
-        "details": "First 20,000 fans receive a randomly distributed Hot Dog Race Cap."
-      },
-      {
-        "title": "Postgame Drone Show",
-        "details": "Celebrate America's 250th birthday with a postgame drone show."
-      }
-    ]
+    "giveaway": {
+      "title": "Hot Dog Race Caps",
+      "details": "First 20,000 fans receive a randomly distributed Hot Dog Race Cap."
+    },
+    "fireworks": {
+      "title": "Celebrate America's 250th birthday with a postgame drone show."
+    }
   },
   {
     "id": "mlb_2026071203",
@@ -2726,9 +2568,8 @@
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
     "date": "2026-07-17T23:15:00Z",
-    "giveaway": {
+    "fireworks": {
       "title": "Friday Night Fireworks",
-      "details": "Postgame fireworks show."
     }
   },
   {
@@ -2785,14 +2626,13 @@
         "details": "First 20,000 fans receive a City Connect Big Bobby Bobblehead."
       },
       {
-        "title": "Fireworks Friday",
-        "details": "Postgame fireworks show."
-      },
-      {
         "title": "Heart Health Awareness Night",
         "details": "Heart Health Awareness Night."
       }
     ]
+    "fireworks": {
+      "title": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026071711",
@@ -2814,7 +2654,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-18T01:38:00Z"
+    "date": "2026-07-18T01:38:00Z",
+    "giveaway": {
+      "title": "Throwback Collared Crewneck",
+      "details": "First 25,000 fans receive a Throwback Collared Crewneck."
+    }
   },
   {
     "id": "mlb_2026071713",
@@ -3008,7 +2852,10 @@
     "opponent": "Detroit Tigers",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-19T02:07:00Z"
+    "date": "2026-07-19T02:07:00Z",
+    "fireworks": {
+      "title": "Saturday Night Fireworks",
+    }
   },
   {
     "id": "mlb_2026071901",
@@ -3227,9 +3074,8 @@
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
     "date": "2026-07-20T23:40:00Z",
-    "giveaway": {
+    "fireworks": {
       "title": "Peanut Free Game",
-      "details": "Peanut Free Game."
     }
   },
   {
@@ -3326,7 +3172,11 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-21T02:10:00Z"
+    "date": "2026-07-21T02:10:00Z",
+    "giveaway": {
+      "title": "Throwback Clear Backpack",
+      "details": "First 25,000 fans receive a Throwback Clear Backpack."
+    }
   },
   {
     "id": "mlb_2026072101",
@@ -3909,9 +3759,8 @@
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
     "date": "2026-07-25T23:10:00Z",
-    "giveaway": {
-      "title": "Postgame Fireworks",
-      "details": "Postgame fireworks show."
+    "fireworks": {
+      "title": "Postgame Fireworks show.",
     }
   },
   {
@@ -4467,7 +4316,11 @@
     "opponent": "Houston Astros",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-07-30T01:38:00Z"
+    "date": "2026-07-30T01:38:00Z",
+    "giveaway": {
+      "title": "City Connect Beach Towel",
+      "details": "First 25,000 fans receive a City Connect Beach Towel."
+    }
   },
   {
     "id": "mlb_2026072914",
@@ -4606,10 +4459,9 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-07-31T22:10:00Z",
-    "giveaway": {
+    "fireworks": {
       "title": "Marshmello Postgame Concert",
-      "details": "Live postgame concert included with game admission."
-    }
+    }    
   },
   {
     "id": "mlb_2026073103",
@@ -4664,9 +4516,8 @@
     "arena": "Truist Park",
     "city": "Atlanta, Georgia",
     "date": "2026-07-31T23:15:00Z",
-    "giveaway": {
+    "fireworks": {
       "title": "Friday Night Fireworks",
-      "details": "Postgame fireworks show."
     }
   },
   {
@@ -4694,7 +4545,11 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-08-01T01:38:00Z"
+    "date": "2026-08-01T01:38:00Z",
+    "giveaway": {
+      "title": "SpongeBob Angels Jersey",
+      "details": "First 25,000 fans receive a SpongeBob Angels Jersey."
+    }
   },
   {
     "id": "mlb_2026073112",
