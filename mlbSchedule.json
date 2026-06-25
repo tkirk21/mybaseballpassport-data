@@ -968,7 +968,15 @@
     "opponent": "Cincinnati Reds",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-02T00:10:00Z"
+    "date": "2026-07-02T00:10:00Z",
+    "giveaway": { 
+      "title": "America's Pastimes T-Shirt", 
+      "details": "Theme Night ticket includes an America's Pastimes t-shirt." 
+    }, 
+    "fireworks": { 
+      "title": "Postgame Fireworks Show", 
+      "details": "Postgame fireworks show after the game." 
+    }
   },
   {
     "id": "mlb_2026070112",
@@ -1017,7 +1025,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-02T18:10:00Z"
+    "date": "2026-07-02T18:10:00Z",
+    "giveaway": {
+      "title": "Dollar Dog Day",
+      "details": "All fans can enjoy $1 hot dogs."
+    }
   },
   {
     "id": "mlb_2026070203",
@@ -1746,7 +1758,11 @@
     "opponent": "Seattle Mariners",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-07-07T22:40:00Z"
+    "date": "2026-07-07T22:40:00Z",
+    "giveaway": { 
+      "title": "Guayabera Shirt", 
+      "details": "First 2,500 fans receive a Guayabera shirt." 
+    }
   },
   {
     "id": "mlb_2026070707",
@@ -2177,7 +2193,14 @@
     "opponent": "Cleveland Guardians",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-07-10T23:10:00Z"
+    "date": "2026-07-10T23:10:00Z",
+    "giveaway": { 
+      "title": "Military Appreciation Jersey", 
+      "details": "Military Appreciation ticket package includes an exclusive Marlins Military Appreciation jersey."
+    },
+    "fireworks": { 
+      "title": "Fireworks Night" 
+    }
   },
   {
     "id": "mlb_2026071008",
@@ -2332,7 +2355,17 @@
     "opponent": "Cleveland Guardians",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-07-11T20:10:00Z"
+    "date": "2026-07-11T20:10:00Z",
+    "giveaway": [ 
+      { 
+        "title": "USA Celebration Jersey", 
+        "details": "USA Celebration ticket package includes an exclusive jersey." 
+      }, 
+      { 
+        "title": "Charles Johnson Collector Pin", 
+        "details": "Legends Level ticket package includes a limited-edition Charles Johnson collector pin." 
+      } 
+    ]
   },
   {
     "id": "mlb_2026071109",
@@ -2486,7 +2519,17 @@
     "opponent": "Cleveland Guardians",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-07-12T17:40:00Z"
+    "date": "2026-07-12T17:40:00Z",
+    "giveaway": [ 
+      { 
+        "title": "Billy the Marlin Shoulder Plush", 
+        "details": "First 10,000 kids receive a Billy the Marlin Shoulder Plush." 
+      }, 
+      { 
+        "title": "Marlins x Top Gun Cap", 
+        "details": "Top Gun Day ticket package includes an exclusive Marlins x Top Gun cap." 
+      } 
+    ]
   },
   {
     "id": "mlb_2026071209",
@@ -2631,7 +2674,10 @@
     "opponent": "Miami Marlins",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-17T23:40:00Z"
+    "date": "2026-07-17T23:40:00Z",
+    "fireworks": {
+      "title": "Celebrates Latino culture with live entertainment, a national anthem performance by Tres Vidas, and the Cerveceros marketplace."
+    }
   },
   {
     "id": "mlb_2026071708",
@@ -2855,7 +2901,11 @@
     "opponent": "Miami Marlins",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-18T20:10:00Z"
+    "date": "2026-07-18T20:10:00Z",
+    "giveaway": {
+      "title": "Woodruff Trading Card Bobblehead",
+      "details": "First 25,000 ticketed fans through the gates receive a Woodruff Trading Card Bobblehead."
+    }
   },
   {
     "id": "mlb_2026071812",
@@ -2978,7 +3028,14 @@
     "opponent": "Miami Marlins",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-19T18:10:00Z"
+    "date": "2026-07-19T18:10:00Z",
+    "giveaway": {
+      "title": "Paw Patrol Lunchbox",
+      "details": "Includes a Paw Patrol Lunchbox with purchase of a special Theme Night ticket."
+    },
+    "fireworks": {
+      "title": "Family game day with special ticket offers, kids giveaways, and family-friendly experiences before, during, and after the game."
+    }
   },
   {
     "id": "mlb_2026071909",
@@ -3568,7 +3625,20 @@
     "opponent": "Colorado Rockies",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-24T20:10:00Z"
+    "date": "2026-07-24T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "Brewers Bowling Shirt",
+        "details": "Includes a Brewers Bowling Shirt with purchase of a special Theme Night ticket."
+      },
+      {
+        "title": "Autographed Brewers Alumni Legends Game Card",
+        "details": "Includes an autographed card from a Brewers Alumni Legends Game player with purchase of a special Theme Night ticket."
+      }
+    ],
+    "fireworks": {
+      "title": "All fans in attendance are invited to the Alumni Legends Game after the Brewers play the Rockies."
+    }
   },
   {
     "id": "mlb_2026072402",
@@ -3743,7 +3813,11 @@
     "opponent": "San Diego Padres",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-07-25T20:10:00Z"
+    "date": "2026-07-25T20:10:00Z",
+    "giveaway": {
+      "title": "Venezuelan Heritage Jersey",
+      "details": "Venezuelan Heritage Celebration ticket package includes an exclusive jersey." 
+    }  
   },
   {
     "id": "mlb_2026072506",
@@ -3813,7 +3887,11 @@
     "opponent": "Colorado Rockies",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-25T23:10:00Z"
+    "date": "2026-07-25T23:10:00Z",
+    "giveaway": {
+      "title": "Brewers Guess Who",
+      "details": "First 25,000 ticketed fans through the gates receive Brewers Guess Who."
+    }
   },
   {
     "id": "mlb_2026072513",
@@ -3916,7 +3994,21 @@
     "opponent": "San Diego Padres",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-07-26T17:40:00Z"
+    "date": "2026-07-26T17:40:00Z",
+    "giveaway": [
+      {
+        "title": "Javier Sanoja Gold Glove Mini Bobblehead", 
+        "details": "First 10,000 fans receive a Javier Sanoja Gold Glove Mini Bobblehead." 
+      }, 
+      { 
+        "title": "Peruvian Heritage T-Shirt", 
+        "details": "Peruvian Heritage Celebration ticket package includes an exclusive Peruvian Heritage t-shirt." 
+      }, 
+      { 
+        "title": "Alex Gonzalez Collector Pin", 
+        "details": "Legends Level ticket package includes a limited-edition Alex Gonzalez collector pin." 
+      } 
+    ]
   },
   {
     "id": "mlb_2026072609",
@@ -3947,7 +4039,11 @@
     "opponent": "Colorado Rockies",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-07-26T18:10:00Z"
+    "date": "2026-07-26T18:10:00Z",
+    "giveaway": {
+      "title": "State Fair Ticket Package",
+      "details": "Receive General Admission to the Wisconsin State Fair with purchase of a Brewers ticket for the July 26 game versus the Rockies."
+    }
   },
   {
     "id": "mlb_2026072612",
