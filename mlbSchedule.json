@@ -222,7 +222,11 @@
     "opponent": "Houston Astros",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-06-26T22:40:00Z"
+    "date": "2026-06-26T22:40:00Z",
+    "giveaway": {
+      "title": "PAWS Tiki Mug",
+      "details": "Available in limited quantities."
+    }
   },
   {
     "id": "mlb_2026062602",
@@ -1770,7 +1774,11 @@
     "opponent": "Athletics",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-07-07T22:40:00Z"
+    "date": "2026-07-07T22:40:00Z",
+    "giveaway": {
+      "title": "Tarik Skubal Back2Back Bobblehead",
+      "details": "Available in limited quantities."
+    }
   },
   {
     "id": "mlb_2026070705",
@@ -1909,7 +1917,11 @@
     "opponent": "Athletics",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-07-08T22:40:00Z"
+    "date": "2026-07-08T22:40:00Z",
+    "giveaway": {
+      "title": "Tarik Skubal Back2Back Bobblehead",
+      "details": "Available in limited quantities."
+    }
   },
   {
     "id": "mlb_2026070804",
@@ -3684,7 +3696,11 @@
     "opponent": "Kansas City Royals",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-07-25T17:10:00Z"
+    "date": "2026-07-25T17:10:00Z",
+    "giveaway": {
+      "title": "1901 Replica Jersey",
+      "details": "Available in limited quantities."
+    }
   },
   {
     "id": "mlb_2026072502",
