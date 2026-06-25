@@ -761,6 +761,17 @@
     "arena": "Coors Field",
     "city": "Denver, Colorado",
     "date": "2026-06-30T00:40:00Z"
+    "date": "2026-06-30T00:40:00Z",
+    "giveaway": [
+      {
+        "title": "BOGO Hot Dogs",
+        "details": "Special theme ticket required."
+      },
+      {
+        "title": "Mile High Value Play",
+        "details": "Special theme ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026062911",
@@ -917,7 +928,11 @@
     "opponent": "Miami Marlins",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-01T00:40:00Z"
+    "date": "2026-07-01T00:40:00Z",
+    "giveaway": {
+      "title": "Topps Baseball Card Packs",
+      "details": "First 15,000 fans receive Topps 2026 Series 2 Baseball Card Packs."
+    }
   },
   {
     "id": "mlb_2026063013",
@@ -1248,7 +1263,11 @@
     "opponent": "San Francisco Giants",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-04T00:10:00Z"
+    "date": "2026-07-04T00:10:00Z",
+    "giveaway": {
+      "title": "Postgame Fireworks Show",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026070308",
@@ -1432,7 +1451,11 @@
     "opponent": "San Francisco Giants",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-05T00:10:00Z"
+    "date": "2026-07-05T00:10:00Z",
+    "giveaway": {
+      "title": "Postgame Fireworks Show",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026070411",
@@ -1579,7 +1602,11 @@
     "opponent": "San Francisco Giants",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-05T20:00:00Z"
+    "date": "2026-07-05T20:00:00Z",
+    "giveaway": {
+      "title": "Autograph Sunday",
+      "details": "Players available for autographs beginning at approximately 12:00pm on the first base side."
+    }
   },
   {
     "id": "mlb_2026070511",
@@ -2671,7 +2698,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-18T00:40:00Z"
+    "date": "2026-07-18T00:40:00Z",
+    "giveaway": {
+      "title": "City Connect Mystery Player Jersey",
+      "details": "First 15,000 fans receive a City Connect Mystery Player Jersey."
+  }
   },
   {
     "id": "mlb_2026071712",
@@ -2746,7 +2777,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-18T19:10:00Z"
+    "date": "2026-07-18T19:10:00Z",
+    "giveaway": {
+      "title": "Hot Dog Hat",
+      "details": "First 15,000 fans receive a Hot Dog Hat."
+    }
   },
   {
     "id": "mlb_2026071804",
@@ -2960,7 +2995,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-19T19:10:00Z"
+    "date": "2026-07-19T19:10:00Z",
+    "giveaway": {
+      "title": "Rockies LED Nightlight",
+      "details": "All fans receive a Rockies LED Nightlight upon exit."
+    }
   },
   {
     "id": "mlb_2026071911",
@@ -3131,7 +3170,18 @@
     "opponent": "Washington Nationals",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-07-21T00:40:00Z"
+    "date": "2026-07-21T00:40:00Z",
+    "date": "2026-07-21T00:40:00Z",
+    "giveaway": [
+      {
+        "title": "BOGO Hot Dogs",
+        "details": "Special theme ticket required."
+      },
+      {
+        "title": "Mile High Value Play",
+        "details": "Special theme ticket required."
+      }
+    ]
   },
   {
     "id": "mlb_2026072013",
