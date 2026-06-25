@@ -60,7 +60,14 @@
     "opponent": "Chicago Cubs",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-06-25T23:10:00Z"
+    "date": "2026-06-25T23:10:00Z",
+    "giveaway": {
+      "title": "Juan Soto Baseball Card Bobblehead",
+      "details": "First 18,000 fans."
+    },
+    "fireworks": {
+      "title": "Cash Cortes Pre-Game Concert"
+    }
   },
   {
     "id": "mlb_2026062508",
@@ -145,7 +152,14 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-06-26T23:10:00Z"
+    "date": "2026-06-26T23:10:00Z",
+    "giveaway": {
+      "title": "Mets Pride Sleeveless Jersey",
+      "details": "First 15,000 fans."
+    },
+    "fireworks": {
+      "title": "Fireworks Night"
+    }
   },
   {
     "id": "mlb_2026062608",
@@ -269,7 +283,11 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-06-27T20:10:00Z"
+    "date": "2026-06-27T20:10:00Z",
+    "giveaway": {
+      "title": "America250 Mr. and Mrs. Met T-shirt",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026062706",
@@ -444,7 +462,11 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-06-28T17:40:00Z"
+    "date": "2026-06-28T17:40:00Z",
+    "giveaway": {
+      "title": "Toy Story 5 Reversible Bucket Hat",
+      "details": "First 5,000 kids 12 and under."
+    }
   },
   {
     "id": "mlb_2026062808",
@@ -1799,7 +1821,11 @@
     "opponent": "Kansas City Royals",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-07T23:10:00Z"
+    "date": "2026-07-07T23:10:00Z",
+    "giveaway": {
+      "title": "Mets Beach Towel",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026070710",
@@ -1946,7 +1972,11 @@
     "opponent": "Kansas City Royals",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-08T23:10:00Z"
+    "date": "2026-07-08T23:10:00Z",
+    "giveaway": {
+      "title": "Mets Camo Trucker Hat",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026070809",
@@ -2219,7 +2249,10 @@
     "opponent": "Boston Red Sox",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-10T23:15:00Z"
+    "date": "2026-07-10T23:15:00Z",
+    "fireworks": {
+      "title": "Fireworks Night"
+    }
   },
   {
     "id": "mlb_2026071009",
@@ -2354,7 +2387,11 @@
     "opponent": "Boston Red Sox",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-11T20:10:00Z"
+    "date": "2026-07-11T20:10:00Z",
+    "giveaway": {
+      "title": "Devin Williams Replica Jersey",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026071107",
@@ -3713,7 +3750,10 @@
     "opponent": "Los Angeles Dodgers",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-24T23:10:00Z"
+    "date": "2026-07-24T23:10:00Z",
+    "fireworks": {
+      "title": "Fireworks Night"
+    }
   },
   {
     "id": "mlb_2026072408",
@@ -3928,7 +3968,11 @@
     "opponent": "Los Angeles Dodgers",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-25T23:15:00Z"
+    "date": "2026-07-25T23:15:00Z",
+    "giveaway": {
+      "title": "Freddy Peralta Bobblehead",
+      "details": "First 18,000 fans."
+    }
   },
   {
     "id": "mlb_2026072514",
@@ -4013,7 +4057,11 @@
     "opponent": "Los Angeles Dodgers",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-26T17:40:00Z"
+    "date": "2026-07-26T17:40:00Z",
+    "giveaway": {
+      "title": "Hello Kitty Plush Key Chain",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026072608",
@@ -4174,7 +4222,11 @@
     "opponent": "Atlanta Braves",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-27T23:10:00Z"
+    "date": "2026-07-27T23:10:00Z",
+    "giveaway": {
+      "title": "Carlos Beltrán Jersey",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026072708",
@@ -4286,7 +4338,11 @@
     "opponent": "Atlanta Braves",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-28T23:10:00Z"
+    "date": "2026-07-28T23:10:00Z",
+    "giveaway": {
+      "title": "Mr. Met on Deck Plush Doll",
+      "details": "First 15,000 fans."
+    }
   },
   {
     "id": "mlb_2026072808",
@@ -4415,7 +4471,11 @@
     "opponent": "Atlanta Braves",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-29T17:10:00Z"
+    "date": "2026-07-29T17:10:00Z",
+    "giveaway": {
+      "title": "Mr. & Mrs. Met Play-Doh Set",
+      "details": "First 5,000 kids 12 and under."
+    }
   },
   {
     "id": "mlb_2026072906",
@@ -4691,7 +4751,10 @@
     "opponent": "Miami Marlins",
     "arena": "Citi Field",
     "city": "Queens, New York",
-    "date": "2026-07-31T23:10:00Z"
+    "date": "2026-07-31T23:10:00Z",
+    "fireworks": {
+      "title": "Fireworks Night"
+    }
   },
   {
     "id": "mlb_2026073108",
