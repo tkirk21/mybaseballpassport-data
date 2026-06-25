@@ -420,7 +420,11 @@
     "opponent": "Washington Nationals",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-06-27T23:05:00Z"
+    "date": "2026-06-27T23:05:00Z",
+    "giveaway": {
+      "title": "Pride Night Jersey",
+      "details": "First 15,000 fans receive a Pride Night Jersey."
+    }
   },
   {
     "id": "mlb_2026062709",
@@ -492,7 +496,11 @@
     "opponent": "Washington Nationals",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-06-28T17:35:00Z"
+    "date": "2026-06-28T17:35:00Z",
+    "giveaway": {
+      "title": "Gunnar Henderson Bobblecard™",
+      "details": "First 15,000 fans receive a Gunnar Henderson Bobblecard™."
+    }
   },
   {
     "id": "mlb_2026062802",
@@ -627,7 +635,11 @@
     "opponent": "Chicago White Sox",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-06-29T22:35:00Z"
+    "date": "2026-06-29T22:35:00Z",
+    "giveaway": {
+      "title": "Beach Towel",
+      "details": "First 15,000 fans receive a Beach Towel."
+    }
   },
   {
     "id": "mlb_2026062902",
@@ -883,7 +895,11 @@
     "opponent": "Chicago White Sox",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-07-01T16:35:00Z"
+    "date": "2026-07-01T16:35:00Z",
+    "giveaway": {
+      "title": "Run Club Hat",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026070102",
@@ -2209,7 +2225,11 @@
     "opponent": "Kansas City Royals",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-07-11T23:05:00Z"
+    "date": "2026-07-11T23:05:00Z",
+    "giveaway": {
+      "title": "Reversible Floppy Hat",
+      "details": "First 20,000 fans age 21+ receive a Reversible Floppy Hat."
+    }
   },
   {
     "id": "mlb_2026071111",
@@ -2272,7 +2292,11 @@
     "opponent": "Kansas City Royals",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-07-12T17:35:00Z"
+    "date": "2026-07-12T17:35:00Z",
+    "giveaway": {
+      "title": "Hot Dog Race Caps",
+      "details": "First 20,000 fans receive a randomly distributed Hot Dog Race Cap."
+    }
   },
   {
     "id": "mlb_2026071203",
@@ -3508,7 +3532,11 @@
     "opponent": "Atlanta Braves",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-07-25T23:05:00Z"
+    "date": "2026-07-25T23:05:00Z",
+    "giveaway": {
+      "title": "Birdland Hawaiian Shirt",
+      "details": "First 20,000 fans receive a Birdland Hawaiian Shirt."
+    }
   },
   {
     "id": "mlb_2026072510",
@@ -3607,7 +3635,11 @@
     "opponent": "Atlanta Braves",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-07-26T17:35:00Z"
+    "date": "2026-07-26T17:35:00Z",
+    "giveaway": {
+      "title": "Birdland Hawaiian Shirt",
+      "details": "First 20,000 fans receive a Birdland Hawaiian Shirt."
+    }
   },
   {
     "id": "mlb_2026072606",
