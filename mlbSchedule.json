@@ -755,7 +755,11 @@
     "opponent": "Minnesota Twins",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-06-30T00:10:00Z"
+    "date": "2026-06-30T00:10:00Z",
+    "giveaway": {
+      "title": "City Connect Monday",
+      "details": "City Connect Monday."
+    }
   },
   {
     "id": "mlb_2026062910",
@@ -922,7 +926,11 @@
     "opponent": "Minnesota Twins",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-07-01T00:10:00Z"
+    "date": "2026-07-01T00:10:00Z",
+    "giveaway": {
+      "title": "Hello Kitty Cap",
+      "details": "First 10,000 fans receive a Hello Kitty Cap."
+    }
   },
   {
     "id": "mlb_2026063012",
@@ -1070,7 +1078,17 @@
     "opponent": "Minnesota Twins",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-07-02T00:10:00Z"
+    "date": "2026-07-02T00:10:00Z",
+    "giveaway": [
+      {
+        "title": "Hello Kitty Night #1",
+        "details": "Special event."
+      },
+      {
+        "title": "Hello Kitty Cap",
+        "details": "First 10,000 fans receive a Hello Kitty Cap."
+      }
+    ]
   },
   {
     "id": "mlb_2026070111",
@@ -1279,7 +1297,17 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-07-04T00:15:00Z"
+    "date": "2026-07-04T00:15:00Z",
+    "giveaway": [
+      {
+        "title": "Josh Hader Patriotic Jersey",
+        "details": "First 10,000 fans receive a Josh Hader Patriotic Jersey."
+      },
+      {
+        "title": "Friday Night Fireworks",
+        "details": "Postgame fireworks show."
+      }
+    ]
   },
   {
     "id": "mlb_2026070309",
@@ -1400,7 +1428,17 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-07-04T23:10:00Z"
+    "date": "2026-07-04T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Independence Day Postgame Fireworks",
+        "details": "Postgame fireworks show."
+      },
+      {
+        "title": "Patriotic Orbit Beach Towel",
+        "details": "First 10,000 fans receive a Patriotic Orbit Beach Towel."
+      }
+    ]
   },
   {
     "id": "mlb_2026070407",
@@ -1587,7 +1625,11 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-07-05T19:30:00Z"
+    "date": "2026-07-05T19:30:00Z",
+    "giveaway": {
+      "title": "Hunter Brown \"Diesel\" Bobblehead",
+      "details": "First 10,000 fans receive a Hunter Brown \"Diesel\" Bobblehead."
+    }
   },
   {
     "id": "mlb_2026070509",
