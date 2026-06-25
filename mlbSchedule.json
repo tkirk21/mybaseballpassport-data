@@ -1383,14 +1383,16 @@
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
     "date": "2026-07-05T00:08:00Z",
-    "giveaway": {
-      "title": "Fourth of July T-shirt",
-      "details": "First 10,000 early arriving fans receive a Fourth of July T-shirt."
-    },
-    {
-      "title": "Clark the Cub Building Block Set",
-      "details": "First 5,000 fans age 13 and under receive a Clark the Cub Building Block Set."
-    }
+    "giveaway": [
+      {
+        "title": "Fourth of July T-shirt",
+        "details": "First 10,000 early arriving fans receive a Fourth of July T-shirt."
+      },
+      {
+        "title": "Clark the Cub Building Block Set",
+        "details": "First 5,000 fans age 13 and under receive a Clark the Cub Building Block Set."
+      }
+    ]
   },
   {
     "id": "mlb_2026070409",
