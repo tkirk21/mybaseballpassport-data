@@ -15,7 +15,11 @@
     "opponent": "Seattle Mariners",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-06-25T16:35:00Z"
+    "date": "2026-06-25T16:35:00Z",
+    "giveaway": {
+      "title": "Sugardale Dollar Dog Game",
+      "details": "Fans can enjoy $1 hot dogs."
+    }
   },
   {
     "id": "mlb_2026062503",
@@ -274,7 +278,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-06-27T20:05:00Z"
+    "date": "2026-06-27T20:05:00Z",
+    "giveaway": {
+      "title": "Pirates Soccer Jersey",
+      "details": "First 20,000 fans."
+    }
   },
   {
     "id": "mlb_2026062705",
@@ -417,7 +425,11 @@
     "opponent": "Cincinnati Reds",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-06-28T17:35:00Z"
+    "date": "2026-06-28T17:35:00Z",
+    "giveaway": {
+      "title": "Eat'n Park Smiley Cookie",
+      "details": "Kids 14 & under."
+    }
   },
   {
     "id": "mlb_2026062803",
@@ -1802,7 +1814,10 @@
     "opponent": "Atlanta Braves",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-07T22:40:00Z"
+    "date": "2026-07-07T22:40:00Z",
+    "fireworks": {
+      "title": "Pup Night - Bring your dog to the game"
+    }
   },
   {
     "id": "mlb_2026070706",
@@ -2076,7 +2091,11 @@
     "opponent": "Atlanta Braves",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-09T16:35:00Z"
+    "date": "2026-07-09T16:35:00Z",
+    "giveaway": {
+      "title": "Sugardale Dollar Dog Game",
+      "details": "Fans can enjoy $1 hot dogs."
+    }
   },
   {
     "id": "mlb_2026070902",
@@ -2202,7 +2221,10 @@
     "opponent": "Milwaukee Brewers",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-10T22:40:00Z"
+    "date": "2026-07-10T22:40:00Z",
+    "fireworks": {
+      "title": "Country Weekend - Zambelli Fireworks Night"
+    }
   },
   {
     "id": "mlb_2026071003",
@@ -2399,7 +2421,11 @@
     "opponent": "Milwaukee Brewers",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-11T20:05:00Z"
+    "date": "2026-07-11T20:05:00Z",
+    "giveaway": {
+      "title": "Pirates Cowboy Hat",
+      "details": "First 20,000 fans."
+    }
   },
   {
     "id": "mlb_2026071106",
@@ -2524,7 +2550,14 @@
     "opponent": "Milwaukee Brewers",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-12T16:15:00Z"
+    "date": "2026-07-12T16:15:00Z",
+    "giveaway": {
+      "title": "Kids Bandana",
+      "details": "Kids 14 & under. While supplies last."
+    },
+    "fireworks": {
+      "title": "Country Weekend - Postgame Concert featuring Jordan Davis"
+    }
   },
   {
     "id": "mlb_2026071202",
@@ -3750,7 +3783,11 @@
     "opponent": "Chicago Cubs",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-24T22:40:00Z"
+    "date": "2026-07-24T22:40:00Z",
+    "giveaway": {
+      "title": "Yinzerpalooza T-Shirt",
+      "details": "First 20,000 fans."
+    }
   },
   {
     "id": "mlb_2026072404",
@@ -3944,7 +3981,11 @@
     "opponent": "Chicago Cubs",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-25T22:40:00Z"
+    "date": "2026-07-25T22:40:00Z",
+    "giveaway": {
+      "title": "Dr. Robby Bobblehead",
+      "details": "First 20,000 fans."
+    }
   },
   {
     "id": "mlb_2026072509",
@@ -4053,7 +4094,11 @@
     "opponent": "Chicago Cubs",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-26T17:35:00Z"
+    "date": "2026-07-26T17:35:00Z",
+    "giveaway": {
+      "title": "Daniel Tiger Plush",
+      "details": "Kids 14 & under. While supplies last."
+    }
   },
   {
     "id": "mlb_2026072604",
@@ -4333,7 +4378,10 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-07-28T22:40:00Z"
+    "date": "2026-07-28T22:40:00Z",
+    "fireworks": {
+      "title": "Pup Night, bring your dog to the game + Youth Baseball & Softball Day (pregame parade for first 1,000 youth players)"
+    }
   },
   {
     "id": "mlb_2026072803",
