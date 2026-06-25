@@ -1097,7 +1097,7 @@
       "details": "First 52,000 fans receive a One Piece giveaway."
     },
     "fireworks": {
-      "title": "Drone Show"
+      "title": "Post game Drone Show."
     }
   },
   {
@@ -1238,7 +1238,10 @@
     "opponent": "San Diego Padres",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-07-04T02:10:00Z"
+    "date": "2026-07-04T02:10:00Z",
+    "fireworks": {
+      "title": "Post game Drone Show.",
+    }
   },
   {
     "id": "mlb_2026070313",
@@ -1444,7 +1447,7 @@
       }
     ],
     "fireworks": {
-      "title": "Fireworks"
+      "title": "Fourth of July Fireworks Show."
     }
   },
   {
@@ -2541,6 +2544,9 @@
     "giveaway": {
       "title": "Kiké Hernández Pitching Bobblehead",
       "details": "Fans receive a Kiké Hernández Pitching Bobblehead."
+    },
+    "fireworks": {
+      "title": "Viva Los Dodgers - Pregame festival with live music, special guests, player interviews and interactive games."
     }
   },
   {
