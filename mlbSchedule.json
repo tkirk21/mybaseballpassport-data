@@ -263,7 +263,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-06-27T02:15:00Z",
-    "giveaways": {
+    "giveaway": {
       "title": "Firefighter Appreciation Night Jersey",
       "details": "Special event ticket required. Includes a Firefighter Appreciation Night Jersey."
     }
@@ -416,7 +416,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-06-28T01:05:00Z",
-    "giveaways": {
+    "giveaway": {
       "title": "Rafael Devers Bobblehead",
       "details": "First 20,000 fans"
     }
@@ -592,7 +592,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-06-28T20:05:00Z",
-    "giveaways": {
+    "giveaway": {
       "title": "Camo T-shirt",
       "details": "First 20,000 fans"
     }
@@ -1832,7 +1832,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-07-07T01:45:00Z",
-    "giveaways": {
+    "giveaway": {
       "title": "Naruto Shippuden Jersey",
       "details": "Special event ticket required. Includes Naruto Shippuden Jersey."
     }
@@ -2007,7 +2007,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-07-08T01:45:00Z",
-    "giveaways": {
+    "giveaway": {
       "title": "Jewish Heritage Night Jersey",
       "details": "Special event ticket required. Includes a Jewish Heritage Night Jersey. "
     }
@@ -2307,7 +2307,7 @@
     "arena": "Oracle Park",
     "city": "San Francisco, California",
     "date": "2026-07-10T01:45:00Z",
-    "giveaways": {
+    "giveaway": {
       "title": "Snoopy Bobblehead",
       "details": "Special event ticket required. Includes a Snoopy Bobblehead."
     }
