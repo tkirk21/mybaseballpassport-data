@@ -710,7 +710,19 @@
     "opponent": "San Diego Padres",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-06-30T00:05:00Z"
+    "date": "2026-06-30T00:05:00Z",
+    "giveaway": {
+      "title": "University of Notre Dame Cap",
+      "details": "Special ticket purchase required."
+    },
+    {
+      "title": "Indiana University Cap",
+      "details": "Special ticket purchase required."
+    },
+    {
+      "title": "Purdue University Cap",
+      "details": "Special ticket purchase required."
+    }
   },
   {
     "id": "mlb_2026062909",
@@ -849,7 +861,23 @@
     "opponent": "San Diego Padres",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-01T00:05:00Z"
+    "date": "2026-07-01T00:05:00Z",
+    "giveaway": {
+      "title": "University of Iowa Cap",
+      "details": "Special ticket purchase required."
+    },
+    {
+      "title": "University of Michigan Cap",
+      "details": "Special ticket purchase required."
+    },
+    {
+      "title": "Michigan State University Cap",
+      "details": "Special ticket purchase required."
+    },
+    {
+      "title": "Topps Series 2 Baseball Packs",
+      "details": "First 20,000 early arriving fans receive Topps Series 2 Baseball Packs."
+    }
   },
   {
     "id": "mlb_2026063011",
@@ -1326,7 +1354,15 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-05T00:08:00Z"
+    "date": "2026-07-05T00:08:00Z",
+    "giveaway": {
+      "title": "Fourth of July T-shirt",
+      "details": "First 10,000 early arriving fans receive a Fourth of July T-shirt."
+    },
+    {
+      "title": "Clark the Cub Building Block Set",
+      "details": "First 5,000 fans age 13 and under receive a Clark the Cub Building Block Set."
+    }
   },
   {
     "id": "mlb_2026070409",
@@ -2522,7 +2558,11 @@
     "opponent": "Minnesota Twins",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-18T00:05:00Z"
+    "date": "2026-07-18T00:05:00Z",
+    "giveaway": {
+      "title": "#BudFridays Cubs 1940s-50s Replica Jersey",
+      "details": "First 5,000 fans age 21+ in the Budweiser Bleachers receive a Cubs 1940s-50s Replica Jersey."
+    }
   },
   {
     "id": "mlb_2026071709",
@@ -2705,7 +2745,11 @@
     "opponent": "San Francisco Giants",
     "arena": "T-Mobile Park",
     "city": "Seattle, Washington",
-    "date": "2026-07-19T00:08:00Z"
+    "date": "2026-07-19T00:08:00Z",
+    "giveaway": {
+      "title": "National Hot Dog Day Cap",
+      "details": "First 4,000 early arriving fans in the Budweiser Bleachers receive a National Hot Dog Day Cap."
+    }
   },
   {
     "id": "mlb_2026071813",
@@ -2964,7 +3008,15 @@
     "opponent": "Detroit Tigers",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-21T00:05:00Z"
+    "date": "2026-07-21T00:05:00Z",
+    "giveaway": {
+      "title": "Greek Heritage Jersey",
+      "details": "Special ticket purchase required."
+    },
+    {
+      "title": "University of Missouri Cap",
+      "details": "Special ticket purchase required."
+    }
   },
   {
     "id": "mlb_2026072010",
@@ -3107,7 +3159,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-22T00:05:00Z"
+    "date": "2026-07-22T00:05:00Z",
+    "giveaway": {
+      "title": "Cubs x PCA Basketball Jersey",
+      "details": "Special ticket purchase required."
+    }
   },
   {
     "id": "mlb_2026072110",
@@ -3290,7 +3346,11 @@
     "opponent": "Detroit Tigers",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-23T00:05:00Z"
+    "date": "2026-07-23T00:05:00Z",
+    "giveaway": {
+      "title": "2016 World Series Anniversary Surprise Pin",
+      "details": "First 10,000 early arriving fans receive a 2016 World Series Anniversary Surprise Pin."
+    }
   },
   {
     "id": "mlb_2026072214",
