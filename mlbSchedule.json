@@ -626,7 +626,11 @@
     "opponent": "New York Yankees",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-06-28T23:20:00Z"
+    "date": "2026-06-28T23:20:00Z",
+    "giveaway": {
+      "title": "German Celebration",
+      "details": "Special ticket required. Includes the exclusive German Celebration giveaway item."
+    }
   },
   {
     "id": "mlb_2026062901",
@@ -675,7 +679,11 @@
     "opponent": "Washington Nationals",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-06-29T23:10:00Z"
+    "date": "2026-06-29T23:10:00Z",
+    "giveaway": {
+      "title": "Puerto Rican Celebration",
+      "details": "Special ticket required. Includes the exclusive Puerto Rican Celebration giveaway item."
+    }
   },
   {
     "id": "mlb_2026062906",
@@ -801,7 +809,11 @@
     "opponent": "Washington Nationals",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-06-30T23:10:00Z"
+    "date": "2026-06-30T23:10:00Z",
+    "giveaway": {
+      "title": "Italian Celebration",
+      "details": "Special ticket required. Includes the exclusive Italian Celebration giveaway item."
+    }
   },
   {
     "id": "mlb_2026063007",
@@ -921,7 +933,11 @@
     "opponent": "Washington Nationals",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-07-01T17:35:00Z"
+    "date": "2026-07-01T17:35:00Z",
+    "giveaway": {
+      "title": "Red Sox USA Soccer Jersey",
+      "details": "First 7,500 fans receive a Red Sox USA Soccer Jersey. Presented by Coca-Cola."
+    }
   },
   {
     "id": "mlb_2026070104",
@@ -3248,7 +3264,11 @@
     "opponent": "Baltimore Orioles",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-07-22T23:10:00Z"
+    "date": "2026-07-22T23:10:00Z",
+    "giveaway": {
+      "title": "Venezuelan Celebration",
+      "details": "Special ticket required. Includes the exclusive Venezuelan Celebration giveaway item."
+    }
   },
   {
     "id": "mlb_2026072212",
