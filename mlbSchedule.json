@@ -1342,18 +1342,20 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-07-04T23:10:00Z",
-    "giveaway": {
-      "title": "USA-Themed Cowboy Hat",
-      "details": "Available to fans in attendance while supplies last."
-    },
-    {
-      "title": "America250 Drone Show",
-      "details": "Postgame drone show celebrating America's 250th birthday."
-    },
-    {
-      "title": "Fourth of July Fireworks Night",
-      "details": "Postgame fireworks show celebrating America's 250th birthday."
-    }
+    "giveaway": [
+      {
+        "title": "USA-Themed Cowboy Hat",
+        "details": "Available to fans in attendance while supplies last."
+      },
+      {
+        "title": "America250 Drone Show",
+        "details": "Postgame drone show celebrating America's 250th birthday."
+      },
+      {
+        "title": "Fourth of July Fireworks Night",
+        "details": "Postgame fireworks show celebrating America's 250th birthday."
+      }
+    ]
   },
   {
     "id": "mlb_2026070406",
