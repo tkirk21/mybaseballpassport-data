@@ -437,7 +437,11 @@
     "opponent": "Seattle Mariners",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-06-27T23:10:00Z"
+    "date": "2026-06-27T23:10:00Z",
+    "giveaway": {
+      "title": "Tanner Bibee City Connect Jersey",
+      "details": "First 15,000 fans receive a Tanner Bibee City Connect Jersey."
+    }
   },
   {
     "id": "mlb_2026062710",
@@ -1218,7 +1222,11 @@
     "opponent": "Chicago White Sox",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-07-03T23:10:00Z"
+    "date": "2026-07-03T23:10:00Z",
+    "giveaway": {
+      "title": "Free Shirt Friday",
+      "details": "First 10,000 fans receive a Free Shirt Friday T-shirt."
+    }
   },
   {
     "id": "mlb_2026070306",
@@ -1379,7 +1387,11 @@
     "opponent": "Chicago White Sox",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-07-04T23:10:00Z"
+    "date": "2026-07-04T23:10:00Z",
+    "giveaway": {
+      "title": "Patriotic Hat",
+      "details": "First 15,000 fans receive a Patriotic Hat."
+    }
   },
   {
     "id": "mlb_2026070408",
@@ -2761,7 +2773,11 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-07-18T20:10:00Z"
+    "date": "2026-07-18T20:10:00Z",
+    "giveaway": {
+      "title": "José Ramírez Camp Shirt",
+      "details": "First 15,000 fans receive a José Ramírez Camp Shirt."
+    }
   },
   {
     "id": "mlb_2026071807",
