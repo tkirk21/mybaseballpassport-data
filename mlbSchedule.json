@@ -402,7 +402,11 @@
     "opponent": "Kansas City Royals",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-06-27T20:10:00Z"
+    "date": "2026-06-27T20:10:00Z",
+    "giveaway": {
+      "title": "Marshmello Postgame Concert",
+      "details": "Postgame concert included with game admission."
+    }
   },
   {
     "id": "mlb_2026062707",
@@ -572,7 +576,15 @@
     "opponent": "Kansas City Royals",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-06-28T18:10:00Z"
+    "date": "2026-06-28T18:10:00Z",
+    "giveaway": {
+      "title": "America's 250th Homage T-Shirt",
+      "details": "First 15,000 fans receive an America's 250th Homage T-Shirt."
+    },
+    {
+      "title": "Nickelodeon Day Bucket Hat",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026062810",
@@ -2209,7 +2221,15 @@
     "opponent": "Athletics",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-11T18:10:00Z"
+    "date": "2026-07-11T18:10:00Z",
+    "giveaway": {
+      "title": "Mexican Heritage Jersey",
+      "details": "First 15,000 fans age 21+ receive a Mexican Heritage Jersey."
+    },
+    {
+      "title": "Postgame Fireworks",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026071103",
@@ -3642,7 +3662,11 @@
     "opponent": "Houston Astros",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-25T23:10:00Z"
+    "date": "2026-07-25T23:10:00Z",
+    "giveaway": {
+      "title": "Postgame Fireworks",
+      "details": "Postgame fireworks show."
+    }
   },
   {
     "id": "mlb_2026072512",
@@ -3772,7 +3796,11 @@
     "opponent": "Houston Astros",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-26T18:10:00Z"
+    "date": "2026-07-26T18:10:00Z",
+    "giveaway": {
+      "title": "City Connect Warmup",
+      "details": "First 15,000 fans receive a City Connect Warmup."
+    }
   },
   {
     "id": "mlb_2026072611",
@@ -3889,7 +3917,11 @@
     "opponent": "New York Yankees",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-27T23:40:00Z"
+    "date": "2026-07-27T23:40:00Z",
+    "giveaway": {
+      "title": "Munetaka Murakami 'First MLB Home Run' Bobblehead",
+      "details": "First 15,000 fans receive a Munetaka Murakami 'First MLB Home Run' Bobblehead."
+    }
   },
   {
     "id": "mlb_2026072709",
@@ -4006,7 +4038,11 @@
     "opponent": "New York Yankees",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-28T23:40:00Z"
+    "date": "2026-07-28T23:40:00Z",
+    "giveaway": {
+      "title": "Christmas in July T-Shirt",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026072810",
@@ -4163,7 +4199,11 @@
     "opponent": "New York Yankees",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-29T23:40:00Z"
+    "date": "2026-07-29T23:40:00Z",
+    "giveaway": {
+      "title": "Grateful Dead White Sox Jersey",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026072912",
@@ -4226,7 +4266,11 @@
     "opponent": "New York Yankees",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-07-30T18:10:00Z"
+    "date": "2026-07-30T18:10:00Z",
+    "giveaway": {
+      "title": "Harry Potter Night Shirt",
+      "details": "Special ticket package required."
+    }
   },
   {
     "id": "mlb_2026073004",
