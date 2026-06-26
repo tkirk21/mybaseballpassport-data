@@ -613,7 +613,114 @@
     "fireworks": {
       "title": "Naming the Minnesota Star Tribune Second Half Season Ball Pig"
     }
-  }  
+  },
+  {
+  "id": "il_2026070101",
+  "league": "IL",
+  "team": "Syracuse Mets",
+  "opponent": "Worcester Red Sox",
+  "arena": "NBT Bank Stadium",
+  "city": "Syracuse, New York",
+  "date": "2026-07-01T22:35:00Z"
+},
+{
+  "id": "il_2026070102",
+  "league": "IL",
+  "team": "Durham Bulls",
+  "opponent": "Gwinnett Stripers",
+  "arena": "Durham Bulls Athletic Park",
+  "city": "Durham, North Carolina",
+  "date": "2026-07-01T22:45:00Z",
+  "fireworks": {
+    "title": "Postgame Fireworks"
+  }
+},
+{
+  "id": "il_2026070103",
+  "league": "IL",
+  "team": "Rochester Red Wings",
+  "opponent": "Lehigh Valley IronPigs",
+  "arena": "ESL Ballpark",
+  "city": "Rochester, New York",
+  "date": "2026-07-01T22:45:00Z",
+  "giveaway": {
+    "title": "Cocos Locos Soccer-Style Jersey Giveaway",
+    "details": "First 1,000 fans receive a Cocos Locos Soccer-Style Jersey."
+  }
+},
+{
+  "id": "il_2026070104",
+  "league": "IL",
+  "team": "Columbus Clippers",
+  "opponent": "Louisville Bats",
+  "arena": "Huntington Park",
+  "city": "Columbus, Ohio",
+  "date": "2026-07-01T23:05:00Z"
+},
+{
+  "id": "il_2026070105",
+  "league": "IL",
+  "team": "Toledo Mud Hens",
+  "opponent": "Iowa Cubs",
+  "arena": "Fifth Third Field",
+  "city": "Toledo, Ohio",
+  "date": "2026-07-01T23:05:00Z"
+},
+{
+  "id": "il_2026070106",
+  "league": "IL",
+  "team": "Scranton/Wilkes-Barre RailRiders",
+  "opponent": "Norfolk Tides",
+  "arena": "PNC Field",
+  "city": "Moosic, Pennsylvania",
+  "date": "2026-07-01T23:05:00Z",
+  "fireworks": {
+    "title": "Bark in the Park. Bring your dog."
+  }
+},
+{
+  "id": "il_2026070107",
+  "league": "IL",
+  "team": "Nashville Sounds",
+  "opponent": "Jacksonville Jumbo Shrimp",
+  "arena": "First Horizon Park",
+  "city": "Nashville, Tennessee",
+  "date": "2026-07-01T23:35:00Z",
+  "giveaway": {
+    "title": "Hot Chickens Cooling Towel",
+    "details": "First 1,000 fans receive a Hot Chickens Cooling Towel."
+  }
+},
+{
+  "id": "il_2026070108",
+  "league": "IL",
+  "team": "Memphis Redbirds",
+  "opponent": "Charlotte Knights",
+  "arena": "AutoZone Park",
+  "city": "Memphis, Tennessee",
+  "date": "2026-07-02T00:05:00Z"
+},
+{
+  "id": "il_2026070109",
+  "league": "IL",
+  "team": "Omaha Storm Chasers",
+  "opponent": "Indianapolis Indians",
+  "arena": "Werner Park",
+  "city": "Papillion, Nebraska",
+  "date": "2026-07-02T00:05:00Z",
+  "fireworks": {
+    "title": "Bark in the Park. Bring your dog."
+  }
+},
+{
+  "id": "il_2026070110",
+  "league": "IL",
+  "team": "St. Paul Saints",
+  "opponent": "Buffalo Bisons",
+  "arena": "CHS Field",
+  "city": "St. Paul, Minnesota",
+  "date": "2026-07-02T00:07:00Z"
+}
   
   
   
