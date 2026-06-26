@@ -1300,6 +1300,117 @@
     "fireworks": {
       "title": "Independence Day Celebration, Sandlot Night"
     }
+  },
+
+
+
+
+  {
+    "id": "il_2026070701",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Columbus Clippers",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-07-07T15:35:00Z"
+  },
+  {
+    "id": "il_2026070702",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Memphis Redbirds",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-07T22:35:00Z"
+  },
+  {
+    "id": "il_2026070703",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-07T22:35:00Z"
+  },
+  {
+    "id": "il_2026070704",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville, Kentucky",
+    "date": "2026-07-07T22:35:00Z"
+  },
+  {
+    "id": "il_2026070705",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Syracuse Mets",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-07-07T22:35:00Z",
+    "fireworks": {
+      "title": "Tuesday Night Takeover Fireworks, Villains Night"
+    }
+  },
+  {
+    "id": "il_2026070706",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Rochester Red Wings",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-07T22:45:00Z"
+  },
+  {
+    "id": "il_2026070707",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Nashville Sounds",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-07T23:04:00Z",
+    "fireworks": {
+      "title": "Pre-Game Entertainment from DJ Carolina X"
+    }
+  },
+  {
+    "id": "il_2026070708",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-07T23:05:00Z",
+    "giveaway": {
+      "title": "Tuesday Dollar Menu",
+      "details": "$1 hot dogs, peanuts, potato chips, popcorn, Cracker Jack and churros."
+    },
+    "fireworks": {
+      "title": "Irish Heritage Night"
+    }
+  },
+  {
+    "id": "il_2026070709",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Durham Bulls",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-07-07T23:05:00Z",
+    "giveaway": {
+      "title": "Stahl Meyer Two for Tuesday",
+      "details": "Two hot dogs for $2."
+    }
+  },
+  {
+    "id": "il_2026070710",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "St. Paul Saints",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-07-08T00:38:00Z"
   }
   
   
