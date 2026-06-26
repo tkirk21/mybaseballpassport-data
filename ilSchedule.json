@@ -416,7 +416,10 @@
     "opponent": "Durham Bulls",
     "arena": "Harbor Park",
     "city": "Norfolk, Virginia",
-    "date": "2026-06-28T17:05:00Z"
+    "date": "2026-06-28T17:05:00Z",
+    "fireworks": {
+      "title": "Bark in the Park. Bring your dog to the game."
+    }
   },
   {
     "id": "il_2026062803",
@@ -434,7 +437,11 @@
     "opponent": "Syracuse Mets",
     "arena": "Coca-Cola Park",
     "city": "Allentown, Pennsylvania",
-    "date": "2026-06-28T17:15:00Z"
+    "date": "2026-06-28T17:15:00Z",
+    "giveaway": {
+      "title": "Jurassic Pork Cap",
+      "details": "First 3,000 adults age 18 and over receive a Jurassic Pork Cap."
+    }
   },
   {
     "id": "il_2026062805",
@@ -443,7 +450,11 @@
     "opponent": "Scranton/Wilkes-Barre RailRiders",
     "arena": "Victory Field",
     "city": "Indianapolis, Indiana",
-    "date": "2026-06-28T17:35:00Z"
+    "date": "2026-06-28T17:35:00Z",
+    "giveaway": {
+      "title": "Kids Eat Free Sundays",
+      "details": "Children 14 and under receive a free hot dog, bag of chips and Prairie Farms milk with paid admission."
+    }
   },
   {
     "id": "il_2026062806",
@@ -470,7 +481,10 @@
     "opponent": "Rochester Red Wings",
     "arena": "Truist Field",
     "city": "Charlotte, North Carolina",
-    "date": "2026-06-28T21:05:00Z"
+    "date": "2026-06-28T21:05:00Z",
+    "fireworks": {
+      "title": "Bark in the Ballpark. Bring your dog to the game."
+    }
   },
   {
     "id": "il_2026062809",
