@@ -615,112 +615,263 @@
     }
   },
   {
-  "id": "il_2026070101",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-07-01T22:35:00Z"
-},
-{
-  "id": "il_2026070102",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-07-01T22:45:00Z",
-  "fireworks": {
-    "title": "Postgame Fireworks"
+    "id": "il_2026070101",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Worcester Red Sox",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-07-01T22:35:00Z"
+  },
+  {
+    "id": "il_2026070102",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-01T22:45:00Z",
+    "fireworks": {
+      "title": "Postgame Fireworks"
+    }
+  },
+  {
+    "id": "il_2026070103",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-01T22:45:00Z",
+    "giveaway": {
+      "title": "Cocos Locos Soccer-Style Jersey Giveaway",
+      "details": "First 1,000 fans receive a Cocos Locos Soccer-Style Jersey."
+    }
+  },
+  {
+    "id": "il_2026070104",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Louisville Bats",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-01T23:05:00Z"
+  },
+  {
+    "id": "il_2026070105",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Iowa Cubs",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-01T23:05:00Z"
+  },
+  {
+    "id": "il_2026070106",
+    "league": "IL",
+    "team": "Scranton/Wilkes-Barre RailRiders",
+    "opponent": "Norfolk Tides",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-01T23:05:00Z",
+    "fireworks": {
+      "title": "Bark in the Park. Bring your dog."
+    }
+  },
+  {
+    "id": "il_2026070107",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-01T23:35:00Z",
+    "giveaway": {
+      "title": "Hot Chickens Cooling Towel",
+      "details": "First 1,000 fans receive a Hot Chickens Cooling Towel."
+    }
+  },
+  {
+    "id": "il_2026070108",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Charlotte Knights",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-02T00:05:00Z"
+  },
+  {
+    "id": "il_2026070109",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-02T00:05:00Z",
+    "fireworks": {
+      "title": "Bark in the Park. Bring your dog."
+    }
+  },
+  {
+    "id": "il_2026070110",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Buffalo Bisons",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-02T00:07:00Z"
+  },
+
+
+
+  {
+    "id": "il_2026070201",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Worcester Red Sox",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-07-02T22:35:00Z",
+    "giveaway": [
+      {
+        "title": "Syracuse Mets FC Soccer Jersey",
+        "details": "First 1,500 fans."
+      },
+      {
+        "title": "Amazin' Giveaway Pack Exclusive Syracuse Mets 150 / United States 250 Coin",
+        "details": "SPECIAL TICKET REQUIRED."
+      }
+    ],
+    "fireworks": {
+      "title": "Post-game fireworks."
+    }
+  },
+  {
+    "id": "il_2026070202",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-02T22:45:00Z",
+    "giveaway": {
+      "title": "Dollar Dogs",
+      "details": "Hot dogs for $1."
+    },
+    "fireworks": {
+      "title": "Postgame Fireworks"
+    }
+  },
+  {
+    "id": "il_2026070203",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-02T22:45:00Z",
+    "giveaway": {
+      "title": "Luis Garcia Bobblehead Giveaway",
+      "details": "First 1,000 fans receive a Luis Garcia Bobblehead."
+    }
+  },
+  {
+    "id": "il_2026070204",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Louisville Bats",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-02T23:05:00Z",
+    "fireworks": {
+      "title": "Los Veleros de Columbus"
+    }
+  },
+  {
+    "id": "il_2026070205",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Iowa Cubs",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-02T23:05:00Z"
+  },
+  {
+    "id": "il_2026070206",
+    "league": "IL",
+    "team": "Scranton/Wilkes-Barre RailRiders",
+    "opponent": "Norfolk Tides",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-02T23:05:00Z",
+    "giveaway": [
+      {
+        "title": "Soccer Jersey Giveaway",
+        "details": "First 1,000 fans receive a Soccer Jersey."
+      },
+      {
+        "title": "Thrilling Thursday",
+        "details": "Giveaways for the first 1,000 fans."
+      },
+      {
+        "title": "World Tournament Watch Party",
+        "details": "SPECIAL TICKET REQUIRED. Includes guaranteed Soccer Jersey Giveaway, Kost Pavilion seat, all-you-can-eat buffet and fireworks on the field."
+      }
+    ],
+    "fireworks": {
+      "title": "Bark in the Park, Semiquincentennial Post-Game Fireworks"
+    }
+  },
+  {
+    "id": "il_2026070207",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-02T23:35:00Z",
+    "giveaway": {
+      "title": "Throwback Thursday",
+      "details": "Drink specials plus Music Bingo, prize opportunities and a free Pepsi fountain drink for the first 500 fans."
+    }
+  },
+  {
+    "id": "il_2026070208",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Charlotte Knights",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-03T00:05:00Z",
+    "giveaway": {
+      "title": "Heavenly Hot Dog Buffet",
+      "details": "Special ticket includes an all-you-can-eat hot dog buffet with 21 toppings."
+    },
+    "fireworks": {
+      "title": "Red, White & Boom Weekend. Fireworks!"
+    }
+  },
+  {
+    "id": "il_2026070209",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-03T00:05:00Z"
+  },
+  {
+    "id": "il_2026070210",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Buffalo Bisons",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-03T00:07:00Z",
+    "fireworks": {
+      "title": "A250 Weekend First Responders Night, Post-Game Fireworks"
+    }
   }
-},
-{
-  "id": "il_2026070103",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-07-01T22:45:00Z",
-  "giveaway": {
-    "title": "Cocos Locos Soccer-Style Jersey Giveaway",
-    "details": "First 1,000 fans receive a Cocos Locos Soccer-Style Jersey."
-  }
-},
-{
-  "id": "il_2026070104",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Louisville Bats",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-07-01T23:05:00Z"
-},
-{
-  "id": "il_2026070105",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-07-01T23:05:00Z"
-},
-{
-  "id": "il_2026070106",
-  "league": "IL",
-  "team": "Scranton/Wilkes-Barre RailRiders",
-  "opponent": "Norfolk Tides",
-  "arena": "PNC Field",
-  "city": "Moosic, Pennsylvania",
-  "date": "2026-07-01T23:05:00Z",
-  "fireworks": {
-    "title": "Bark in the Park. Bring your dog."
-  }
-},
-{
-  "id": "il_2026070107",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-07-01T23:35:00Z",
-  "giveaway": {
-    "title": "Hot Chickens Cooling Towel",
-    "details": "First 1,000 fans receive a Hot Chickens Cooling Towel."
-  }
-},
-{
-  "id": "il_2026070108",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Charlotte Knights",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-07-02T00:05:00Z"
-},
-{
-  "id": "il_2026070109",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Indianapolis Indians",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-07-02T00:05:00Z",
-  "fireworks": {
-    "title": "Bark in the Park. Bring your dog."
-  }
-},
-{
-  "id": "il_2026070110",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Buffalo Bisons",
-  "arena": "CHS Field",
-  "city": "St. Paul, Minnesota",
-  "date": "2026-07-02T00:07:00Z"
-}
   
   
   
