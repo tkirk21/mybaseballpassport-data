@@ -1,959 +1,5 @@
 [
   {
-    "id": "pcl_2026060201",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Round Rock Express",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-03T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060202",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-03T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060203",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-03T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060204",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Tacoma Rainiers",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-03T01:45:00Z"
-  },
-  {
-    "id": "pcl_2026060205",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Reno Aces",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-03T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026060301",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Round Rock Express",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-04T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060302",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-04T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060303",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-04T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060304",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Tacoma Rainiers",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-04T01:45:00Z"
-  },
-  {
-    "id": "pcl_2026060305",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Reno Aces",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-04T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026060401",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Round Rock Express",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-05T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060402",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-05T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060403",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-05T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060404",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Tacoma Rainiers",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-05T01:45:00Z"
-  },
-  {
-    "id": "pcl_2026060405",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Reno Aces",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-05T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026060501",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Round Rock Express",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-06T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060502",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-06T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060503",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-06T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060504",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Tacoma Rainiers",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-06T01:45:00Z"
-  },
-  {
-    "id": "pcl_2026060505",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Reno Aces",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-06T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026060601",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Round Rock Express",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-06T23:05:00Z"
-  },
-  {
-    "id": "pcl_2026060602",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-07T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060603",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-07T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026060604",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Tacoma Rainiers",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-07T01:37:00Z"
-  },
-  {
-    "id": "pcl_2026060605",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Reno Aces",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-07T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026060701",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Round Rock Express",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-07T19:05:00Z"
-  },
-  {
-    "id": "pcl_2026060702",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Reno Aces",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-07T19:05:00Z"
-  },
-  {
-    "id": "pcl_2026060703",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Tacoma Rainiers",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-07T20:05:00Z"
-  },
-  {
-    "id": "pcl_2026060704",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-08T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060705",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-08T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060901",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-09T18:35:00Z"
-  },
-  {
-    "id": "pcl_2026060902",
-    "league": "PCL",
-    "team": "Charlotte Knights",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Truist Field",
-    "city": "Charlotte, North Carolina",
-    "date": "2026-06-09T22:05:00Z"
-  },
-  {
-    "id": "pcl_2026060903",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-06-09T23:45:00Z"
-  },
-  {
-    "id": "pcl_2026060904",
-    "league": "PCL",
-    "team": "Omaha Storm Chasers",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Werner Park",
-    "city": "Papillion, Nebraska",
-    "date": "2026-06-10T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060905",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "Sacramento River Cats",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-10T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026060906",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Salt Lake Bees",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-10T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026061001",
-    "league": "PCL",
-    "team": "Charlotte Knights",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Truist Field",
-    "city": "Charlotte, North Carolina",
-    "date": "2026-06-10T15:05:00Z"
-  },
-  {
-    "id": "pcl_2026061002",
-    "league": "PCL",
-    "team": "Omaha Storm Chasers",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Werner Park",
-    "city": "Papillion, Nebraska",
-    "date": "2026-06-10T17:05:00Z"
-  },
-  {
-    "id": "pcl_2026061003",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-06-10T23:45:00Z"
-  },
-  {
-    "id": "pcl_2026061004",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "Sacramento River Cats",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-11T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061005",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-11T01:05:00Z"
-  },
-  {
-    "id": "pcl_2026061006",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Salt Lake Bees",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-11T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026061101",
-    "league": "PCL",
-    "team": "Charlotte Knights",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Truist Field",
-    "city": "Charlotte, North Carolina",
-    "date": "2026-06-11T23:04:00Z"
-  },
-  {
-    "id": "pcl_2026061102",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-06-11T23:45:00Z"
-  },
-  {
-    "id": "pcl_2026061103",
-    "league": "PCL",
-    "team": "Omaha Storm Chasers",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Werner Park",
-    "city": "Papillion, Nebraska",
-    "date": "2026-06-12T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061104",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "Sacramento River Cats",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-12T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061105",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Salt Lake Bees",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-12T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026061106",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-12T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026061201",
-    "league": "PCL",
-    "team": "Charlotte Knights",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Truist Field",
-    "city": "Charlotte, North Carolina",
-    "date": "2026-06-12T23:04:00Z"
-  },
-  {
-    "id": "pcl_2026061202",
-    "league": "PCL",
-    "team": "Omaha Storm Chasers",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Werner Park",
-    "city": "Papillion, Nebraska",
-    "date": "2026-06-13T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061203",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-06-13T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061204",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "Sacramento River Cats",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-13T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061205",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Salt Lake Bees",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-13T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026061206",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-13T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026061301",
-    "league": "PCL",
-    "team": "Charlotte Knights",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Truist Field",
-    "city": "Charlotte, North Carolina",
-    "date": "2026-06-13T22:05:00Z"
-  },
-  {
-    "id": "pcl_2026061302",
-    "league": "PCL",
-    "team": "Omaha Storm Chasers",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Werner Park",
-    "city": "Papillion, Nebraska",
-    "date": "2026-06-13T23:05:00Z"
-  },
-  {
-    "id": "pcl_2026061303",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-06-14T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061304",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "Sacramento River Cats",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-14T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061305",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-14T01:05:00Z"
-  },
-  {
-    "id": "pcl_2026061306",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Salt Lake Bees",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-14T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026061401",
-    "league": "PCL",
-    "team": "Omaha Storm Chasers",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Werner Park",
-    "city": "Papillion, Nebraska",
-    "date": "2026-06-14T17:05:00Z"
-  },
-  {
-    "id": "pcl_2026061402",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Salt Lake Bees",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-14T20:05:00Z"
-  },
-  {
-    "id": "pcl_2026061403",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-14T20:35:00Z"
-  },
-  {
-    "id": "pcl_2026061404",
-    "league": "PCL",
-    "team": "Charlotte Knights",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Truist Field",
-    "city": "Charlotte, North Carolina",
-    "date": "2026-06-14T21:05:00Z"
-  },
-  {
-    "id": "pcl_2026061405",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-06-14T23:05:00Z"
-  },
-  {
-    "id": "pcl_2026061406",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "Sacramento River Cats",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-14T23:35:00Z"
-  },
-  {
-    "id": "pcl_2026061601",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sacramento River Cats",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-17T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061602",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Tacoma Rainiers",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-17T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061603",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-17T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061604",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Reno Aces",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-17T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061605",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Round Rock Express",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-17T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026061701",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sacramento River Cats",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-17T23:05:00Z"
-  },
-  {
-    "id": "pcl_2026061702",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Tacoma Rainiers",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-18T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061703",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-18T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061704",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Reno Aces",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-18T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061705",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Round Rock Express",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-18T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026061801",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sacramento River Cats",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-18T17:05:00Z"
-  },
-  {
-    "id": "pcl_2026061802",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-18T18:05:00Z"
-  },
-  {
-    "id": "pcl_2026061803",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Tacoma Rainiers",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-19T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061804",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Reno Aces",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-19T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061805",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Round Rock Express",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-19T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026061901",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sacramento River Cats",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-20T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026061902",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Tacoma Rainiers",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-20T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061903",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-20T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061904",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Reno Aces",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-20T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026061905",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Round Rock Express",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-20T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026062001",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sacramento River Cats",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-21T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026062002",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Tacoma Rainiers",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-21T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026062003",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-21T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026062004",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Reno Aces",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-21T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026062005",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Round Rock Express",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-21T02:05:00Z"
-  },
-  {
-    "id": "pcl_2026062101",
-    "league": "PCL",
-    "team": "Las Vegas Aviators",
-    "opponent": "Round Rock Express",
-    "arena": "Las Vegas Ballpark",
-    "city": "Las Vegas, Nevada",
-    "date": "2026-06-21T19:05:00Z"
-  },
-  {
-    "id": "pcl_2026062102",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sacramento River Cats",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-06-21T23:05:00Z"
-  },
-  {
-    "id": "pcl_2026062103",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Tacoma Rainiers",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-06-22T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026062104",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-22T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026062105",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Reno Aces",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-06-22T00:05:00Z"
-  },
-  {
-    "id": "pcl_2026062301",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-23T23:05:00Z"
-  },
-  {
-    "id": "pcl_2026062302",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Salt Lake Bees",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-24T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026062303",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Round Rock Express",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-24T01:05:00Z"
-  },
-  {
-    "id": "pcl_2026062304",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-24T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026062305",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-24T01:45:00Z"
-  },
-  {
-    "id": "pcl_2026062401",
-    "league": "PCL",
-    "team": "Sugar Land Space Cowboys",
-    "opponent": "El Paso Chihuahuas",
-    "arena": "Constellation Field",
-    "city": "Sugar Land, Texas",
-    "date": "2026-06-24T16:05:00Z"
-  },
-  {
-    "id": "pcl_2026062402",
-    "league": "PCL",
-    "team": "Sacramento River Cats",
-    "opponent": "Las Vegas Aviators",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, California",
-    "date": "2026-06-24T19:05:00Z"
-  },
-  {
-    "id": "pcl_2026062403",
-    "league": "PCL",
-    "team": "Albuquerque Isotopes",
-    "opponent": "Salt Lake Bees",
-    "arena": "Rio Grande Credit Union Field at Isotopes Park",
-    "city": "Albuquerque, New Mexico",
-    "date": "2026-06-25T00:35:00Z"
-  },
-  {
-    "id": "pcl_2026062404",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Round Rock Express",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-06-25T01:05:00Z"
-  },
-  {
-    "id": "pcl_2026062405",
-    "league": "PCL",
-    "team": "Reno Aces",
-    "opponent": "Oklahoma City Comets",
-    "arena": "Greater Nevada Field",
-    "city": "Reno, Nevada",
-    "date": "2026-06-25T01:35:00Z"
-  },
-  {
     "id": "pcl_2026062501",
     "league": "PCL",
     "team": "Albuquerque Isotopes",
@@ -987,7 +33,11 @@
     "opponent": "Las Vegas Aviators",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-06-26T01:45:00Z"
+    "date": "2026-06-26T01:45:00Z",
+    "giveaway": {
+      "title": "Homestand Poster Giveaway",
+      "details": "First 500 fans receive a Homestand Poster."
+    }
   },
   {
     "id": "pcl_2026062505",
@@ -1005,7 +55,14 @@
     "opponent": "El Paso Chihuahuas",
     "arena": "Constellation Field",
     "city": "Sugar Land, Texas",
-    "date": "2026-06-27T00:05:00Z"
+    "date": "2026-06-27T00:05:00Z",
+    "giveaway": {
+      "title": "America 250 Jersey",
+      "details": "First 2,000 fans."
+    },
+    "fireworks": {
+      "title": "America 250 Celebration - Spectacular postgame fireworks show.",
+    }
   },
   {
     "id": "pcl_2026062602",
@@ -1023,7 +80,10 @@
     "opponent": "Oklahoma City Comets",
     "arena": "Greater Nevada Field",
     "city": "Reno, Nevada",
-    "date": "2026-06-27T01:35:00Z"
+    "date": "2026-06-27T01:35:00Z",
+    "fireworks": {
+      "title": "Fireworks Friday"
+    }
   },
   {
     "id": "pcl_2026062604",
@@ -1032,7 +92,17 @@
     "opponent": "Las Vegas Aviators",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-06-27T01:45:00Z"
+    "date": "2026-06-27T01:45:00Z",
+    "giveaway": [
+      {
+        "title": "Will Clark T-Shirt Giveaway",
+        "details": "First 2,500 fans receive a Will Clark T-Shirt."
+      },
+      {
+        "title": "Friday on the Rooftop Ticket Pack",
+        "details": "SPECIAL TICKET REQUIRED. Includes a Rooftop ticket and a limited-edition River Cats hat."
+      }
+    ]
   },
   {
     "id": "pcl_2026062605",
@@ -1041,7 +111,11 @@
     "opponent": "Round Rock Express",
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
-    "date": "2026-06-27T02:05:00Z"
+    "date": "2026-06-27T02:05:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks, Girl Scout Night",
+      "details": "Postgame fireworks, movie and sleepover on the field."
+    }
   },
   {
     "id": "pcl_2026062701",
@@ -1050,7 +124,20 @@
     "opponent": "El Paso Chihuahuas",
     "arena": "Constellation Field",
     "city": "Sugar Land, Texas",
-    "date": "2026-06-28T00:05:00Z"
+    "date": "2026-06-28T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "Foam Hot Dog Hat",
+        "details": "First 2,000 fans."
+      },
+      {
+        "title": "Hot Dog Jersey Auction",
+        "details": "Game-worn Hot Dog jerseys available via auction."
+      }
+    ],
+    "fireworks": {
+      "title": "America 250 Celebration - Tribute to the Hot Dog, Muffin the Bat Dog, Shades of Summer Baseball"
+    }
   },
   {
     "id": "pcl_2026062702",
@@ -1068,7 +155,11 @@
     "opponent": "Round Rock Express",
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
-    "date": "2026-06-28T01:05:00Z"
+    "date": "2026-06-28T01:05:00Z",
+    "giveaway": {
+      "title": "Cerveza Saturday",
+      "details": "SPECIAL TICKET REQUIRED. Includes reserved seat, exclusive Cerveza Saturday T-shirt and first Estrella Jalisco."
+    }
   },
   {
     "id": "pcl_2026062704",
@@ -1077,7 +168,11 @@
     "opponent": "Oklahoma City Comets",
     "arena": "Greater Nevada Field",
     "city": "Reno, Nevada",
-    "date": "2026-06-28T01:35:00Z"
+    "date": "2026-06-28T01:35:00Z",
+    "giveaway": {
+      "title": "Bobblehead Giveaway",
+      "details": "Charlie Brown Bobblehead giveaway."
+    }
   },
   {
     "id": "pcl_2026062705",
@@ -1086,7 +181,11 @@
     "opponent": "Las Vegas Aviators",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, California",
-    "date": "2026-06-28T01:37:00Z"
+    "date": "2026-06-28T01:37:00Z",
+    "giveaway": {
+      "title": "Family Fun Pack",
+      "details": "SPECIAL TICKET REQUIRED. Includes a hot dog, soda, and a Halloween-themed River Cats item."
+    }
   },
   {
     "id": "pcl_2026062801",
@@ -1122,7 +221,11 @@
     "opponent": "El Paso Chihuahuas",
     "arena": "Constellation Field",
     "city": "Sugar Land, Texas",
-    "date": "2026-06-28T23:35:00Z"
+    "date": "2026-06-28T23:35:00Z",
+    "giveaway": {
+      "title": "Sesame Street Plush",
+      "details": "First 2,000 fans."
+    }
   },
   {
     "id": "pcl_2026062805",
@@ -1140,7 +243,11 @@
     "opponent": "Albuquerque Isotopes",
     "arena": "Dell Diamond",
     "city": "Round Rock, Texas",
-    "date": "2026-06-30T23:45:00Z"
+    "date": "2026-06-30T23:45:00Z",
+    "giveaway": {
+      "title": "Strike Out Hunger",
+      "details": "Bring two canned goods and receive one outfield lawn ticket."
+    }
   },
   {
     "id": "pcl_2026063002",
