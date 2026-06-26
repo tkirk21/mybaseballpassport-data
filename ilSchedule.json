@@ -2773,6 +2773,138 @@
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
     "date": "2026-07-24T00:35:00Z"
+  },
+  {
+    "id": "il_2026072401",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-24T22:35:00Z",
+    "giveaway": {
+      "title": "Bisons Slippers Giveaway",
+      "details": "First 2,000 fans through the MGMT Reputation Gate at Swan St. receive Bisons Slippers."
+    },
+    "fireworks": {
+      "title": "Honda fridaynightbash!, Pajama Night, Fireworks"
+    }
+  },
+  {
+    "id": "il_2026072402",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-24T22:45:00Z",
+    "fireworks": {
+      "title": "UniBank Fireworks: Pirates, Princes, and Princesses."
+    }
+  },
+  {
+    "id": "il_2026072403",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Norfolk Tides",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-24T23:04:00Z",
+    "fireworks": {
+      "title": "Friday Knight Fireworks"
+    }
+  
+  },
+  {
+    "id": "il_2026072404",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Iowa Cubs",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-24T23:05:00Z",
+    "fireworks": {
+      "title": "Back to School Night"
+    }
+  },
+  {
+    "id": "il_2026072405",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-24T23:05:00Z",
+    "giveaway": {
+      "title": "Harry Potter Color Changing Mug",
+      "details": "SPECIAL TICKET REQUIRED. Includes Harry Potter color changing mug and one game ticket."
+    },
+    "fireworks": {
+      "title": "Postgame fireworks show."
+    }
+  },
+  {
+    "id": "il_2026072406",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Syracuse Mets",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-24T23:05:00Z",
+    "fireworks": {
+      "title": "First Responder Friday, Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026072407",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-24T23:05:00Z",
+    "fireworks": {
+      "title": "Friday Fireworks"
+    }
+  },
+  {
+    "id": "il_2026072408",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-25T00:05:00Z"
+  },
+  {
+    "id": "il_2026072409",
+    "league": "IL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Nashville Sounds",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-25T00:05:00Z"
+  },
+  {
+    "id": "il_2026072410",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Columbus Clippers",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-25T00:07:00Z",
+    "fireworks": {
+      "title": "Crooks Haven Ghostly Gangsters, Friday Night Fireworks, Roaring Twenties Music"
+    }
+  },
+  {
+    "id": "il_2026072411",
+    "league": "IL",
+    "team": "Salt Lake Bees",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "The Ballpark at America First Square",
+    "city": "South Jordan, Utah",
+    "date": "2026-07-25T00:35:00Z"
   }
   
   
