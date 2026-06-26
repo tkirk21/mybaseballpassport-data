@@ -2426,6 +2426,126 @@
       "title": "Ice Cream Jersey",
       "details": "First 500 kids receive an Ice Cream Jersey."
     }
+  },
+  {
+    "id": "il_2026072101",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Iowa Cubs",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-21T22:35:00Z"
+  },
+  {
+    "id": "il_2026072102",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-21T22:35:00Z",
+    "giveaway": {
+      "title": "$2 Hot Dogs",
+      "details": "$2 Sahlen's Hot Dogs throughout the game."
+    },
+    "fireworks": {
+      "title": "Italian Festival Night, Fireworks"
+    }
+  },
+  {
+    "id": "il_2026072103",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-21T22:45:00Z"
+  },
+  {
+    "id": "il_2026072104",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Norfolk Tides",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-21T23:04:00Z"
+  },
+  {
+    "id": "il_2026072105",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-21T23:05:00Z",
+    "giveaway": {
+      "title": "Pet Clean-Up Bag",
+      "details": "Gate giveaway for anyone with a dog ticket."
+    }
+  },
+  {
+    "id": "il_2026072106",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Syracuse Mets",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-21T23:05:00Z",
+    "fireworks": {
+      "title": "Bark in the Park. Bring your dog."
+    }
+  },
+  {
+    "id": "il_2026072107",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-21T23:05:00Z",
+    "giveaway": {
+      "title": "Tuesday Dollar Menu",
+      "details": "$1 hot dogs, peanuts, potato chips, popcorn, Cracker Jack and churros."
+    },
+    "fireworks": {
+      "title": "Bark in the Park. Bring your dog."
+    }
+  },
+  {
+    "id": "il_2026072108",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-22T00:05:00Z"
+  },
+  {
+    "id": "il_2026072109",
+    "league": "IL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Nashville Sounds",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-22T00:05:00Z"
+  },
+  {
+    "id": "il_2026072110",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Columbus Clippers",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-22T00:07:00Z"
+  },
+  {
+    "id": "il_2026072111",
+    "league": "IL",
+    "team": "Salt Lake Bees",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "The Ballpark at America First Square",
+    "city": "South Jordan, Utah",
+    "date": "2026-07-22T00:35:00Z"
   }
   
   
