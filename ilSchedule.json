@@ -1526,7 +1526,7 @@
     "id": "il_2026070901",
     "league": "IL",
     "team": "Buffalo Bisons",
-    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "opponent": "Scranton Wilkes-Barre RailRiders",
     "arena": "Sahlen Field",
     "city": "Buffalo, New York",
     "date": "2026-07-09T22:35:00Z"
@@ -1839,7 +1839,7 @@
     "id": "il_2026071104",
     "league": "IL",
     "team": "Buffalo Bisons",
-    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "opponent": "Scranton Wilkes-Barre RailRiders",
     "arena": "Sahlen Field",
     "city": "Buffalo, New York",
     "date": "2026-07-11T22:35:00Z"
@@ -1947,7 +1947,7 @@
     "id": "il_2026071202",
     "league": "IL",
     "team": "Buffalo Bisons",
-    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "opponent": "Scranton Wilkes-Barre RailRiders",
     "arena": "Sahlen Field",
     "city": "Buffalo, New York",
     "date": "2026-07-12T17:05:00Z",
@@ -2044,6 +2044,140 @@
     "arena": "Principal Park",
     "city": "Des Moines, Iowa",
     "date": "2026-07-12T18:08:00Z"
+  },
+
+
+
+
+  {
+    "id": "il_2026071701",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Buffalo Bisons",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-07-17T22:35:00Z",
+    "giveaway": {
+      "title": "First Responder Jersey",
+      "details": "First 1,000 fans. Amazin' Giveaway Pack available to guarantee the jersey."
+    },
+    "fireworks": {
+      "title": "First Responder Day, Pre-game live music and post-game fireworks."
+    }
+  },
+  {
+    "id": "il_2026071702",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Charlotte Knights",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-17T22:45:00Z".
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071703",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-17T22:45:00Z",
+    "giveaway": {
+      "title": "Ornament Giveaway",
+      "details": "First 1,000 fans receive an ornament."
+    },
+    "fireworks": {
+      "title": "Christmas in July, Post-Game Fireworks"
+    }
+
+  },
+  {
+    "id": "il_2026071704",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-17T23:05:00Z",
+    "fireworks": {
+      "title": "Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071705",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-17T23:05:00Z",
+    "fireworks": {
+      "title": "Postgame drone light show."
+    }
+  },
+  {
+    "id": "il_2026071706",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Worcester Red Sox",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-17T23:05:00Z",
+    "fireworks": {
+      "title": "Princess & Villains Night, Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071707",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Norfolk Tides",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-17T23:35:00Z",
+     "fireworks": {
+      "title": "Christmas in July, Friday Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071708",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Iowa Cubs",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-18T00:05:00Z"
+  },
+  {
+    "id": "il_2026071709",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-18T00:05:00Z",
+    "giveaway": {
+      "title": "Ice Cream Jersey Giveaway",
+      "details": "First 1,000 ticketed fans receive an Ice Cream Storm Chasers Jersey."
+    },
+    "fireworks": {
+      "title": "Everything Nebraska Night, Friday Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071710",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Louisville Bats",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-18T00:07:00Z",
+    "fireworks": {
+      "title": "Irish Night, Friday Night Fireworks"
+    }
   }
   
   
