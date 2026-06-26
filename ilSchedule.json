@@ -871,7 +871,151 @@
     "fireworks": {
       "title": "A250 Weekend First Responders Night, Post-Game Fireworks"
     }
+  },
+
+
+
+  {
+  "id": "il_2026070301",
+  "league": "IL",
+  "team": "Columbus Clippers",
+  "opponent": "Louisville Bats",
+  "arena": "Huntington Park",
+  "city": "Columbus, Ohio",
+  "date": "2026-07-03T22:05:00Z",
+  "giveaway": {
+    "title": "Navy Jersey Giveaway",
+    "details": "First 1,000 fans receive a retro Clippers navy jersey."
   }
+},
+{
+  "id": "il_2026070302",
+  "league": "IL",
+  "team": "Rochester Red Wings",
+  "opponent": "Lehigh Valley IronPigs",
+  "arena": "ESL Ballpark",
+  "city": "Rochester, New York",
+  "date": "2026-07-03T22:05:00Z",
+  "fireworks": {
+    "title": "Post-Game Fireworks, RPO Post-game Concert"
+  }
+},
+{
+  "id": "il_2026070303",
+  "league": "IL",
+  "team": "Syracuse Mets",
+  "opponent": "Worcester Red Sox",
+  "arena": "NBT Bank Stadium",
+  "city": "Syracuse, New York",
+  "date": "2026-07-03T22:35:00Z",
+  "giveaway": [
+    {
+      "title": "Saranac Pint Glass",
+      "details": "First 1,000 fans age 21+ receive a voucher redeemable upon exit."
+    },
+    {
+      "title": "Amazin' Giveaway Pack Exclusive Syracuse Mets 150 / United States 250 Coin",
+      "details": "SPECIAL TICKET REQUIRED."
+    }
+  ],
+  "fireworks": {
+    "title": "Pre-game live music, Fizzy Friday drink packages and post-game fireworks."
+  }
+},
+{
+  "id": "il_2026070304",
+  "league": "IL",
+  "team": "Durham Bulls",
+  "opponent": "Gwinnett Stripers",
+  "arena": "Durham Bulls Athletic Park",
+  "city": "Durham, North Carolina",
+  "date": "2026-07-03T22:45:00Z",
+  "fireworks": {
+    "title": "American Music & Arts Night"
+  }
+},
+{
+  "id": "il_2026070305",
+  "league": "IL",
+  "team": "Toledo Mud Hens",
+  "opponent": "Iowa Cubs",
+  "arena": "Fifth Third Field",
+  "city": "Toledo, Ohio",
+  "date": "2026-07-03T23:05:00Z",
+  "giveaway": [
+    {
+      "title": "Fireworks Glasses",
+      "details": "Gate giveaway for the first 8,000 fans."
+    },
+    {
+      "title": "LED Light-Up Bracelet",
+      "details": "Postgame giveaway for the first 4,000 fans."
+    }
+  ],
+  "fireworks": {
+    "title": "postgame fireworks and laser show celebrating America 250"
+  }
+},
+{
+  "id": "il_2026070306",
+  "league": "IL",
+  "team": "Scranton/Wilkes-Barre RailRiders",
+  "opponent": "Norfolk Tides",
+  "arena": "PNC Field",
+  "city": "Moosic, Pennsylvania",
+  "date": "2026-07-03T23:05:00Z",
+  "fireworks": {
+    "title": "First Responder Friday, Semiquincentennial Post-Game Fireworks"
+  }
+},
+{
+  "id": "il_2026070307",
+  "league": "IL",
+  "team": "St. Paul Saints",
+  "opponent": "Buffalo Bisons",
+  "arena": "CHS Field",
+  "city": "St. Paul, Minnesota",
+  "date": "2026-07-03T23:07:00Z",
+  "fireworks": {
+    "title": "A250 Celebration, Monster Food Truck Rally, Friday Night Fireworks"
+  }
+},
+{
+  "id": "il_2026070308",
+  "league": "IL",
+  "team": "Nashville Sounds",
+  "opponent": "Jacksonville Jumbo Shrimp",
+  "arena": "First Horizon Park",
+  "city": "Nashville, Tennessee",
+  "date": "2026-07-03T23:35:00Z",
+  "fireworks": {
+    "title": "Appreciating Hometown Heroes Night, Friday Fireworks"
+  }
+},
+{
+  "id": "il_2026070309",
+  "league": "IL",
+  "team": "Memphis Redbirds",
+  "opponent": "Charlotte Knights",
+  "arena": "AutoZone Park",
+  "city": "Memphis, Tennessee",
+  "date": "2026-07-04T00:05:00Z",
+  "fireworks": {
+    "title": "Red, White & Boom Weekend, Postgame Fireworks!"
+  }
+},
+{
+  "id": "il_2026070310",
+  "league": "IL",
+  "team": "Omaha Storm Chasers",
+  "opponent": "Indianapolis Indians",
+  "arena": "Werner Park",
+  "city": "Papillion, Nebraska",
+  "date": "2026-07-04T00:05:00Z",
+  "fireworks": {
+    "title": "Freedom Weekend: Salute to America, Freedom Weekend Fireworks"
+  }
+}
   
   
   
