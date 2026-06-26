@@ -1169,7 +1169,138 @@
     "fireworks": {
       "title": "Freedom Weekend: Happy Birthday America, Independence Day Fireworks"
     }
-  }  
+  },
+
+
+
+  {
+    "id": "il_2026070501",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Louisville Bats",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-05T17:05:00Z",
+    "giveaway": {
+      "title": "Ring Your Bell Sunday",
+      "details": "First 500 kids 12 & under receive a Clippers Victory Bell."
+    }
+  },
+  {
+    "id": "il_2026070502",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Worcester Red Sox",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-07-05T17:05:00Z",
+    "giveaway": [
+      {
+        "title": "250th Birthday of America Hawaiian Shirt Jersey",
+        "details": "First 1,000 fans. Amazin' Giveaway Pack option available to guarantee the jersey."
+      },
+      {
+        "title": "Amazin' Giveaway Pack Exclusive Syracuse Mets 150 / United States 250 Coin",
+        "details": "SPECIAL TICKET REQUIRED."
+      }
+    ],
+    "fireworks": {
+      "title": "250th Birthday of America Celebration, First Responder Day"
+    }
+  },
+  {
+    "id": "il_2026070503",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-05T17:05:00Z",
+    "giveaway": {
+      "title": "Bruce & Josh Bobblehead Giveaway",
+      "details": "First 1,000 fans receive a Bruce & Josh Bobblehead."
+    }
+  },
+  {
+    "id": "il_2026070504",
+    "league": "IL",
+    "team": "Scranton/Wilkes-Barre RailRiders",
+    "opponent": "Norfolk Tides",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-05T17:35:00Z"
+  },
+  {
+    "id": "il_2026070505",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Charlotte Knights",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-05T18:05:00Z",
+    "giveaway": {
+      "title": "Dinosaur Jersey",
+      "details": "First 500 kids age 12 and under receive a fan-designed Dinosaur Jersey."
+    }
+  },
+  {
+    "id": "il_2026070506",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-05T19:05:00Z"
+  },
+  {
+    "id": "il_2026070507",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Buffalo Bisons",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-05T19:07:00Z"
+  },
+  {
+    "id": "il_2026070508",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Iowa Cubs",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-05T20:05:00Z",
+    "giveaway": [
+      {
+        "title": "Youth Racing Jersey",
+        "details": "Gate giveaway for the first 1,000 kids ages 12 and under."
+      },
+      {
+        "title": "Patriotic Muddy Bobblehead",
+        "details": "SPECIAL TICKET REQUIRED. Includes limited-edition Patriotic Muddy Bobblehead and one game ticket."
+      }
+    ]
+  },
+  {
+    "id": "il_2026070509",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-05T21:05:00Z"
+  },
+  {
+    "id": "il_2026070510",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-05T23:05:00Z",
+    "fireworks": {
+      "title": "Independence Day Celebration, Sandlot Night"
+    }
+  }
   
   
   
