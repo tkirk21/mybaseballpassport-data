@@ -1411,6 +1411,114 @@
     "arena": "Principal Park",
     "city": "Des Moines, Iowa",
     "date": "2026-07-08T00:38:00Z"
+  },
+
+
+
+  {
+    "id": "il_2026070801",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "St. Paul Saints",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-07-08T17:08:00Z",
+    "giveaway": {
+      "title": "Noons at Noon",
+      "details": "Special ticket includes an Upper Reserved ticket and 2 High Noon drinks."
+    }
+  },
+  {
+    "id": "il_2026070802",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Memphis Redbirds",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-08T22:35:00Z"
+  },
+  {
+    "id": "il_2026070803",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-08T22:35:00Z"
+  },
+  {
+    "id": "il_2026070804",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville, Kentucky",
+    "date": "2026-07-08T22:35:00Z",
+    "giveaway": {
+      "title": "Nothing Night Concession Discounts",
+      "details": "Throwback prices on select hot dogs, popcorn and soda."
+    }
+  },
+  {
+    "id": "il_2026070805",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Syracuse Mets",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-07-08T22:35:00Z"
+  },
+  {
+    "id": "il_2026070806",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Rochester Red Wings",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-08T22:45:00Z"
+  },
+  {
+    "id": "il_2026070807",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Columbus Clippers",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-07-08T22:45:00Z"
+  },
+  {
+    "id": "il_2026070808",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Nashville Sounds",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-08T23:04:00Z",
+    "fireworks": {
+      "title": "Bark in the Park. Bring your dog to the ballgame."
+    }
+  },
+  {
+    "id": "il_2026070809",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-08T23:05:00Z"
+  },
+  {
+    "id": "il_2026070810",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Durham Bulls",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-07-08T23:05:00Z",
+    "giveaway": {
+      "title": "\"This is OK\" T-Shirt",
+      "details": "First 500 fans entering through the Main Gate receive a \"This is OK\" t-shirt."
+    }
   }
   
   
