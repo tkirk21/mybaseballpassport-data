@@ -529,7 +529,10 @@
     "opponent": "Gwinnett Stripers",
     "arena": "Durham Bulls Athletic Park",
     "city": "Durham, North Carolina",
-    "date": "2026-06-30T22:45:00Z"
+    "date": "2026-06-30T22:45:00Z",
+    "fireworks": {
+      "title": "Postgame Fireworks"
+    }
   },
   {
     "id": "il_2026063004",
@@ -538,7 +541,11 @@
     "opponent": "Lehigh Valley IronPigs",
     "arena": "Innovative Field",
     "city": "Rochester, New York",
-    "date": "2026-06-30T22:45:00Z"
+    "date": "2026-06-30T22:45:00Z",
+    "giveaway": {
+      "title": "Reusable Bag Giveaway",
+      "details": "First 600 fans receive a reusable bag."
+    }
   },
   {
     "id": "il_2026063005",
@@ -547,7 +554,11 @@
     "opponent": "Louisville Bats",
     "arena": "Huntington Park",
     "city": "Columbus, Ohio",
-    "date": "2026-06-30T23:05:00Z"
+    "date": "2026-06-30T23:05:00Z",
+    "giveaway": {
+      "title": "TANSKY Tuesday Dime-A-Dog Night",
+      "details": "Ten cent Sahlen's hot dogs available throughout the game while supplies last."
+    }
   },
   {
     "id": "il_2026063006",
@@ -556,7 +567,10 @@
     "opponent": "Norfolk Tides",
     "arena": "PNC Field",
     "city": "Moosic, Pennsylvania",
-    "date": "2026-06-30T23:05:00Z"
+    "date": "2026-06-30T23:05:00Z",
+    "fireworks": {
+      "title": "Bark in the Park and live polka music before the game."
+    }
   },
   {
     "id": "il_2026063007",
@@ -565,7 +579,10 @@
     "opponent": "Jacksonville Jumbo Shrimp",
     "arena": "First Horizon Park",
     "city": "Nashville, Tennessee",
-    "date": "2026-06-30T23:35:00Z"
+    "date": "2026-06-30T23:35:00Z",
+    "fireworks": {
+      "title": "Bring your dog to the game."
+    }
   },
   {
     "id": "il_2026063008",
@@ -592,7 +609,10 @@
     "opponent": "Buffalo Bisons",
     "arena": "CHS Field",
     "city": "St. Paul, Minnesota",
-    "date": "2026-07-01T00:07:00Z"
+    "date": "2026-07-01T00:07:00Z",
+    "fireworks": {
+      "title": "Naming the Minnesota Star Tribune Second Half Season Ball Pig"
+    }
   }  
   
   
