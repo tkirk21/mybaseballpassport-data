@@ -1928,6 +1928,122 @@
     "fireworks": {
       "title": "Traumatic Brain Injury Awareness Night, Post-game Fireworks"
     }
+  },
+
+
+
+
+
+  {
+    "id": "il_2026071201",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Memphis Redbirds",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-12T17:05:00Z"
+  },
+  {
+    "id": "il_2026071202",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-12T17:05:00Z",
+    "giveaway": {
+      "title": "Ernie Clement 'Bobble in a Box'",
+      "details": "First 3,000 fans through the MGMT Reputation Gate at Swan St. receive an Ernie Clement 'Bobble in a Box'."
+    }
+  },
+  {
+    "id": "il_2026071203",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Rochester Red Wings",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-12T17:05:00Z",
+    "giveaway": {
+      "title": "Bobblehead giveaway",
+      "details": "First 5,000 fans recieve Wilyer Abreu Bobblehead."
+    }
+  },
+  {
+    "id": "il_2026071204",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville, Kentucky",
+    "date": "2026-07-12T17:05:00Z"
+  },
+  {
+    "id": "il_2026071205",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Nashville Sounds",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-12T17:05:00Z"
+  },
+  {
+    "id": "il_2026071206",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Durham Bulls",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-07-12T17:05:00Z",
+    "giveaway": {
+      "title": "Jumbo Shrimp Santa Hat",
+      "details": "First 500 fans entering through the Main Gate receive a Jumbo Shrimp Santa Hat."
+    },
+    "fireworks": {
+      "title": "Christmas in July"
+    }
+  },
+  {
+    "id": "il_2026071207",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Syracuse Mets",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-07-12T17:05:00Z",
+    "fireworks": {
+      "title": "Bluey and Bingo at Harbor Park"
+    }
+  },
+  {
+    "id": "il_2026071208",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Columbus Clippers",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-07-12T17:15:00Z"
+  },
+  {
+    "id": "il_2026071209",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-12T17:35:00Z",
+    "fireworks": {
+      "title": "Mascot Mania"
+    }
+  },
+  {
+    "id": "il_2026071210",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "St. Paul Saints",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-07-12T18:08:00Z"
   }
   
   
