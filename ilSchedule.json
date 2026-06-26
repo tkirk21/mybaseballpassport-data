@@ -2178,6 +2178,135 @@
     "fireworks": {
       "title": "Irish Night, Friday Night Fireworks"
     }
+  },
+  {
+    "id": "il_2026071801",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Worcester Red Sox",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-18T22:35:00Z",
+    "giveaway": {
+      "title": "Steve Schirripa Bobble",
+      "details": "First 1,500 fans receive a Steve Schirripa Bobblehead."
+    }
+  },
+  {
+    "id": "il_2026071802",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Buffalo Bisons",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-07-18T22:35:00Z",
+    "giveaway": {
+      "title": "Light Sword",
+      "details": "First 2,000 fans."
+    },
+    "fireworks": {
+      "title": "eatures costumed Star Wars characters, Star Wars Jersey Auction and post-game fireworks."
+    }
+  },
+  {
+    "id": "il_2026071803",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Charlotte Knights",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-18T22:45:00Z",
+    "fireworks": {
+      "title": "Saturday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071804",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-18T22:45:00Z",
+    "fireworks": {
+      "title": "Batman Night, Family Campout, Post-Game Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071805",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-18T23:05:00Z",
+    "giveaway": {
+      "title": "Bazzana Bobblehead Giveaway",
+      "details": "First 1,000 fans receive a Travis Bazzana Clippers bobblehead."
+    }
+  },
+  {
+    "id": "il_2026071806",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-18T23:05:00Z",
+    "giveaway": {
+      "title": "Margaritaville Cooling Towel",
+      "details": "Gate giveaway for the first 1,500 fans."
+    },
+    "fireworks": {
+      "title": "Postgame fireworks show and live Jimmy Buffett tribute concert."
+    }
+  },
+  {
+    "id": "il_2026071807",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-18T23:05:00Z",
+    "giveaway": {
+      "title": "Jac Caglianone Bobblehead Giveaway",
+      "details": "First 1,000 ticketed fans receive a Jac Caglianone Bobblehead."
+    }
+  },
+  {
+    "id": "il_2026071808",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Iowa Cubs",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-18T23:35:00Z",
+    "fireworks": {
+      "title": "Joey \"Jaws\" Chestnut, Postgame Fireworks"
+    }
+  },
+  {
+    "id": "il_2026071809",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Norfolk Tides",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-18T23:35:00Z",
+    "giveaway": {
+      "title": "Spider-Man Funko Pop",
+      "details": "First 1,000 fans receive a Spider-Man Funko Pop."
+    }
+  },
+  {
+    "id": "il_2026071810",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Louisville Bats",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-18T23:37:00Z"
   }
   
   
