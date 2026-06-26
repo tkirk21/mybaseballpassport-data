@@ -2307,6 +2307,125 @@
     "arena": "CHS Field",
     "city": "St. Paul, Minnesota",
     "date": "2026-07-18T23:37:00Z"
+  },
+  {
+    "id": "il_2026071901",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-19T17:05:00Z",
+    "giveaway": {
+      "title": "Ring Your Bell Sunday",
+      "details": "First 500 kids 12 & under receive a Clippers Victory Bell."
+    }
+  },
+  {
+    "id": "il_2026071902",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Buffalo Bisons",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-07-19T17:05:00Z",
+    "giveaway": {
+      "title": "National Ice Cream Day Charm Hat",
+      "details": "First 1,500 fans."
+    },
+    "fireworks": {
+      "title": "Includes mascot party, toy drive and post-game ice cream eating contest."
+    }
+  },
+  {
+    "id": "il_2026071903",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Worcester Red Sox",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-19T17:35:00Z"
+  },
+  {
+    "id": "il_2026071904",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Iowa Cubs",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-19T18:05:00Z",
+    "giveaway": {
+      "title": "Redbirds Ugly Sweater T-Shirt",
+      "details": "First 500 kids age 12 and under receive a Redbirds Ugly Sweater T-Shirt."
+    },     
+    "fireworks": {
+      "title": "Christmas in July"
+    }
+  },
+  {
+    "id": "il_2026071905",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Louisville Bats",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-19T19:07:00Z"
+  },
+  {
+    "id": "il_2026071906",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "giveaway": {
+      "title": "Snoopy Bobblehead",
+      "details": "SPECIAL TICKET REQUIRED. Includes a Mud Hens-themed Snoopy Bobblehead and one game ticket."
+    }
+  },
+  {
+    "id": "il_2026071907",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Charlotte Knights",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-19T21:05:00Z"
+  },
+  {
+    "id": "il_2026071908",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-19T21:05:00Z",
+    "giveaway": {
+      "title": "Big League Chew Jersey Giveaway",
+      "details": "First 1,000 fans receive a Big League Chew Jersey."
+    }
+  },
+  {
+    "id": "il_2026071909",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-19T22:05:00Z"
+  },
+  {
+    "id": "il_2026071910",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Norfolk Tides",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-19T23:05:00Z",
+    "giveaway": {
+      "title": "Ice Cream Jersey",
+      "details": "First 500 kids receive an Ice Cream Jersey."
+    }
   }
   
   
