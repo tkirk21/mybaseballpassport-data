@@ -3166,6 +3166,130 @@
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
     "date": "2026-07-27T00:05:00Z"
+  },
+  {
+    "id": "il_2026072801",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Syracuse Mets",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-28T22:05:00Z",
+    "giveaway": {
+      "title": "Ernie Clement Bobblehead",
+      "details": "First 1,000 fans receive an Ernie Clement Bobblehead."
+    }
+  },
+  {
+    "id": "il_2026072802",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Indianapolis Indians",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville, Kentucky",
+    "date": "2026-07-28T22:35:00Z",
+    "fireworks": {
+      "title": "Peanut Allergy Awareness Night"
+    }
+  },
+  {
+    "id": "il_2026072803",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Worcester Red Sox",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-07-28T22:35:00Z",
+    "fireworks": {
+      "title": "Tuesday Night Takeover Fireworks, Margaritaville Night"
+    }
+  },
+  {
+    "id": "il_2026072804",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-28T22:45:00Z",
+    "fireworks": {
+      "title": "Bring your dog to the ballgame."
+    }
+  },
+  {
+    "id": "il_2026072805",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Buffalo Bisons",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-07-28T22:45:00Z",
+    "giveaway": {
+      "title": "Knit Cap",
+      "details": "First 3,000 adults age 18 and over receive a Knit Cap."
+    },
+    "fireworks": {
+      "title": "Christmas In July"
+    }
+  },
+  {
+    "id": "il_2026072806",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-28T23:05:00Z",
+    "giveaway": {
+      "title": "TANSKY Tuesday Dime-A-Dog Night",
+      "details": "Ten cent Sahlen's hot dogs available throughout the game while supplies last."
+    }
+  },
+  {
+    "id": "il_2026072807",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Memphis Redbirds",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-07-28T23:05:00Z",
+    "giveaway": {
+      "title": "Stahl Meyer Two for Tuesday",
+      "details": "Two hot dogs for $2."
+    },
+    "fireworks": {
+      "title": "Sensory Night"
+    }
+  },
+  {
+    "id": "il_2026072808",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Charlotte Knights",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-28T23:35:00Z"
+  },
+  {
+    "id": "il_2026072809",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Scranton Wilkes-Barre RailRiders",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-07-28T23:38:00Z",
+    "fireworks": {
+      "title": "Dog Day. Bring your dog to the game."
+    }
+  },
+  {
+    "id": "il_2026072810",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-07-29T00:05:00Z"
   }
   
   
