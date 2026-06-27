@@ -606,6 +606,380 @@
     "arena": "Southwest University Park",
     "city": "El Paso, Texas",
     "date": "2026-07-06T00:05:00Z"
-  }
+  },
 
+
+
+
+
+
+
+  {
+    "id": "pcl_2026070701",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "El Paso Chihuahuas",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-08T00:05:00Z"
+  },
+  {
+    "id": "pcl_2026070702",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-08T00:05:00Z",
+    "giveaway": {
+      "title": "$5 Frozens",
+      "details": "$5 frozen drinks."
+    }
+  },
+  {
+    "id": "pcl_2026070703",
+    "league": "PCL",
+    "team": "Reno Aces",
+    "opponent": "Round Rock Express",
+    "arena": "Greater Nevada Field",
+    "city": "Reno, Nevada",
+    "date": "2026-07-08T01:35:00Z",
+    "giveaway": {
+      "title": "Taco Tuesday",
+      "details": "2 street tacos for $5."
+    },
+    "fireworks": {
+      "title": "Dog Day"
+    }
+  },
+  {
+    "id": "pcl_2026070704",
+    "league": "PCL",
+    "team": "Sacramento River Cats",
+    "opponent": "Salt Lake Bees",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "date": "2026-07-08T01:45:00Z"
+  },
+  {
+    "id": "pcl_2026070705",
+    "league": "PCL",
+    "team": "Las Vegas Aviators",
+    "opponent": "Tacoma Rainiers",
+    "arena": "Las Vegas Ballpark",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-07-08T02:05:00Z"
+  },
+  {
+    "id": "pcl_2026070801",
+    "league": "PCL",
+    "team": "Reno Aces",
+    "opponent": "Round Rock Express",
+    "arena": "Greater Nevada Field",
+    "city": "Reno, Nevada",
+    "date": "2026-07-08T19:05:00Z"
+  },
+  {
+    "id": "pcl_2026070802",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "El Paso Chihuahuas",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-09T00:05:00Z"
+  },
+  {
+    "id": "pcl_2026070803",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-09T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "Dollar Dog Wednesday",
+        "details": "$1 hot dogs all game."
+      },
+      {
+        "title": "Goodwill Wednesday",
+        "details": "Donate gently used items and receive a free Grassland ticket."
+      }
+    ]
+  },
+  {
+    "id": "pcl_2026070804",
+    "league": "PCL",
+    "team": "Sacramento River Cats",
+    "opponent": "Salt Lake Bees",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "date": "2026-07-09T01:45:00Z"
+  },
+  {
+    "id": "pcl_2026070805",
+    "league": "PCL",
+    "team": "Las Vegas Aviators",
+    "opponent": "Tacoma Rainiers",
+    "arena": "Las Vegas Ballpark",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-07-09T02:05:00Z"
+  },
+  {
+    "id": "pcl_2026070901",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "El Paso Chihuahuas",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-10T00:05:00Z"
+  },
+  {
+    "id": "pcl_2026070902",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-10T00:05:00Z",
+    "giveaway": {
+      "title": "Thirsty Thursday",
+      "details": "Discounts on soda and select beer."
+    }
+  },
+  {
+    "id": "pcl_2026070903",
+    "league": "PCL",
+    "team": "Reno Aces",
+    "opponent": "Round Rock Express",
+    "arena": "Greater Nevada Field",
+    "city": "Reno, Nevada",
+    "date": "2026-07-10T01:35:00Z",
+    "giveaway": {
+      "title": "Throwback Thursday",
+      "details": "$2 Coors Light beers."
+    }
+  },
+  {
+    "id": "pcl_2026070904",
+    "league": "PCL",
+    "team": "Sacramento River Cats",
+    "opponent": "Salt Lake Bees",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "date": "2026-07-10T01:45:00Z",
+    "giveaway": {
+      "title": "Homestand Poster Giveaway",
+      "details": "First 500 fans receive a Homestand Poster."
+    }
+  },
+  {
+    "id": "pcl_2026070905",
+    "league": "PCL",
+    "team": "Las Vegas Aviators",
+    "opponent": "Tacoma Rainiers",
+    "arena": "Las Vegas Ballpark",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-07-10T02:05:00Z"
+  },
+  {
+    "id": "pcl_2026071001",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "El Paso Chihuahuas",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-11T00:05:00Z",
+    "fireworks": {
+      "title": "89ers Night"
+    }
+  },
+  {
+    "id": "pcl_2026071002",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-11T00:05:00Z",
+    "giveaway": {
+      "title": "Texas Flag Jersey",
+      "details": "First 2,000 fans."
+    },
+    "fireworks": {
+      "title": "Everything's Bigger in Texas Night, Fireworks Friday",
+    }
+  },
+  {
+    "id": "pcl_2026071003",
+    "league": "PCL",
+    "team": "Reno Aces",
+    "opponent": "Round Rock Express",
+    "arena": "Greater Nevada Field",
+    "city": "Reno, Nevada",
+    "date": "2026-07-11T01:35:00Z",
+    "giveaway": {
+      "title": "Happy Hour",
+      "details": "Unlimited $3 Aceball Ale and Coors Lights for the first hour before first pitch."
+    },
+    "fireworks": {
+      "title": "Yacht Rock Night + Postgame Fireworks"
+    }
+  },
+  {
+    "id": "pcl_2026071004",
+    "league": "PCL",
+    "team": "Sacramento River Cats",
+    "opponent": "Salt Lake Bees",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "date": "2026-07-11T01:45:00Z",
+    "giveaway": [
+      {
+        "title": "Bryce Eldridge T-Shirt Giveaway",
+        "details": "First 2,500 fans receive a Bryce Eldridge T-Shirt."
+      },
+      {
+        "title": "Friday on the Rooftop Ticket Pack",
+        "details": "SPECIAL TICKET REQUIRED. Includes a Rooftop ticket and a limited-edition River Cats hat."
+      }
+    ]
+  },
+  {
+    "id": "pcl_2026071005",
+    "league": "PCL",
+    "team": "Las Vegas Aviators",
+    "opponent": "Tacoma Rainiers",
+    "arena": "Las Vegas Ballpark",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-07-11T02:05:00Z",
+    "fireworks": {
+      "title": "Post-Game Fireworks Show"
+    }
+  },
+  {
+    "id": "pcl_2026071101",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "El Paso Chihuahuas",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-12T00:05:00Z",
+    "fireworks": {
+      "title": "Western Heritage Night"
+    }
+  
+  },
+  {
+    "id": "pcl_2026071102",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-12T00:05:00Z",
+    "giveaway": {
+      "title": "Anime Jersey",
+      "details": "First 2,000 fans."
+    },
+    "fireworks": {
+      "title": "Anime Night"
+    }
+  },
+  {
+    "id": "pcl_2026071103",
+    "league": "PCL",
+    "team": "Reno Aces",
+    "opponent": "Round Rock Express",
+    "arena": "Greater Nevada Field",
+    "city": "Reno, Nevada",
+    "date": "2026-07-12T01:35:00Z",
+    "giveaway": [
+      {
+        "title": "Happy Hour",
+        "details": "Unlimited $3 Aceball Ale and Coors Lights for the first hour before first pitch."
+      },
+      {
+        "title": "Hula Girl Giveaway",
+        "details": "Hula Girl giveaway."
+      }
+    ],
+    "fireworks": {
+      "title": "Lilo and Stitch Night"
+    }
+  },
+  {
+    "id": "pcl_2026071104",
+    "league": "PCL",
+    "team": "Sacramento River Cats",
+    "opponent": "Salt Lake Bees",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "date": "2026-07-12T01:37:00Z",
+    "giveaway": {
+      "title": "Family Fun Pack",
+      "details": "SPECIAL TICKET REQUIRED. Includes a hot dog, soda, and a limited-edition River Cats Star Wars T-Shirt."
+    },
+    "fireworks": {
+      "title": "Star Wars Night, Sutter Health Fireworks Saturdays, Game-Used Jersey Auction"
+    }
+  },
+  {
+    "id": "pcl_2026071105",
+    "league": "PCL",
+    "team": "Las Vegas Aviators",
+    "opponent": "Tacoma Rainiers",
+    "arena": "Las Vegas Ballpark",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-07-12T02:05:00Z",
+    "giveaway": {
+      "title": "Aviators Soccer Jersey",
+      "details": "Guaranteed Jersey Ticket Package includes an Aviators Soccer Jersey celebrating the World Cup."
+    }
+  },
+  {
+    "id": "pcl_2026071201",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "El Paso Chihuahuas",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-12T18:05:00Z"
+  },
+  {
+    "id": "pcl_2026071202",
+    "league": "PCL",
+    "team": "Las Vegas Aviators",
+    "opponent": "Tacoma Rainiers",
+    "arena": "Las Vegas Ballpark",
+    "city": "Las Vegas, Nevada",
+    "date": "2026-07-12T19:05:00Z"
+  },
+  {
+    "id": "pcl_2026071203",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-12T19:05:00Z"
+  },
+  {
+    "id": "pcl_2026071204",
+    "league": "PCL",
+    "team": "Sacramento River Cats",
+    "opponent": "Salt Lake Bees",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, California",
+    "date": "2026-07-12T20:05:00Z"
+  },
+  {
+    "id": "pcl_2026071205",
+    "league": "PCL",
+    "team": "Reno Aces",
+    "opponent": "Round Rock Express",
+    "arena": "Greater Nevada Field",
+    "city": "Reno, Nevada",
+    "date": "2026-07-12T20:05:00Z"
+  }
 ]
