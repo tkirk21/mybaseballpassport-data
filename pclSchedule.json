@@ -146,7 +146,11 @@
     "opponent": "Salt Lake Bees",
     "arena": "Rio Grande Credit Union Field at Isotopes Park",
     "city": "Albuquerque, New Mexico",
-    "date": "2026-06-28T00:35:00Z"
+    "date": "2026-06-28T00:35:00Z",
+    "fireworks": {
+      "title": "Postgame Drone Show",
+      "details": "Presented by Albuquerque Journal (weather permitting)."
+    }
   },
   {
     "id": "pcl_2026062703",
@@ -194,7 +198,11 @@
     "opponent": "Salt Lake Bees",
     "arena": "Rio Grande Credit Union Field at Isotopes Park",
     "city": "Albuquerque, New Mexico",
-    "date": "2026-06-28T19:35:00Z"
+    "date": "2026-06-28T19:35:00Z",
+    "giveaway": {
+      "title": "Snoopy Bobbleheads",
+      "details": "First 2,000 fans."
+    }
   },
   {
     "id": "pcl_2026062802",
