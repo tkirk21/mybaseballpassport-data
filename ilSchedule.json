@@ -3517,6 +3517,144 @@
     "arena": "Werner Park",
     "city": "Papillion, Nebraska",
     "date": "2026-07-31T00:05:00Z"
+  },
+  {
+    "id": "il_2026073101",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Worcester Red Sox",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-07-31T22:35:00Z",
+    "giveaway": [
+      {
+        "title": "Youth Jersey Giveaway",
+        "details": "First 2,000 kids age 17 and under receive a Patriotic Tides Youth Jersey."
+      },
+      {
+        "title": "Free Car Wash Friday",
+        "details": "Fans receive one free Green Clean Express Auto Wash code."
+      }
+    ]
+  },
+  {
+    "id": "il_2026073102",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-07-31T22:45:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073103",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Syracuse Mets",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-07-31T22:45:00Z",
+    "fireworks": {
+      "title": "Cancer Survivors Night, Post-Game Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073104",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Buffalo Bisons",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-07-31T22:45:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073105",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-07-31T23:05:00Z",
+    "giveaway": {
+      "title": "Hogwarts Cap",
+      "details": "Harry Potter Night premium ticket package includes a Hogwarts cap."
+    }
+  },
+  {
+    "id": "il_2026073106",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Memphis Redbirds",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-07-31T23:05:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073107",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Indianapolis Indians",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville, Kentucky",
+    "date": "2026-07-31T23:15:00Z".
+    "giveaway": [
+      {
+        "title": "Louisville Humidity Bucket Hat",
+        "details": "First 1,000 fans receive a Louisville Humidity Bucket Hat."
+      },
+      {
+        "title": "State Farm Good Neighbor Goods",
+        "details": "Guests 18 and older can create a free personalized hat or tote bag."
+      }
+    ],
+    "fireworks": {
+      "title": "Beachin' @ the Ballpark, Post-game Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073108",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Charlotte Knights",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-07-31T23:35:00Z",
+    "fireworks": {
+      "title": "Faith & Family Night, Friday Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073109",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-08-01T00:05:00Z",
+    "fireworks": {
+      "title": "Harry Potter Night, Friday Fireworks"
+    }
+  },
+  {
+    "id": "il_2026073110",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-08-01T00:08:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
   }
   
   
