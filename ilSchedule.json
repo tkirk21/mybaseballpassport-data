@@ -2963,7 +2963,14 @@
     "opponent": "Syracuse Mets",
     "arena": "PNC Field",
     "city": "Moosic, Pennsylvania",
-    "date": "2026-07-25T22:35:00Z"
+    "date": "2026-07-25T22:35:00Z",
+    "giveaway": {
+      "title": "Hawaiian Shirt Giveaway",
+      "details": "First 1,500 fans receive a custom Hawaiian Shirt."
+    },
+    "fireworks": {
+      "title": "Sensational Saturday, Hawaiian Christmas in July, Post-Game Fireworks"
+    }
   },
   {
     "id": "il_2026072506",
