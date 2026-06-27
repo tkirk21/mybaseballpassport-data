@@ -2905,6 +2905,147 @@
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
     "date": "2026-07-25T00:35:00Z"
+  },
+
+
+
+  {
+    "id": "il_2026072501",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-25T20:05:00Z"
+  },
+  {
+    "id": "il_2026072502",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Iowa Cubs",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-25T22:05:00Z",
+    "fireworks": {
+      "title": "Christmas in July"
+    }
+  
+  },
+  {
+    "id": "il_2026072503",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Norfolk Tides",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-25T22:05:00Z",
+    "giveaway": {
+      "title": "Giveaway",
+      "details": "Snow Globe giveaway."
+    }
+  },
+  {
+    "id": "il_2026072504",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-25T22:35:00Z",
+    "fireworks": {
+      "title": "Post Game Drone Show"
+    }
+  },
+  {
+    "id": "il_2026072505",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Syracuse Mets",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-25T22:35:00Z"
+  },
+  {
+    "id": "il_2026072506",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-25T23:05:00Z",
+    "giveaway": [
+      {
+        "title": "Christmas Stocking",
+        "details": "Gate giveaway for the first 1,500 fans."
+      },
+      {
+        "title": "Christmas Ornament",
+        "details": "SPECIAL TICKET REQUIRED. Includes hand-blown glass Christmas ornament and one game ticket."
+      }
+    ],
+    "fireworks": {
+      "title": "Features Santa appearance and postgame fireworks."
+    }
+  },
+  {
+    "id": "il_2026072507",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-25T23:05:00Z",
+    "giveaway": {
+      "title": "Spider-Man Hat",
+      "details": "First 1,000 fans receive a Spider-Man hat."
+    }
+  },
+  {
+    "id": "il_2026072508",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-25T23:35:00Z",
+    "giveaway": {
+      "title": "Heavenly Hot Dog Buffet",
+      "details": "Special ticket includes an all-you-can-eat hot dog buffet with 21 toppings."
+    },
+    "fireworks": {
+      "title": "Postgame Fireworks"
+    }
+  },
+  {
+    "id": "il_2026072509",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Columbus Clippers",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-25T23:37:00Z"
+  },
+  {
+    "id": "il_2026072510",
+    "league": "IL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Nashville Sounds",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-26T00:05:00Z",
+    "giveaway": {
+      "title": "Bring the Pups to the Park",
+      "details": "SPECIAL TICKET REQUIRED."
+    }
+  },
+  {
+    "id": "il_2026072511",
+    "league": "IL",
+    "team": "Salt Lake Bees",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "The Ballpark at America First Square",
+    "city": "South Jordan, Utah",
+    "date": "2026-07-26T00:35:00Z"
   }
   
   
