@@ -113,8 +113,7 @@
     "city": "Tacoma, Washington",
     "date": "2026-06-27T02:05:00Z",
     "fireworks": {
-      "title": "Friday Night Fireworks, Girl Scout Night",
-      "details": "Postgame fireworks, movie and sleepover on the field."
+      "title": "Postgame fireworks, movie and sleepover on the field."
     }
   },
   {
@@ -148,8 +147,7 @@
     "city": "Albuquerque, New Mexico",
     "date": "2026-06-28T00:35:00Z",
     "fireworks": {
-      "title": "Postgame Drone Show",
-      "details": "Presented by Albuquerque Journal (weather permitting)."
+      "title": "Postgame Drone Show"
     }
   },
   {
