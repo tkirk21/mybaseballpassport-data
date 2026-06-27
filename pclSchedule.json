@@ -981,5 +981,204 @@
     "arena": "Greater Nevada Field",
     "city": "Reno, Nevada",
     "date": "2026-07-12T20:05:00Z"
+  },
+
+
+
+  {
+  "id": "pcl_2026071701",
+  "league": "PCL",
+  "team": "Round Rock Express",
+  "opponent": "Las Vegas Aviators",
+  "arena": "Dell Diamond",
+  "city": "Round Rock, Texas",
+  "date": "2026-07-18T00:05:00Z",
+  "fireworks": {
+    "title": "Toy Story Night, Friday Fireworks"
   }
+},
+{
+  "id": "pcl_2026071702",
+  "league": "PCL",
+  "team": "Albuquerque Isotopes",
+  "opponent": "Sacramento River Cats",
+  "arena": "Rio Grande Credit Union Field at Isotopes Park",
+  "city": "Albuquerque, New Mexico",
+  "date": "2026-07-18T00:35:00Z",
+  "giveaway": {
+    "title": "Color-Your-Own Hats",
+    "details": "Courtesy of the Rio Metro RTD and New Mexico Rail Runner Express. First 2,000 fans."
+  }
+},
+{
+  "id": "pcl_2026071703",
+  "league": "PCL",
+  "team": "Salt Lake Bees",
+  "opponent": "Reno Aces",
+  "arena": "The Ballpark at America First Square",
+  "city": "South Jordan, Utah",
+  "date": "2026-07-18T00:35:00Z",
+  "fireworks": {
+    "title": "Country Weekend, Drone Show"
+  }
+},
+{
+  "id": "pcl_2026071704",
+  "league": "PCL",
+  "team": "El Paso Chihuahuas",
+  "opponent": "Sugar Land Space Cowboys",
+  "arena": "Southwest University Park",
+  "city": "El Paso, Texas",
+  "date": "2026-07-18T00:35:00Z",
+  "giveaway": {
+    "title": "Chico Nutcracker Figurine Giveaway",
+    "details": "First 1,500 fans receive a Chico Nutcracker Figurine."
+  },
+  "fireworks": {
+    "title": "Christmas in July Weekend"
+  }
+},
+{
+  "id": "pcl_2026071705",
+  "league": "PCL",
+  "team": "Tacoma Rainiers",
+  "opponent": "Oklahoma City Comets",
+  "arena": "Cheney Stadium",
+  "city": "Tacoma, Washington",
+  "date": "2026-07-18T02:05:00Z",
+  "fireworks": {
+    "title": "Friday Night Fireworks"
+  }
+},
+{
+  "id": "pcl_2026071801",
+  "league": "PCL",
+  "team": "Round Rock Express",
+  "opponent": "Las Vegas Aviators",
+  "arena": "Dell Diamond",
+  "city": "Round Rock, Texas",
+  "date": "2026-07-19T00:05:00Z",
+  "giveaway": {
+    "title": "Train Bandits Jersey Giveaway",
+    "details": "First 2,000 fans receive a Train Bandits Jersey."
+  },
+  "fireworks": {
+    "title": "Round Rock Train Bandits, Postgame Drone Show"
+  }
+},
+{
+  "id": "pcl_2026071802",
+  "league": "PCL",
+  "team": "Albuquerque Isotopes",
+  "opponent": "Sacramento River Cats",
+  "arena": "Rio Grande Credit Union Field at Isotopes Park",
+  "city": "Albuquerque, New Mexico",
+  "date": "2026-07-19T00:35:00Z",
+  "fireworks": {
+    "title": "Post-Game Fireworks",
+  }
+},
+{
+  "id": "pcl_2026071803",
+  "league": "PCL",
+  "team": "Salt Lake Bees",
+  "opponent": "Reno Aces",
+  "arena": "The Ballpark at America First Square",
+  "city": "South Jordan, Utah",
+  "date": "2026-07-19T00:35:00Z",
+  "fireworks": {
+    "title": "Country Weekend, Fireworks Show"
+  }
+},
+{
+  "id": "pcl_2026071804",
+  "league": "PCL",
+  "team": "El Paso Chihuahuas",
+  "opponent": "Sugar Land Space Cowboys",
+  "arena": "Southwest University Park",
+  "city": "El Paso, Texas",
+  "date": "2026-07-19T00:35:00Z",
+  "fireworks": {
+    "title": "Fireworks Spectacular"
+  }
+},
+{
+  "id": "pcl_2026071805",
+  "league": "PCL",
+  "team": "Tacoma Rainiers",
+  "opponent": "Oklahoma City Comets",
+  "arena": "Cheney Stadium",
+  "city": "Tacoma, Washington",
+  "date": "2026-07-19T01:05:00Z",
+  "giveaway": [
+    {
+      "title": "Bring the Herd",
+      "details": "SPECIAL TICKET REQUIRED. Includes four tickets, four ballpark meals, four exclusive hats and four Chick-fil-A sandwich vouchers."
+    },
+    {
+      "title": "Cerveza Saturday",
+      "details": "SPECIAL TICKET REQUIRED. Includes reserved seat, exclusive Cerveza Saturday T-shirt and first Estrella Jalisco."
+    }
+  ]
+},
+{
+  "id": "pcl_2026071901",
+  "league": "PCL",
+  "team": "Tacoma Rainiers",
+  "opponent": "Oklahoma City Comets",
+  "arena": "Cheney Stadium",
+  "city": "Tacoma, Washington",
+  "date": "2026-07-19T20:35:00Z"
+},
+{
+  "id": "pcl_2026071902",
+  "league": "PCL",
+  "team": "Round Rock Express",
+  "opponent": "Las Vegas Aviators",
+  "arena": "Dell Diamond",
+  "city": "Round Rock, Texas",
+  "date": "2026-07-19T23:05:00Z"
+},
+{
+  "id": "pcl_2026071903",
+  "league": "PCL",
+  "team": "Albuquerque Isotopes",
+  "opponent": "Sacramento River Cats",
+  "arena": "Rio Grande Credit Union Field at Isotopes Park",
+  "city": "Albuquerque, New Mexico",
+  "date": "2026-07-20T00:05:00Z",
+  "giveaway": {
+    "title": "Looney Tunes Jerseys",
+    "details": "Courtesy of Rio Grande Credit Union. First 2,000 fans."
+  }
+},
+{
+  "id": "pcl_2026071904",
+  "league": "PCL",
+  "team": "Salt Lake Bees",
+  "opponent": "Reno Aces",
+  "arena": "The Ballpark at America First Square",
+  "city": "South Jordan, Utah",
+  "date": "2026-07-20T00:05:00Z",
+  "giveaway": {
+    "title": "Breakfast for Dinner at The Ballpark",
+    "details": "SPECIAL TICKET REQUIRED. Includes a game ticket and a breakfast meal for $48."
+  }
+},
+{
+  "id": "pcl_2026071905",
+  "league": "PCL",
+  "team": "El Paso Chihuahuas",
+  "opponent": "Sugar Land Space Cowboys",
+  "arena": "Southwest University Park",
+  "city": "El Paso, Texas",
+  "date": "2026-07-20T00:05:00Z",
+  "giveaway": {
+    "title": "Mini Chico Bobblehead",
+    "details": "First 1,000 kids 12 and under receive a Mini Chico Bobblehead."
+  },
+  "fireworks": {
+    "title": "Faith and Family Night"
+  }
+}  
 ]
