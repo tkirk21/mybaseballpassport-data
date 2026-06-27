@@ -3053,6 +3053,119 @@
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
     "date": "2026-07-26T00:35:00Z"
+  },
+  {
+    "id": "il_2026072601",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Iowa Cubs",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-07-26T17:05:00Z"
+  },
+  {
+    "id": "il_2026072602",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-07-26T17:05:00Z"
+  },
+  {
+    "id": "il_2026072603",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-07-26T17:05:00Z"
+  },
+  {
+    "id": "il_2026072604",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Norfolk Tides",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-07-26T17:05:00Z",
+    "fireworks": {
+      "title": "Christmas in July"
+    }
+  },
+  {
+    "id": "il_2026072605",
+    "league": "IL",
+    "team": "Scranton Wilkes-Barre RailRiders",
+    "opponent": "Syracuse Mets",
+    "arena": "PNC Field",
+    "city": "Moosic, Pennsylvania",
+    "date": "2026-07-26T17:35:00Z"
+  },
+  {
+    "id": "il_2026072606",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-07-26T17:35:00Z",
+    "giveaway": {
+      "title": "Kids Eat Free Sundays",
+      "details": "Children 14 and under receive a free hot dog, bag of chips and Prairie Farms milk with paid admission."
+      },
+    "fireworks": {
+      "title": "Sunday Characters with Paw Patrol"
+    }
+  },
+  {
+    "id": "il_2026072607",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-07-26T18:05:00Z"
+  },
+  {
+    "id": "il_2026072608",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Columbus Clippers",
+    "arena": "CHS Field",
+    "city": "St. Paul, Minnesota",
+    "date": "2026-07-26T19:07:00Z"
+  },
+  {
+    "id": "il_2026072609",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-07-26T20:05:00Z",
+    "giveaway": {
+      "title": "Youth Soccer Ball",
+      "details": "Gate giveaway for the first 1,000 kids ages 12 and under."
+    }
+  },
+  {
+    "id": "il_2026072610",
+    "league": "IL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Nashville Sounds",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-26T23:35:00Z"
+  },
+  {
+    "id": "il_2026072611",
+    "league": "IL",
+    "team": "Salt Lake Bees",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "The Ballpark at America First Square",
+    "city": "South Jordan, Utah",
+    "date": "2026-07-27T00:05:00Z"
   }
   
   
