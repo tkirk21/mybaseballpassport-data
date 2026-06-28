@@ -1631,6 +1631,260 @@
     "arena": "Las Vegas Ballpark",
     "city": "Las Vegas, Nevada",
     "date": "2026-07-27T01:05:00Z"
+  },
+
+
+
+
+  {
+    "id": "pcl_2026072801",
+    "league": "PCL",
+    "team": "Tacoma Rainiers",
+    "opponent": "Sacramento River Cats",
+    "arena": "Cheney Stadium",
+    "city": "Tacoma, Washington",
+    "date": "2026-07-28T19:05:00Z"
+  },
+  {
+    "id": "pcl_2026072802",
+    "league": "PCL",
+    "team": "Round Rock Express",
+    "opponent": "Reno Aces",
+    "arena": "Dell Diamond",
+    "city": "Round Rock, Texas",
+    "date": "2026-07-28T23:45:00Z",
+    "giveaway": [
+      {
+        "title": "Triple Play Tuesday",
+        "details": "Discounts on select tickets, food and beverages."
+      },
+      {
+        "title": "Strike Out Hunger",
+        "details": "Bring two canned goods and receive one outfield lawn ticket."
+      }
+    ]
+  },
+  {
+    "id": "pcl_2026072803",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "Las Vegas Aviators",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-29T00:05:00Z"
+  },
+  {
+    "id": "pcl_2026072804",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Salt Lake Bees",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-29T00:05:00Z",
+    "giveaway": {
+      "title": "$5 Frozens",
+      "details": "$5 frozen drinks."
+    }
+  },
+  {
+    "id": "pcl_2026072805",
+    "league": "PCL",
+    "team": "El Paso Chihuahuas",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Southwest University Park",
+    "city": "El Paso, Texas",
+    "date": "2026-07-29T00:35:00Z"
+  },
+  {
+    "id": "pcl_2026072901",
+    "league": "PCL",
+    "team": "Round Rock Express",
+    "opponent": "Reno Aces",
+    "arena": "Dell Diamond",
+    "city": "Round Rock, Texas",
+    "date": "2026-07-29T23:45:00Z",
+    "giveaway": [
+      {
+        "title": "$1 Hot Dogs",
+        "details": "$1 hot dogs all game."
+      },
+      {
+        "title": "Winning Wednesday",
+        "details": "Texas Lottery Veterans Seat Upgrade, Lucky Row and Trivia."
+      }
+    ]
+  },
+  {
+    "id": "pcl_2026072902",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "Las Vegas Aviators",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-30T00:05:00Z"
+  },
+  {
+    "id": "pcl_2026072903",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Salt Lake Bees",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-30T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "Dollar Dog Wednesday",
+        "details": "$1 hot dogs all game."
+      },
+      {
+        "title": "Goodwill Wednesday",
+        "details": "Donate gently used items and receive a free Grassland ticket."
+      }
+    ]
+  },
+  {
+    "id": "pcl_2026072904",
+    "league": "PCL",
+    "team": "El Paso Chihuahuas",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Southwest University Park",
+    "city": "El Paso, Texas",
+    "date": "2026-07-30T00:35:00Z",
+    "giveaway": {
+      "title": "Mature Munchies Wednesday",
+      "details": "Guests over 60 receive a free hot dog meal. Guests over 50 receive a voucher for $1 popcorn."
+    },
+    "fireworks": {
+      "title": "Bark at the Park"
+    }
+  },
+  {
+    "id": "pcl_2026072905",
+    "league": "PCL",
+    "team": "Tacoma Rainiers",
+    "opponent": "Sacramento River Cats",
+    "arena": "Cheney Stadium",
+    "city": "Tacoma, Washington",
+    "date": "2026-07-30T02:05:00Z"
+  },
+  {
+    "id": "pcl_2026073001",
+    "league": "PCL",
+    "team": "Round Rock Express",
+    "opponent": "Reno Aces",
+    "arena": "Dell Diamond",
+    "city": "Round Rock, Texas",
+    "date": "2026-07-30T23:45:00Z",
+    "giveaway": {
+      "title": "Thrifty Thursday",
+      "details": "Discounts on select tickets, food and beverages."
+    }
+  },
+  {
+    "id": "pcl_2026073002",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "Las Vegas Aviators",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-07-31T00:05:00Z"
+  },
+  {
+    "id": "pcl_2026073003",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Salt Lake Bees",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-07-31T00:05:00Z",
+    "giveaway": {
+      "title": "Thirsty Thursday",
+      "details": "Discounts on soda and select beer."
+    }
+  },
+  {
+    "id": "pcl_2026073004",
+    "league": "PCL",
+    "team": "El Paso Chihuahuas",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Southwest University Park",
+    "city": "El Paso, Texas",
+    "date": "2026-07-31T00:35:00Z"
+  },
+  {
+    "id": "pcl_2026073005",
+    "league": "PCL",
+    "team": "Tacoma Rainiers",
+    "opponent": "Sacramento River Cats",
+    "arena": "Cheney Stadium",
+    "city": "Tacoma, Washington",
+    "date": "2026-07-31T02:05:00Z"
+  },
+  {
+    "id": "pcl_2026073101",
+    "league": "PCL",
+    "team": "Oklahoma City Comets",
+    "opponent": "Las Vegas Aviators",
+    "arena": "Chickasaw Bricktown Ballpark",
+    "city": "Oklahoma City, Oklahoma",
+    "date": "2026-08-01T00:05:00Z",
+    "giveaway": {
+      "title": "Harry Potter Giveaway",
+      "details": "Harry Potter-themed giveaway items."
+    },
+    "fireworks": {
+      "title": "Harry Potter Night"
+    }
+  },
+  {
+    "id": "pcl_2026073102",
+    "league": "PCL",
+    "team": "Round Rock Express",
+    "opponent": "Reno Aces",
+    "arena": "Dell Diamond",
+    "city": "Round Rock, Texas",
+    "date": "2026-08-01T00:05:00Z",
+    "fireworks": {
+      "title": "Mingle at the Mound, Friday Fireworks"
+    }
+  },
+  {
+    "id": "pcl_2026073103",
+    "league": "PCL",
+    "team": "Sugar Land Space Cowboys",
+    "opponent": "Salt Lake Bees",
+    "arena": "Constellation Field",
+    "city": "Sugar Land, Texas",
+    "date": "2026-08-01T00:05:00Z",
+    "giveaway": {
+      "title": "Survivor Jersey",
+      "details": "First 2,000 fans."
+    },
+    "fireworks": {
+      "title": "Features Rupert Boneham Meet & Greet and Fireworks Friday with a spectacular postgame fireworks show.",
+    }
+  },
+  {
+    "id": "pcl_2026073104",
+    "league": "PCL",
+    "team": "El Paso Chihuahuas",
+    "opponent": "Albuquerque Isotopes",
+    "arena": "Southwest University Park",
+    "city": "El Paso, Texas",
+    "date": "2026-08-01T00:35:00Z"
+  },
+  {
+    "id": "pcl_2026073105",
+    "league": "PCL",
+    "team": "Tacoma Rainiers",
+    "opponent": "Sacramento River Cats",
+    "arena": "Cheney Stadium",
+    "city": "Tacoma, Washington",
+    "date": "2026-08-01T02:05:00Z",
+    "fireworks": {
+      "title": "Bootmakers Night"
+    }
   }
+
 
 ]
