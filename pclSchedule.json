@@ -1818,7 +1818,23 @@
     "opponent": "Sacramento River Cats",
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
-    "date": "2026-07-31T02:05:00Z"
+    "date": "2026-07-31T02:05:00Z",
+    "giveaway": {
+      "title": "Craft Brew Wednesdays",
+      "details": "SPECIAL TICKET REQUIRED. Weekly rotation of $6 local craft beers."
+    }
+
+    "date": "2026-07-30T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "Salute to Service Thursdays",
+        "details": "SPECIAL TICKET REQUIRED. Includes 2026 Rainiers Hat, ballpark meal and first beverage."
+      },
+      {
+        "title": "Thirsty Thursday",
+        "details": "$3 Michelob Ultra and $6 Kona Big Wave drink specials."
+      }
+    ]
   },
   {
     "id": "pcl_2026073101",
@@ -1881,8 +1897,8 @@
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
     "date": "2026-08-01T02:05:00Z",
-    "fireworks": {
-      "title": "Bootmakers Night"
+     "fireworks": {
+      "title": "Friday Night Fireworks"
     }
   }
 
