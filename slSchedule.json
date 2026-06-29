@@ -279,5 +279,239 @@
     "arena": "Keesler Federal Park",
     "city": "Biloxi, Mississippi",
     "date": "2026-07-05T22:05:00Z"
+  },
+  {
+    "id": "sl_2026070701",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-07T23:00:00Z"
+  },
+  {
+    "id": "sl_2026070702",
+    "league": "SL",
+    "team": "Pensacola Blue Wahoos",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Blue Wahoos Stadium",
+    "city": "Pensacola, Florida",
+    "date": "2026-07-07T23:05:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026070703",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Birmingham Barons",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-07T23:06:00Z"
+  },
+  {
+    "id": "sl_2026070704",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-08T00:35:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026070801",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-08T23:00:00Z"
+  },
+  {
+    "id": "sl_2026070802",
+    "league": "SL",
+    "team": "Pensacola Blue Wahoos",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Blue Wahoos Stadium",
+    "city": "Pensacola, Florida",
+    "date": "2026-07-08T23:05:00Z",
+    "fireworks": {
+      "title": "Summer Fireworks"
+    }
+  },
+  {
+    "id": "sl_2026070803",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Birmingham Barons",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-08T23:06:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026070804",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-09T00:35:00Z"
+  },
+  {
+    "id": "sl_2026070901",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-09T23:00:00Z"
+  },
+  {
+    "id": "sl_2026070902",
+    "league": "SL",
+    "team": "Pensacola Blue Wahoos",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Blue Wahoos Stadium",
+    "city": "Pensacola, Florida",
+    "date": "2026-07-09T23:05:00Z"
+  },
+  {
+    "id": "sl_2026070903",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Birmingham Barons",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-09T23:06:00Z",
+    "giveaway": {
+      "title": "Rally Towel",
+      "details": "First 500 fans receive a Rally Towel."
+    }
+  },
+  {
+    "id": "sl_2026070904",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-10T00:35:00Z"
+  },
+  {
+    "id": "sl_2026071001",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-10T23:00:00Z",
+    "fireworks": {
+      "title": "Summer Fireworks Series"
+    }
+  },
+  {
+    "id": "sl_2026071002",
+    "league": "SL",
+    "team": "Pensacola Blue Wahoos",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Blue Wahoos Stadium",
+    "city": "Pensacola, Florida",
+    "date": "2026-07-10T23:05:00Z",
+    "giveaway": {
+      "title": "Blue Wahoos Soccer Jersey",
+      "details": "Early-arriving fans receive a Blue Wahoos Soccer Jersey."
+    }
+  },
+  {
+    "id": "sl_2026071003",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Birmingham Barons",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-10T23:06:00Z",
+    "fireworks": {
+      "title": "Post-Game Fireworks",
+    }
+  },
+  {
+    "id": "sl_2026071004",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-11T00:35:00Z".
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "sl_2026071101",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Birmingham Barons",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-11T22:05:00Z",
+    "giveaway": {
+      "title": "Refrescos de Fuente Shirsey",
+      "details": "First 1,000 fans receive a Refrescos de Fuente Shirsey."
+    }
+  },
+  {
+    "id": "sl_2026071102",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-11T23:00:00Z",
+    "giveaway": {
+      "title": "Mascot on the Shelf",
+      "details": "First 1,000 fans receive a Mascot on the Shelf."
+    },
+    "fireworks": {
+      "title": "Summer Fireworks Series"
+    }
+  },
+  {
+    "id": "sl_2026071103",
+    "league": "SL",
+    "team": "Pensacola Blue Wahoos",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Blue Wahoos Stadium",
+    "city": "Pensacola, Florida",
+    "date": "2026-07-11T23:05:00Z",
+    "giveaway": {
+      "title": "Pensacola Sky Jockeys Beach Towel",
+      "details": "Receive a Pensacola Sky Jockeys Beach Towel."
+    },
+    "fireworks": {
+      "title": "Fireworks Saturday"
+    }
+  },
+  {
+    "id": "sl_2026071104",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-12T00:35:00Z",
+    "giveaway": {
+      "title": "Luchador Mask",
+      "details": "First 1,000 fans."
+    },
+    "fireworks": {
+      "title": "Saturday Night Fireworks"
+    }
   }
 ]
