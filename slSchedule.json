@@ -1,41 +1,5 @@
 [
   {
-    "id": "sl_2026062801",
-    "league": "SL",
-    "team": "Chattanooga Lookouts",
-    "opponent": "Pensacola Blue Wahoos",
-    "arena": "AT&T Field",
-    "city": "Chattanooga, Tennessee",
-    "date": "2026-06-28T17:00:00Z"
-  },
-  {
-    "id": "sl_2026062802",
-    "league": "SL",
-    "team": "Columbus Clingstones",
-    "opponent": "Rocket City Trash Pandas",
-    "arena": "Synovus Park",
-    "city": "Columbus, Georgia",
-    "date": "2026-06-28T17:05:00Z"
-  },
-  {
-    "id": "sl_2026062803",
-    "league": "SL",
-    "team": "Birmingham Barons",
-    "opponent": "Knoxville Smokies",
-    "arena": "Regions Field",
-    "city": "Birmingham, Alabama",
-    "date": "2026-06-28T19:05:00Z"
-  },
-  {
-    "id": "sl_2026062804",
-    "league": "SL",
-    "team": "Montgomery Biscuits",
-    "opponent": "Biloxi Shuckers",
-    "arena": "Riverwalk Stadium",
-    "city": "Montgomery, Alabama",
-    "date": "2026-06-28T20:33:00Z"
-  },
-  {
     "id": "sl_2026063001",
     "league": "SL",
     "team": "Knoxville Smokies",
@@ -70,5 +34,239 @@
     "arena": "Regions Field",
     "city": "Birmingham, Alabama",
     "date": "2026-07-01T01:00:00Z"
-  }  
+  },
+  {
+    "id": "sl_2026070101",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Columbus Clingstones",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-01T23:00:00Z"
+  },
+  {
+    "id": "sl_2026070102",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-02T00:35:00Z",
+    "giveaway": {
+      "title": "Patriotic Sprocket Bobblehead",
+      "details": "First 1,000 fans."
+    }
+  },
+  {
+    "id": "sl_2026070103",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-02T00:35:00Z"
+  },
+  {
+    "id": "sl_2026070104",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-02T01:00:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026070201",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Columbus Clingstones",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-02T23:00:00Z"
+  },
+  {
+    "id": "sl_2026070202",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-03T00:35:00Z",
+    "giveaway": {
+      "title": "Youth Patriotic Jersey",
+      "details": "First 1,000 kids ages 17 and under."
+    }
+  },
+  {
+    "id": "sl_2026070203",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-03T00:35:00Z"
+  },
+  {
+    "id": "sl_2026070204",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-03T01:00:00Z",
+    "fireworks": {
+      "title": "America 250 Celebration Fireworks"
+    }
+  }
+  {
+    "id": "sl_2026070301",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Columbus Clingstones",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-03T23:00:00Z",
+    "giveaway": {
+      "title": "Rally Towel",
+      "details": "First 3,000 fans receive a Rally Towel."
+    },
+    "fireworks": {
+      "title": "Summer Fireworks Series"
+    }
+  },
+  {
+    "id": "sl_2026070302",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-04T00:35:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
+  },
+  {
+    "id": "sl_2026070303",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-04T00:35:00Z",
+    "fireworks": {
+      "title": "Independence Day Fireworks Extravaganza"
+    }
+  },
+  {
+    "id": "sl_2026070304",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-04T01:00:00Z",
+    "fireworks": {
+      "title": "America 250 Celebration Fireworks"
+    }
+  },
+  {
+    "id": "sl_2026070401",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Columbus Clingstones",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-04T23:00:00Z",
+    "giveaway": {
+      "title": "Rally Towel",
+      "details": "First 3,000 fans receive a Rally Towel."
+    },
+    "fireworks": {
+      "title": "Summer Fireworks Series"
+    }
+  },
+  {
+    "id": "sl_2026070402",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-05T00:30:00Z"
+  },
+  {
+    "id": "sl_2026070403",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-05T00:35:00Z",
+    "fireworks": {
+      "title": "Independence Day Fireworks"
+    }
+  },
+  {
+    "id": "sl_2026070404",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-05T00:35:00Z",
+    "giveaway": {
+      "title": "America 250 Commemorative Coin",
+      "details": "First 1,000 fans receive an America 250 Commemorative Coin."
+    },
+    "fireworks": {
+      "title": "Independence Day Fireworks Extravaganza"
+    }
+  },
+  {
+    "id": "sl_2026070501",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Columbus Clingstones",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-05T18:00:00Z"
+  },
+  {
+    "id": "sl_2026070502",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-05T19:05:00Z",
+    "giveaway": {
+      "title": "USA Shoodie",
+      "details": "First 1,000 fans ages 13 and over receive a USA Shoodie."
+    },
+    "fireworks": {
+      "title": "America 250 Celebration Fireworks"
+    }
+  },
+  {
+    "id": "sl_2026070503",
+    "league": "SL",
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-07-05T21:05:00Z"
+  },
+  {
+    "id": "sl_2026070504",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-05T22:05:00Z"
+  }
 ]
