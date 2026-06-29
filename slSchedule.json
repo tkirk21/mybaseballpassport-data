@@ -970,6 +970,176 @@
     "arena": "Blue Wahoos Stadium",
     "city": "Pensacola, Florida",
     "date": "2026-07-26T21:05:00Z"
+  },
+  {
+    "id": "sl_2026072801",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-28T23:00:00Z"
+  },
+  {
+    "id": "sl_2026072802",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Rocket City Trash Pandas",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-28T23:06:00Z"
+  },
+  {
+    "id": "sl_2026072803",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-29T00:35:00Z",
+    "giveaway": {
+      "title": "Patriotic-Themed T-Shirt",
+      "details": "First 250 fans receive a patriotic-themed T-Shirt."
+    }
+  },
+  {
+    "id": "sl_2026072804",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-29T01:00:00Z"
+  },
+  {
+    "id": "sl_2026072901",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-29T23:00:00Z"
+  },
+  {
+    "id": "sl_2026072902",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Rocket City Trash Pandas",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-29T23:06:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026072903",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-30T00:35:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026072904",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-30T01:00:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
+  },
+  {
+    "id": "sl_2026073001",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-30T23:00:00Z"
+  },
+  {
+    "id": "sl_2026073002",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Rocket City Trash Pandas",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-30T23:06:00Z"
+  },
+  {
+    "id": "sl_2026073003",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-07-31T00:35:00Z"
+  },
+  {
+    "id": "sl_2026073004",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-07-31T01:00:00Z"
+  },
+  {
+    "id": "sl_2026073101",
+    "league": "SL",
+    "team": "Knoxville Smokies",
+    "opponent": "Pensacola Blue Wahoos",
+    "arena": "Covenant Health Park",
+    "city": "Knoxville, Tennessee",
+    "date": "2026-07-31T23:00:00Z",
+    "fireworks": {
+      "title": "Summer Fireworks Series"
+    }
+  },
+  {
+    "id": "sl_2026073102",
+    "league": "SL",
+    "team": "Columbus Clingstones",
+    "opponent": "Rocket City Trash Pandas",
+    "arena": "Synovus Park",
+    "city": "Columbus, Georgia",
+    "date": "2026-07-31T23:06:00Z",
+    "fireworks": {
+      "title": "Fireworks Friday"
+    }
+  },
+  {
+    "id": "sl_2026073103",
+    "league": "SL",
+    "team": "Biloxi Shuckers",
+    "opponent": "Montgomery Biscuits",
+    "arena": "Keesler Federal Park",
+    "city": "Biloxi, Mississippi",
+    "date": "2026-08-01T00:35:00Z",
+    "fireworks": {
+      "title": "Fireworks Friday"
+    }
+  },
+  {
+    "id": "sl_2026073104",
+    "league": "SL",
+    "team": "Birmingham Barons",
+    "opponent": "Chattanooga Lookouts",
+    "arena": "Regions Field",
+    "city": "Birmingham, Alabama",
+    "date": "2026-08-01T01:00:00Z",
+    "date": "2026-07-31",
+    "fireworks": {
+      "title": "Friday Night Fireworks"
+    }
   }
 
 
