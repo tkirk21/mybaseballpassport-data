@@ -15,7 +15,10 @@
     "opponent": "Pensacola Blue Wahoos",
     "arena": "Toyota Field",
     "city": "Madison, Alabama",
-    "date": "2026-07-01T00:35:00Z"
+    "date": "2026-07-01T00:35:00Z",
+    "fireworks": {
+      "title": "Bring Your Dog to the Ballpark"
+    }
   },
   {
     "id": "sl_2026063003",
@@ -24,7 +27,11 @@
     "opponent": "Chattanooga Lookouts",
     "arena": "Keesler Federal Park",
     "city": "Biloxi, Mississippi",
-    "date": "2026-07-01T00:35:00Z"
+    "date": "2026-07-01T00:35:00Z",
+    "giveaway": {
+      "title": "Themed T-Shirt",
+      "details": "First 250 fans receive a themed T-Shirt."
+    }
   },
   {
     "id": "sl_2026063004",
@@ -33,7 +40,11 @@
     "opponent": "Montgomery Biscuits",
     "arena": "Regions Field",
     "city": "Birmingham, Alabama",
-    "date": "2026-07-01T01:00:00Z"
+    "date": "2026-07-01T01:00:00Z",
+    "giveaway": {
+      "title": "Back-to-Back Championship T-Shirt",
+      "details": "First 1,000 fans ages 12 and over receive a Back-to-Back Championship T-Shirt."
+    }
   },
   {
     "id": "sl_2026070101",
