@@ -53,12 +53,7 @@
     "city": "Frederick, Maryland",
     "date": "2026-06-30T23:00:00Z"
   },
-
-
-
-
-
-    {
+  {
     "id": "sal_2026070101",
     "league": "SAL",
     "team": "Winston-Salem Dash",
@@ -67,7 +62,6 @@
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-01T22:30:00Z"
   },
-
   {
     "id": "sal_2026070102",
     "league": "SAL",
@@ -77,7 +71,6 @@
     "city": "Greensboro, North Carolina",
     "date": "2026-07-01T22:30:00Z"
   },
-  
   {
     "id": "sal_2026070103",
     "league": "SAL",
@@ -86,8 +79,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-01T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070104",
     "league": "SAL",
@@ -96,8 +88,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-01T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070105",
     "league": "SAL",
@@ -106,18 +97,16 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-01T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070106",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Brooklyn Cyclones",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-01T23:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070201",
     "league": "SAL",
@@ -127,7 +116,6 @@
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-02T22:30:00Z"
   },
-  
   {
     "id": "sal_2026070202",
     "league": "SAL",
@@ -136,8 +124,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-02T22:30:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070203",
     "league": "SAL",
@@ -146,18 +133,16 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-02T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070204",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Brooklyn Cyclones",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-02T23:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070205",
     "league": "SAL",
@@ -166,8 +151,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-02T23:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070206",
     "league": "SAL",
@@ -176,8 +160,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-02T23:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070301",
     "league": "SAL",
@@ -186,8 +169,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-03T22:30:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070302",
     "league": "SAL",
@@ -196,18 +178,16 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-03T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070303",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Brooklyn Cyclones",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-03T23:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070304",
     "league": "SAL",
@@ -216,8 +196,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-03T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070305",
     "league": "SAL",
@@ -226,8 +205,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-03T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070306",
     "league": "SAL",
@@ -236,18 +214,16 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-03T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070401",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Brooklyn Cyclones",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-04T17:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070402",
     "league": "SAL",
@@ -256,8 +232,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-04T22:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070403",
     "league": "SAL",
@@ -267,7 +242,6 @@
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-04T22:30:00Z"
   },
-  
   {
     "id": "sal_2026070404",
     "league": "SAL",
@@ -276,8 +250,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-04T23:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070405",
     "league": "SAL",
@@ -286,8 +259,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-04T23:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070406",
     "league": "SAL",
@@ -296,8 +268,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-04T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070501",
     "league": "SAL",
@@ -306,8 +277,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-05T17:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070502",
     "league": "SAL",
@@ -316,8 +286,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-05T17:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070503",
     "league": "SAL",
@@ -326,8 +295,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-05T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070504",
     "league": "SAL",
@@ -336,8 +304,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-05T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070505",
     "league": "SAL",
@@ -346,18 +313,16 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-05T18:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070506",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Brooklyn Cyclones",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-05T22:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070701",
     "league": "SAL",
@@ -366,8 +331,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-07T22:30:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070702",
     "league": "SAL",
@@ -376,8 +340,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-07T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070703",
     "league": "SAL",
@@ -386,8 +349,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-07T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070704",
     "league": "SAL",
@@ -396,8 +358,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-07T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070705",
     "league": "SAL",
@@ -406,18 +367,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-07T22:40:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070706",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Jersey Shore BlueClaws",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-07T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070801",
     "league": "SAL",
@@ -426,8 +385,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-08T16:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070802",
     "league": "SAL",
@@ -436,8 +394,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-08T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070803",
     "league": "SAL",
@@ -446,8 +403,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-08T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070804",
     "league": "SAL",
@@ -456,8 +412,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-08T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070805",
     "league": "SAL",
@@ -466,18 +421,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-08T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070806",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Jersey Shore BlueClaws",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-08T23:00:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070901",
     "league": "SAL",
@@ -486,8 +439,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-09T22:30:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070902",
     "league": "SAL",
@@ -496,8 +448,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-09T22:35:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026070903",
     "league": "SAL",
@@ -506,8 +457,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-09T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070904",
     "league": "SAL",
@@ -516,8 +466,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-09T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070905",
     "league": "SAL",
@@ -526,18 +475,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-09T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026070906",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Jersey Shore BlueClaws",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-09T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071001",
     "league": "SAL",
@@ -546,8 +493,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-10T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071002",
     "league": "SAL",
@@ -556,8 +502,7 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-10T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071003",
     "league": "SAL",
@@ -566,18 +511,16 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-10T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071004",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Jersey Shore BlueClaws",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-10T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071005",
     "league": "SAL",
@@ -586,8 +529,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-10T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071006",
     "league": "SAL",
@@ -596,8 +538,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-10T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071101",
     "league": "SAL",
@@ -606,8 +547,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-11T20:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071102",
     "league": "SAL",
@@ -616,8 +556,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-11T21:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071103",
     "league": "SAL",
@@ -626,18 +565,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-11T22:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071104",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Jersey Shore BlueClaws",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-11T22:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071105",
     "league": "SAL",
@@ -646,8 +583,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-11T22:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071106",
     "league": "SAL",
@@ -656,8 +592,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-11T22:30:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071201",
     "league": "SAL",
@@ -666,8 +601,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-12T17:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071202",
     "league": "SAL",
@@ -676,8 +610,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-12T17:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071203",
     "league": "SAL",
@@ -686,8 +619,7 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-12T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071204",
     "league": "SAL",
@@ -696,18 +628,16 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-12T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071205",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Jersey Shore BlueClaws",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-12T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071206",
     "league": "SAL",
@@ -716,8 +646,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-12T18:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071701",
     "league": "SAL",
@@ -726,8 +655,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-17T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071702",
     "league": "SAL",
@@ -736,8 +664,7 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-17T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071703",
     "league": "SAL",
@@ -746,8 +673,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-17T22:45:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026071704",
     "league": "SAL",
@@ -756,8 +682,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-17T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071705",
     "league": "SAL",
@@ -766,8 +691,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-17T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071706",
     "league": "SAL",
@@ -776,8 +700,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-17T23:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071801",
     "league": "SAL",
@@ -786,8 +709,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-18T20:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071802",
     "league": "SAL",
@@ -797,7 +719,6 @@
     "city": "Brooklyn, New York",
     "date": "2026-07-18T22:00:00Z"
   },
-  
   {
     "id": "sal_2026071803",
     "league": "SAL",
@@ -806,8 +727,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-18T22:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071804",
     "league": "SAL",
@@ -816,8 +736,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-18T22:45:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026071805",
     "league": "SAL",
@@ -827,7 +746,6 @@
     "city": "Rome, Georgia",
     "date": "2026-07-18T22:45:00Z"
   },
-  
   {
     "id": "sal_2026071806",
     "league": "SAL",
@@ -837,7 +755,6 @@
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-18T23:35:00Z"
   },
-  
   {
     "id": "sal_2026071901",
     "league": "SAL",
@@ -846,8 +763,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-19T17:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071902",
     "league": "SAL",
@@ -856,8 +772,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-19T17:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071903",
     "league": "SAL",
@@ -866,8 +781,7 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-19T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071904",
     "league": "SAL",
@@ -876,8 +790,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-19T18:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071905",
     "league": "SAL",
@@ -886,8 +799,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-19T19:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026071906",
     "league": "SAL",
@@ -906,8 +818,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-21T22:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072102",
     "league": "SAL",
@@ -916,8 +827,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-21T22:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072103",
     "league": "SAL",
@@ -926,8 +836,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-21T22:30:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072104",
     "league": "SAL",
@@ -936,8 +845,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-21T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072105",
     "league": "SAL",
@@ -946,8 +854,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-21T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072106",
     "league": "SAL",
@@ -956,8 +863,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-21T23:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072201",
     "league": "SAL",
@@ -966,8 +872,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-22T15:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026072202",
     "league": "SAL",
@@ -976,8 +881,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-22T15:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072203",
     "league": "SAL",
@@ -986,8 +890,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-22T22:30:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072204",
     "league": "SAL",
@@ -996,8 +899,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-22T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072205",
     "league": "SAL",
@@ -1006,8 +908,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-22T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072206",
     "league": "SAL",
@@ -1027,7 +928,7 @@
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-23T22:30:00Z"
   },
-  
+ 
   {
     "id": "sal_2026072302",
     "league": "SAL",
@@ -1036,8 +937,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-23T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072303",
     "league": "SAL",
@@ -1046,8 +946,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-23T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072304",
     "league": "SAL",
@@ -1056,8 +955,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-23T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072305",
     "league": "SAL",
@@ -1066,8 +964,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-23T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072306",
     "league": "SAL",
@@ -1076,8 +973,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-23T23:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072401",
     "league": "SAL",
@@ -1086,8 +982,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-24T22:30:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072402",
     "league": "SAL",
@@ -1096,8 +991,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-24T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072403",
     "league": "SAL",
@@ -1106,8 +1000,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-24T22:45:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026072404",
     "league": "SAL",
@@ -1116,8 +1009,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-24T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072405",
     "league": "SAL",
@@ -1126,8 +1018,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-24T23:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026072406",
     "league": "SAL",
@@ -1136,8 +1027,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-24T23:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072501",
     "league": "SAL",
@@ -1146,8 +1036,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-25T22:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072502",
     "league": "SAL",
@@ -1156,8 +1045,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-25T22:30:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026072503",
     "league": "SAL",
@@ -1166,8 +1054,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-25T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072504",
     "league": "SAL",
@@ -1176,8 +1063,7 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-25T22:45:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072505",
     "league": "SAL",
@@ -1186,8 +1072,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-25T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072506",
     "league": "SAL",
@@ -1196,8 +1081,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-25T23:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072601",
     "league": "SAL",
@@ -1206,8 +1090,7 @@
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
     "date": "2026-07-26T17:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072602",
     "league": "SAL",
@@ -1216,8 +1099,7 @@
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
     "date": "2026-07-26T17:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072603",
     "league": "SAL",
@@ -1226,8 +1108,7 @@
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
     "date": "2026-07-26T17:05:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026072604",
     "league": "SAL",
@@ -1236,8 +1117,7 @@
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
     "date": "2026-07-26T18:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072605",
     "league": "SAL",
@@ -1246,8 +1126,7 @@
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
     "date": "2026-07-26T18:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072606",
     "league": "SAL",
@@ -1256,18 +1135,16 @@
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
     "date": "2026-07-26T19:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072801",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Wilmington Blue Rocks",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-28T22:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072802",
     "league": "SAL",
@@ -1276,8 +1153,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-28T22:30:00Z"
-  },
-  
+  }, 
   {
     "id": "sal_2026072803",
     "league": "SAL",
@@ -1286,8 +1162,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-28T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072804",
     "league": "SAL",
@@ -1296,8 +1171,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-28T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072805",
     "league": "SAL",
@@ -1306,8 +1180,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-28T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072806",
     "league": "SAL",
@@ -1316,18 +1189,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-28T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072901",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Wilmington Blue Rocks",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-29T15:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072902",
     "league": "SAL",
@@ -1336,8 +1207,7 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-29T16:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072903",
     "league": "SAL",
@@ -1346,8 +1216,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-29T16:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072904",
     "league": "SAL",
@@ -1356,8 +1225,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-29T22:30:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072905",
     "league": "SAL",
@@ -1366,8 +1234,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-29T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026072906",
     "league": "SAL",
@@ -1376,8 +1243,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-29T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073001",
     "league": "SAL",
@@ -1386,8 +1252,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-30T22:30:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073002",
     "league": "SAL",
@@ -1396,8 +1261,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-30T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073003",
     "league": "SAL",
@@ -1406,8 +1270,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-30T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073004",
     "league": "SAL",
@@ -1416,8 +1279,7 @@
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-30T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073005",
     "league": "SAL",
@@ -1426,18 +1288,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-30T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073006",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Wilmington Blue Rocks",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-30T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073101",
     "league": "SAL",
@@ -1446,8 +1306,7 @@
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
     "date": "2026-07-31T22:35:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073102",
     "league": "SAL",
@@ -1456,18 +1315,16 @@
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
     "date": "2026-07-31T22:40:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073103",
     "league": "SAL",
     "team": "Frederick Keys",
     "opponent": "Wilmington Blue Rocks",
-    "arena": "Nymeo Field At Harry Grove Stadium",
+    "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-07-31T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073104",
     "league": "SAL",
@@ -1476,8 +1333,7 @@
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
     "date": "2026-07-31T23:00:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073105",
     "league": "SAL",
@@ -1486,8 +1342,7 @@
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
     "date": "2026-07-31T23:05:00Z"
-  },
-  
+  },  
   {
     "id": "sal_2026073106",
     "league": "SAL",
@@ -1497,5 +1352,4 @@
     "city": "Spartanburg, South Carolina",
     "date": "2026-07-31T23:05:00Z"
   }
-
 ]
