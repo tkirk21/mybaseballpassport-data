@@ -352,7 +352,7 @@
     "arena": "Modern Woodmen Park",
     "city": "Davenport, Iowa",
     "date": "2026-07-04T23:30:00Z",
-     "fireworks": {
+    "fireworks": {
       "title": "Post Game Fireworks"
     }
   },
@@ -558,7 +558,7 @@
     "arena": "Classic Auto Group Park",
     "city": "Eastlake, Ohio",
     "date": "2026-07-09T23:00:00Z",
-    fireworks": {
+    "fireworks": {
       "title": "DAWG Night. Bring your dog to the ballgame."
     }
   },
