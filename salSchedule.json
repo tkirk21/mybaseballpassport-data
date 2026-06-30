@@ -1,1317 +1,5 @@
 [
   {
-    "id": "sal_2026060201",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-02T22:30:00Z"
-  },
-  {
-    "id": "sal_2026060202",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-02T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060203",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-02T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060204",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-02T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060205",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greenville Drive",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-02T22:45:00Z"
-  },
-  {
-    "id": "sal_2026060206",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-02T23:00:00Z"
-  },
-
-  {
-    "id": "sal_2026060301",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greenville Drive",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-03T16:00:00Z"
-  },
-  {
-    "id": "sal_2026060302",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-03T22:30:00Z"
-  },
-  {
-    "id": "sal_2026060303",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-03T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060304",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-03T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060305",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-03T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060306",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-03T23:00:00Z"
-  },
-
-  {
-    "id": "sal_2026060401",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-04T22:30:00Z"
-  },
-  {
-    "id": "sal_2026060402",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-04T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060403",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-04T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060404",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greenville Drive",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-04T22:45:00Z"
-  },
-  {
-    "id": "sal_2026060405",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-04T23:00:00Z"
-  },
-  {
-    "id": "sal_2026060406",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-04T23:05:00Z"
-  },
-  {
-    "id": "sal_2026060501",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-05T22:30:00Z"
-  },
-  {
-    "id": "sal_2026060502",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-05T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060503",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-05T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060504",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greenville Drive",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-05T22:45:00Z"
-  },
-  {
-    "id": "sal_2026060505",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-05T23:00:00Z"
-  },
-  {
-    "id": "sal_2026060506",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-05T23:05:00Z"
-  },
-
-  {
-    "id": "sal_2026060601",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-06T22:00:00Z"
-  },
-  {
-    "id": "sal_2026060602",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-06T22:05:00Z"
-  },
-  {
-    "id": "sal_2026060603",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-06T22:05:00Z"
-  },
-  {
-    "id": "sal_2026060604",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-06T22:30:00Z"
-  },
-  {
-    "id": "sal_2026060605",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greenville Drive",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-06T22:45:00Z"
-  },
-  {
-    "id": "sal_2026060606",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-06T23:05:00Z"
-  },
-
-  {
-    "id": "sal_2026060701",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greenville Drive",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-07T17:00:00Z"
-  },
-  {
-    "id": "sal_2026060702",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-07T17:05:00Z"
-  },
-  {
-    "id": "sal_2026060703",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-07T17:05:00Z"
-  },
-  {
-    "id": "sal_2026060704",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-07T17:05:00Z"
-  },
-  {
-    "id": "sal_2026060705",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-07T18:00:00Z"
-  },
-  {
-    "id": "sal_2026060706",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-07T19:00:00Z"
-  },
-  {
-    "id": "sal_2026060901",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Asheville Tourists",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-09T22:05:00Z"
-  },
-  {
-    "id": "sal_2026060902",
-    "league": "SAL",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-06-09T22:30:00Z"
-  },
-  {
-    "id": "sal_2026060903",
-    "league": "SAL",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-06-09T22:35:00Z"
-  },
-  {
-    "id": "sal_2026060904",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Frederick Keys",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-09T22:40:00Z"
-  },
-  {
-    "id": "sal_2026060905",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-09T22:45:00Z"
-  },
-  {
-    "id": "sal_2026060906",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Rome Emperors",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-10T23:35:00Z"
-  },
-
-  {
-    "id": "sal_2026061001",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Asheville Tourists",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-10T15:05:00Z"
-  },
-  {
-    "id": "sal_2026061002",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Rome Emperors",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-10T18:05:00Z"
-  },
-  {
-    "id": "sal_2026061003",
-    "league": "SAL",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-06-10T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061004",
-    "league": "SAL",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-06-10T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061005",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Frederick Keys",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-10T22:40:00Z"
-  },
-  {
-    "id": "sal_2026061006",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-10T22:45:00Z"
-  },
-
-  {
-    "id": "sal_2026061101",
-    "league": "SAL",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-06-11T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061102",
-    "league": "SAL",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-06-11T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061103",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Asheville Tourists",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-11T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061104",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Frederick Keys",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-11T22:40:00Z"
-  },
-  {
-    "id": "sal_2026061105",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-11T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061106",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Rome Emperors",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-12T23:35:00Z"
-  },
-  {
-    "id": "sal_2026061201",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Frederick Keys",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-12T22:40:00Z"
-  },
-  {
-    "id": "sal_2026061202",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-12T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061203",
-    "league": "SAL",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-06-12T23:00:00Z"
-  },
-  {
-    "id": "sal_2026061204",
-    "league": "SAL",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-06-12T23:05:00Z"
-  },
-  {
-    "id": "sal_2026061205",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Asheville Tourists",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-12T23:05:00Z"
-  },
-  {
-    "id": "sal_2026061206",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Rome Emperors",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-13T00:35:00Z"
-  },
-
-  {
-    "id": "sal_2026061301",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Asheville Tourists",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-13T20:35:00Z"
-  },
-  {
-    "id": "sal_2026061302",
-    "league": "SAL",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-06-13T21:05:00Z"
-  },
-  {
-    "id": "sal_2026061303",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Frederick Keys",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-13T22:00:00Z"
-  },
-  {
-    "id": "sal_2026061304",
-    "league": "SAL",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-06-13T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061305",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-13T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061306",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Rome Emperors",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-14T00:35:00Z"
-  },
-
-  {
-    "id": "sal_2026061401",
-    "league": "SAL",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-06-14T18:00:00Z"
-  },
-  {
-    "id": "sal_2026061402",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Frederick Keys",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-14T18:00:00Z"
-  },
-  {
-    "id": "sal_2026061403",
-    "league": "SAL",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-06-14T18:05:00Z"
-  },
-  {
-    "id": "sal_2026061404",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Rome Emperors",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-14T18:05:00Z"
-  },
-  {
-    "id": "sal_2026061405",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-14T19:05:00Z"
-  },
-  {
-    "id": "sal_2026061406",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Asheville Tourists",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-14T20:35:00Z"
-  },
-  {
-    "id": "sal_2026061601",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-16T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061602",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Greenville Drive",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-16T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061603",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-16T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061604",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-16T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061605",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-16T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061606",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-16T23:00:00Z"
-  },
-
-  {
-    "id": "sal_2026061701",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-17T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061702",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Greenville Drive",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-17T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061703",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-17T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061704",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-17T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061705",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-17T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061706",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-17T23:00:00Z"
-  },
-
-  {
-    "id": "sal_2026061801",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-18T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061802",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-18T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061803",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-18T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061804",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-18T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061805",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-18T23:00:00Z"
-  },
-  {
-    "id": "sal_2026061806",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Greenville Drive",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-18T23:05:00Z"
-  },
-  {
-    "id": "sal_2026061901",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-19T22:30:00Z"
-  },
-  {
-    "id": "sal_2026061902",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-19T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061903",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-19T22:35:00Z"
-  },
-  {
-    "id": "sal_2026061904",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-19T22:45:00Z"
-  },
-  {
-    "id": "sal_2026061905",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-19T23:00:00Z"
-  },
-  {
-    "id": "sal_2026061906",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Greenville Drive",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-19T23:05:00Z"
-  },
-
-  {
-    "id": "sal_2026062001",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-20T22:00:00Z"
-  },
-  {
-    "id": "sal_2026062002",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-20T22:05:00Z"
-  },
-  {
-    "id": "sal_2026062003",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-20T22:05:00Z"
-  },
-  {
-    "id": "sal_2026062004",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-20T22:30:00Z"
-  },
-  {
-    "id": "sal_2026062005",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-20T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062006",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Greenville Drive",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-20T23:05:00Z"
-  },
-  {
-    "id": "sal_2026062101",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-21T17:00:00Z"
-  },
-  {
-    "id": "sal_2026062102",
-    "league": "SAL",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Greenville Drive",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-06-21T17:05:00Z"
-  },
-  {
-    "id": "sal_2026062103",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-21T17:05:00Z"
-  },
-  {
-    "id": "sal_2026062104",
-    "league": "SAL",
-    "team": "Asheville Tourists",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-06-21T17:05:00Z"
-  },
-  {
-    "id": "sal_2026062105",
-    "league": "SAL",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-06-21T18:00:00Z"
-  },
-  {
-    "id": "sal_2026062106",
-    "league": "SAL",
-    "team": "Frederick Keys",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "Nymeo Field at Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-06-21T19:00:00Z"
-  },
-
-  {
-    "id": "sal_2026062301",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Frederick Keys",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-23T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062302",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-23T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062303",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-23T22:40:00Z"
-  },
-  {
-    "id": "sal_2026062304",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-23T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062305",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Asheville Tourists",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-23T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062306",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-24T00:35:00Z"
-  },
-
-  {
-    "id": "sal_2026062401",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Frederick Keys",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-24T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062402",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-24T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062403",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-24T22:40:00Z"
-  },
-  {
-    "id": "sal_2026062404",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-24T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062405",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Asheville Tourists",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-24T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062406",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-25T00:35:00Z"
-  },
-
-  {
-    "id": "sal_2026062501",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Frederick Keys",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-25T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062502",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-25T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062503",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-25T22:40:00Z"
-  },
-  {
-    "id": "sal_2026062504",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-25T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062505",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Asheville Tourists",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-25T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062506",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-26T00:35:00Z"
-  },
-  {
-    "id": "sal_2026062601",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Frederick Keys",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-26T22:35:00Z"
-  },
-  {
-    "id": "sal_2026062602",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-26T22:40:00Z"
-  },
-  {
-    "id": "sal_2026062603",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-26T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062604",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Asheville Tourists",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-26T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062605",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-26T23:05:00Z"
-  },
-  {
-    "id": "sal_2026062606",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-27T00:35:00Z"
-  },
-
-  {
-    "id": "sal_2026062701",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-27T20:35:00Z"
-  },
-  {
-    "id": "sal_2026062702",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-27T22:00:00Z"
-  },
-  {
-    "id": "sal_2026062703",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Frederick Keys",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-27T22:05:00Z"
-  },
-  {
-    "id": "sal_2026062704",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-27T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062705",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Asheville Tourists",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-27T22:45:00Z"
-  },
-  {
-    "id": "sal_2026062706",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-28T00:35:00Z"
-  },
-
-  {
-    "id": "sal_2026062801",
-    "league": "SAL",
-    "team": "Rome Emperors",
-    "opponent": "Greensboro Grasshoppers",
-    "arena": "AdventHealth Stadium",
-    "city": "Rome, Georgia",
-    "date": "2026-06-28T17:00:00Z"
-  },
-  {
-    "id": "sal_2026062802",
-    "league": "SAL",
-    "team": "Wilmington Blue Rocks",
-    "opponent": "Frederick Keys",
-    "arena": "Daniel S. Frawley Stadium",
-    "city": "Wilmington, Delaware",
-    "date": "2026-06-28T17:05:00Z"
-  },
-  {
-    "id": "sal_2026062803",
-    "league": "SAL",
-    "team": "Brooklyn Cyclones",
-    "opponent": "Jersey Shore BlueClaws",
-    "arena": "Maimonides Park",
-    "city": "Brooklyn, New York",
-    "date": "2026-06-28T18:00:00Z"
-  },
-  {
-    "id": "sal_2026062804",
-    "league": "SAL",
-    "team": "Bowling Green Hot Rods",
-    "opponent": "Hudson Valley Renegades",
-    "arena": "Bowling Green Ballpark",
-    "city": "Bowling Green, Kentucky",
-    "date": "2026-06-28T18:05:00Z"
-  },
-  {
-    "id": "sal_2026062805",
-    "league": "SAL",
-    "team": "Greenville Drive",
-    "opponent": "Asheville Tourists",
-    "arena": "Fluor Field",
-    "city": "Greenville, South Carolina",
-    "date": "2026-06-28T19:05:00Z"
-  },
-  {
-    "id": "sal_2026062806",
-    "league": "SAL",
-    "team": "Hub City Spartanburgers",
-    "opponent": "Winston-Salem Dash",
-    "arena": "Fifth Third Park",
-    "city": "Spartanburg, South Carolina",
-    "date": "2026-06-28T20:35:00Z"
-  },
-  {
     "id": "sal_2026063001",
     "league": "SAL",
     "team": "Winston-Salem Dash",
@@ -1364,6 +52,1450 @@
     "arena": "Nymeo Field at Harry Grove Stadium",
     "city": "Frederick, Maryland",
     "date": "2026-06-30T23:00:00Z"
-  }
+  },
+
+
+
+
+
+    {
+    "id": "sal_2026070101",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greenville Drive",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-01T22:30:00Z"
+  },
+
+  {
+    "id": "sal_2026070102",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-01T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070103",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Rome Emperors",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-01T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070104",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-01T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070105",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-01T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070106",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-01T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070201",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greenville Drive",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-02T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070202",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-02T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070203",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-02T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070204",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-02T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070205",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Rome Emperors",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-02T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070206",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-02T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070301",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greenville Drive",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-03T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070302",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-03T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070303",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-03T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070304",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-03T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070305",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Rome Emperors",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-03T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070306",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-03T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070401",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-04T17:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070402",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-04T22:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070403",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greenville Drive",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-04T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070404",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-04T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070405",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Rome Emperors",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-04T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070406",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-04T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070501",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Rome Emperors",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-05T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070502",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-05T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070503",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greenville Drive",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-05T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070504",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-05T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070505",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-05T18:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026070506",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-05T22:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070701",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Greenville Drive",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-07T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070702",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Rome Emperors",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-07T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070703",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Winston-Salem Dash",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-07T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070704",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-07T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070705",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-07T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026070706",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-07T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070801",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Greenville Drive",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-08T16:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070802",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Rome Emperors",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-08T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070803",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Winston-Salem Dash",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-08T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070804",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-08T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070805",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-08T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026070806",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-08T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026070901",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Greenville Drive",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-09T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026070902",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Rome Emperors",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-09T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070903",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Winston-Salem Dash",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-09T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070904",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-09T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026070905",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-09T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026070906",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-09T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071001",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Winston-Salem Dash",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-10T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026071002",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-10T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026071003",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Greenville Drive",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-10T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071004",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-10T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071005",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Rome Emperors",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-10T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071006",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-10T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071101",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-11T20:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026071102",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Rome Emperors",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-11T21:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071103",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-11T22:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071104",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-11T22:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071105",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Winston-Salem Dash",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-11T22:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071106",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Greenville Drive",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-11T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026071201",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Rome Emperors",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-12T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071202",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Winston-Salem Dash",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-12T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071203",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-12T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071204",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Greenville Drive",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-12T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071205",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-12T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071206",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-12T18:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071701",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-17T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026071702",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-17T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026071703",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Frederick Keys",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-17T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026071704",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Asheville Tourists",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-17T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026071705",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-17T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071706",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-17T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026071801",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-18T20:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026071802",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-18T22:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071803",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-18T22:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071804",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Frederick Keys",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-18T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026071805",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Asheville Tourists",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-18T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026071806",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-18T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026071901",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Asheville Tourists",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-19T17:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071902",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-19T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071903",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-19T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026071904",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-19T18:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071905",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Frederick Keys",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-19T19:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026071906",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-19T20:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072101",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-21T22:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072102",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-21T22:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072103",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-21T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072104",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Frederick Keys",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-21T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072105",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-21T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072106",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Asheville Tourists",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-21T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072201",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-22T15:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072202",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-22T15:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072203",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-22T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072204",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Frederick Keys",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-22T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072205",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-22T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072206",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Asheville Tourists",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-22T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072301",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-23T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072302",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-23T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072303",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Frederick Keys",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-23T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072304",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-23T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072305",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-23T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072306",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Asheville Tourists",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-23T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072401",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-24T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072402",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-24T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072403",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Frederick Keys",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-24T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072404",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-24T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072405",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-24T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072406",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Asheville Tourists",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-24T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072501",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-25T22:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072502",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-25T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072503",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Frederick Keys",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-25T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072504",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-25T22:45:00Z"
+  },
+  
+  {
+    "id": "sal_2026072505",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-25T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072506",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Asheville Tourists",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-25T23:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072601",
+    "league": "SAL",
+    "team": "Rome Emperors",
+    "opponent": "Frederick Keys",
+    "arena": "AdventHealth Stadium",
+    "city": "Rome, Georgia",
+    "date": "2026-07-26T17:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026072602",
+    "league": "SAL",
+    "team": "Jersey Shore BlueClaws",
+    "opponent": "Brooklyn Cyclones",
+    "arena": "ShoreTown Ballpark",
+    "city": "Lakewood, New Jersey",
+    "date": "2026-07-26T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072603",
+    "league": "SAL",
+    "team": "Wilmington Blue Rocks",
+    "opponent": "Hudson Valley Renegades",
+    "arena": "Daniel S. Frawley Stadium",
+    "city": "Wilmington, Delaware",
+    "date": "2026-07-26T17:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072604",
+    "league": "SAL",
+    "team": "Winston-Salem Dash",
+    "opponent": "Greensboro Grasshoppers",
+    "arena": "Truist Stadium",
+    "city": "Winston-Salem, North Carolina",
+    "date": "2026-07-26T18:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026072605",
+    "league": "SAL",
+    "team": "Bowling Green Hot Rods",
+    "opponent": "Asheville Tourists",
+    "arena": "Bowling Green Ballpark",
+    "city": "Bowling Green, Kentucky",
+    "date": "2026-07-26T18:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072606",
+    "league": "SAL",
+    "team": "Greenville Drive",
+    "opponent": "Hub City Spartanburgers",
+    "arena": "Fluor Field at the West End",
+    "city": "Greenville, South Carolina",
+    "date": "2026-07-26T19:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072801",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-28T22:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026072802",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-28T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072803",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-28T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072804",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Greenville Drive",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-28T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072805",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Rome Emperors",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-28T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072806",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-28T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026072901",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-29T15:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026072902",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-29T16:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026072903",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-29T16:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026072904",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-29T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026072905",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Greenville Drive",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-29T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026072906",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Rome Emperors",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-29T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026073001",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-30T22:30:00Z"
+  },
+  
+  {
+    "id": "sal_2026073002",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-30T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026073003",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Greenville Drive",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-30T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026073004",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Rome Emperors",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-30T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026073005",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-30T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026073006",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-30T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026073101",
+    "league": "SAL",
+    "team": "Asheville Tourists",
+    "opponent": "Greenville Drive",
+    "arena": "McCormick Field",
+    "city": "Asheville, North Carolina",
+    "date": "2026-07-31T22:35:00Z"
+  },
+  
+  {
+    "id": "sal_2026073102",
+    "league": "SAL",
+    "team": "Brooklyn Cyclones",
+    "opponent": "Winston-Salem Dash",
+    "arena": "Maimonides Park",
+    "city": "Brooklyn, New York",
+    "date": "2026-07-31T22:40:00Z"
+  },
+  
+  {
+    "id": "sal_2026073103",
+    "league": "SAL",
+    "team": "Frederick Keys",
+    "opponent": "Wilmington Blue Rocks",
+    "arena": "Nymeo Field At Harry Grove Stadium",
+    "city": "Frederick, Maryland",
+    "date": "2026-07-31T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026073104",
+    "league": "SAL",
+    "team": "Greensboro Grasshoppers",
+    "opponent": "Bowling Green Hot Rods",
+    "arena": "First National Bank Field",
+    "city": "Greensboro, North Carolina",
+    "date": "2026-07-31T23:00:00Z"
+  },
+  
+  {
+    "id": "sal_2026073105",
+    "league": "SAL",
+    "team": "Hudson Valley Renegades",
+    "opponent": "Jersey Shore BlueClaws",
+    "arena": "Heritage Financial Park",
+    "city": "Wappingers Falls, New York",
+    "date": "2026-07-31T23:05:00Z"
+  },
+  
+  {
+    "id": "sal_2026073106",
+    "league": "SAL",
+    "team": "Hub City Spartanburgers",
+    "opponent": "Rome Emperors",
+    "arena": "Fifth Third Park",
+    "city": "Spartanburg, South Carolina",
+    "date": "2026-07-31T23:05:00Z"
+  },
 
 ]
