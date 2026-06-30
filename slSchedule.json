@@ -1438,6 +1438,346 @@
     "arena": "Nelson W. Wolff Municipal Stadium",
     "city": "San Antonio, Texas",
     "date": "2026-07-06T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070701",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "San Antonio Missions",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-08T00:30:00Z"
+  },
+  {
+    "id": "tl_2026070702",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-08T00:35:00Z"
+  },
+  {
+    "id": "tl_2026070703",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Springfield Cardinals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-08T01:00:00Z"
+  },
+  {
+    "id": "tl_2026070704",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "Arkansas Travelers",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-08T01:05:00Z",
+    "giveaway": {
+      "title": "Pointy Boots de Amarillo",
+      "details": "Special ticket includes a Pointy Boots de Amarillo jersey."
+    }
+  },
+  {
+    "id": "tl_2026070705",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-08T01:05:00Z"
+  },
+  {
+    "id": "tl_2026070801",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "San Antonio Missions",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-09T00:30:00Z"
+  },
+  {
+    "id": "tl_2026070802",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-09T00:35:00Z"
+  },
+  {
+    "id": "tl_2026070803",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Springfield Cardinals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-09T01:00:00Z"
+  },
+  {
+    "id": "tl_2026070804",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "Arkansas Travelers",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-09T01:05:00Z"
+  },
+  {
+    "id": "tl_2026070805",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-09T01:05:00Z"
+  },
+  {
+    "id": "tl_2026070901",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-10T00:35:00Z"
+  },
+  {
+    "id": "tl_2026070902",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Springfield Cardinals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-10T01:00:00Z",
+    "giveaway": {
+      "title": "Drillers Bucket Hat",
+      "details": "First 1,000 fans receive a Drillers Bucket Hat."
+    }
+  },
+  {
+    "id": "tl_2026070903",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "San Antonio Missions",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-10T01:00:00Z"
+  },
+  {
+    "id": "tl_2026070904",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "Arkansas Travelers",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-10T01:05:00Z"
+  },
+  {
+    "id": "tl_2026070905",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-10T01:05:00Z",
+    "giveaway": {
+      "title": "K-State Football Jersey",
+      "details": "The first 2,000 fans receive a K-State Football Jersey."
+    }
+  },
+  {
+    "id": "tl_2026071001",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Springfield Cardinals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-11T01:00:00Z"
+  },
+  {
+    "id": "tl_2026071002",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "San Antonio Missions",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-11T01:00:00Z",
+    "giveaway": {
+      "title": "Ugly Christmas Shirt",
+      "details": "Fans receive an Ugly Christmas Shirt."
+    }
+  },
+  {
+    "id": "tl_2026071003",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-11T01:05:00Z",
+    "giveaway": {
+      "title": "Josh Hader Global Series Hooks Jersey",
+      "details": "First 2,000 fans receive a Josh Hader Global Series Hooks jersey."
+    },
+    "fireworks": {
+      "title": "Bud Light Friday Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026071004",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "Arkansas Travelers",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-11T01:05:00Z",
+    "giveaway": {
+      "title": "Christmas in July Jersey",
+      "details": "Special ticket includes a Christmas in July jersey."
+    }
+  },
+  {
+    "id": "tl_2026071005",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-11T01:05:00Z",
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026071101",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-11T23:05:00Z",
+    "giveaway": {
+      "title": "Honkers Basketball Jersey",
+      "details": "The first 2,000 fans receive a Honkers Basketball Jersey."
+    }
+  },
+  {
+    "id": "tl_2026071102",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Springfield Cardinals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-12T01:00:00Z"
+  },
+  {
+    "id": "tl_2026071103",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "San Antonio Missions",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-12T01:00:00Z",
+    "fireworks": {
+      "title": "Saturday Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026071104",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-12T01:05:00Z",
+    "giveaway": {
+      "title": "Hooks Beach Towel",
+      "details": "First 2,000 fans receive a Hooks beach towel."
+    }
+  },
+  {
+    "id": "tl_2026071105",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "Arkansas Travelers",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-12T01:05:00Z",
+    "giveaway": [
+      {
+        "title": "Hawaiian Shirt",
+        "details": "Fans receive a Hawaiian shirt."
+      },
+      {
+        "title": "Moana Jersey",
+        "details": "Special ticket includes a Moana jersey."
+      }
+    ],
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026071201",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Springfield Cardinals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-12T17:05:00Z",
+    "giveaway": {
+      "title": "Drillers Team Poster",
+      "details": "First 500 fans receive a 2026 Drillers Team Poster."
+    }
+  },
+  {
+    "id": "tl_2026071202",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "San Antonio Missions",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-12T18:00:00Z"
+  },
+  {
+    "id": "tl_2026071203",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "Arkansas Travelers",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-12T18:05:00Z",
+    "giveaway": {
+      "title": "RUCKUS Bobblehead",
+      "details": "Fans receive a RUCKUS bobblehead."
+    }
+  },
+  {
+    "id": "tl_2026071204",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-12T18:05:00Z",
+    "giveaway": {
+      "title": "Tubby Youth Jersey",
+      "details": "The first 500 kids (12 and under) receive a Tubby Youth Jersey."
+    }
+  },
+  {
+    "id": "tl_2026071205",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-12T19:05:00Z",
+    "giveaway": {
+      "title": "Hooks Ladies Wristlet Keychain",
+      "details": "First 1,000 ladies receive a Hooks wristlet keychain."
+    }
   }
 
 
