@@ -1140,6 +1140,304 @@
     "fireworks": {
       "title": "Friday Night Fireworks"
     }
+  },
+  {
+    "id": "tl_2026070101",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Midland RockHounds",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-02T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070102",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Arkansas Travelers",
+    "arena": "Hammons Field",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-02T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070103",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-02T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070104",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Tulsa Drillers",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-02T00:05:00Z",
+    "giveaway": {
+      "title": "Turbo Tubs Robe",
+      "details": "The first 2,000 fans receive a Turbo Tubs robe."
+    },
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070105",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-02T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070201",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Midland RockHounds",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-03T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070202",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Arkansas Travelers",
+    "arena": "Hammons Field",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-03T00:05:00Z",
+    "giveaway": {
+      "title": "5,000 FREE Hot Dogs",
+      "details": "Fans receive free hot dogs while supplies last."
+    },
+    "fireworks": {
+      "title": "Freedom Week Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070203",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-03T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070204",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Tulsa Drillers",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-03T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070205",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-03T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070301",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Midland RockHounds",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-04T00:05:00Z",
+    "giveaway": {
+      "title": "Wyatt Langford 'Florida Man' Bobblehead",
+      "details": "Fans receive a Wyatt Langford 'Florida Man' bobblehead."
+    },
+    "fireworks": {
+      "title": "Fireworks Friday"
+    }
+  },
+  {
+    "id": "tl_2026070302",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Arkansas Travelers",
+    "arena": "Hammons Field",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-04T00:05:00Z",
+    "fireworks": {
+      "title": "Freedom Week Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070303",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-04T00:05:00Z",
+    "fireworks": {
+      "title": "Fireworks Friday"
+    }
+  },
+  {
+    "id": "tl_2026070304",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Tulsa Drillers",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-04T00:05:00Z",
+    "giveaway": {
+      "title": "Hot Dog",
+      "details": "The first 1,500 fans receive a Hot Dog."
+    },
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070305",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-04T00:05:00Z",
+    "giveaway": {
+      "title": "America 250th Anniversary Jersey",
+      "details": "First 2,000 fans receive an America 250th Anniversary jersey."
+    }
+  },
+  {
+    "id": "tl_2026070401",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Arkansas Travelers",
+    "arena": "Hammons Field",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-04T23:05:00Z",
+    "giveaway": {
+      "title": "Patriotic Rally Towel",
+      "details": "First 2,000 fans receive a Patriotic Rally Towel."
+    },
+    "fireworks": {
+      "title": "250th Birthday Celebration Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070402",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-04T23:05:00Z",
+    "fireworks": {
+      "title": "Independence Day Celebration Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070403",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Tulsa Drillers",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-05T00:35:00Z",
+    "giveaway": {
+      "title": "WS 4th of July Beverage Belt",
+      "details": "The first 2,000 fans receive a WS 4th of July Beverage Belt."
+    },
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070404",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Midland RockHounds",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-05T01:05:00Z",
+    "giveaway": {
+      "title": "Patriotic Tricorn Hat",
+      "details": "Fans receive a Patriotic Tricorn Hat."
+    },
+    "fireworks": {
+      "title": "Biggest Postgame Firework Show of the Year"
+    }
+  },
+  {
+    "id": "tl_2026070405",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-05T01:05:00Z"
+  },
+  {
+    "id": "tl_2026070501",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-05T19:05:00Z"
+  },
+  {
+    "id": "tl_2026070502",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Midland RockHounds",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-06T00:05:00Z",
+    "giveaway": {
+      "title": "T-Shirt",
+      "details": "Fans receive a T-shirt."
+    },
+    "fireworks": {
+      "title": "Summer Sunday Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026070503",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Arkansas Travelers",
+    "arena": "Hammons Field",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-06T00:05:00Z"
+  },
+  {
+    "id": "tl_2026070504",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Tulsa Drillers",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-06T00:05:00Z",
+    "giveaway": {
+      "title": "Tubby Gnome",
+      "details": "The first 1,500 fans receive a Tubby Gnome."
+    }
+  },
+  {
+    "id": "tl_2026070505",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-06T00:05:00Z"
   }
 
 
