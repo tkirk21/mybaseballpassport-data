@@ -2266,6 +2266,219 @@
     "arena": "Nelson W. Wolff Municipal Stadium",
     "city": "San Antonio, Texas",
     "date": "2026-07-27T00:05:00Z"
+  },
+  {
+    "id": "tl_2026072801",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "Arkansas Travelers",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-29T00:30:00Z"
+  },
+  {
+    "id": "tl_2026072802",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-29T01:00:00Z"
+  },
+  {
+    "id": "tl_2026072803",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-29T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072804",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Wichita Wind Surge",
+    "arena": "Route 66 Stadium",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-29T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072805",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "San Antonio Missions",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-29T01:05:00Z",
+    "giveaway": {
+      "title": "Pointy Boots de Amarillo",
+      "details": "Special ticket includes a Pointy Boots de Amarillo jersey."
+    }
+  },
+  {
+    "id": "tl_2026072901",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "Arkansas Travelers",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-30T00:30:00Z"
+  },
+  {
+    "id": "tl_2026072902",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-30T01:00:00Z"
+  },
+  {
+    "id": "tl_2026072903",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-30T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072904",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Wichita Wind Surge",
+    "arena": "Route 66 Stadium",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-30T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072905",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "San Antonio Missions",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-30T01:05:00Z"
+  },
+  {
+    "id": "tl_2026073001",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "Arkansas Travelers",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-07-31T01:00:00Z"
+  },
+  {
+    "id": "tl_2026073002",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-07-31T01:00:00Z",
+    "giveaway": {
+      "title": "Drillers Margaritaville Jersey",
+      "details": "First 1,000 fans receive a Drillers Margaritaville Jersey."
+    }
+  },
+  {
+    "id": "tl_2026073003",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-07-31T01:05:00Z"
+  },
+  {
+    "id": "tl_2026073004",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Wichita Wind Surge",
+    "arena": "Route 66 Stadium",
+    "city": "Springfield, Missouri",
+    "date": "2026-07-31T01:05:00Z",
+    "giveaway": {
+      "title": "1 MILLION Calories of FREE Bratwursts",
+      "details": "Fans receive free bratwursts while supplies last."
+    }
+  },
+  {
+    "id": "tl_2026073005",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "San Antonio Missions",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-07-31T01:05:00Z",
+    "giveaway": {
+      "title": "Amarillo Calf Fries Beer Stein",
+      "details": "Fans receive an Amarillo Calf Fries beer stein."
+    }
+  },
+  {
+    "id": "tl_2026073101",
+    "league": "TL",
+    "team": "Midland RockHounds",
+    "opponent": "Arkansas Travelers",
+    "arena": "Momentum Bank Ballpark",
+    "city": "Midland, Texas",
+    "date": "2026-08-01T01:00:00Z",
+    "giveaway": {
+      "title": "Throwback Adult Jersey",
+      "details": "Fans receive a Throwback Adult Jersey presented by Texas Ford Dealers and Rogers Ford."
+    }
+  },
+  {
+    "id": "tl_2026073102",
+    "league": "TL",
+    "team": "Tulsa Drillers",
+    "opponent": "Northwest Arkansas Naturals",
+    "arena": "ONEOK Field",
+    "city": "Tulsa, Oklahoma",
+    "date": "2026-08-01T01:00:00Z",
+    "fireworks": {
+      "title": "Friday Night Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026073103",
+    "league": "TL",
+    "team": "Frisco RoughRiders",
+    "opponent": "Corpus Christi Hooks",
+    "arena": "Riders Field",
+    "city": "Frisco, Texas",
+    "date": "2026-08-01T01:05:00Z",
+    "fireworks": {
+      "title": "Postgame Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026073104",
+    "league": "TL",
+    "team": "Springfield Cardinals",
+    "opponent": "Wichita Wind Surge",
+    "arena": "Route 66 Stadium",
+    "city": "Springfield, Missouri",
+    "date": "2026-08-01T01:05:00Z",
+    "fireworks": {
+      "title": "Modern Rock Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026073105",
+    "league": "TL",
+    "team": "Amarillo Sod Poodles",
+    "opponent": "San Antonio Missions",
+    "arena": "HODGETOWN",
+    "city": "Amarillo, Texas",
+    "date": "2026-08-01T01:05:00Z",
+    "giveaway": {
+      "title": "USA Jersey",
+      "details": "Special ticket includes a USA jersey."
+    }
   }
 
 
