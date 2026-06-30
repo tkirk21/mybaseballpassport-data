@@ -2041,6 +2041,231 @@
     "arena": "Equity Bank Park",
     "city": "Wichita, Kansas",
     "date": "2026-07-23T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072301",
+    "league": "TL",
+    "team": "Arkansas Travelers",
+    "opponent": "Tulsa Drillers",
+    "arena": "Dickey-Stephens Park",
+    "city": "North Little Rock, Arkansas",
+    "date": "2026-07-24T00:35:00Z",
+    "giveaway": {
+      "title": "Otey Bobblehead",
+      "details": "First 1,000 fans receive an Otey bobblehead."
+    }
+  },
+  {
+    "id": "tl_2026072302",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-24T00:35:00Z"
+  },
+  {
+    "id": "tl_2026072303",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-24T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072304",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Springfield Cardinals",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-24T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072305",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Midland RockHounds",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-24T01:05:00Z"
+  },
+  {
+    "id": "tl_2026072401",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-25T01:05:00Z",
+    "giveaway": {
+      "title": "Short Sleeve Hooded Shirt",
+      "details": "First 1,500 fans receive a Flying Chanclas short sleeve hooded shirt."
+    }
+  },
+  {
+    "id": "tl_2026072402",
+    "league": "TL",
+    "team": "Arkansas Travelers",
+    "opponent": "Tulsa Drillers",
+    "arena": "Dickey-Stephens Park",
+    "city": "North Little Rock, Arkansas",
+    "date": "2026-07-25T01:05:00Z",
+    "drone_show": {
+      "title": "Drone Show"
+    }
+  },
+  {
+    "id": "tl_2026072403",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Springfield Cardinals",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-25T01:05:00Z",
+    "fireworks": {
+      "title": "Fireworks Friday"
+    }
+  },
+  {
+    "id": "tl_2026072404",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Midland RockHounds",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-25T01:05:00Z",
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026072405",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-25T01:05:00Z",
+    "giveaway": {
+      "title": "Sammy the Seagull Building Block Set",
+      "details": "First 500 kids ages 12 and under receive a Sammy the Seagull Building Block Set."
+    },
+    "fireworks": {
+      "title": "Bud Light Friday Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026072501",
+    "league": "TL",
+    "team": "Arkansas Travelers",
+    "opponent": "Tulsa Drillers",
+    "arena": "Dickey-Stephens Park",
+    "city": "North Little Rock, Arkansas",
+    "date": "2026-07-25T23:05:00Z",
+    "drone_show": {
+      "title": "Drone Show"
+    }
+  },
+  {
+    "id": "tl_2026072502",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Springfield Cardinals",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-25T23:05:00Z",
+    "giveaway": {
+      "title": "Harry Potter House Cap",
+      "details": "Fans receive a Harry Potter House Cap."
+    }
+  },
+  {
+    "id": "tl_2026072503",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Midland RockHounds",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-25T23:05:00Z",
+    "giveaway": {
+      "title": "Summer Santa BobbleHIP",
+      "details": "The first 2,000 fans receive a Summer Santa BobbleHIP."
+    },
+    "fireworks": {
+      "title": "Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026072504",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-26T01:05:00Z",
+    "fireworks": {
+      "title": "Christmas in July Firework Show"
+    }
+  },
+  {
+    "id": "tl_2026072505",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-26T01:05:00Z",
+    "giveaway": {
+      "title": "Yordan Alvarez Global Series Hooks Jersey",
+      "details": "First 2,000 fans receive a Yordan Alvarez Global Series Hooks jersey."
+    }
+  },
+  {
+    "id": "tl_2026072601",
+    "league": "TL",
+    "team": "Wichita Wind Surge",
+    "opponent": "Midland RockHounds",
+    "arena": "Equity Bank Park",
+    "city": "Wichita, Kansas",
+    "date": "2026-07-26T18:05:00Z"
+  },
+  {
+    "id": "tl_2026072602",
+    "league": "TL",
+    "team": "Arkansas Travelers",
+    "opponent": "Tulsa Drillers",
+    "arena": "Dickey-Stephens Park",
+    "city": "North Little Rock, Arkansas",
+    "date": "2026-07-26T18:35:00Z"
+  },
+  {
+    "id": "tl_2026072603",
+    "league": "TL",
+    "team": "Northwest Arkansas Naturals",
+    "opponent": "Springfield Cardinals",
+    "arena": "Arvest Ballpark",
+    "city": "Springdale, Arkansas",
+    "date": "2026-07-26T19:05:00Z"
+  },
+  {
+    "id": "tl_2026072604",
+    "league": "TL",
+    "team": "Corpus Christi Hooks",
+    "opponent": "Amarillo Sod Poodles",
+    "arena": "Whataburger Field",
+    "city": "Corpus Christi, Texas",
+    "date": "2026-07-26T22:05:00Z"
+  },
+  {
+    "id": "tl_2026072605",
+    "league": "TL",
+    "team": "San Antonio Missions",
+    "opponent": "Frisco RoughRiders",
+    "arena": "Nelson W. Wolff Municipal Stadium",
+    "city": "San Antonio, Texas",
+    "date": "2026-07-27T00:05:00Z"
   }
 
 
