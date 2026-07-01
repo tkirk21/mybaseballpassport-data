@@ -5242,7 +5242,7 @@
 	"endDate": null
   },
   {
-	"teamName": "Hiroshima Toyo Carp",
+	"teamName": "Hiroshima Carp",
 	"teamCode": "HIR",
 	"arena": "Mazda Zoom-Zoom Stadium",
 	"arenaId": "mazda_zoom_zoom_stadium_hiroshima",
@@ -5260,8 +5260,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Tokyo Yakult Swallows",
-	"teamCode": "TOK",
+	"teamName": "Yakult Swallows",
+	"teamCode": "YAK",
 	"arena": "Meiji Jingu Stadium",
 	"arenaId": "meiji_jingu_stadium_shinjuka",
 	"city": "Shinjuku City, Tokyo",
@@ -5278,7 +5278,7 @@
 	"endDate": null
   },
   {
-	"teamName": "Yokohama DeNA BayStars",
+	"teamName": "Yokohama BayStars",
 	"teamCode": "YOK",
 	"arena": "Yokohama Stadium",
 	"arenaId": "yokohama_stadium_yokohama",
@@ -5350,8 +5350,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Hokkaido Nippon-Ham Fighters",
-	"teamCode": "HOK",
+	"teamName": "Nippon Ham Fighters",
+	"teamCode": "NIP",
 	"arena": "Es Con Field",
 	"arenaId": "es_con_field_kitahiroshima",
 	"city": "Kitahiroshima, Hokkaido",
@@ -5386,8 +5386,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Saitama Seibu Lions",
-	"teamCode": "SAI",
+	"teamName": "Seibu Lions",
+	"teamCode": "SEI",
 	"arena": "Belluna Dome",
 	"arenaId": "belluna_dome_tokorozawa",
 	"city": "Tokorozawa, Saitama",
@@ -5406,8 +5406,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Tohoku Rakuten Golden Eagles",
-	"teamCode": "TOH",
+	"teamName": "Rakuten Gold. Eagles",
+	"teamCode": "RAK",
 	"arena": "Rakuten Mobile Park",
 	"arenaId": "rakuten_mobile_park_sendai",
 	"city": "Sendai, Miyagi",
