@@ -5708,8 +5708,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Acereros de Monclova",
-	"teamCode": "ACE",
+	"teamName": "Monclova",
+	"teamCode": "MON",
 	"arena": "Estadio Kickapoo Lucky Eagle",
 	"arenaId": "estadio_kickapoo_lucky_eagle_coahuila",
 	"city": "Monclova, Coahuila",
@@ -5726,8 +5726,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Algodoneros de Unión Laguna",
-	"teamCode": "ALG",
+	"teamName": "Laguna",
+	"teamCode": "LAG",
 	"arena": "Estadio de la Revolución",
 	"arenaId": "estadio_de_la_revolución_torreón",
 	"city": "Torreón, Coahuila",
@@ -5744,8 +5744,8 @@
 	"endDate": null
   },
   {
-    "teamName": "Bravos de León",
-    "teamCode": "BRA",
+    "teamName": "Bravos de Leon",
+    "teamCode": "BDL",
     "arena": "Estadio Domingo Santana TV4",
     "arenaId": "estadio_domingo_santana_tv4_leon",
     "city": "León, Guanajuato",
@@ -5779,8 +5779,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Charros de Jalisco",
-	"teamCode": "CHA",
+	"teamName": "Jalisco",
+	"teamCode": "JAL",
 	"arena": "Estadio Panamericano",
 	"arenaId": "estadio_panamericano_zapopan",
 	"city": "Zapopan, Jalisco",
@@ -5797,8 +5797,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Conspiradores de Querétaro",
-	"teamCode": "CON",
+	"teamName": "Queretaro",
+	"teamCode": "QUE",
 	"arena": "Estadio Finsus",
 	"arenaId": "estadio_finsus_huimilpan",
 	"city": "Huimilpan, Querétaro",
@@ -5815,8 +5815,8 @@
 	"endDate": null
   },
   {
-    "teamName": "Diablos Rojos del México",
-    "teamCode": "DIA",
+    "teamName": "Diablos Rojos",
+    "teamCode": "DR",
     "arena": "Estadio Alfredo Harp Helú",
     "arenaId": "estadio_alfredo_harp_helú_iztacalco",
     "city": "Iztacalco, Mexico City",
@@ -5832,8 +5832,8 @@
     "endDate": null
   },
   {
-	"teamName": "Dorados de Chihuahua",
-	"teamCode": "DOR",
+	"teamName": "Chihuahua",
+	"teamCode": "CHI",
 	"arena": "Estadio Monumental Chihuahua",
 	"arenaId": "estadio_monumental_chihuahua_chihuahua_city",
 	"city": "Chihuahua City, Chihuahua",
@@ -5850,8 +5850,8 @@
 	"endDate": null
   },
   {
-	"teamName": "El Águila de Veracruz",
-	"teamCode": "ELA",
+	"teamName": "Veracruz",
+	"teamCode": "VER",
 	"arena": "Estadio Universitario Beto Ávila",
 	"arenaId": "estadio_universitario_beto_avila_veracruz_city",
 	"city": "Veracruz City, Veracruz",
@@ -5867,8 +5867,8 @@
 	"endDate": null
   },	
   {
-	"teamName": "Guerreros de Oaxaca",
-	"teamCode": "GUE",
+	"teamName": "Oaxaca",
+	"teamCode": "OAX",
 	"arena": "Estadio Yu'va",
 	"arenaId": "estadio_yuva_oaxaca_city",
 	"city": "Oaxaca City, Oaxaca",
@@ -5884,8 +5884,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Leones de Yucatán",
-	"teamCode": "LEO",
+	"teamName": "Yucatan",
+	"teamCode": "YUC",
 	"arena": "Parque Kukulcán Alamo",
 	"arenaId": "parque_kukulcan_alamo_merida",
 	"city": "Mérida, Yucatán",
@@ -5920,8 +5920,8 @@
 	"endDate": null
   },	
   {
-	"teamName": "Olmecas de Tabasco",
-	"teamCode": "OLM",
+	"teamName": "Tabasco",
+	"teamCode": "TAB",
 	"arena": "Estadio Centenario Orsan",
 	"arenaId": "estadio_centenario_orsan_villahermosa",
 	"city": "Villahermosa, Tabasco",
@@ -5938,8 +5938,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Pericos de Puebla",
-	"teamCode": "PER",
+	"teamName": "Puebla",
+	"teamCode": "PUE",
 	"arena": "Estadio Hermanos Serdán",
 	"arenaId": "estadio_hermanos_serdán_puebla_city",
 	"city": "Puebla City, Puebla",
@@ -5955,8 +5955,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Piratas de Campeche",
-	"teamCode": "PIR",
+	"teamName": "Campeche",
+	"teamCode": "CAM",
 	"arena": "Estadio Cruz Azul Nelson Barrera",
 	"arenaId": "estadio_cruz_azul_nelson_barrera_campeche_city",
 	"city": "Campeche City, Campeche",
@@ -5973,8 +5973,8 @@
 	"endDate": null
   },
   {
-	"teamName": "Rieleros de Aguascalientes",
-	"teamCode": "RIE",
+	"teamName": "Aguascalientes",
+	"teamCode": "AGU",
 	"arena": "Parque Alberto Romo Chávez",
 	"arenaId": "parque_alberto_romo_chávez",
 	"city": "Aguascalientes City, Aguascalientes",
@@ -5991,8 +5991,8 @@
 	"endDate": null
   },	
   {
-  "teamName": "Saraperos de Saltillo",
-  "teamCode": "SAR",
+  "teamName": "Saltillo",
+  "teamCode": "SAL",
   "arena": "Estadio Francisco I. Madero",
   "arenaId": "estadio_francisco_i_madero_saltillo",
   "city": "Saltillo, Coahuila",
@@ -6010,8 +6010,8 @@
   "endDate": null
 },
 {
-  "teamName": "Sultanes de Monterrey",
-  "teamCode": "SUL",
+  "teamName": "Monterrey",
+  "teamCode": "MON",
   "arena": "Walmart Park",
   "arenaId": "walmart_park_monterrey",
   "city": "Monterrey, Nuevo León",
@@ -6028,8 +6028,8 @@
   "endDate": null
 },
 {
-  "teamName": "Tecolotes de los Dos Laredos",
-  "teamCode": "TEC",
+  "teamName": "Dos Laredos",
+  "teamCode": "DL",
   "arena": "Uni-Trade Stadium",
   "arenaId": "uni_trade_stadium_laredo",
   "city": "Laredo, Texas",
@@ -6047,8 +6047,8 @@
   "endDate": null
 },
 {
-  "teamName": "Tigres de Quintana Roo",
-  "teamCode": "TIG",
+  "teamName": "Quintana Roo",
+  "teamCode": "QR",
   "arena": "Estadio Sherwin-Williams Beto Ávila",
   "arenaId": "estadio_sherwin_williams_beto_avila_cancun",
   "city": "Cancún, Quintana Roo",
