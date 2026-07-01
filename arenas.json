@@ -5151,6 +5151,24 @@
 	"endDate": null
   },
   {
+	"teamName": "Odgen Raptors",
+	"teamCode": "ODG",
+	"arena": "Lindquist Field",
+	"arenaId": "lindquist_field_ogden",
+	"city": "Ogden, Utah",
+	"address": "2330 Lincoln Ave, Ogden, UT 84401",
+	"website": "ogden-raptors.com",
+	"latitude": 41.22395180606864, 
+	"longitude": -111.97527646811103,
+	"colorCode": "#005A9C",
+	"colorCode2": "#00A5B5",
+	"colorCode3": "#8D9093",
+	"league": "PL",
+	"timezone": "America/Los_Angeles",
+	"startDate": "1994-02-01",
+	"endDate": null
+  },	
+  {
 	"teamName": "RedPocket Mobiles",
 	"teamCode": "RPM",
 	"arena": null,
