@@ -1,155 +1,552 @@
 [
   {
-    "id": "cpbl_2026062101",
+    "id": "cpbl_2026070101",
     "league": "CPBL",
-    "team": "TSG Hawks",
-    "opponent": "Wei Chuan Dragons",
-    "arena": "Chengcing Lake Baseball Stadium",
-    "city": "Kaohsiung City, Taiwan",
-    "date": "2026-06-21T08:05:00Z"
-  },
-  {
-    "id": "cpbl_2026062102",
-    "league": "CPBL",
-    "team": "Uni-President 7-Eleven Lions",
-    "opponent": "CTBC Brothers",
-    "arena": "ASPAC Main Stadium",
-    "city": "Tainan City, Taiwan",
-    "date": "2026-06-21T08:05:00Z"
-  },
-  {
-    "id": "cpbl_2026062103",
-    "league": "CPBL",
-    "team": "Rakuten Monkeys",
-    "opponent": "Fubon Guardians",
-    "arena": "Rakuten Taoyuan Baseball Stadium",
-    "city": "Taoyuan City, Taiwan",
-    "date": "2026-06-21T09:05:00Z"
-  },
-  {
-    "id": "cpbl_2026062301",
-    "league": "CPBL",
-    "team": "CTBC Brothers",
-    "opponent": "Fubon Guardians",
-    "arena": "Taichung Intercontinental Baseball Stadium",
-    "city": "Taichung City, Taiwan",
-    "date": "2026-06-23T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026062302",
-    "league": "CPBL",
-    "team": "Rakuten Monkeys",
-    "opponent": "Uni-President 7-Eleven Lions",
-    "arena": "Rakuten Taoyuan Baseball Stadium",
-    "city": "Taoyuan City, Taiwan",
-    "date": "2026-06-23T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026062303",
-    "league": "CPBL",
-    "team": "TSG Hawks",
-    "opponent": "Wei Chuan Dragons",
-    "arena": "Chengcing Lake Baseball Stadium",
-    "city": "Kaohsiung City, Taiwan",
-    "date": "2026-06-23T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026062401",
-    "league": "CPBL",
-    "team": "Rakuten Monkeys",
-    "opponent": "Wei Chuan Dragons",
-    "arena": "Rakuten Taoyuan Baseball Stadium",
-    "city": "Taoyuan City, Taiwan",
-    "date": "2026-06-24T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026062402",
-    "league": "CPBL",
-    "team": "TSG Hawks",
-    "opponent": "Fubon Guardians",
-    "arena": "Chengcing Lake Baseball Stadium",
-    "city": "Kaohsiung City, Taiwan",
-    "date": "2026-06-24T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026062501",
-    "league": "CPBL",
-    "team": "CTBC Brothers",
+    "team": "Chinatrust Brothers",
     "opponent": "Rakuten Monkeys",
     "arena": "Taichung Intercontinental Baseball Stadium",
     "city": "Taichung City, Taiwan",
-    "date": "2026-06-25T10:35:00Z"
+    "date": "2026-07-01T10:35:00Z"
   },
+  
   {
-    "id": "cpbl_2026062502",
+    "id": "cpbl_2026070102",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Rakuten Monkeys",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-01T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070303",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Uni Lions",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-03T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070304",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "Fubon Guardians",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-03T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070305",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Uni Lions",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-03T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070406",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Rakuten Monkeys",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-04T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070407",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "Fubon Guardians",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-04T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070408",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Uni Lions",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-04T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070509",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "Fubon Guardians",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-05T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070510",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Rakuten Monkeys",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-05T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070511",
     "league": "CPBL",
     "team": "Fubon Guardians",
-    "opponent": "Wei Chuan Dragons",
+    "opponent": "Rakuten Monkeys",
     "arena": "Xinzhuang Baseball Stadium",
     "city": "New Taipei City, Taiwan",
-    "date": "2026-06-25T10:35:00Z"
+    "date": "2026-07-05T10:35:00Z"
   },
+  
   {
-    "id": "cpbl_2026062601",
+    "id": "cpbl_2026070712",
     "league": "CPBL",
-    "team": "CTBC Brothers",
+    "team": "Uni Lions",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-07T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070713",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "Rakuten Monkeys",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-07T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070814",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-08T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070815",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "TSG Hawks",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-08T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070816",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "TSG Hawks",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-08T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026070917",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-09T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071018",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "TSG Hawks",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-10T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071019",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-10T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071020",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-10T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071121",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-11T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071122",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "TSG Hawks",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-11T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071123",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-11T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071224",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-12T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071225",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "TSG Hawks",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-12T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071226",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-12T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071427",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Fubon Guardians",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-14T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071428",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-14T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071529",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Uni Lions",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-15T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071530",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Fubon Guardians",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-15T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071531",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Uni Lions",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-15T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026071632",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
     "opponent": "TSG Hawks",
     "arena": "Taichung Intercontinental Baseball Stadium",
     "city": "Taichung City, Taiwan",
-    "date": "2026-06-26T10:35:00Z"
+    "date": "2026-07-16T10:35:00Z"
   },
+  
   {
-    "id": "cpbl_2026062602",
-    "league": "CPBL",
-    "team": "Fubon Guardians",
-    "opponent": "Rakuten Monkeys",
-    "arena": "Xinzhuang Baseball Stadium",
-    "city": "New Taipei City, Taiwan",
-    "date": "2026-06-26T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026062701",
-    "league": "CPBL",
-    "team": "CTBC Brothers",
-    "opponent": "Uni-President 7-Eleven Lions",
-    "arena": "Taichung Intercontinental Baseball Stadium",
-    "city": "Taichung City, Taiwan",
-    "date": "2026-06-27T09:05:00Z"
-  },
-  {
-    "id": "cpbl_2026062702",
-    "league": "CPBL",
-    "team": "Fubon Guardians",
-    "opponent": "Rakuten Monkeys",
-    "arena": "Xinzhuang Baseball Stadium",
-    "city": "New Taipei City, Taiwan",
-    "date": "2026-06-27T09:05:00Z"
-  },
-  {
-    "id": "cpbl_2026062801",
-    "league": "CPBL",
-    "team": "CTBC Brothers",
-    "opponent": "Rakuten Monkeys",
-    "arena": "Taichung Intercontinental Baseball Stadium",
-    "city": "Taichung City, Taiwan",
-    "date": "2026-06-28T09:05:00Z"
-  },
-  {
-    "id": "cpbl_2026063001",
-    "league": "CPBL",
-    "team": "Fubon Guardians",
-    "opponent": "Uni-President 7-Eleven Lions",
-    "arena": "Xinzhuang Baseball Stadium",
-    "city": "New Taipei City, Taiwan",
-    "date": "2026-06-30T10:35:00Z"
-  },
-  {
-    "id": "cpbl_2026063002",
+    "id": "cpbl_2026072133",
     "league": "CPBL",
     "team": "Wei Chuan Dragons",
-    "opponent": "CTBC Brothers",
+    "opponent": "Rakuten Monkeys",
     "arena": "Tianmu Baseball Stadium",
     "city": "Taipei City, Taiwan",
-    "date": "2026-06-30T10:35:00Z"
+    "date": "2026-07-21T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072134",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "TSG Hawks",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-21T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072235",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Fubon Guardians",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-22T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072236",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "Rakuten Monkeys",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-22T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072237",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Fubon Guardians",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-22T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072338",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Uni Lions",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-23T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072439",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Fubon Guardians",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-24T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072440",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-24T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072441",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-24T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072542",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Uni Lions",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-25T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072543",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Fubon Guardians",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-25T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072544",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Fubon Guardians",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-25T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072645",
+    "league": "CPBL",
+    "team": "TSG Hawks",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-26T08:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072646",
+    "league": "CPBL",
+    "team": "Chinatrust Brothers",
+    "opponent": "Uni Lions",
+    "arena": "Taichung Intercontinental Baseball Stadium",
+    "city": "Taichung City, Taiwan",
+    "date": "2026-07-26T09:05:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072647",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-26T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072848",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "TSG Hawks",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-28T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072849",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "Wei Chuan Dragons",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-28T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072950",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-29T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072951",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "TSG Hawks",
+    "arena": "Chengcing Lake Baseball Stadium",
+    "city": "Kaohsiung City, Taiwan",
+    "date": "2026-07-29T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026072952",
+    "league": "CPBL",
+    "team": "Rakuten Monkeys",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-29T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026073053",
+    "league": "CPBL",
+    "team": "Fubon Guardians",
+    "opponent": "TSG Hawks",
+    "arena": "Xinzhuang Baseball Stadium",
+    "city": "New Taipei City, Taiwan",
+    "date": "2026-07-30T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026073154",
+    "league": "CPBL",
+    "team": "Uni Lions",
+    "opponent": "Rakuten Monkeys",
+    "arena": "Rakuten Taoyuan Baseball Stadium",
+    "city": "Taoyuan City, Taiwan",
+    "date": "2026-07-31T10:35:00Z"
+  },
+  
+  {
+    "id": "cpbl_2026073155",
+    "league": "CPBL",
+    "team": "Wei Chuan Dragons",
+    "opponent": "Chinatrust Brothers",
+    "arena": "Tianmu Baseball Stadium",
+    "city": "Taipei City, Taiwan",
+    "date": "2026-07-31T10:35:00Z"
   }
+  
 ]
