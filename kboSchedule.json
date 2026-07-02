@@ -1,365 +1,5 @@
 [
   {
-    "id": "kbol_2026062101",
-    "league": "KBOL",
-    "team": "Kiwoom Heroes",
-    "opponent": "Lotte Giants",
-    "arena": "Gocheok Sky Dome",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-21T05:00:00Z"
-  },
-  {
-    "id": "kbol_2026062102",
-    "league": "KBOL",
-    "team": "KT Wiz",
-    "opponent": "Kia Tigers",
-    "arena": "Suwon kt wiz Park",
-    "city": "Gyeonggi-do, South Korea",
-    "date": "2026-06-21T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062103",
-    "league": "KBOL",
-    "team": "LG Twins",
-    "opponent": "Doosan Bears",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-21T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062104",
-    "league": "KBOL",
-    "team": "NC Dinos",
-    "opponent": "SSG Landers",
-    "arena": "Changwon NC Park",
-    "city": "Changwon, South Korea",
-    "date": "2026-06-21T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062105",
-    "league": "KBOL",
-    "team": "Hanwha Eagles",
-    "opponent": "Samsung Lions",
-    "arena": "Daejeon Hanwha Life Ballpark",
-    "city": "Daejeon, South Korea",
-    "date": "2026-06-21T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062301",
-    "league": "KBOL",
-    "team": "Kiwoom Heroes",
-    "opponent": "Kia Tigers",
-    "arena": "Gocheok Sky Dome",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-23T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062302",
-    "league": "KBOL",
-    "team": "Lotte Giants",
-    "opponent": "NC Dinos",
-    "arena": "Sajik Baseball Stadium",
-    "city": "Busan, South Korea",
-    "date": "2026-06-23T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062303",
-    "league": "KBOL",
-    "team": "Hanwha Eagles",
-    "opponent": "Doosan Bears",
-    "arena": "Daejeon Hanwha Life Ballpark",
-    "city": "Daejeon, South Korea",
-    "date": "2026-06-23T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062304",
-    "league": "KBOL",
-    "team": "KT Wiz",
-    "opponent": "SSG Landers",
-    "arena": "Suwon kt wiz Park",
-    "city": "Gyeonggi-do, South Korea",
-    "date": "2026-06-23T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062305",
-    "league": "KBOL",
-    "team": "LG Twins",
-    "opponent": "Samsung Lions",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-23T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062401",
-    "league": "KBOL",
-    "team": "Kiwoom Heroes",
-    "opponent": "Kia Tigers",
-    "arena": "Gocheok Sky Dome",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-24T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062402",
-    "league": "KBOL",
-    "team": "Lotte Giants",
-    "opponent": "NC Dinos",
-    "arena": "Sajik Baseball Stadium",
-    "city": "Busan, South Korea",
-    "date": "2026-06-24T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062403",
-    "league": "KBOL",
-    "team": "Hanwha Eagles",
-    "opponent": "Doosan Bears",
-    "arena": "Daejeon Hanwha Life Ballpark",
-    "city": "Daejeon, South Korea",
-    "date": "2026-06-24T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062404",
-    "league": "KBOL",
-    "team": "KT Wiz",
-    "opponent": "SSG Landers",
-    "arena": "Suwon kt wiz Park",
-    "city": "Gyeonggi-do, South Korea",
-    "date": "2026-06-24T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062405",
-    "league": "KBOL",
-    "team": "LG Twins",
-    "opponent": "Samsung Lions",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-24T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062501",
-    "league": "KBOL",
-    "team": "Kiwoom Heroes",
-    "opponent": "Kia Tigers",
-    "arena": "Gocheok Sky Dome",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-25T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062502",
-    "league": "KBOL",
-    "team": "Lotte Giants",
-    "opponent": "NC Dinos",
-    "arena": "Sajik Baseball Stadium",
-    "city": "Busan, South Korea",
-    "date": "2026-06-25T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062503",
-    "league": "KBOL",
-    "team": "Hanwha Eagles",
-    "opponent": "Doosan Bears",
-    "arena": "Daejeon Hanwha Life Ballpark",
-    "city": "Daejeon, South Korea",
-    "date": "2026-06-25T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062504",
-    "league": "KBOL",
-    "team": "KT Wiz",
-    "opponent": "SSG Landers",
-    "arena": "Suwon kt wiz Park",
-    "city": "Gyeonggi-do, South Korea",
-    "date": "2026-06-25T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062505",
-    "league": "KBOL",
-    "team": "LG Twins",
-    "opponent": "Samsung Lions",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-25T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062601",
-    "league": "KBOL",
-    "team": "SSG Landers",
-    "opponent": "Hanwha Eagles",
-    "arena": "Incheon SSG Landers Field",
-    "city": "Incheon, South Korea",
-    "date": "2026-06-26T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062602",
-    "league": "KBOL",
-    "team": "Doosan Bears",
-    "opponent": "Kia Tigers",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-26T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062603",
-    "league": "KBOL",
-    "team": "Samsung Lions",
-    "opponent": "KT Wiz",
-    "arena": "Daegu Samsung Lions Park",
-    "city": "Daegu, South Korea",
-    "date": "2026-06-26T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062604",
-    "league": "KBOL",
-    "team": "Lotte Giants",
-    "opponent": "LG Twins",
-    "arena": "Sajik Baseball Stadium",
-    "city": "Busan, South Korea",
-    "date": "2026-06-26T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062605",
-    "league": "KBOL",
-    "team": "NC Dinos",
-    "opponent": "Kiwoom Heroes",
-    "arena": "Changwon NC Park",
-    "city": "Changwon, South Korea",
-    "date": "2026-06-26T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026062701",
-    "league": "KBOL",
-    "team": "SSG Landers",
-    "opponent": "Hanwha Eagles",
-    "arena": "Incheon SSG Landers Field",
-    "city": "Incheon, South Korea",
-    "date": "2026-06-27T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062702",
-    "league": "KBOL",
-    "team": "Doosan Bears",
-    "opponent": "Kia Tigers",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-27T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062703",
-    "league": "KBOL",
-    "team": "Samsung Lions",
-    "opponent": "KT Wiz",
-    "arena": "Daegu Samsung Lions Park",
-    "city": "Daegu, South Korea",
-    "date": "2026-06-27T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062704",
-    "league": "KBOL",
-    "team": "Lotte Giants",
-    "opponent": "LG Twins",
-    "arena": "Sajik Baseball Stadium",
-    "city": "Busan, South Korea",
-    "date": "2026-06-27T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062705",
-    "league": "KBOL",
-    "team": "NC Dinos",
-    "opponent": "Kiwoom Heroes",
-    "arena": "Changwon NC Park",
-    "city": "Changwon, South Korea",
-    "date": "2026-06-27T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062801",
-    "league": "KBOL",
-    "team": "SSG Landers",
-    "opponent": "Hanwha Eagles",
-    "arena": "Incheon SSG Landers Field",
-    "city": "Incheon, South Korea",
-    "date": "2026-06-28T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062802",
-    "league": "KBOL",
-    "team": "Doosan Bears",
-    "opponent": "Kia Tigers",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-28T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062803",
-    "league": "KBOL",
-    "team": "Samsung Lions",
-    "opponent": "KT Wiz",
-    "arena": "Daegu Samsung Lions Park",
-    "city": "Daegu, South Korea",
-    "date": "2026-06-28T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062804",
-    "league": "KBOL",
-    "team": "Lotte Giants",
-    "opponent": "LG Twins",
-    "arena": "Sajik Baseball Stadium",
-    "city": "Busan, South Korea",
-    "date": "2026-06-28T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026062805",
-    "league": "KBOL",
-    "team": "NC Dinos",
-    "opponent": "Kiwoom Heroes",
-    "arena": "Changwon NC Park",
-    "city": "Changwon, South Korea",
-    "date": "2026-06-28T08:00:00Z"
-  },
-  {
-    "id": "kbol_2026063001",
-    "league": "KBOL",
-    "team": "Hanwha Eagles",
-    "opponent": "KT Wiz",
-    "arena": "Daejeon Hanwha Life Ballpark",
-    "city": "Daejeon, South Korea",
-    "date": "2026-06-30T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026063002",
-    "league": "KBOL",
-    "team": "Kiwoom Heroes",
-    "opponent": "LG Twins",
-    "arena": "Gocheok Sky Dome",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-30T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026063003",
-    "league": "KBOL",
-    "team": "Doosan Bears",
-    "opponent": "Lotte Giants",
-    "arena": "Jamsil Baseball Stadium",
-    "city": "Seoul, South Korea",
-    "date": "2026-06-30T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026063004",
-    "league": "KBOL",
-    "team": "Kia Tigers",
-    "opponent": "SSG Landers",
-    "arena": "Gwangju-Kia Champions Field",
-    "city": "Gwangju, South Korea",
-    "date": "2026-06-30T09:30:00Z"
-  },
-  {
-    "id": "kbol_2026063005",
-    "league": "KBOL",
-    "team": "NC Dinos",
-    "opponent": "Samsung Lions",
-    "arena": "Changwon NC Park",
-    "city": "Changwon, South Korea",
-    "date": "2026-06-30T09:30:00Z"
-  },
-  {
     "id": "kbol_2026070101",
     "league": "KBOL",
     "team": "Hanwha Eagles",
@@ -403,5 +43,604 @@
     "arena": "Changwon NC Park",
     "city": "Changwon, South Korea",
     "date": "2026-07-01T09:30:00Z"
+  },
+  {
+    "id": "kbo_2026070201",
+    "league": "KBO",
+    "team": "Doosan Bears",
+    "opponent": "Lotte Giants",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-02T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070202",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "KT Wiz Suwon",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-02T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070203",
+    "league": "KBO",
+    "team": "KIA Tigers",
+    "opponent": "SSG Landers",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-02T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070204",
+    "league": "KBO",
+    "team": "Kiwoom Heroes",
+    "opponent": "LG Twins",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-02T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070205",
+    "league": "KBO",
+    "team": "NC Dinos",
+    "opponent": "Samsung Lions",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-02T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070306",
+    "league": "KBO",
+    "team": "KIA Tigers",
+    "opponent": "NC Dinos",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-03T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070307",
+    "league": "KBO",
+    "team": "Kiwoom Heroes",
+    "opponent": "Doosan Bears",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-03T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070308",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Lotte Giants",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-03T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070309",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "Hanwha Eagles",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-03T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070310",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "Samsung Lions",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-03T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070411",
+    "league": "KBO",
+    "team": "KIA Tigers",
+    "opponent": "NC Dinos",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-04T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070412",
+    "league": "KBO",
+    "team": "Kiwoom Heroes",
+    "opponent": "Doosan Bears",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-04T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070413",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Lotte Giants",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-04T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070414",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "Hanwha Eagles",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-04T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070415",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "Samsung Lions",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-04T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070516",
+    "league": "KBO",
+    "team": "Kiwoom Heroes",
+    "opponent": "Doosan Bears",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-05T05:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070517",
+    "league": "KBO",
+    "team": "KIA Tigers",
+    "opponent": "NC Dinos",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-05T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070518",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Lotte Giants",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-05T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070519",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "Hanwha Eagles",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-05T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070520",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "Samsung Lions",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-05T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070721",
+    "league": "KBO",
+    "team": "Doosan Bears",
+    "opponent": "SSG Landers",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-07T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070722",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "NC Dinos",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-07T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070723",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-07T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070724",
+    "league": "KBO",
+    "team": "Lotte Giants",
+    "opponent": "KIA Tigers",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-07T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070725",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "LG Twins",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-07T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070826",
+    "league": "KBO",
+    "team": "Doosan Bears",
+    "opponent": "SSG Landers",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-08T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070827",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "NC Dinos",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-08T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070828",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-08T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070829",
+    "league": "KBO",
+    "team": "Lotte Giants",
+    "opponent": "KIA Tigers",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-08T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070830",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "LG Twins",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-08T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070931",
+    "league": "KBO",
+    "team": "Doosan Bears",
+    "opponent": "SSG Landers",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-09T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070932",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "NC Dinos",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-09T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070933",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-09T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070934",
+    "league": "KBO",
+    "team": "Lotte Giants",
+    "opponent": "KIA Tigers",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-09T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026070935",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "LG Twins",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-09T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071636",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-16T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071637",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "KT Wiz Suwon",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-16T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071638",
+    "league": "KBO",
+    "team": "NC Dinos",
+    "opponent": "Doosan Bears",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-16T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071639",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "Lotte Giants",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-16T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071640",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "KIA Tigers",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-16T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071741",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-17T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071742",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "KT Wiz Suwon",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-17T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071743",
+    "league": "KBO",
+    "team": "NC Dinos",
+    "opponent": "Doosan Bears",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-17T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071744",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "Lotte Giants",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-17T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071745",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "KIA Tigers",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-17T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071846",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-18T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071847",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "KT Wiz Suwon",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-18T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071848",
+    "league": "KBO",
+    "team": "NC Dinos",
+    "opponent": "Doosan Bears",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-18T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071849",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "Lotte Giants",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-18T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071850",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "KIA Tigers",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-18T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071951",
+    "league": "KBO",
+    "team": "Hanwha Eagles",
+    "opponent": "Kiwoom Heroes",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-19T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071952",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "KT Wiz Suwon",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-19T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071953",
+    "league": "KBO",
+    "team": "NC Dinos",
+    "opponent": "Doosan Bears",
+    "arena": "Changwon NC Park",
+    "city": "Changwon, South Korea",
+    "date": "2026-07-19T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071954",
+    "league": "KBO",
+    "team": "Samsung Lions",
+    "opponent": "Lotte Giants",
+    "arena": "Daegu Samsung Lions Park",
+    "city": "Daegu, South Korea",
+    "date": "2026-07-19T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026071955",
+    "league": "KBO",
+    "team": "SSG Landers",
+    "opponent": "KIA Tigers",
+    "arena": "Incheon SSG Landers Field",
+    "city": "Incheon, South Korea",
+    "date": "2026-07-19T09:00:00Z"
+  },
+  
+  {
+    "id": "kbo_2026072156",
+    "league": "KBO",
+    "team": "KIA Tigers",
+    "opponent": "Hanwha Eagles",
+    "arena": "Daejeon Hanwha Life Ballpark",
+    "city": "Daejeon, South Korea",
+    "date": "2026-07-21T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026072157",
+    "league": "KBO",
+    "team": "Kiwoom Heroes",
+    "opponent": "Samsung Lions",
+    "arena": "Gocheok Sky Dome",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-21T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026072158",
+    "league": "KBO",
+    "team": "KT Wiz Suwon",
+    "opponent": "Doosan Bears",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-21T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026072159",
+    "league": "KBO",
+    "team": "LG Twins",
+    "opponent": "NC Dinos",
+    "arena": "Jamsil Baseball Stadium",
+    "city": "Seoul, South Korea",
+    "date": "2026-07-21T09:30:00Z"
+  },
+  
+  {
+    "id": "kbo_2026072160",
+    "league": "KBO",
+    "team": "Lotte Giants",
+    "opponent": "SSG Landers",
+    "arena": "Sajik Baseball Stadium",
+    "city": "Busan, South Korea",
+    "date": "2026-07-21T09:30:00Z"
   }
 ]
