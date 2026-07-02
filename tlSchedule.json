@@ -386,7 +386,10 @@
     "opponent": "Arkansas Travelers",
     "arena": "Hodgetown",
     "city": "Amarillo, Texas",
-    "date": "2026-07-10T00:05:00Z"
+    "date": "2026-07-10T00:05:00Z",
+    "fireworks": {
+      "title": "Christmas in July Fireworks"
+    }
   },
   
   {
@@ -436,7 +439,14 @@
     "opponent": "Arkansas Travelers",
     "arena": "Hodgetown",
     "city": "Amarillo, Texas",
-    "date": "2026-07-11T00:05:00Z"
+    "date": "2026-07-11T00:05:00Z",
+    "giveaway": {
+      "title": "Hawaiian Shirt",
+      "details": "All fans"
+    },
+    "fireworks": {
+      "title": "Luau Night Fireworks"
+    }
   },
   
   {
@@ -496,7 +506,11 @@
     "opponent": "Arkansas Travelers",
     "arena": "Hodgetown",
     "city": "Amarillo, Texas",
-    "date": "2026-07-12T00:05:00Z"
+    "date": "2026-07-12T00:05:00Z",
+    "giveaway": {
+      "title": "Christmas Stocking",
+      "details": "All fans"
+    }
   },
   
   {
@@ -586,7 +600,7 @@
     "opponent": "Wichita Wind Surge",
     "arena": "Dickey–Stephens Park",
     "city": "Little Rock, Arkansas",
-    "date": "2026-07-18T00:05:00Z"
+    "date": "2026-07-18T00:05:00Z",
   },
   
   {
@@ -806,7 +820,11 @@
     "opponent": "Tulsa Drillers",
     "arena": "Dickey–Stephens Park",
     "city": "Little Rock, Arkansas",
-    "date": "2026-07-23T23:35:00Z"
+    "date": "2026-07-23T23:35:00Z",
+    "giveaway": {
+      "title": "Otey Bobblehead Giveaway",
+      "details": "First 1,000 fans"
+    }
   },
   
   {
@@ -866,7 +884,10 @@
     "opponent": "Tulsa Drillers",
     "arena": "Dickey–Stephens Park",
     "city": "Little Rock, Arkansas",
-    "date": "2026-07-25T00:05:00Z"
+    "date": "2026-07-25T00:05:00Z",
+    "fireworks": {
+      "title": "Post-Game Drone Show"
+    }
   },
   
   {
@@ -1096,7 +1117,11 @@
     "opponent": "San Antonio Missions",
     "arena": "Hodgetown",
     "city": "Amarillo, Texas",
-    "date": "2026-07-30T00:05:00Z"
+    "date": "2026-07-30T00:05:00Z",
+    "giveaway": {
+      "title": "Amarillo Calf Fries Beer Stein",
+      "details": "All fans"
+    }
   },
   
   {
@@ -1146,7 +1171,10 @@
     "opponent": "San Antonio Missions",
     "arena": "Hodgetown",
     "city": "Amarillo, Texas",
-    "date": "2026-07-31T00:05:00Z"
+    "date": "2026-07-31T00:05:00Z",
+    "fireworks": {
+      "title": "Military Appreciation Night Fireworks"
+    }
   },
   
   {
