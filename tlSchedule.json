@@ -1,58 +1,5 @@
 [
   {
-    "id": "tl_2026070101",
-    "league": "TL",
-    "team": "Frisco RoughRiders",
-    "opponent": "Midland RockHounds",
-    "arena": "Riders Field",
-    "city": "Frisco, Texas",
-    "date": "2026-07-02T00:05:00Z"
-  },
-  
-  {
-    "id": "tl_2026070102",
-    "league": "TL",
-    "team": "Springfield Cardinals",
-    "opponent": "Arkansas Travelers",
-    "arena": "Hammons Field",
-    "city": "Springfield, Missouri",
-    "date": "2026-07-02T00:05:00Z"
-  },
-  
-  {
-    "id": "tl_2026070103",
-    "league": "TL",
-    "team": "Northwest Arkansas Naturals",
-    "opponent": "Corpus Christi Hooks",
-    "arena": "Arvest Ballpark",
-    "city": "Springdale, Arkansas",
-    "date": "2026-07-02T00:05:00Z"
-  },
-  
-  {
-    "id": "tl_2026070104",
-    "league": "TL",
-    "team": "Wichita Wind Surge",
-    "opponent": "Tulsa Drillers",
-    "arena": "Equity Bank Park",
-    "city": "Wichita, Kansas",
-    "date": "2026-07-02T00:05:00Z"
-  },
-  
-  {
-    "id": "tl_2026070105",
-    "league": "TL",
-    "team": "San Antonio Missions",
-    "opponent": "Amarillo Sod Poodles",
-    "arena": "Nelson W. Wolff Municipal Stadium",
-    "city": "San Antonio, Texas",
-    "date": "2026-07-02T00:05:00Z",
-    "fireworks": {
-      "title": "Bark in the Park"
-    }
-  },
-  
-  {
     "id": "tl_2026070201",
     "league": "TL",
     "team": "Frisco RoughRiders",
