@@ -1,1512 +1,1071 @@
 [
   {
-    "id": "fcl_2026060201",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-02T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060202",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-02T17:00:00Z"
-  },
-  {
-    "id": "fcl_2026060203",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Braves",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-02T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060204",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-02T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060205",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-02T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060206",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-02T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060207",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Twins",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-02T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060208",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-02T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060301",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-03T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060302",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-03T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026060401",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Mets",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-04T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060402",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Marlins",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-04T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060403",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-04T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060404",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Twins",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-04T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060405",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-04T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060406",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-04T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060407",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-04T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060408",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Rays",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-04T22:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026060501",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Mets",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060502",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060503",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060504",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060505",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060506",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060507",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Braves",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-05T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060601",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Twins",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060602",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060603",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060604",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Mets",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060605",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060606",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026060607",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-06T17:00:00Z"
-  },
-  {
-    "id": "fcl_2026060608",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Rays",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-06T14:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026060801",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060802",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Braves",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060803",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060804",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060805",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060806",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060807",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-08T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060901",
+    "id": "fcl_2026070101",
     "league": "FCL",
     "team": "FCL Nationals",
     "opponent": "FCL Mets",
-    "arena": "FCL Nationals Complex",
+    "arena": "Cacti Park of the Palm Beaches",
     "city": "West Palm Beach, Florida",
-    "date": "2026-06-09T16:00:00Z"
+    "date": "2026-07-01T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026060902",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-09T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060903",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-09T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060904",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-09T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060905",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Marlins",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-09T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060906",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Rays",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-09T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026060907",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-09T22:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061001",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-10T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061101",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Braves",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061102",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061103",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Twins",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061104",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061105",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061106",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Marlins",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061107",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061101",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Braves",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061102",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061103",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Twins",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061104",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061105",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061106",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Marlins",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061107",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-11T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061201",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Mets",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061202",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061203",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Twins",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061204",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061205",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061206",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061207",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Rays",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-12T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061301",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061302",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061303",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061304",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061305",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061306",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061307",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Braves",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-13T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061501",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-15T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061502",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-15T17:00:00Z"
-  },
-  {
-    "id": "fcl_2026061503",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Mets",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-15T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026061504",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Astros",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-15T17:00:00Z"
-  },
-  {
-    "id": "fcl_2026061505",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Marlins",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-15T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061506",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Braves",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-15T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061507",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-15T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061508",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-15T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061509",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-15T22:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061601",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-16T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061602",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-16T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061603",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Twins",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-16T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061604",
+    "id": "fcl_2026070102",
     "league": "FCL",
     "team": "FCL Cardinals",
     "opponent": "FCL Marlins",
-    "arena": "FCL Cardinals Complex",
+    "arena": "Roger Dean Chevrolet Stadium",
     "city": "Jupiter, Florida",
-    "date": "2026-06-16T16:00:00Z"
+    "date": "2026-07-01T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061605",
+    "id": "fcl_2026070201",
     "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-16T16:00:00Z"
+    "team": "FCL Mets",
+    "opponent": "FCL Nationals",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-02T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061606",
+    "id": "fcl_2026070202",
     "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-16T16:00:00Z"
+    "team": "FCL Braves",
+    "opponent": "FCL Pirates",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-02T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061607",
+    "id": "fcl_2026070203",
+    "league": "FCL",
+    "team": "FCL Orioles",
+    "opponent": "FCL Twins",
+    "arena": "Ed Smith Stadium",
+    "city": "Sarasota, Florida",
+    "date": "2026-07-02T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070204",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Blue Jays",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-02T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070205",
     "league": "FCL",
     "team": "FCL Red Sox",
     "opponent": "FCL Rays",
-    "arena": "FCL Red Sox Complex",
+    "arena": "JetBlue Park at Fenway South",
     "city": "Fort Myers, Florida",
-    "date": "2026-06-16T22:00:00Z"
+    "date": "2026-07-02T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061701",
+    "id": "fcl_2026070206",
+    "league": "FCL",
+    "team": "FCL Astros",
+    "opponent": "FCL Cardinals",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-02T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070301",
     "league": "FCL",
     "team": "FCL Marlins",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Marlins Complex",
+    "opponent": "FCL Mets",
+    "arena": "Roger Dean Chevrolet Stadium",
     "city": "Jupiter, Florida",
-    "date": "2026-06-17T16:00:00Z"
+    "date": "2026-07-03T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061702",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-17T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061801",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061802",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061803",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Braves",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061804",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061805",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061806",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061807",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Twins",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-18T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026061901",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-19T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026061902",
+    "id": "fcl_2026070302",
     "league": "FCL",
     "team": "FCL Twins",
     "opponent": "FCL Red Sox",
-    "arena": "FCL Twins Complex",
+    "arena": "Hammond Stadium",
     "city": "Fort Myers, Florida",
-    "date": "2026-06-19T16:00:00Z"
+    "date": "2026-07-03T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061903",
+    "id": "fcl_2026070303",
     "league": "FCL",
     "team": "FCL Orioles",
     "opponent": "FCL Pirates",
-    "arena": "FCL Orioles Complex",
+    "arena": "Ed Smith Stadium",
     "city": "Sarasota, Florida",
-    "date": "2026-06-19T16:00:00Z"
+    "date": "2026-07-03T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061904",
+    "id": "fcl_2026070304",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Tigers",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-03T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070305",
+    "league": "FCL",
+    "team": "FCL Nationals",
+    "opponent": "FCL Astros",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-03T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070306",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Braves",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-03T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070401",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Twins",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070402",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Yankees",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070403",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Orioles",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070404",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Marlins",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070405",
+    "league": "FCL",
+    "team": "FCL Astros",
+    "opponent": "FCL Mets",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070406",
+    "league": "FCL",
+    "team": "FCL Braves",
+    "opponent": "FCL Rays",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-04T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070601",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Marlins",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-06T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070602",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Braves",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-06T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070603",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Tigers",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-06T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070604",
+    "league": "FCL",
+    "team": "FCL Twins",
+    "opponent": "FCL Orioles",
+    "arena": "Hammond Stadium",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-06T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070605",
     "league": "FCL",
     "team": "FCL Cardinals",
     "opponent": "FCL Nationals",
-    "arena": "FCL Cardinals Complex",
+    "arena": "Roger Dean Chevrolet Stadium",
     "city": "Jupiter, Florida",
-    "date": "2026-06-19T16:00:00Z"
+    "date": "2026-07-06T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061905",
+    "id": "fcl_2026070606",
     "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-19T16:00:00Z"
+    "team": "FCL Rays",
+    "opponent": "FCL Red Sox",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-06T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061906",
+    "id": "fcl_2026070701",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Red Sox",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-07T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070702",
+    "league": "FCL",
+    "team": "FCL Braves",
+    "opponent": "FCL Orioles",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-07T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070703",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Cardinals",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-07T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070704",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Yankees",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-07T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070705",
+    "league": "FCL",
+    "team": "FCL Marlins",
+    "opponent": "FCL Astros",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-07T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070706",
+    "league": "FCL",
+    "team": "FCL Twins",
+    "opponent": "FCL Rays",
+    "arena": "Hammond Stadium",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-07T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070801",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Marlins",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-08T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070802",
+    "league": "FCL",
+    "team": "FCL Astros",
+    "opponent": "FCL Nationals",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-08T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070901",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Nationals",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-09T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070902",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Pirates",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-09T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070903",
+    "league": "FCL",
+    "team": "FCL Orioles",
+    "opponent": "FCL Braves",
+    "arena": "Ed Smith Stadium",
+    "city": "Sarasota, Florida",
+    "date": "2026-07-09T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070904",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Blue Jays",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-09T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070905",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Twins",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-09T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026070906",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Astros",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-09T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071001",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Twins",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-10T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071002",
+    "league": "FCL",
+    "team": "FCL Nationals",
+    "opponent": "FCL Cardinals",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-10T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071003",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Phillies",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-10T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071004",
     "league": "FCL",
     "team": "FCL Astros",
     "opponent": "FCL Marlins",
-    "arena": "FCL Astros Complex",
+    "arena": "Cacti Park of the Palm Beaches",
     "city": "West Palm Beach, Florida",
-    "date": "2026-06-19T16:00:00Z"
+    "date": "2026-07-10T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026061907",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Braves",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-19T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062001",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-20T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062002",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-20T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062003",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Twins",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-20T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062004",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-20T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062005",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-20T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062006",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Astros",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-20T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062007",
+    "id": "fcl_2026071005",
     "league": "FCL",
     "team": "FCL Braves",
     "opponent": "FCL Rays",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-20T14:00:00Z"
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-10T16:00:00Z"
   },
-
+  
   {
-    "id": "fcl_2026062201",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Mets",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-22T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062202",
+    "id": "fcl_2026071006",
     "league": "FCL",
     "team": "FCL Pirates",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-22T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062203",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-22T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062204",
-    "league": "FCL",
-    "team": "FCL Braves",
     "opponent": "FCL Orioles",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-22T16:00:00Z"
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-10T22:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062205",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-22T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062206",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Rays",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-22T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062207",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-22T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026062301",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Braves",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-23T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062302",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-23T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062303",
-    "league": "FCL",
-    "team": "FCL Orioles",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-23T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062304",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Mets",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-23T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062305",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-23T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062306",
-    "league": "FCL",
-    "team": "FCL Marlins",
-    "opponent": "FCL Astros",
-    "arena": "FCL Marlins Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-23T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062307",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-23T22:00:00Z"
-  },
-  {
-    "id": "fcl_2026062401",
+    "id": "fcl_2026071101",
     "league": "FCL",
     "team": "FCL Nationals",
     "opponent": "FCL Marlins",
-    "arena": "FCL Nationals Complex",
+    "arena": "Cacti Park of the Palm Beaches",
     "city": "West Palm Beach, Florida",
-    "date": "2026-06-24T16:00:00Z"
+    "date": "2026-07-11T14:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062402",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Astros",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-24T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026062501",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Twins",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-25T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062502",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-25T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062503",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-25T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062504",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-25T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062505",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-25T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062506",
-    "league": "FCL",
-    "team": "FCL Astros",
-    "opponent": "FCL Mets",
-    "arena": "FCL Astros Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-25T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062507",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Rays",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-25T22:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026062601",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Twins",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-26T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062602",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-26T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062603",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-26T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062604",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Cardinals",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-26T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062605",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-26T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062606",
+    "id": "fcl_2026071102",
     "league": "FCL",
     "team": "FCL Marlins",
-    "opponent": "FCL Astros",
-    "arena": "FCL Marlins Complex",
+    "opponent": "FCL Nationals",
+    "arena": "Roger Dean Chevrolet Stadium",
     "city": "Jupiter, Florida",
-    "date": "2026-06-26T16:00:00Z"
+    "date": "2026-07-11T14:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062607",
-    "league": "FCL",
-    "team": "FCL Braves",
-    "opponent": "FCL Rays",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-26T22:00:00Z"
-  },
-  {
-    "id": "fcl_2026062701",
-    "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Mets",
-    "arena": "FCL Nationals Complex",
-    "city": "West Palm Beach, Florida",
-    "date": "2026-06-27T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062702",
-    "league": "FCL",
-    "team": "FCL Tigers",
-    "opponent": "FCL Phillies",
-    "arena": "FCL Tigers Complex",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-27T14:00:00Z"
-  },
-  {
-    "id": "fcl_2026062703",
+    "id": "fcl_2026071103",
     "league": "FCL",
     "team": "FCL Twins",
     "opponent": "FCL Red Sox",
-    "arena": "FCL Twins Complex",
+    "arena": "Hammond Stadium",
     "city": "Fort Myers, Florida",
-    "date": "2026-06-27T14:00:00Z"
+    "date": "2026-07-11T14:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062704",
+    "id": "fcl_2026071104",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Mets",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-11T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071105",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Tigers",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-11T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071106",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Braves",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-11T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071107",
     "league": "FCL",
     "team": "FCL Orioles",
     "opponent": "FCL Pirates",
-    "arena": "FCL Orioles Complex",
+    "arena": "Ed Smith Stadium",
     "city": "Sarasota, Florida",
-    "date": "2026-06-27T14:00:00Z"
+    "date": "2026-07-11T15:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062705",
+    "id": "fcl_2026071301",
     "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Blue Jays",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-27T14:00:00Z"
+    "team": "FCL Braves",
+    "opponent": "FCL Twins",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-13T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062706",
+    "id": "fcl_2026071302",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Yankees",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-13T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071303",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Orioles",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-13T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071304",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Marlins",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-13T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071305",
+    "league": "FCL",
+    "team": "FCL Nationals",
+    "opponent": "FCL Astros",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-13T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071306",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Rays",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-13T22:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071401",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Nationals",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-14T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071402",
+    "league": "FCL",
+    "team": "FCL Twins",
+    "opponent": "FCL Braves",
+    "arena": "Hammond Stadium",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-14T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071403",
+    "league": "FCL",
+    "team": "FCL Orioles",
+    "opponent": "FCL Red Sox",
+    "arena": "Ed Smith Stadium",
+    "city": "Sarasota, Florida",
+    "date": "2026-07-14T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071404",
+    "league": "FCL",
+    "team": "FCL Marlins",
+    "opponent": "FCL Cardinals",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-14T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071405",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Yankees",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-14T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071406",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Pirates",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-14T22:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071501",
+    "league": "FCL",
+    "team": "FCL Marlins",
+    "opponent": "FCL Mets",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-15T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071502",
+    "league": "FCL",
+    "team": "FCL Astros",
+    "opponent": "FCL Nationals",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-15T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071601",
+    "league": "FCL",
+    "team": "FCL Nationals",
+    "opponent": "FCL Marlins",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-16T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071602",
+    "league": "FCL",
+    "team": "FCL Braves",
+    "opponent": "FCL Red Sox",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-16T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071603",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Tigers",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-16T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071604",
+    "league": "FCL",
+    "team": "FCL Twins",
+    "opponent": "FCL Pirates",
+    "arena": "Hammond Stadium",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-16T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071605",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Cardinals",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-16T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071606",
+    "league": "FCL",
+    "team": "FCL Orioles",
+    "opponent": "FCL Rays",
+    "arena": "Ed Smith Stadium",
+    "city": "Sarasota, Florida",
+    "date": "2026-07-16T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071701",
+    "league": "FCL",
+    "team": "FCL Twins",
+    "opponent": "FCL Red Sox",
+    "arena": "Hammond Stadium",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-17T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071702",
+    "league": "FCL",
+    "team": "FCL Orioles",
+    "opponent": "FCL Pirates",
+    "arena": "Ed Smith Stadium",
+    "city": "Sarasota, Florida",
+    "date": "2026-07-17T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071703",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Mets",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-17T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071704",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Phillies",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-17T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071705",
+    "league": "FCL",
+    "team": "FCL Marlins",
+    "opponent": "FCL Astros",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-17T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071706",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Braves",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-17T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071801",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Twins",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-18T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071802",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Orioles",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-18T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071803",
+    "league": "FCL",
+    "team": "FCL Nationals",
+    "opponent": "FCL Cardinals",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-18T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071804",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Blue Jays",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-18T14:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026071805",
     "league": "FCL",
     "team": "FCL Astros",
     "opponent": "FCL Marlins",
-    "arena": "FCL Astros Complex",
+    "arena": "Cacti Park of the Palm Beaches",
     "city": "West Palm Beach, Florida",
-    "date": "2026-06-27T14:00:00Z"
+    "date": "2026-07-18T14:00:00Z"
   },
+  
   {
-    "id": "fcl_2026062707",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Braves",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-27T15:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026062901",
-    "league": "FCL",
-    "team": "FCL Red Sox",
-    "opponent": "FCL Braves",
-    "arena": "FCL Red Sox Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062902",
-    "league": "FCL",
-    "team": "FCL Phillies",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Phillies Complex",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062903",
-    "league": "FCL",
-    "team": "FCL Pirates",
-    "opponent": "FCL Twins",
-    "arena": "FCL Pirates Complex",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062904",
-    "league": "FCL",
-    "team": "FCL Cardinals",
-    "opponent": "FCL Nationals",
-    "arena": "FCL Cardinals Complex",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062905",
-    "league": "FCL",
-    "team": "FCL Blue Jays",
-    "opponent": "FCL Yankees",
-    "arena": "FCL Blue Jays Complex",
-    "city": "Dunedin, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062906",
-    "league": "FCL",
-    "team": "FCL Mets",
-    "opponent": "FCL Astros",
-    "arena": "FCL Mets Complex",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026062907",
-    "league": "FCL",
-    "team": "FCL Rays",
-    "opponent": "FCL Orioles",
-    "arena": "FCL Rays Complex",
-    "city": "Port Charlotte, Florida",
-    "date": "2026-06-29T16:00:00Z"
-  },
-
-  {
-    "id": "fcl_2026063001",
+    "id": "fcl_2026071806",
     "league": "FCL",
     "team": "FCL Braves",
-    "opponent": "FCL Red Sox",
-    "arena": "FCL Braves Complex",
-    "city": "North Port, Florida",
-    "date": "2026-06-30T16:00:00Z"
+    "opponent": "FCL Rays",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-18T14:00:00Z"
   },
+  
   {
-    "id": "fcl_2026063002",
-    "league": "FCL",
-    "team": "FCL Twins",
-    "opponent": "FCL Pirates",
-    "arena": "FCL Twins Complex",
-    "city": "Fort Myers, Florida",
-    "date": "2026-06-30T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026063003",
-    "league": "FCL",
-    "team": "FCL Yankees",
-    "opponent": "FCL Tigers",
-    "arena": "FCL Yankees Complex",
-    "city": "Tampa, Florida",
-    "date": "2026-06-30T16:00:00Z"
-  },
-  {
-    "id": "fcl_2026063004",
+    "id": "fcl_2026072001",
     "league": "FCL",
     "team": "FCL Marlins",
     "opponent": "FCL Cardinals",
-    "arena": "FCL Marlins Complex",
+    "arena": "Roger Dean Chevrolet Stadium",
     "city": "Jupiter, Florida",
-    "date": "2026-06-30T16:00:00Z"
+    "date": "2026-07-20T14:00:00Z"
   },
+  
   {
-    "id": "fcl_2026063005",
+    "id": "fcl_2026072002",
+    "league": "FCL",
+    "team": "FCL Marlins",
+    "opponent": "FCL Cardinals",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-20T14:05:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072003",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Braves",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-20T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072004",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Twins",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-20T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072005",
+    "league": "FCL",
+    "team": "FCL Blue Jays",
+    "opponent": "FCL Tigers",
+    "arena": "Bobby Mattick Training Center",
+    "city": "Dunedin, Florida",
+    "date": "2026-07-20T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072006",
+    "league": "FCL",
+    "team": "FCL Astros",
+    "opponent": "FCL Mets",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-20T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072007",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Orioles",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-20T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072101",
+    "league": "FCL",
+    "team": "FCL Marlins",
+    "opponent": "FCL Nationals",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-21T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072102",
+    "league": "FCL",
+    "team": "FCL Pirates",
+    "opponent": "FCL Braves",
+    "arena": "Pirate City",
+    "city": "Bradenton, Florida",
+    "date": "2026-07-21T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072103",
+    "league": "FCL",
+    "team": "FCL Phillies",
+    "opponent": "FCL Yankees",
+    "arena": "Carpenter Complex",
+    "city": "Clearwater, Florida",
+    "date": "2026-07-21T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072104",
+    "league": "FCL",
+    "team": "FCL Twins",
+    "opponent": "FCL Orioles",
+    "arena": "Hammond Stadium",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-21T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072105",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Astros",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-21T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072106",
+    "league": "FCL",
+    "team": "FCL Rays",
+    "opponent": "FCL Red Sox",
+    "arena": "Charlotte Sports Park",
+    "city": "Port Charlotte, Florida",
+    "date": "2026-07-21T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072201",
+    "league": "FCL",
+    "team": "FCL Mets",
+    "opponent": "FCL Marlins",
+    "arena": "Clover Park",
+    "city": "Port St. Lucie, Florida",
+    "date": "2026-07-22T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072202",
+    "league": "FCL",
+    "team": "FCL Astros",
+    "opponent": "FCL Cardinals",
+    "arena": "Cacti Park of the Palm Beaches",
+    "city": "West Palm Beach, Florida",
+    "date": "2026-07-22T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072203",
+    "league": "FCL",
+    "team": "FCL Red Sox",
+    "opponent": "FCL Pirates",
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-22T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072301",
+    "league": "FCL",
+    "team": "FCL Braves",
+    "opponent": "FCL Pirates",
+    "arena": "CoolToday Park",
+    "city": "Venice, Florida",
+    "date": "2026-07-23T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072302",
+    "league": "FCL",
+    "team": "FCL Orioles",
+    "opponent": "FCL Twins",
+    "arena": "Ed Smith Stadium",
+    "city": "Sarasota, Florida",
+    "date": "2026-07-23T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072303",
+    "league": "FCL",
+    "team": "FCL Cardinals",
+    "opponent": "FCL Mets",
+    "arena": "Roger Dean Chevrolet Stadium",
+    "city": "Jupiter, Florida",
+    "date": "2026-07-23T16:00:00Z"
+  },
+  
+  {
+    "id": "fcl_2026072304",
     "league": "FCL",
     "team": "FCL Blue Jays",
     "opponent": "FCL Phillies",
-    "arena": "FCL Blue Jays Complex",
+    "arena": "Bobby Mattick Training Center",
     "city": "Dunedin, Florida",
-    "date": "2026-06-30T16:00:00Z"
+    "date": "2026-07-23T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026063006",
+    "id": "fcl_2026072305",
     "league": "FCL",
-    "team": "FCL Nationals",
-    "opponent": "FCL Astros",
-    "arena": "FCL Nationals Complex",
+    "team": "FCL Astros",
+    "opponent": "FCL Nationals",
+    "arena": "Cacti Park of the Palm Beaches",
     "city": "West Palm Beach, Florida",
-    "date": "2026-06-30T16:00:00Z"
+    "date": "2026-07-23T16:00:00Z"
   },
+  
   {
-    "id": "fcl_2026063007",
+    "id": "fcl_2026072306",
     "league": "FCL",
-    "team": "FCL Orioles",
+    "team": "FCL Red Sox",
     "opponent": "FCL Rays",
-    "arena": "FCL Orioles Complex",
-    "city": "Sarasota, Florida",
-    "date": "2026-06-30T16:00:00Z"
+    "arena": "JetBlue Park at Fenway South",
+    "city": "Fort Myers, Florida",
+    "date": "2026-07-23T22:00:00Z"
   }
 ]
