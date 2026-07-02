@@ -1,1597 +1,12 @@
 [
   {
-    "id": "alpb_2026063001",
-    "league": "ALPB",
-    "team": "Gastonia Ghost Peppers",
-    "opponent": "Lexington Legends",
-    "arena": "CaroMont Health Park",
-    "city": "Gastonia, North Carolina",
-    "date": "2026-06-30T22:00:00Z"
-  },
-  {
-    "id": "alpb_2026063002",
-    "league": "ALPB",
-    "team": "Hagerstown Flying Boxcars",
-    "opponent": "Lancaster Stormers",
-    "arena": "Meritus Park",
-    "city": "Hagerstown, Maryland",
-    "date": "2026-06-30T22:30:00Z"
-  },
-  {
-    "id": "alpb_2026063003",
-    "league": "ALPB",
-    "team": "York Revolution",
-    "opponent": "Staten Island FerryHawks",
-    "arena": "WellSpan Park",
-    "city": "York, Pennsylvania",
-    "date": "2026-06-30T22:30:00Z"
-  },
-  {
-    "id": "alpb_2026063004",
-    "league": "ALPB",
-    "team": "High Point Rockers",
-    "opponent": "Charleston Dirty Birds",
-    "arena": "Truist Point",
-    "city": "High Point, North Carolina",
-    "date": "2026-06-30T22:35:00Z"
-  },
-  {
-    "id": "alpb_2026063005",
-    "league": "ALPB",
-    "team": "Long Island Ducks",
-    "opponent": "Southern Maryland Blue Crabs",
-    "arena": "Fairfield Properties Ballpark",
-    "city": "Central Islip, New York",
-    "date": "2026-06-30T22:35:00Z"
-  },
-
-  {
-    "id": "aapb_2026070101",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-01T17:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070102",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-01T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070103",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-01T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070104",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Sioux City Explorers",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-01T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070105",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Kane County Cougars",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-01T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070106",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Lake Country DockHounds",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-01T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070201",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-02T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070202",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Sioux City Explorers",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-02T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070203",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Kane County Cougars",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-02T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070204",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Lake Country DockHounds",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-02T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070301",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-03T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070302",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-03T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070303",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-03T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070304",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-03T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070305",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-03T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070306",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Lake Country DockHounds",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-03T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070401",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-04T15:50:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070402",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-04T16:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070403",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-04T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070404",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-04T19:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070405",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-04T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070406",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Lake Country DockHounds",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-04T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070501",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-05T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070502",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-05T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070503",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Lake Country DockHounds",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-05T14:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070504",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-05T15:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070505",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-05T16:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070506",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-05T17:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070507",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Lake Country DockHounds",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-05T17:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070601",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-06T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070602",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-06T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070701",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-07T18:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070702",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-07T21:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070703",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-07T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070704",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-07T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070705",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-07T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070706",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Kane County Cougars",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-07T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070707",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-07T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070801",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-08T12:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070802",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-08T12:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070803",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-08T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070804",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Kane County Cougars",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-08T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070805",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-08T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070806",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-08T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070901",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Kane County Cougars",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-09T13:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070902",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-09T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070903",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-09T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070904",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-09T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026070905",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-09T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071001",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-10T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071002",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Lake Country DockHounds",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-10T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071003",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-10T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071004",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-10T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071005",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-10T20:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071006",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-10T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071101",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-11T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071102",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Lake Country DockHounds",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-11T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071103",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-11T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071104",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-11T19:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071105",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-11T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071106",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-11T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071201",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-12T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071202",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-12T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071203",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Lake Country DockHounds",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-12T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071204",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-12T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071205",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-12T14:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071206",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-12T17:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071701",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Kane County Cougars",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-17T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071702",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-17T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071703",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-17T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071704",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Chicago Dogs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-17T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071705",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-17T20:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071706",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Sioux City Explorers",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-17T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071801",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-18T18:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071802",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Chicago Dogs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-18T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071803",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Kane County Cougars",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-18T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071804",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-18T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071805",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-18T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071806",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Sioux City Explorers",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-18T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071901",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Chicago Dogs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-19T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071902",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Kane County Cougars",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-19T14:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071903",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-19T14:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071904",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-19T15:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071905",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-19T18:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026071906",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Sioux City Explorers",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-19T19:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072001",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Kane County Cougars",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-20T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072002",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-20T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072003",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Kansas City Monarchs",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-20T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072101",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Kane County Cougars",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-21T12:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072102",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Lake Country DockHounds",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-21T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072103",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Sioux City Explorers",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-21T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072104",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-21T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072105",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-21T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072106",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Kansas City Monarchs",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-21T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072201",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Kansas City Monarchs",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-22T17:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072202",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Kane County Cougars",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-22T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072203",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Lake Country DockHounds",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-22T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072204",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Sioux City Explorers",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-22T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072205",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-22T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072206",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-22T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072301",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Kane County Cougars",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-23T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072302",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Lake Country DockHounds",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-23T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072303",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Sioux City Explorers",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-23T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072304",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-23T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072305",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Kansas City Monarchs",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-23T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072401",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Kane County Cougars",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-24T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072402",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Chicago Dogs",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-24T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072403",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-24T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072404",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-24T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072405",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-24T20:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072406",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-24T20:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072501",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-25T18:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072502",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Kane County Cougars",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-25T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072503",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-25T19:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072504",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-25T19:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072505",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-25T19:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072506",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Chicago Dogs",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-25T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072601",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Kane County Cougars",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-07-26T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072602",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Fargo-Moorhead RedHawks",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-26T14:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072603",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Chicago Dogs",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-26T14:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072604",
-    "league": "AAPB",
-    "team": "Lincoln Saltdogs",
-    "opponent": "Cleburne Railroaders",
-    "arena": "Haymarket Park",
-    "city": "Lincoln, Nebraska",
-    "date": "2026-07-26T14:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072605",
-    "league": "AAPB",
-    "team": "Sioux City Explorers",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Lewis and Clark Park",
-    "city": "Sioux City, Iowa",
-    "date": "2026-07-26T17:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072606",
-    "league": "AAPB",
-    "team": "Sioux Falls Canaries",
-    "opponent": "Gary SouthShore Railcats",
-    "arena": "Sioux Falls Stadium",
-    "city": "Sioux Falls, South Dakota",
-    "date": "2026-07-26T17:05:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072701",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-27T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072702",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-27T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072801",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-28T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072802",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-28T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072803",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-28T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072804",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Sioux City Explorers",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-28T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072805",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-28T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072806",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-28T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072901",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-29T12:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072902",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Sioux City Explorers",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-29T13:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072903",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Winnipeg Goldeyes",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-07-29T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072904",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-29T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072905",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-29T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026072906",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-29T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073001",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-30T13:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073002",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Chicago Dogs",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-30T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073003",
-    "league": "AAPB",
-    "team": "Lake Country DockHounds",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Wisconsin Brewing Company Park",
-    "city": "Oconomowoc, Wisconsin",
-    "date": "2026-07-30T19:35:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073004",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Sioux City Explorers",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-30T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073005",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-30T20:06:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073101",
-    "league": "AAPB",
-    "team": "Chicago Dogs",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Impact Field",
-    "city": "Rosemont, Illinois",
-    "date": "2026-07-31T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073102",
-    "league": "AAPB",
-    "team": "Kane County Cougars",
-    "opponent": "Sioux Falls Canaries",
-    "arena": "Northwestern Medicine Field",
-    "city": "Geneva, Illinois",
-    "date": "2026-07-31T19:30:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073103",
-    "league": "AAPB",
-    "team": "Gary SouthShore RailCats",
-    "opponent": "Lake Country DockHounds",
-    "arena": "U.S. Steel Yard",
-    "city": "Gary, Indiana",
-    "date": "2026-07-31T19:45:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073104",
-    "league": "AAPB",
-    "team": "Winnipeg Goldeyes",
-    "opponent": "Lincoln Saltdogs",
-    "arena": "Blue Cross Park",
-    "city": "Winnipeg, Manitoba",
-    "date": "2026-07-31T20:00:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073105",
-    "league": "AAPB",
-    "team": "Fargo-Moorhead RedHawks",
-    "opponent": "Sioux City Explorers",
-    "arena": "Newman Outdoor Field",
-    "city": "Fargo, North Dakota",
-    "date": "2026-07-31T20:02:00Z"
-  },
-  
-  {
-    "id": "aapb_2026073106",
-    "league": "AAPB",
-    "team": "Cleburne Railroaders",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "La Moderna Field",
-    "city": "Cleburne, Texas",
-    "date": "2026-07-31T20:06:00Z"
-  },
-  {
-    "id": "alpb_2026070101",
-    "league": "ALPB",
-    "team": "Greensboro Grasshoppers",
-    "opponent": "Bowling Green Hot Rods",
-    "arena": "First National Bank Field",
-    "city": "Greensboro, North Carolina",
-    "date": "2026-07-01T18:30:00Z"
-  },
-  
-  {
-    "id": "alpb_2026070102",
-    "league": "ALPB",
-    "team": "Winston-Salem Dash",
-    "opponent": "Greenville Drive",
-    "arena": "Truist Stadium",
-    "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-01T18:30:00Z"
-  },
-  
-  {
-    "id": "alpb_2026070103",
-    "league": "ALPB",
-    "team": "Asheville Tourists",
-    "opponent": "Hub City Spartanburgers",
-    "arena": "McCormick Field",
-    "city": "Asheville, North Carolina",
-    "date": "2026-07-01T18:35:00Z"
-  },
-  
-  {
-    "id": "alpb_2026070104",
-    "league": "ALPB",
-    "team": "Hudson Valley Renegades",
-    "opponent": "Wilmington Blue Rocks",
-    "arena": "Heritage Financial Park",
-    "city": "Wappingers Falls, New York",
-    "date": "2026-07-01T18:35:00Z"
-  },
-  
-  {
-    "id": "alpb_2026070105",
-    "league": "ALPB",
-    "team": "Jersey Shore BlueClaws",
-    "opponent": "Rome Emperors",
-    "arena": "ShoreTown Ballpark",
-    "city": "Lakewood, New Jersey",
-    "date": "2026-07-01T18:35:00Z"
-  },
-  
-  {
-    "id": "alpb_2026070106",
-    "league": "ALPB",
-    "team": "Frederick Keys",
-    "opponent": "Brooklyn Cyclones",
-    "arena": "Nymeo Field At Harry Grove Stadium",
-    "city": "Frederick, Maryland",
-    "date": "2026-07-01T19:00:00Z"
-  },
-  
-  {
     "id": "alpb_2026070201",
     "league": "ALPB",
     "team": "Greensboro Grasshoppers",
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-02T18:30:00Z"
+    "date": "2026-07-02T22:30:00Z"
   },
   
   {
@@ -1601,7 +16,7 @@
     "opponent": "Greenville Drive",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-02T18:30:00Z"
+    "date": "2026-07-02T22:30:00Z"
   },
   
   {
@@ -1611,7 +26,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-02T18:35:00Z"
+    "date": "2026-07-02T22:35:00Z"
   },
   
   {
@@ -1621,7 +36,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-02T19:00:00Z"
+    "date": "2026-07-02T23:00:00Z"
   },
   
   {
@@ -1631,7 +46,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-02T19:05:00Z"
+    "date": "2026-07-02T23:05:00Z"
   },
   
   {
@@ -1641,7 +56,7 @@
     "opponent": "Rome Emperors",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-02T19:05:00Z"
+    "date": "2026-07-02T23:05:00Z"
   },
   
   {
@@ -1651,7 +66,7 @@
     "opponent": "Greenville Drive",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-03T18:30:00Z"
+    "date": "2026-07-03T22:30:00Z"
   },
   
   {
@@ -1661,7 +76,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-03T18:35:00Z"
+    "date": "2026-07-03T22:35:00Z"
   },
   
   {
@@ -1671,7 +86,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-03T19:00:00Z"
+    "date": "2026-07-03T23:00:00Z"
   },
   
   {
@@ -1681,7 +96,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-03T19:00:00Z"
+    "date": "2026-07-03T23:00:00Z"
   },
   
   {
@@ -1691,7 +106,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-03T19:05:00Z"
+    "date": "2026-07-03T23:05:00Z"
   },
   
   {
@@ -1701,7 +116,7 @@
     "opponent": "Rome Emperors",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-03T19:05:00Z"
+    "date": "2026-07-03T23:05:00Z"
   },
   
   {
@@ -1711,7 +126,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-04T13:00:00Z"
+    "date": "2026-07-04T17:00:00Z"
   },
   
   {
@@ -1721,7 +136,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-04T18:05:00Z"
+    "date": "2026-07-04T22:05:00Z"
   },
   
   {
@@ -1731,7 +146,7 @@
     "opponent": "Greenville Drive",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-04T18:30:00Z"
+    "date": "2026-07-04T22:30:00Z"
   },
   
   {
@@ -1741,7 +156,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-04T19:00:00Z"
+    "date": "2026-07-04T23:00:00Z"
   },
   
   {
@@ -1751,7 +166,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-04T19:05:00Z"
+    "date": "2026-07-04T23:05:00Z"
   },
   
   {
@@ -1761,7 +176,7 @@
     "opponent": "Rome Emperors",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-04T19:05:00Z"
+    "date": "2026-07-04T23:05:00Z"
   },
   
   {
@@ -1771,7 +186,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-05T13:05:00Z"
+    "date": "2026-07-05T17:05:00Z"
   },
   
   {
@@ -1781,7 +196,7 @@
     "opponent": "Rome Emperors",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-05T13:05:00Z"
+    "date": "2026-07-05T17:05:00Z"
   },
   
   {
@@ -1791,7 +206,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-05T14:00:00Z"
+    "date": "2026-07-05T18:00:00Z"
   },
   
   {
@@ -1801,7 +216,7 @@
     "opponent": "Greenville Drive",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-05T14:00:00Z"
+    "date": "2026-07-05T18:00:00Z"
   },
   
   {
@@ -1811,7 +226,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-05T14:05:00Z"
+    "date": "2026-07-05T18:05:00Z"
   },
   
   {
@@ -1821,7 +236,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-05T18:00:00Z"
+    "date": "2026-07-05T22:00:00Z"
   },
   
   {
@@ -1831,7 +246,7 @@
     "opponent": "Greenville Drive",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-07T18:30:00Z"
+    "date": "2026-07-07T22:30:00Z"
   },
   
   {
@@ -1841,7 +256,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-07T18:35:00Z"
+    "date": "2026-07-07T22:35:00Z"
   },
   
   {
@@ -1851,7 +266,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-07T18:35:00Z"
+    "date": "2026-07-07T22:35:00Z"
   },
   
   {
@@ -1861,7 +276,7 @@
     "opponent": "Rome Emperors",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-07T18:35:00Z"
+    "date": "2026-07-07T22:35:00Z"
   },
   
   {
@@ -1871,7 +286,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-07T18:40:00Z"
+    "date": "2026-07-07T22:40:00Z"
   },
   
   {
@@ -1881,7 +296,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-07T19:00:00Z"
+    "date": "2026-07-07T23:00:00Z"
   },
   
   {
@@ -1891,7 +306,7 @@
     "opponent": "Greenville Drive",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-08T12:00:00Z"
+    "date": "2026-07-08T16:00:00Z"
   },
   
   {
@@ -1901,7 +316,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-08T18:35:00Z"
+    "date": "2026-07-08T22:35:00Z"
   },
   
   {
@@ -1911,7 +326,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-08T18:35:00Z"
+    "date": "2026-07-08T22:35:00Z"
   },
   
   {
@@ -1921,7 +336,7 @@
     "opponent": "Rome Emperors",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-08T18:35:00Z"
+    "date": "2026-07-08T22:35:00Z"
   },
   
   {
@@ -1931,7 +346,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-08T18:40:00Z"
+    "date": "2026-07-08T22:40:00Z"
   },
   
   {
@@ -1941,7 +356,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-08T19:00:00Z"
+    "date": "2026-07-08T23:00:00Z"
   },
   
   {
@@ -1951,7 +366,7 @@
     "opponent": "Greenville Drive",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-09T18:30:00Z"
+    "date": "2026-07-09T22:30:00Z"
   },
   
   {
@@ -1961,7 +376,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-09T18:35:00Z"
+    "date": "2026-07-09T22:35:00Z"
   },
   
   {
@@ -1971,7 +386,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-09T18:35:00Z"
+    "date": "2026-07-09T22:35:00Z"
   },
   
   {
@@ -1981,7 +396,7 @@
     "opponent": "Rome Emperors",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-09T18:35:00Z"
+    "date": "2026-07-09T22:35:00Z"
   },
   
   {
@@ -1991,7 +406,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-09T18:40:00Z"
+    "date": "2026-07-09T22:40:00Z"
   },
   
   {
@@ -2001,7 +416,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-09T19:00:00Z"
+    "date": "2026-07-09T23:00:00Z"
   },
   
   {
@@ -2011,7 +426,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-10T18:35:00Z"
+    "date": "2026-07-10T22:35:00Z"
   },
   
   {
@@ -2021,7 +436,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-10T18:40:00Z"
+    "date": "2026-07-10T22:40:00Z"
   },
   
   {
@@ -2031,7 +446,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-10T19:00:00Z"
+    "date": "2026-07-10T23:00:00Z"
   },
   
   {
@@ -2041,7 +456,7 @@
     "opponent": "Greenville Drive",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-10T19:00:00Z"
+    "date": "2026-07-10T23:00:00Z"
   },
   
   {
@@ -2051,7 +466,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-10T19:05:00Z"
+    "date": "2026-07-10T23:05:00Z"
   },
   
   {
@@ -2061,7 +476,7 @@
     "opponent": "Rome Emperors",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-10T19:05:00Z"
+    "date": "2026-07-10T23:05:00Z"
   },
   
   {
@@ -2071,7 +486,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-11T16:35:00Z"
+    "date": "2026-07-11T20:35:00Z"
   },
   
   {
@@ -2081,7 +496,7 @@
     "opponent": "Rome Emperors",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-11T17:05:00Z"
+    "date": "2026-07-11T21:05:00Z"
   },
   
   {
@@ -2091,7 +506,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-11T18:00:00Z"
+    "date": "2026-07-11T22:00:00Z"
   },
   
   {
@@ -2101,7 +516,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-11T18:00:00Z"
+    "date": "2026-07-11T22:00:00Z"
   },
   
   {
@@ -2111,7 +526,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-11T18:05:00Z"
+    "date": "2026-07-11T22:05:00Z"
   },
   
   {
@@ -2121,7 +536,7 @@
     "opponent": "Greenville Drive",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-11T18:30:00Z"
+    "date": "2026-07-11T22:30:00Z"
   },
   
   {
@@ -2131,7 +546,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-12T13:05:00Z"
+    "date": "2026-07-12T17:05:00Z"
   },
   
   {
@@ -2141,7 +556,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-12T14:00:00Z"
+    "date": "2026-07-12T18:00:00Z"
   },
   
   {
@@ -2151,7 +566,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-12T14:00:00Z"
+    "date": "2026-07-12T18:00:00Z"
   },
   
   {
@@ -2161,7 +576,7 @@
     "opponent": "Greenville Drive",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-12T14:00:00Z"
+    "date": "2026-07-12T18:00:00Z"
   },
   
   {
@@ -2171,7 +586,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-12T14:05:00Z"
+    "date": "2026-07-12T18:05:00Z"
   },
   
   {
@@ -2181,7 +596,7 @@
     "opponent": "Rome Emperors",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-12T14:05:00Z"
+    "date": "2026-07-12T18:05:00Z"
   },
   
   {
@@ -2191,7 +606,7 @@
     "opponent": "Lexington Legends",
     "arena": "CaroMont Health Park",
     "city": "Gastonia, North Carolina",
-    "date": "2026-07-14T18:00:00Z"
+    "date": "2026-07-14T22:00:00Z"
   },
   
   {
@@ -2201,7 +616,7 @@
     "opponent": "Staten Island FerryHawks",
     "arena": "WellSpan Park",
     "city": "York, Pennsylvania",
-    "date": "2026-07-14T18:30:00Z"
+    "date": "2026-07-14T22:30:00Z"
   },
   
   {
@@ -2211,7 +626,7 @@
     "opponent": "Hagerstown Flying Boxcars",
     "arena": "Truist Point",
     "city": "High Point, North Carolina",
-    "date": "2026-07-14T18:35:00Z"
+    "date": "2026-07-14T22:35:00Z"
   },
   
   {
@@ -2221,7 +636,7 @@
     "opponent": "Lancaster Stormers",
     "arena": "Fairfield Properties Ballpark",
     "city": "Central Islip, New York",
-    "date": "2026-07-14T18:35:00Z"
+    "date": "2026-07-14T22:35:00Z"
   },
   
   {
@@ -2231,7 +646,7 @@
     "opponent": "Charleston Dirty Birds",
     "arena": "Regency Furniture Stadium",
     "city": "Waldorf, Maryland",
-    "date": "2026-07-14T18:35:00Z"
+    "date": "2026-07-14T22:35:00Z"
   },
   
   {
@@ -2241,7 +656,7 @@
     "opponent": "Lancaster Stormers",
     "arena": "Fairfield Properties Ballpark",
     "city": "Central Islip, New York",
-    "date": "2026-07-15T11:05:00Z"
+    "date": "2026-07-15T15:05:00Z"
   },
   
   {
@@ -2251,7 +666,7 @@
     "opponent": "Charleston Dirty Birds",
     "arena": "Regency Furniture Stadium",
     "city": "Waldorf, Maryland",
-    "date": "2026-07-15T11:05:00Z"
+    "date": "2026-07-15T15:05:00Z"
   },
   
   {
@@ -2261,7 +676,7 @@
     "opponent": "Hagerstown Flying Boxcars",
     "arena": "Truist Point",
     "city": "High Point, North Carolina",
-    "date": "2026-07-15T12:05:00Z"
+    "date": "2026-07-15T16:05:00Z"
   },
   
   {
@@ -2271,7 +686,7 @@
     "opponent": "Lexington Legends",
     "arena": "CaroMont Health Park",
     "city": "Gastonia, North Carolina",
-    "date": "2026-07-15T18:00:00Z"
+    "date": "2026-07-15T22:00:00Z"
   },
   
   {
@@ -2281,7 +696,7 @@
     "opponent": "Staten Island FerryHawks",
     "arena": "WellSpan Park",
     "city": "York, Pennsylvania",
-    "date": "2026-07-15T18:30:00Z"
+    "date": "2026-07-15T22:30:00Z"
   },
   
   {
@@ -2291,7 +706,7 @@
     "opponent": "Staten Island FerryHawks",
     "arena": "WellSpan Park",
     "city": "York, Pennsylvania",
-    "date": "2026-07-16T11:00:00Z"
+    "date": "2026-07-16T15:00:00Z"
   },
   
   {
@@ -2301,7 +716,7 @@
     "opponent": "Hagerstown Flying Boxcars",
     "arena": "Truist Point",
     "city": "High Point, North Carolina",
-    "date": "2026-07-16T18:35:00Z"
+    "date": "2026-07-16T22:35:00Z"
   },
   
   {
@@ -2311,7 +726,7 @@
     "opponent": "Lancaster Stormers",
     "arena": "Fairfield Properties Ballpark",
     "city": "Central Islip, New York",
-    "date": "2026-07-16T18:35:00Z"
+    "date": "2026-07-16T22:35:00Z"
   },
   
   {
@@ -2321,7 +736,7 @@
     "opponent": "Charleston Dirty Birds",
     "arena": "Regency Furniture Stadium",
     "city": "Waldorf, Maryland",
-    "date": "2026-07-16T18:35:00Z"
+    "date": "2026-07-16T22:35:00Z"
   },
   
   {
@@ -2331,7 +746,7 @@
     "opponent": "Lexington Legends",
     "arena": "CaroMont Health Park",
     "city": "Gastonia, North Carolina",
-    "date": "2026-07-16T19:00:00Z"
+    "date": "2026-07-16T23:00:00Z"
   },
   
   {
@@ -2341,7 +756,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-17T18:35:00Z"
+    "date": "2026-07-17T22:35:00Z"
   },
   
   {
@@ -2351,7 +766,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-17T18:40:00Z"
+    "date": "2026-07-17T22:40:00Z"
   },
   
   {
@@ -2361,7 +776,7 @@
     "opponent": "Frederick Keys",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-17T18:45:00Z"
+    "date": "2026-07-17T22:45:00Z"
   },
   
   {
@@ -2371,7 +786,7 @@
     "opponent": "Asheville Tourists",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-17T18:45:00Z"
+    "date": "2026-07-17T22:45:00Z"
   },
   
   {
@@ -2381,7 +796,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-17T19:05:00Z"
+    "date": "2026-07-17T23:05:00Z"
   },
   
   {
@@ -2391,7 +806,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-17T19:35:00Z"
+    "date": "2026-07-17T23:35:00Z"
   },
   
   {
@@ -2401,7 +816,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-18T16:35:00Z"
+    "date": "2026-07-18T20:35:00Z"
   },
   
   {
@@ -2411,7 +826,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-18T18:00:00Z"
+    "date": "2026-07-18T22:00:00Z"
   },
   
   {
@@ -2421,7 +836,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-18T18:05:00Z"
+    "date": "2026-07-18T22:05:00Z"
   },
   
   {
@@ -2431,7 +846,7 @@
     "opponent": "Frederick Keys",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-18T18:45:00Z"
+    "date": "2026-07-18T22:45:00Z"
   },
   
   {
@@ -2441,7 +856,7 @@
     "opponent": "Asheville Tourists",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-18T18:45:00Z"
+    "date": "2026-07-18T22:45:00Z"
   },
   
   {
@@ -2451,7 +866,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-18T19:35:00Z"
+    "date": "2026-07-18T23:35:00Z"
   },
   
   {
@@ -2461,7 +876,7 @@
     "opponent": "Asheville Tourists",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-19T13:00:00Z"
+    "date": "2026-07-19T17:00:00Z"
   },
   
   {
@@ -2471,7 +886,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-19T13:05:00Z"
+    "date": "2026-07-19T17:05:00Z"
   },
   
   {
@@ -2481,7 +896,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-19T14:00:00Z"
+    "date": "2026-07-19T18:00:00Z"
   },
   
   {
@@ -2491,7 +906,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-19T14:05:00Z"
+    "date": "2026-07-19T18:05:00Z"
   },
   
   {
@@ -2501,7 +916,7 @@
     "opponent": "Frederick Keys",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-19T15:05:00Z"
+    "date": "2026-07-19T19:05:00Z"
   },
   
   {
@@ -2511,7 +926,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-19T16:35:00Z"
+    "date": "2026-07-19T20:35:00Z"
   },
   
   {
@@ -2521,7 +936,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-21T18:05:00Z"
+    "date": "2026-07-21T22:05:00Z"
   },
   
   {
@@ -2531,7 +946,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-21T18:05:00Z"
+    "date": "2026-07-21T22:05:00Z"
   },
   
   {
@@ -2541,7 +956,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-21T18:30:00Z"
+    "date": "2026-07-21T22:30:00Z"
   },
   
   {
@@ -2551,7 +966,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-21T18:45:00Z"
+    "date": "2026-07-21T22:45:00Z"
   },
   
   {
@@ -2561,7 +976,7 @@
     "opponent": "Frederick Keys",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-21T18:45:00Z"
+    "date": "2026-07-21T22:45:00Z"
   },
   
   {
@@ -2571,7 +986,7 @@
     "opponent": "Asheville Tourists",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-21T19:35:00Z"
+    "date": "2026-07-21T23:35:00Z"
   },
   
   {
@@ -2581,7 +996,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-22T11:05:00Z"
+    "date": "2026-07-22T15:05:00Z"
   },
   
   {
@@ -2591,7 +1006,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-22T11:05:00Z"
+    "date": "2026-07-22T15:05:00Z"
   },
   
   {
@@ -2601,7 +1016,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-22T18:30:00Z"
+    "date": "2026-07-22T22:30:00Z"
   },
   
   {
@@ -2611,7 +1026,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-22T18:45:00Z"
+    "date": "2026-07-22T22:45:00Z"
   },
   
   {
@@ -2621,7 +1036,7 @@
     "opponent": "Frederick Keys",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-22T18:45:00Z"
+    "date": "2026-07-22T22:45:00Z"
   },
   
   {
@@ -2631,7 +1046,7 @@
     "opponent": "Asheville Tourists",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-22T19:35:00Z"
+    "date": "2026-07-22T23:35:00Z"
   },
   
   {
@@ -2641,7 +1056,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-23T18:30:00Z"
+    "date": "2026-07-23T22:30:00Z"
   },
   
   {
@@ -2651,7 +1066,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-23T18:35:00Z"
+    "date": "2026-07-23T22:35:00Z"
   },
   
   {
@@ -2661,7 +1076,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-23T18:45:00Z"
+    "date": "2026-07-23T22:45:00Z"
   },
   
   {
@@ -2671,7 +1086,7 @@
     "opponent": "Frederick Keys",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-23T18:45:00Z"
+    "date": "2026-07-23T22:45:00Z"
   },
   
   {
@@ -2681,7 +1096,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-23T19:05:00Z"
+    "date": "2026-07-23T23:05:00Z"
   },
   
   {
@@ -2691,7 +1106,7 @@
     "opponent": "Asheville Tourists",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-23T19:35:00Z"
+    "date": "2026-07-23T23:35:00Z"
   },
   
   {
@@ -2701,7 +1116,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-24T18:30:00Z"
+    "date": "2026-07-24T22:30:00Z"
   },
   
   {
@@ -2711,7 +1126,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-24T18:35:00Z"
+    "date": "2026-07-24T22:35:00Z"
   },
   
   {
@@ -2721,7 +1136,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-24T18:45:00Z"
+    "date": "2026-07-24T22:45:00Z"
   },
   
   {
@@ -2731,7 +1146,7 @@
     "opponent": "Frederick Keys",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-24T18:45:00Z"
+    "date": "2026-07-24T22:45:00Z"
   },
   
   {
@@ -2741,7 +1156,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-24T19:05:00Z"
+    "date": "2026-07-24T23:05:00Z"
   },
   
   {
@@ -2751,7 +1166,7 @@
     "opponent": "Asheville Tourists",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-24T19:35:00Z"
+    "date": "2026-07-24T23:35:00Z"
   },
   
   {
@@ -2761,7 +1176,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-25T18:05:00Z"
+    "date": "2026-07-25T22:05:00Z"
   },
   
   {
@@ -2771,7 +1186,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-25T18:30:00Z"
+    "date": "2026-07-25T22:30:00Z"
   },
   
   {
@@ -2781,7 +1196,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-25T18:45:00Z"
+    "date": "2026-07-25T22:45:00Z"
   },
   
   {
@@ -2791,7 +1206,7 @@
     "opponent": "Frederick Keys",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-25T18:45:00Z"
+    "date": "2026-07-25T22:45:00Z"
   },
   
   {
@@ -2801,7 +1216,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-25T19:05:00Z"
+    "date": "2026-07-25T23:05:00Z"
   },
   
   {
@@ -2811,7 +1226,7 @@
     "opponent": "Asheville Tourists",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-25T19:35:00Z"
+    "date": "2026-07-25T23:35:00Z"
   },
   
   {
@@ -2821,7 +1236,7 @@
     "opponent": "Frederick Keys",
     "arena": "AdventHealth Stadium",
     "city": "Rome, Georgia",
-    "date": "2026-07-26T13:00:00Z"
+    "date": "2026-07-26T17:00:00Z"
   },
   
   {
@@ -2831,7 +1246,7 @@
     "opponent": "Brooklyn Cyclones",
     "arena": "ShoreTown Ballpark",
     "city": "Lakewood, New Jersey",
-    "date": "2026-07-26T13:05:00Z"
+    "date": "2026-07-26T17:05:00Z"
   },
   
   {
@@ -2841,7 +1256,7 @@
     "opponent": "Hudson Valley Renegades",
     "arena": "Daniel S. Frawley Stadium",
     "city": "Wilmington, Delaware",
-    "date": "2026-07-26T13:05:00Z"
+    "date": "2026-07-26T17:05:00Z"
   },
   
   {
@@ -2851,7 +1266,7 @@
     "opponent": "Greensboro Grasshoppers",
     "arena": "Truist Stadium",
     "city": "Winston-Salem, North Carolina",
-    "date": "2026-07-26T14:00:00Z"
+    "date": "2026-07-26T18:00:00Z"
   },
   
   {
@@ -2861,7 +1276,7 @@
     "opponent": "Asheville Tourists",
     "arena": "Bowling Green Ballpark",
     "city": "Bowling Green, Kentucky",
-    "date": "2026-07-26T14:05:00Z"
+    "date": "2026-07-26T18:05:00Z"
   },
   
   {
@@ -2871,7 +1286,7 @@
     "opponent": "Hub City Spartanburgers",
     "arena": "Fluor Field at the West End",
     "city": "Greenville, South Carolina",
-    "date": "2026-07-26T15:05:00Z"
+    "date": "2026-07-26T19:05:00Z"
   },
   
   {
@@ -2881,7 +1296,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-28T18:00:00Z"
+    "date": "2026-07-28T22:00:00Z"
   },
   
   {
@@ -2891,7 +1306,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-28T18:30:00Z"
+    "date": "2026-07-28T22:30:00Z"
   },
   
   {
@@ -2901,7 +1316,7 @@
     "opponent": "Greenville Drive",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-28T18:35:00Z"
+    "date": "2026-07-28T22:35:00Z"
   },
   
   {
@@ -2911,7 +1326,7 @@
     "opponent": "Rome Emperors",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-28T18:35:00Z"
+    "date": "2026-07-28T22:35:00Z"
   },
   
   {
@@ -2921,7 +1336,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-28T18:35:00Z"
+    "date": "2026-07-28T22:35:00Z"
   },
   
   {
@@ -2931,7 +1346,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-28T18:40:00Z"
+    "date": "2026-07-28T22:40:00Z"
   },
   
   {
@@ -2941,7 +1356,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-29T11:00:00Z"
+    "date": "2026-07-29T15:00:00Z"
   },
   
   {
@@ -2951,7 +1366,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-29T12:00:00Z"
+    "date": "2026-07-29T16:00:00Z"
   },
   
   {
@@ -2961,7 +1376,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-29T12:05:00Z"
+    "date": "2026-07-29T16:05:00Z"
   },
   
   {
@@ -2971,7 +1386,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-29T18:30:00Z"
+    "date": "2026-07-29T22:30:00Z"
   },
   
   {
@@ -2981,7 +1396,7 @@
     "opponent": "Greenville Drive",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-29T18:35:00Z"
+    "date": "2026-07-29T22:35:00Z"
   },
   
   {
@@ -2991,7 +1406,7 @@
     "opponent": "Rome Emperors",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-29T18:35:00Z"
+    "date": "2026-07-29T22:35:00Z"
   },
   
   {
@@ -3001,7 +1416,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-30T18:30:00Z"
+    "date": "2026-07-30T22:30:00Z"
   },
   
   {
@@ -3011,7 +1426,7 @@
     "opponent": "Greenville Drive",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-30T18:35:00Z"
+    "date": "2026-07-30T22:35:00Z"
   },
   
   {
@@ -3021,7 +1436,7 @@
     "opponent": "Rome Emperors",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-30T18:35:00Z"
+    "date": "2026-07-30T22:35:00Z"
   },
   
   {
@@ -3031,7 +1446,7 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-30T18:35:00Z"
+    "date": "2026-07-30T22:35:00Z"
   },
   
   {
@@ -3041,7 +1456,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-30T18:40:00Z"
+    "date": "2026-07-30T22:40:00Z"
   },
   
   {
@@ -3051,7 +1466,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-30T19:00:00Z"
+    "date": "2026-07-30T23:00:00Z"
   },
   
   {
@@ -3061,7 +1476,7 @@
     "opponent": "Greenville Drive",
     "arena": "McCormick Field",
     "city": "Asheville, North Carolina",
-    "date": "2026-07-31T18:35:00Z"
+    "date": "2026-07-31T22:35:00Z"
   },
   
   {
@@ -3071,7 +1486,7 @@
     "opponent": "Winston-Salem Dash",
     "arena": "Maimonides Park",
     "city": "Brooklyn, New York",
-    "date": "2026-07-31T18:40:00Z"
+    "date": "2026-07-31T22:40:00Z"
   },
   
   {
@@ -3081,7 +1496,7 @@
     "opponent": "Wilmington Blue Rocks",
     "arena": "Nymeo Field At Harry Grove Stadium",
     "city": "Frederick, Maryland",
-    "date": "2026-07-31T19:00:00Z"
+    "date": "2026-07-31T23:00:00Z"
   },
   
   {
@@ -3091,7 +1506,7 @@
     "opponent": "Bowling Green Hot Rods",
     "arena": "First National Bank Field",
     "city": "Greensboro, North Carolina",
-    "date": "2026-07-31T19:00:00Z"
+    "date": "2026-07-31T23:00:00Z"
   },
   
   {
@@ -3101,7 +1516,7 @@
     "opponent": "Rome Emperors",
     "arena": "Fifth Third Park",
     "city": "Spartanburg, South Carolina",
-    "date": "2026-07-31T19:05:00Z"
+    "date": "2026-07-31T23:05:00Z"
   },
   
   {
@@ -3111,6 +1526,6 @@
     "opponent": "Jersey Shore BlueClaws",
     "arena": "Heritage Financial Park",
     "city": "Wappingers Falls, New York",
-    "date": "2026-07-31T19:05:00Z"
+    "date": "2026-07-31T23:05:00Z"
   }
 ]
