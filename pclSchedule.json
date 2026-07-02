@@ -1,78 +1,12 @@
 [
   {
-    "id": "pcl_2026070101",
-    "league": "PCL",
-    "team": "Round Rock Express",
-    "opponent": "Albuquerque Isotopes",
-    "arena": "Dell Diamond",
-    "city": "Round Rock, Texas",
-    "date": "2026-07-02T00:45:00Z",
-    "giveaway": [
-      {
-        "title": "$1 Hot Dogs",
-        "details": "$1 hot dogs all game."
-      },
-      {
-        "title": "Winning Wednesday",
-        "details": "Texas Lottery Veterans Seat Upgrade, Lucky Row and Trivia."
-      }
-    ]
-  },
-  {
-    "id": "pcl_2026070102",
-    "league": "PCL",
-    "team": "Oklahoma City Comets",
-    "opponent": "Sugar Land Space Cowboys",
-    "arena": "Chickasaw Bricktown Ballpark",
-    "city": "Oklahoma City, Oklahoma",
-    "date": "2026-07-02T01:05:00Z"
-  },
-  {
-    "id": "pcl_2026070103",
-    "league": "PCL",
-    "team": "Salt Lake Bees",
-    "opponent": "Las Vegas Aviators",
-    "arena": "The Ballpark at America First Square",
-    "city": "South Jordan, Utah",
-    "date": "2026-07-02T01:35:00Z"
-  },
-  {
-    "id": "pcl_2026070104",
-    "league": "PCL",
-    "team": "El Paso Chihuahuas",
-    "opponent": "Sacramento River Cats",
-    "arena": "Southwest University Park",
-    "city": "El Paso, Texas",
-    "date": "2026-07-02T01:35:00Z",
-    "giveaway": {
-      "title": "Mature Munchies Wednesday",
-      "details": "Guests over 60 receive a free hot dog meal. Guests over 50 receive a voucher for $1 popcorn."
-    }
-  },
-  {
-    "id": "pcl_2026070105",
-    "league": "PCL",
-    "team": "Tacoma Rainiers",
-    "opponent": "Reno Aces",
-    "arena": "Cheney Stadium",
-    "city": "Tacoma, Washington",
-    "date": "2026-07-02T03:05:00Z",
-    "giveaway": {
-      "title": "Craft Brew Wednesdays",
-      "details": "SPECIAL TICKET REQUIRED. Weekly rotation of $6 local craft beers."
-    },
-    "fireworks": {
-      "title": "Copa de la Diversión, Hometown Hero Game"
-    }
-  },
-  {
     "id": "pcl_2026070201",
     "league": "PCL",
     "team": "Round Rock Express",
     "opponent": "Albuquerque Isotopes",
     "arena": "Dell Diamond",
     "city": "Round Rock, Texas",
-    "date": "2026-07-03T00:45:00Z",
+    "date": "2026-07-02T23:45:00Z",
     "giveaway": {
       "title": "Thrifty Thursday",
       "details": "Discounts on select tickets, food and beverages."
@@ -88,7 +22,7 @@
     "opponent": "Sugar Land Space Cowboys",
     "arena": "Chickasaw Bricktown Ballpark",
     "city": "Oklahoma City, Oklahoma",
-    "date": "2026-07-03T01:05:00Z"
+    "date": "2026-07-03T00:05:00Z"
   },
   {
     "id": "pcl_2026070203",
@@ -97,7 +31,7 @@
     "opponent": "Las Vegas Aviators",
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
-    "date": "2026-07-03T01:35:00Z"
+    "date": "2026-07-03T00:35:00Z"
   },
   {
     "id": "pcl_2026070204",
@@ -106,7 +40,7 @@
     "opponent": "Sacramento River Cats",
     "arena": "Southwest University Park",
     "city": "El Paso, Texas",
-    "date": "2026-07-03T01:35:00Z"
+    "date": "2026-07-03T00:35:00Z"
   },
   {
     "id": "pcl_2026070205",
@@ -115,7 +49,7 @@
     "opponent": "Reno Aces",
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
-    "date": "2026-07-03T03:05:00Z",
+    "date": "2026-07-03T02:05:00Z",
     "giveaway": [
       {
         "title": "Salute to Service Thursdays",
@@ -137,7 +71,7 @@
     "opponent": "Albuquerque Isotopes",
     "arena": "Dell Diamond",
     "city": "Round Rock, Texas",
-    "date": "2026-07-04T01:05:00Z",
+    "date": "2026-07-04T00:05:00Z",
     "giveaway": {
       "title": "Widget Cap Giveaway",
       "details": "First 2,000 fans receive a Widget Cap."
@@ -153,7 +87,7 @@
     "opponent": "Sugar Land Space Cowboys",
     "arena": "Chickasaw Bricktown Ballpark",
     "city": "Oklahoma City, Oklahoma",
-    "date": "2026-07-04T01:05:00Z",
+    "date": "2026-07-04T00:05:00Z",
     "giveaway": {
       "title": "Comets Luggage Tag Giveaway",
       "details": "First 1,000 fans receive a Comets Luggage Tag."
@@ -169,7 +103,7 @@
     "opponent": "Las Vegas Aviators",
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
-    "date": "2026-07-04T01:35:00Z",
+    "date": "2026-07-04T00:35:00Z",
     "fireworks": {
       "title": "Fireworks Night"
     }
@@ -181,7 +115,7 @@
     "opponent": "Sacramento River Cats",
     "arena": "Southwest University Park",
     "city": "El Paso, Texas",
-    "date": "2026-07-04T01:35:00Z",
+    "date": "2026-07-04T00:35:00Z",
     "fireworks": {
       "title": "Fireworks Spectacular"
     }
@@ -193,7 +127,7 @@
     "opponent": "Reno Aces",
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
-    "date": "2026-07-04T03:05:00Z",
+    "date": "2026-07-04T02:05:00Z",
     "fireworks": {
        "title": "Friday Night Fireworks, Fireworks Extravaganza"
      }
