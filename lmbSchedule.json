@@ -1,524 +1,1081 @@
 [
   {
-    "id": "lmb_2026062001",
-    "league": "LMB",
-    "team": "Rieleros de Aguascalientes",
-    "opponent": "Pericos de Puebla",
-    "arena": "Parque Alberto Romo Chávez",
-    "city": "Aguascalientes City, Aguascalientes",
-    "date": "2026-06-21T01:00:00Z"
-  },
-  {
-    "id": "lmb_2026062002",
-    "league": "LMB",
-    "team": "Piratas de Campeche",
-    "opponent": "Acereros de Monclova",
-    "arena": "Estadio Cruz Azul Nelson Barrera",
-    "city": "Campeche City, Campeche",
-    "date": "2026-06-21T01:15:00Z"
-  },
-  {
-    "id": "lmb_2026062003",
-    "league": "LMB",
-    "team": "Algodoneros de Unión Laguna",
-    "opponent": "Leones de Yucatán",
-    "arena": "Estadio de la Revolución",
-    "city": "Torreón, Coahuila",
-    "date": "2026-06-21T01:30:00Z"
-  },
-  {
-    "id": "lmb_2026062004",
+    "id": "lmb_2026070101",
     "league": "LMB",
     "team": "Caliente de Durango",
-    "opponent": "Conspiradores de Querétaro",
+    "opponent": "Jalisco",
     "arena": "Estadio Francisco Villa",
     "city": "Durango City, Durango",
-    "date": "2026-06-21T02:05:00Z"
+    "date": "2026-07-02T01:00:00Z"
   },
+  
   {
-    "id": "lmb_2026062005",
+    "id": "lmb_2026070102",
     "league": "LMB",
-    "team": "Tecolotes de los Dos Laredos",
-    "opponent": "El Águila de Veracruz",
-    "arena": "Uni-Trade Stadium",
-    "city": "Laredo, Texas",
-    "date": "2026-06-21T03:00:00Z"
+    "team": "Oaxaca",
+    "opponent": "Diablos Rojos",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-07-02T01:00:00Z"
   },
+  
   {
-    "id": "lmb_2026062006",
+    "id": "lmb_2026070103",
     "league": "LMB",
-    "team": "Toros de Tijuana",
-    "opponent": "Olmecas de Tabasco",
-    "arena": "Toros Mobil Park",
-    "city": "Tijuana, Baja California",
-    "date": "2026-06-21T03:35:00Z"
-  },
-  {
-    "id": "lmb_2026062101",
-    "league": "LMB",
-    "team": "Diablos Rojos del México",
-    "opponent": "Sultanes de Monterrey",
-    "arena": "Estadio Alfredo Harp Helú",
-    "city": "Iztacalco, Mexico City",
-    "date": "2026-06-21T21:00:00Z"
-  },
-  {
-    "id": "lmb_2026062102",
-    "league": "LMB",
-    "team": "Caliente de Durango",
-    "opponent": "Conspiradores de Querétaro",
-    "arena": "Estadio Francisco Villa",
-    "city": "Durango City, Durango",
-    "date": "2026-06-21T21:05:00Z"
-  },
-  {
-    "id": "lmb_2026062103",
-    "league": "LMB",
-    "team": "Tigres de Quintana Roo",
-    "opponent": "Dorados de Chihuahua",
+    "team": "Quintana Roo",
+    "opponent": "Veracruz",
     "arena": "Estadio Sherwin-Williams Beto Ávila",
     "city": "Cancún, Quintana Roo",
-    "date": "2026-06-21T23:00:00Z"
+    "date": "2026-07-02T01:00:00Z"
   },
+  
   {
-    "id": "lmb_2026062104",
+    "id": "lmb_2026070104",
     "league": "LMB",
-    "team": "Guerreros de Oaxaca",
-    "opponent": "Charros de Jalisco",
-    "arena": "Estadio Yu'va",
-    "city": "Oaxaca City, Oaxaca",
-    "date": "2026-06-22T00:00:00Z"
+    "team": "Bravos de Leon",
+    "opponent": "Tabasco",
+    "arena": "Estadio Domingo Santana TV4",
+    "city": "León, Guanajuato",
+    "date": "2026-07-02T01:30:00Z"
   },
+  
   {
-    "id": "lmb_2026062105",
+    "id": "lmb_2026070105",
     "league": "LMB",
-    "team": "Saraperos de Saltillo",
-    "opponent": "Bravos de León",
+    "team": "Saltillo",
+    "opponent": "Dos Laredos",
     "arena": "Estadio Francisco I. Madero",
     "city": "Saltillo, Coahuila",
-    "date": "2026-06-22T00:00:00Z"
+    "date": "2026-07-02T01:30:00Z"
   },
+  
   {
-    "id": "lmb_2026062106",
+    "id": "lmb_2026070106",
     "league": "LMB",
-    "team": "Rieleros de Aguascalientes",
-    "opponent": "Pericos de Puebla",
-    "arena": "Parque Alberto Romo Chávez",
-    "city": "Aguascalientes City, Aguascalientes",
-    "date": "2026-06-22T01:00:00Z"
-  },
-  {
-    "id": "lmb_2026062107",
-    "league": "LMB",
-    "team": "Tecolotes de los Dos Laredos",
-    "opponent": "El Águila de Veracruz",
-    "arena": "Uni-Trade Stadium",
-    "city": "Laredo, Texas",
-    "date": "2026-06-22T01:00:00Z"
-  },
-  {
-    "id": "lmb_2026062108",
-    "league": "LMB",
-    "team": "Piratas de Campeche",
-    "opponent": "Acereros de Monclova",
-    "arena": "Estadio Cruz Azul Nelson Barrera",
-    "city": "Campeche City, Campeche",
-    "date": "2026-06-22T01:15:00Z"
-  },
-  {
-    "id": "lmb_2026062109",
-    "league": "LMB",
-    "team": "Algodoneros de Unión Laguna",
-    "opponent": "Leones de Yucatán",
+    "team": "Laguna",
+    "opponent": "Aguascalientes",
     "arena": "Estadio de la Revolución",
     "city": "Torreón, Coahuila",
-    "date": "2026-06-22T01:30:00Z"
+    "date": "2026-07-02T02:00:00Z"
   },
+  
   {
-    "id": "lmb_2026062110",
+    "id": "lmb_2026070107",
     "league": "LMB",
-    "team": "Saraperos de Saltillo",
-    "opponent": "Bravos de León",
-    "arena": "Estadio Francisco I. Madero",
-    "city": "Saltillo, Coahuila",
-    "date": "2026-06-22T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062111",
-    "league": "LMB",
-    "team": "Toros de Tijuana",
-    "opponent": "Olmecas de Tabasco",
-    "arena": "Toros Mobil Park",
-    "city": "Tijuana, Baja California",
-    "date": "2026-06-22T02:05:00Z"
-  },
-  {
-    "id": "lmb_2026062201",
-    "league": "LMB",
-    "team": "Piratas de Campeche",
-    "opponent": "Diablos Rojos del México",
-    "arena": "Estadio Cruz Azul Nelson Barrera",
-    "city": "Campeche City, Campeche",
-    "date": "2026-06-23T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062301",
-    "league": "LMB",
-    "team": "Charros de Jalisco",
-    "opponent": "Saraperos de Saltillo",
-    "arena": "Estadio Panamericano",
-    "city": "Zapopan, Jalisco",
-    "date": "2026-06-23T20:00:00Z"
-  },
-  {
-    "id": "lmb_2026062302",
-    "league": "LMB",
-    "team": "Charros de Jalisco",
-    "opponent": "Saraperos de Saltillo",
-    "arena": "Estadio Panamericano",
-    "city": "Zapopan, Jalisco",
-    "date": "2026-06-23T22:00:00Z"
-  },
-  {
-    "id": "lmb_2026062303",
-    "league": "LMB",
-    "team": "Tecolotes de los Dos Laredos",
-    "opponent": "Algodoneros de Unión Laguna",
-    "arena": "Uni-Trade Stadium",
-    "city": "Laredo, Texas",
-    "date": "2026-06-24T01:00:00Z"
-  },
-  {
-    "id": "lmb_2026062304",
-    "league": "LMB",
-    "team": "Leones de Yucatán",
-    "opponent": "Tigres de Quintana Roo",
-    "arena": "Parque Kukulcán Alamo",
-    "city": "Mérida, Yucatán",
-    "date": "2026-06-24T01:00:00Z"
-  },
-  {
-    "id": "lmb_2026062305",
-    "league": "LMB",
-    "team": "Piratas de Campeche",
-    "opponent": "Diablos Rojos del México",
-    "arena": "Estadio Cruz Azul Nelson Barrera",
-    "city": "Campeche City, Campeche",
-    "date": "2026-06-24T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062306",
-    "league": "LMB",
-    "team": "Guerreros de Oaxaca",
-    "opponent": "Pericos de Puebla",
-    "arena": "Estadio Yu'va",
-    "city": "Oaxaca City, Oaxaca",
-    "date": "2026-06-24T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062307",
-    "league": "LMB",
-    "team": "Conspiradores de Querétaro",
-    "opponent": "Olmecas de Tabasco",
-    "arena": "Estadio Finsus",
-    "city": "Huimilpan, Querétaro",
-    "date": "2026-06-24T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062308",
-    "league": "LMB",
-    "team": "Rieleros de Aguascalientes",
-    "opponent": "Sultanes de Monterrey",
-    "arena": "Parque Alberto Romo Chávez",
-    "city": "Aguascalientes City, Aguascalientes",
-    "date": "2026-06-24T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062309",
-    "league": "LMB",
-    "team": "Bravos de León",
-    "opponent": "El Águila de Veracruz",
-    "arena": "Estadio Domingo Santana TV4",
-    "city": "León, Guanajuato",
-    "date": "2026-06-24T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062310",
-    "league": "LMB",
-    "team": "Acereros de Monclova",
-    "opponent": "Caliente de Durango",
-    "arena": "Estadio Kickapoo Lucky Eagle",
-    "city": "Monclova, Coahuila",
-    "date": "2026-06-24T02:45:00Z"
-  },
-  {
-    "id": "lmb_2026062311",
-    "league": "LMB",
-    "team": "Dorados de Chihuahua",
-    "opponent": "Toros de Tijuana",
-    "arena": "Estadio Monumental Chihuahua",
-    "city": "Chihuahua City, Chihuahua",
-    "date": "2026-06-24T03:00:00Z"
-  },
-  {
-    "id": "lmb_2026062312",
-    "league": "LMB",
-    "team": "Leones de Yucatán",
-    "opponent": "Tigres de Quintana Roo",
-    "arena": "Parque Kukulcán Alamo",
-    "city": "Mérida, Yucatán",
-    "date": "2026-06-24T03:00:00Z"
-  },
-  {
-    "id": "lmb_2026062401",
-    "league": "LMB",
-    "team": "Guerreros de Oaxaca",
-    "opponent": "Pericos de Puebla",
-    "arena": "Estadio Yu'va",
-    "city": "Oaxaca City, Oaxaca",
-    "date": "2026-06-25T00:00:00Z"
-  },
-  {
-    "id": "lmb_2026062402",
-    "league": "LMB",
-    "team": "Tecolotes de los Dos Laredos",
-    "opponent": "Algodoneros de Unión Laguna",
-    "arena": "Uni-Trade Stadium",
-    "city": "Laredo, Texas",
-    "date": "2026-06-25T00:30:00Z"
-  },
-  {
-    "id": "lmb_2026062403",
-    "league": "LMB",
-    "team": "Piratas de Campeche",
-    "opponent": "Diablos Rojos del México",
-    "arena": "Estadio Cruz Azul Nelson Barrera",
-    "city": "Campeche City, Campeche",
-    "date": "2026-06-25T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062404",
-    "league": "LMB",
-    "team": "Conspiradores de Querétaro",
-    "opponent": "Olmecas de Tabasco",
-    "arena": "Estadio Finsus",
-    "city": "Huimilpan, Querétaro",
-    "date": "2026-06-25T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062405",
-    "league": "LMB",
-    "team": "Rieleros de Aguascalientes",
-    "opponent": "Sultanes de Monterrey",
-    "arena": "Parque Alberto Romo Chávez",
-    "city": "Aguascalientes City, Aguascalientes",
-    "date": "2026-06-25T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062406",
-    "league": "LMB",
-    "team": "Bravos de León",
-    "opponent": "El Águila de Veracruz",
-    "arena": "Estadio Domingo Santana TV4",
-    "city": "León, Guanajuato",
-    "date": "2026-06-25T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062407",
-    "league": "LMB",
-    "team": "Acereros de Monclova",
-    "opponent": "Caliente de Durango",
-    "arena": "Estadio Kickapoo Lucky Eagle",
-    "city": "Monclova, Coahuila",
-    "date": "2026-06-25T02:45:00Z"
-  },
-  {
-    "id": "lmb_2026062408",
-    "league": "LMB",
-    "team": "Dorados de Chihuahua",
-    "opponent": "Toros de Tijuana",
-    "arena": "Estadio Monumental Chihuahua",
-    "city": "Chihuahua City, Chihuahua",
-    "date": "2026-06-25T03:00:00Z"
-  },
-  {
-    "id": "lmb_2026062501",
-    "league": "LMB",
-    "team": "Tecolotes de los Dos Laredos",
-    "opponent": "Algodoneros de Unión Laguna",
-    "arena": "Uni-Trade Stadium",
-    "city": "Laredo, Texas",
-    "date": "2026-06-26T00:30:00Z"
-  },
-  {
-    "id": "lmb_2026062502",
-    "league": "LMB",
-    "team": "Guerreros de Oaxaca",
-    "opponent": "Pericos de Puebla",
-    "arena": "Estadio Yu'va",
-    "city": "Oaxaca City, Oaxaca",
-    "date": "2026-06-26T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062503",
-    "league": "LMB",
-    "team": "Conspiradores de Querétaro",
-    "opponent": "Olmecas de Tabasco",
-    "arena": "Estadio Finsus",
-    "city": "Huimilpan, Querétaro",
-    "date": "2026-06-26T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026062504",
-    "league": "LMB",
-    "team": "Rieleros de Aguascalientes",
-    "opponent": "Sultanes de Monterrey",
-    "arena": "Parque Alberto Romo Chávez",
-    "city": "Aguascalientes City, Aguascalientes",
-    "date": "2026-06-26T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062505",
-    "league": "LMB",
-    "team": "Bravos de León",
-    "opponent": "El Águila de Veracruz",
-    "arena": "Estadio Domingo Santana TV4",
-    "city": "León, Guanajuato",
-    "date": "2026-06-26T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062506",
-    "league": "LMB",
-    "team": "Charros de Jalisco",
-    "opponent": "Saraperos de Saltillo",
-    "arena": "Estadio Panamericano",
-    "city": "Zapopan, Jalisco",
-    "date": "2026-06-26T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062507",
-    "league": "LMB",
-    "team": "Leones de Yucatán",
-    "opponent": "Tigres de Quintana Roo",
-    "arena": "Parque Kukulcán Alamo",
-    "city": "Mérida, Yucatán",
-    "date": "2026-06-26T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026062508",
-    "league": "LMB",
-    "team": "Acereros de Monclova",
-    "opponent": "Caliente de Durango",
-    "arena": "Estadio Kickapoo Lucky Eagle",
-    "city": "Monclova, Coahuila",
-    "date": "2026-06-26T02:45:00Z"
-  },
-  {
-    "id": "lmb_2026062509",
-    "league": "LMB",
-    "team": "Dorados de Chihuahua",
-    "opponent": "Toros de Tijuana",
-    "arena": "Estadio Monumental Chihuahua",
-    "city": "Chihuahua City, Chihuahua",
-    "date": "2026-06-26T03:00:00Z"
-  },
-  {
-    "id": "lmb_2026062901",
-    "league": "LMB",
-    "team": "Acereros de Monclova",
+    "team": "Monclova",
     "opponent": "Toros de Tijuana",
     "arena": "Estadio Kickapoo Lucky Eagle",
     "city": "Monclova, Coahuila",
-    "date": "2026-06-30T02:45:00Z"
+    "date": "2026-07-02T02:00:00Z"
   },
+  
   {
-    "id": "lmb_2026063001",
+    "id": "lmb_2026070108",
     "league": "LMB",
-    "team": "Tigres de Quintana Roo",
-    "opponent": "El Águila de Veracruz",
-    "arena": "Estadio Sherwin-Williams Beto Ávila",
-    "city": "Cancún, Quintana Roo",
-    "date": "2026-07-01T01:30:00Z"
-  },
-  {
-    "id": "lmb_2026063002",
-    "league": "LMB",
-    "team": "Guerreros de Oaxaca",
-    "opponent": "Diablos Rojos del México",
-    "arena": "Estadio Yu'va",
-    "city": "Oaxaca City, Oaxaca",
-    "date": "2026-07-01T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026063003",
-    "league": "LMB",
-    "team": "Pericos de Puebla",
-    "opponent": "Leones de Yucatán",
-    "arena": "Estadio Hermanos Serdán",
-    "city": "Puebla City, Puebla",
-    "date": "2026-07-01T02:00:00Z"
-  },
-  {
-    "id": "lmb_2026063004",
-    "league": "LMB",
-    "team": "Conspiradores de Querétaro",
-    "opponent": "Piratas de Campeche",
+    "team": "Queretaro",
+    "opponent": "Campeche",
     "arena": "Estadio Finsus",
     "city": "Huimilpan, Querétaro",
-    "date": "2026-07-01T02:00:00Z"
+    "date": "2026-07-02T02:00:00Z"
   },
+  
   {
-    "id": "lmb_2026063005",
+    "id": "lmb_2026070109",
     "league": "LMB",
-    "team": "Caliente de Durango",
-    "opponent": "Charros de Jalisco",
-    "arena": "Estadio Francisco Villa",
-    "city": "Durango City, Durango",
-    "date": "2026-07-01T02:10:00Z"
-  },
-  {
-    "id": "lmb_2026063006",
-    "league": "LMB",
-    "team": "Bravos de León",
-    "opponent": "Olmecas de Tabasco",
-    "arena": "Estadio Domingo Santana TV4",
-    "city": "León, Guanajuato",
-    "date": "2026-07-01T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026063007",
-    "league": "LMB",
-    "team": "Algodoneros de Unión Laguna",
-    "opponent": "Rieleros de Aguascalientes",
-    "arena": "Estadio de la Revolución",
-    "city": "Torreón, Coahuila",
-    "date": "2026-07-01T02:30:00Z"
-  },
-  {
-    "id": "lmb_2026063008",
-    "league": "LMB",
-    "team": "Sultanes de Monterrey",
-    "opponent": "Dorados de Chihuahua",
+    "team": "Monterrey",
+    "opponent": "Chihuahua",
     "arena": "Walmart Park",
     "city": "Monterrey, Nuevo León",
-    "date": "2026-07-01T02:30:00Z"
+    "date": "2026-07-02T02:30:00Z"
   },
+  
   {
-    "id": "lmb_2026063009",
+    "id": "lmb_2026070210",
     "league": "LMB",
-    "team": "Saraperos de Saltillo",
-    "opponent": "Tecolotes de los Dos Laredos",
+    "team": "Quintana Roo",
+    "opponent": "Veracruz",
+    "arena": "Estadio Sherwin-Williams Beto Ávila",
+    "city": "Cancún, Quintana Roo",
+    "date": "2026-07-03T00:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070211",
+    "league": "LMB",
+    "team": "Oaxaca",
+    "opponent": "Diablos Rojos",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-07-03T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070212",
+    "league": "LMB",
+    "team": "Puebla",
+    "opponent": "Yucatan",
+    "arena": "Estadio Hermanos Serdán",
+    "city": "Puebla City, Puebla",
+    "date": "2026-07-03T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070213",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Campeche",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-03T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070214",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Jalisco",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-07-03T01:10:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070215",
+    "league": "LMB",
+    "team": "Bravos de Leon",
+    "opponent": "Tabasco",
+    "arena": "Estadio Domingo Santana TV4",
+    "city": "León, Guanajuato",
+    "date": "2026-07-03T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070216",
+    "league": "LMB",
+    "team": "Laguna",
+    "opponent": "Aguascalientes",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-07-03T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070217",
+    "league": "LMB",
+    "team": "Monterrey",
+    "opponent": "Chihuahua",
+    "arena": "Walmart Park",
+    "city": "Monterrey, Nuevo León",
+    "date": "2026-07-03T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070218",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Dos Laredos",
     "arena": "Estadio Francisco I. Madero",
     "city": "Saltillo, Coahuila",
-    "date": "2026-07-01T02:30:00Z"
+    "date": "2026-07-03T01:30:00Z"
   },
+  
   {
-    "id": "lmb_2026063010",
+    "id": "lmb_2026070319",
     "league": "LMB",
-    "team": "Acereros de Monclova",
-    "opponent": "Toros de Tijuana",
+    "team": "Dos Laredos",
+    "opponent": "Monterrey",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-07-04T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070320",
+    "league": "LMB",
+    "team": "Diablos Rojos",
+    "opponent": "Campeche",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-07-04T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070321",
+    "league": "LMB",
+    "team": "Oaxaca",
+    "opponent": "Puebla",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-07-04T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070322",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Tabasco",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-04T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070323",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Bravos de Leon",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-04T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070324",
+    "league": "LMB",
+    "team": "Jalisco",
+    "opponent": "Chihuahua",
+    "arena": "Estadio Panamericano",
+    "city": "Zapopan, Jalisco",
+    "date": "2026-07-04T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070325",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Laguna",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-04T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070326",
+    "league": "LMB",
+    "team": "Yucatan",
+    "opponent": "Quintana Roo",
+    "arena": "Parque Kukulcán Alamo",
+    "city": "Mérida, Yucatán",
+    "date": "2026-07-04T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070327",
+    "league": "LMB",
+    "team": "Monclova",
+    "opponent": "Aguascalientes",
     "arena": "Estadio Kickapoo Lucky Eagle",
     "city": "Monclova, Coahuila",
-    "date": "2026-07-01T02:45:00Z"
+    "date": "2026-07-04T01:45:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070328",
+    "league": "LMB",
+    "team": "Toros de Tijuana",
+    "opponent": "Caliente de Durango",
+    "arena": "Toros Mobil Park",
+    "city": "Tijuana, Baja California",
+    "date": "2026-07-04T02:35:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070429",
+    "league": "LMB",
+    "team": "Diablos Rojos",
+    "opponent": "Campeche",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-07-04T22:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070430",
+    "league": "LMB",
+    "team": "Oaxaca",
+    "opponent": "Puebla",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-07-04T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070431",
+    "league": "LMB",
+    "team": "Dos Laredos",
+    "opponent": "Monterrey",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-07-04T23:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070432",
+    "league": "LMB",
+    "team": "Jalisco",
+    "opponent": "Chihuahua",
+    "arena": "Estadio Panamericano",
+    "city": "Zapopan, Jalisco",
+    "date": "2026-07-05T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070433",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Tabasco",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-05T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070434",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Laguna",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-05T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070435",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Bravos de Leon",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-05T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070436",
+    "league": "LMB",
+    "team": "Yucatan",
+    "opponent": "Quintana Roo",
+    "arena": "Parque Kukulcán Alamo",
+    "city": "Mérida, Yucatán",
+    "date": "2026-07-05T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070437",
+    "league": "LMB",
+    "team": "Monclova",
+    "opponent": "Aguascalientes",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-07-05T01:45:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070438",
+    "league": "LMB",
+    "team": "Toros de Tijuana",
+    "opponent": "Caliente de Durango",
+    "arena": "Toros Mobil Park",
+    "city": "Tijuana, Baja California",
+    "date": "2026-07-05T02:05:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070539",
+    "league": "LMB",
+    "team": "Diablos Rojos",
+    "opponent": "Campeche",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-07-05T20:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070540",
+    "league": "LMB",
+    "team": "Jalisco",
+    "opponent": "Chihuahua",
+    "arena": "Estadio Panamericano",
+    "city": "Zapopan, Jalisco",
+    "date": "2026-07-05T20:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070541",
+    "league": "LMB",
+    "team": "Oaxaca",
+    "opponent": "Puebla",
+    "arena": "Estadio Yu'va",
+    "city": "Oaxaca City, Oaxaca",
+    "date": "2026-07-05T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070542",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Tabasco",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-05T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070543",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Laguna",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-05T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070544",
+    "league": "LMB",
+    "team": "Dos Laredos",
+    "opponent": "Monterrey",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-07-06T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070545",
+    "league": "LMB",
+    "team": "Monclova",
+    "opponent": "Aguascalientes",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-07-06T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070546",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Bravos de Leon",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-06T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070547",
+    "league": "LMB",
+    "team": "Yucatan",
+    "opponent": "Quintana Roo",
+    "arena": "Parque Kukulcán Alamo",
+    "city": "Mérida, Yucatán",
+    "date": "2026-07-06T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070548",
+    "league": "LMB",
+    "team": "Toros de Tijuana",
+    "opponent": "Caliente de Durango",
+    "arena": "Toros Mobil Park",
+    "city": "Tijuana, Baja California",
+    "date": "2026-07-06T01:05:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070649",
+    "league": "LMB",
+    "team": "Yucatan",
+    "opponent": "Campeche",
+    "arena": "Parque Kukulcán Alamo",
+    "city": "Mérida, Yucatán",
+    "date": "2026-07-07T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070750",
+    "league": "LMB",
+    "team": "Dos Laredos",
+    "opponent": "Monclova",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-07-08T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070751",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Quintana Roo",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-08T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070752",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Oaxaca",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-08T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070753",
+    "league": "LMB",
+    "team": "Aguascalientes",
+    "opponent": "Toros de Tijuana",
+    "arena": "Parque Alberto Romo Chávez",
+    "city": "Aguascalientes City, Aguascalientes",
+    "date": "2026-07-08T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070754",
+    "league": "LMB",
+    "team": "Bravos de Leon",
+    "opponent": "Puebla",
+    "arena": "Estadio Domingo Santana TV4",
+    "city": "León, Guanajuato",
+    "date": "2026-07-08T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070755",
+    "league": "LMB",
+    "team": "Jalisco",
+    "opponent": "Monterrey",
+    "arena": "Estadio Panamericano",
+    "city": "Zapopan, Jalisco",
+    "date": "2026-07-08T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070756",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Caliente de Durango",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-08T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070757",
+    "league": "LMB",
+    "team": "Tabasco",
+    "opponent": "Diablos Rojos",
+    "arena": "Estadio Centenario Orsan",
+    "city": "Villahermosa, Tabasco",
+    "date": "2026-07-08T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070758",
+    "league": "LMB",
+    "team": "Yucatan",
+    "opponent": "Campeche",
+    "arena": "Parque Kukulcán Alamo",
+    "city": "Mérida, Yucatán",
+    "date": "2026-07-08T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070759",
+    "league": "LMB",
+    "team": "Chihuahua",
+    "opponent": "Laguna",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-07-08T02:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070860",
+    "league": "LMB",
+    "team": "Dos Laredos",
+    "opponent": "Monclova",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-07-08T23:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070861",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Quintana Roo",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-09T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070862",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Oaxaca",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-09T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070863",
+    "league": "LMB",
+    "team": "Aguascalientes",
+    "opponent": "Toros de Tijuana",
+    "arena": "Parque Alberto Romo Chávez",
+    "city": "Aguascalientes City, Aguascalientes",
+    "date": "2026-07-09T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070864",
+    "league": "LMB",
+    "team": "Bravos de Leon",
+    "opponent": "Puebla",
+    "arena": "Estadio Domingo Santana TV4",
+    "city": "León, Guanajuato",
+    "date": "2026-07-09T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070865",
+    "league": "LMB",
+    "team": "Jalisco",
+    "opponent": "Monterrey",
+    "arena": "Estadio Panamericano",
+    "city": "Zapopan, Jalisco",
+    "date": "2026-07-09T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070866",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Caliente de Durango",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-09T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070867",
+    "league": "LMB",
+    "team": "Tabasco",
+    "opponent": "Diablos Rojos",
+    "arena": "Estadio Centenario Orsan",
+    "city": "Villahermosa, Tabasco",
+    "date": "2026-07-09T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070868",
+    "league": "LMB",
+    "team": "Yucatan",
+    "opponent": "Campeche",
+    "arena": "Parque Kukulcán Alamo",
+    "city": "Mérida, Yucatán",
+    "date": "2026-07-09T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070869",
+    "league": "LMB",
+    "team": "Chihuahua",
+    "opponent": "Laguna",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-07-09T02:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070970",
+    "league": "LMB",
+    "team": "Dos Laredos",
+    "opponent": "Monclova",
+    "arena": "Uni-Trade Stadium",
+    "city": "Laredo, Texas",
+    "date": "2026-07-09T23:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070971",
+    "league": "LMB",
+    "team": "Queretaro",
+    "opponent": "Quintana Roo",
+    "arena": "Estadio Finsus",
+    "city": "Huimilpan, Querétaro",
+    "date": "2026-07-10T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070972",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Oaxaca",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-10T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070973",
+    "league": "LMB",
+    "team": "Aguascalientes",
+    "opponent": "Toros de Tijuana",
+    "arena": "Parque Alberto Romo Chávez",
+    "city": "Aguascalientes City, Aguascalientes",
+    "date": "2026-07-10T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070974",
+    "league": "LMB",
+    "team": "Bravos de Leon",
+    "opponent": "Puebla",
+    "arena": "Estadio Domingo Santana TV4",
+    "city": "León, Guanajuato",
+    "date": "2026-07-10T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070975",
+    "league": "LMB",
+    "team": "Jalisco",
+    "opponent": "Monterrey",
+    "arena": "Estadio Panamericano",
+    "city": "Zapopan, Jalisco",
+    "date": "2026-07-10T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070976",
+    "league": "LMB",
+    "team": "Saltillo",
+    "opponent": "Caliente de Durango",
+    "arena": "Estadio Francisco I. Madero",
+    "city": "Saltillo, Coahuila",
+    "date": "2026-07-10T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070977",
+    "league": "LMB",
+    "team": "Tabasco",
+    "opponent": "Diablos Rojos",
+    "arena": "Estadio Centenario Orsan",
+    "city": "Villahermosa, Tabasco",
+    "date": "2026-07-10T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026070978",
+    "league": "LMB",
+    "team": "Chihuahua",
+    "opponent": "Laguna",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-07-10T02:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071079",
+    "league": "LMB",
+    "team": "Quintana Roo",
+    "opponent": "Bravos de Leon",
+    "arena": "Estadio Sherwin-Williams Beto Ávila",
+    "city": "Cancún, Quintana Roo",
+    "date": "2026-07-10T23:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071080",
+    "league": "LMB",
+    "team": "Campeche",
+    "opponent": "Puebla",
+    "arena": "Estadio Cruz Azul Nelson Barrera",
+    "city": "Campeche City, Campeche",
+    "date": "2026-07-11T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071081",
+    "league": "LMB",
+    "team": "Diablos Rojos",
+    "opponent": "Queretaro",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-07-11T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071082",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Yucatan",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-11T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071083",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Dos Laredos",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-07-11T01:10:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071084",
+    "league": "LMB",
+    "team": "Laguna",
+    "opponent": "Jalisco",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-07-11T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071085",
+    "league": "LMB",
+    "team": "Monterrey",
+    "opponent": "Toros de Tijuana",
+    "arena": "Walmart Park",
+    "city": "Monterrey, Nuevo León",
+    "date": "2026-07-11T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071086",
+    "league": "LMB",
+    "team": "Tabasco",
+    "opponent": "Oaxaca",
+    "arena": "Estadio Centenario Orsan",
+    "city": "Villahermosa, Tabasco",
+    "date": "2026-07-11T01:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071087",
+    "league": "LMB",
+    "team": "Monclova",
+    "opponent": "Saltillo",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-07-11T01:45:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071088",
+    "league": "LMB",
+    "team": "Chihuahua",
+    "opponent": "Aguascalientes",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-07-11T02:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071189",
+    "league": "LMB",
+    "team": "Diablos Rojos",
+    "opponent": "Queretaro",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-07-11T22:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071190",
+    "league": "LMB",
+    "team": "Monterrey",
+    "opponent": "Toros de Tijuana",
+    "arena": "Walmart Park",
+    "city": "Monterrey, Nuevo León",
+    "date": "2026-07-11T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071191",
+    "league": "LMB",
+    "team": "Quintana Roo",
+    "opponent": "Bravos de Leon",
+    "arena": "Estadio Sherwin-Williams Beto Ávila",
+    "city": "Cancún, Quintana Roo",
+    "date": "2026-07-11T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071192",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Yucatan",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-12T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071193",
+    "league": "LMB",
+    "team": "Campeche",
+    "opponent": "Puebla",
+    "arena": "Estadio Cruz Azul Nelson Barrera",
+    "city": "Campeche City, Campeche",
+    "date": "2026-07-12T00:15:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071194",
+    "league": "LMB",
+    "team": "Laguna",
+    "opponent": "Jalisco",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-07-12T00:30:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071195",
+    "league": "LMB",
+    "team": "Chihuahua",
+    "opponent": "Aguascalientes",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-07-12T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071196",
+    "league": "LMB",
+    "team": "Tabasco",
+    "opponent": "Oaxaca",
+    "arena": "Estadio Centenario Orsan",
+    "city": "Villahermosa, Tabasco",
+    "date": "2026-07-12T01:00:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071197",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Dos Laredos",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-07-12T01:05:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071198",
+    "league": "LMB",
+    "team": "Monclova",
+    "opponent": "Saltillo",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-07-12T01:45:00Z"
+  },
+  
+  {
+    "id": "lmb_2026071299",
+    "league": "LMB",
+    "team": "Caliente de Durango",
+    "opponent": "Dos Laredos",
+    "arena": "Estadio Francisco Villa",
+    "city": "Durango City, Durango",
+    "date": "2026-07-12T20:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712100",
+    "league": "LMB",
+    "team": "Diablos Rojos",
+    "opponent": "Queretaro",
+    "arena": "Estadio Alfredo Harp Helú",
+    "city": "Iztacalco, Mexico City",
+    "date": "2026-07-12T20:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712101",
+    "league": "LMB",
+    "team": "Quintana Roo",
+    "opponent": "Bravos de Leon",
+    "arena": "Estadio Sherwin-Williams Beto Ávila",
+    "city": "Cancún, Quintana Roo",
+    "date": "2026-07-12T22:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712102",
+    "league": "LMB",
+    "team": "Monterrey",
+    "opponent": "Toros de Tijuana",
+    "arena": "Walmart Park",
+    "city": "Monterrey, Nuevo León",
+    "date": "2026-07-12T23:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712103",
+    "league": "LMB",
+    "team": "Chihuahua",
+    "opponent": "Aguascalientes",
+    "arena": "Estadio Monumental Chihuahua",
+    "city": "Chihuahua City, Chihuahua",
+    "date": "2026-07-13T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712104",
+    "league": "LMB",
+    "team": "Monclova",
+    "opponent": "Saltillo",
+    "arena": "Estadio Kickapoo Lucky Eagle",
+    "city": "Monclova, Coahuila",
+    "date": "2026-07-13T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712105",
+    "league": "LMB",
+    "team": "Tabasco",
+    "opponent": "Oaxaca",
+    "arena": "Estadio Centenario Orsan",
+    "city": "Villahermosa, Tabasco",
+    "date": "2026-07-13T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712106",
+    "league": "LMB",
+    "team": "Veracruz",
+    "opponent": "Yucatan",
+    "arena": "Estadio Universitario Beto Ávila",
+    "city": "Veracruz City, Veracruz",
+    "date": "2026-07-13T00:00:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712107",
+    "league": "LMB",
+    "team": "Campeche",
+    "opponent": "Puebla",
+    "arena": "Estadio Cruz Azul Nelson Barrera",
+    "city": "Campeche City, Campeche",
+    "date": "2026-07-13T00:15:00Z"
+  },
+  
+  {
+    "id": "lmb_20260712108",
+    "league": "LMB",
+    "team": "Laguna",
+    "opponent": "Jalisco",
+    "arena": "Estadio de la Revolución",
+    "city": "Torreón, Coahuila",
+    "date": "2026-07-13T00:30:00Z"
   }
 ]
