@@ -207,7 +207,7 @@
     "opponent": "Reno Aces",
     "arena": "Cheney Stadium",
     "city": "Tacoma, Washington",
-    "date": "2026-07-05T19:35:00Z"
+    "date": "2026-07-05T20:35:00Z"
   },
   {
     "id": "pcl_2026070502",
@@ -216,7 +216,7 @@
     "opponent": "Albuquerque Isotopes",
     "arena": "Dell Diamond",
     "city": "Round Rock, Texas",
-    "date": "2026-07-05T22:05:00Z"
+    "date": "2026-07-05T21:05:00Z"
   },
   {
     "id": "pcl_2026070503",
@@ -225,7 +225,7 @@
     "opponent": "Sugar Land Space Cowboys",
     "arena": "Chickasaw Bricktown Ballpark",
     "city": "Oklahoma City, Oklahoma",
-    "date": "2026-07-05T22:05:00Z"
+    "date": "2026-07-05T21:05:00Z"
   },
   {
     "id": "pcl_2026070504",
@@ -234,7 +234,7 @@
     "opponent": "Las Vegas Aviators",
     "arena": "The Ballpark at America First Square",
     "city": "South Jordan, Utah",
-    "date": "2026-07-05T23:05:00Z",
+    "date": "2026-07-06T00:05:00Z",
     "giveaway": {
       "title": "Breakfast for Dinner at The Ballpark",
       "details": "SPECIAL TICKET REQUIRED. Includes a game ticket and a breakfast meal for $48."
@@ -247,14 +247,8 @@
     "opponent": "Sacramento River Cats",
     "arena": "Southwest University Park",
     "city": "El Paso, Texas",
-    "date": "2026-07-05T23:05:00Z"
+    "date": "2026-07-06T00:05:00Z"
   },
-
-
-
-
-
-
 
   {
     "id": "pcl_2026070701",
