@@ -1,5 +1,14 @@
 [
   {
+    "id": "mlb_2026071401",
+    "league": "MLB",
+    "team": "National League All-Stars",
+    "opponent": "American League All-Stars",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, PA",
+    "date": "2026-07-14T16:00:00Z"
+  },
+  {
     "id": "mlb_2026062501",
     "league": "MLB",
     "team": "Tampa Bay Rays",
