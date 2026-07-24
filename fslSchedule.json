@@ -1,899 +1,4 @@
 [
-  {
-    "id": "fsl_2026063001",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Tampa Tarpons",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-06-30T22:10:00Z"
-  },
-  {
-    "id": "fsl_2026063002",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-06-30T22:30:00Z"
-  },
-  {
-    "id": "fsl_2026063003",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-06-30T22:30:00Z"
-  },
-  {
-    "id": "fsl_2026063004",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-06-30T22:30:00Z"
-  },
-  {
-    "id": "fsl_2026063005",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Daytona Tortugas",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-06-30T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070101",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Tampa Tarpons",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-01T22:10:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070102",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-01T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070103",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-01T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070104",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-01T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070105",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Daytona Tortugas",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-01T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070201",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Tampa Tarpons",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-02T22:10:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070202",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-02T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070203",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-02T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070204",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-02T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070205",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Daytona Tortugas",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-02T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070301",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-03T21:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070302",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-03T22:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070303",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Tampa Tarpons",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-03T22:10:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070304",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-03T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070305",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Daytona Tortugas",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-03T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070401",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Tampa Tarpons",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-04T18:50:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070402",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Daytona Tortugas",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-04T20:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070403",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-04T21:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070404",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-04T22:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070405",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-04T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070501",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-05T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070502",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-05T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070503",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Daytona Tortugas",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-05T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070504",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Tampa Tarpons",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-05T16:10:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070505",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-05T16:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070701",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-07T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070702",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-07T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070703",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Clearwater Threshers",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-07T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070704",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-07T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070705",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Bradenton Marauders",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-07T23:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070801",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Clearwater Threshers",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-08T21:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070802",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-08T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070803",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-08T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070804",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-08T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070805",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Bradenton Marauders",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-08T23:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070901",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-09T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070902",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-09T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070903",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Clearwater Threshers",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-09T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070904",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-09T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026070905",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Bradenton Marauders",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-09T23:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071001",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-10T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071002",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-10T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071003",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Clearwater Threshers",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-10T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071004",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-10T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071005",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Bradenton Marauders",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-10T23:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071101",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-11T22:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071102",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Bradenton Marauders",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-11T22:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071103",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-11T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071104",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Clearwater Threshers",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-11T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071105",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-11T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071201",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-12T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071202",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Clearwater Threshers",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-12T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071203",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Bradenton Marauders",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-12T16:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071204",
-    "league": "FSL",
-    "team": "Jupiter Hammerheads",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-12T16:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071205",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Palm Beach Cardinals",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-12T17:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071701",
-    "league": "FSL",
-    "team": "Palm Beach Cardinals",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-17T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071702",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Clearwater Threshers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-17T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071703",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Bradenton Marauders",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-17T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071704",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Jupiter Hammerheads",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-17T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071705",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-17T23:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071801",
-    "league": "FSL",
-    "team": "Palm Beach Cardinals",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-18T22:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071802",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-18T22:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071803",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Clearwater Threshers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-18T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071804",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Bradenton Marauders",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-18T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071805",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Jupiter Hammerheads",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-18T22:35:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071901",
-    "league": "FSL",
-    "team": "Dunedin Blue Jays",
-    "opponent": "Clearwater Threshers",
-    "arena": "TD Ballpark",
-    "city": "Dunedin, Florida",
-    "date": "2026-07-19T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071902",
-    "league": "FSL",
-    "team": "Tampa Tarpons",
-    "opponent": "Bradenton Marauders",
-    "arena": "George M. Steinbrenner Field",
-    "city": "Tampa, Florida",
-    "date": "2026-07-19T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071903",
-    "league": "FSL",
-    "team": "Fort Myers Mighty Mussels",
-    "opponent": "Lakeland Flying Tigers",
-    "arena": "Hammond Stadium",
-    "city": "Fort Myers, Florida",
-    "date": "2026-07-19T16:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071904",
-    "league": "FSL",
-    "team": "Palm Beach Cardinals",
-    "opponent": "St. Lucie Mets",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-19T16:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026071905",
-    "league": "FSL",
-    "team": "Daytona Tortugas",
-    "opponent": "Jupiter Hammerheads",
-    "arena": "Jackie Robinson Ballpark",
-    "city": "Daytona Beach, Florida",
-    "date": "2026-07-19T17:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072101",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-21T21:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072102",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-21T22:05:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072103",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Daytona Tortugas",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-21T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072104",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Jupiter Hammerheads",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-21T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072105",
-    "league": "FSL",
-    "team": "Palm Beach Cardinals",
-    "opponent": "Tampa Tarpons",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-21T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072201",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-22T15:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072202",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-22T15:10:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072203",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Daytona Tortugas",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-22T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072204",
-    "league": "FSL",
-    "team": "Palm Beach Cardinals",
-    "opponent": "Tampa Tarpons",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-22T16:00:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072205",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Jupiter Hammerheads",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-22T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072301",
-    "league": "FSL",
-    "team": "St. Lucie Mets",
-    "opponent": "Fort Myers Mighty Mussels",
-    "arena": "Clover Park",
-    "city": "Port St. Lucie, Florida",
-    "date": "2026-07-23T22:10:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072302",
-    "league": "FSL",
-    "team": "Clearwater Threshers",
-    "opponent": "Daytona Tortugas",
-    "arena": "BayCare Ballpark",
-    "city": "Clearwater, Florida",
-    "date": "2026-07-23T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072303",
-    "league": "FSL",
-    "team": "Lakeland Flying Tigers",
-    "opponent": "Jupiter Hammerheads",
-    "arena": "Publix Field at Joker Marchant Stadium",
-    "city": "Lakeland, Florida",
-    "date": "2026-07-23T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072304",
-    "league": "FSL",
-    "team": "Palm Beach Cardinals",
-    "opponent": "Tampa Tarpons",
-    "arena": "Roger Dean Chevrolet Stadium",
-    "city": "Jupiter, Florida",
-    "date": "2026-07-23T22:30:00Z"
-  },
-  
-  {
-    "id": "fsl_2026072305",
-    "league": "FSL",
-    "team": "Bradenton Marauders",
-    "opponent": "Dunedin Blue Jays",
-    "arena": "LECOM Park",
-    "city": "Bradenton, Florida",
-    "date": "2026-07-23T22:30:00Z"
-  },
   
   {
     "id": "fsl_2026072401",
@@ -1243,6 +348,1370 @@
     "arena": "Hammond Stadium",
     "city": "Fort Myers, Florida",
     "date": "2026-07-31T23:05:00Z"
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+  "id": "fsl_2026080101",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Clearwater Threshers",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-01T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026080102",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-01T22:05:00Z"
+},
+
+{
+  "id": "fsl_2026080103",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "St. Lucie Mets",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-01T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080104",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-01T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080105",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-01T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026080201",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "St. Lucie Mets",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-02T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026080202",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-02T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026080203",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-02T16:05:00Z"
+},
+
+{
+  "id": "fsl_2026080204",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Clearwater Threshers",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-02T16:30:00Z"
+},
+
+{
+  "id": "fsl_2026080205",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-02T17:05:00Z"
+},
+
+{
+  "id": "fsl_2026080401",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-04T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026080402",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-04T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080403",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-04T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080404",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-04T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080405",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-04T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080501",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-05T20:00:00Z"
+},
+
+{
+  "id": "fsl_2026080502",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-05T20:05:00Z"
+},
+
+{
+  "id": "fsl_2026080503",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-05T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080504",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-05T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080505",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-05T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080506",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-05T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080601",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-06T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026080602",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-06T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080603",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-06T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080604",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-06T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080605",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-06T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080701",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-07T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026080702",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-07T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080703",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-07T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080704",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-07T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080705",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-07T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080801",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-08T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026080802",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-08T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026080803",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-08T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026080804",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-08T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080805",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-08T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026080901",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-09T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026080902",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-09T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026080903",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-09T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026080904",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-09T16:10:00Z"
+},
+
+{
+  "id": "fsl_2026080905",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-09T16:30:00Z"
+},
+
+{
+  "id": "fsl_2026081101",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-11T20:30:00Z"
+},
+
+{
+  "id": "fsl_2026081102",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-11T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081103",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Tampa Tarpons",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-11T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081104",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Bradenton Marauders",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-11T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081105",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-11T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026081106",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Clearwater Threshers",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-11T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026081201",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-12T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081202",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Tampa Tarpons",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-12T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081203",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Bradenton Marauders",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-12T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081204",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-12T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026081205",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Clearwater Threshers",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-12T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026081301",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-13T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081302",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Tampa Tarpons",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-13T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081303",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Bradenton Marauders",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-13T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081304",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-13T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026081305",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Clearwater Threshers",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-13T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026081401",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-14T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081402",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Tampa Tarpons",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-14T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081403",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Bradenton Marauders",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-14T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081404",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-14T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026081405",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Clearwater Threshers",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-14T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026081501",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-15T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026081502",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Bradenton Marauders",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-15T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026081503",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Clearwater Threshers",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-15T22:05:00Z"
+},
+
+{
+  "id": "fsl_2026081504",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Tampa Tarpons",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-15T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081505",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-15T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026081601",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Tampa Tarpons",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-16T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026081602",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Bradenton Marauders",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-16T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026081603",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Clearwater Threshers",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-16T16:05:00Z"
+},
+
+{
+  "id": "fsl_2026081604",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-16T16:30:00Z"
+},
+
+{
+  "id": "fsl_2026081605",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-16T17:05:00Z"
+},
+
+{
+  "id": "fsl_2026081801",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-18T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026081802",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-18T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081803",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-18T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081804",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-18T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081805",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-18T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081901",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-19T20:00:00Z"
+},
+
+{
+  "id": "fsl_2026081902",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-19T20:05:00Z"
+},
+
+{
+  "id": "fsl_2026081903",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-19T21:00:00Z"
+},
+
+{
+  "id": "fsl_2026081904",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-19T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026081905",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-19T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026081906",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-19T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082001",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-20T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026082002",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-20T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082003",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-20T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082004",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-20T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082005",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-20T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082101",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-21T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026082102",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-21T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082103",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-21T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082104",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-21T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082105",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-21T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082201",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-22T17:00:00Z"
+},
+
+{
+  "id": "fsl_2026082202",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-22T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026082203",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-22T22:10:00Z"
+},
+
+{
+  "id": "fsl_2026082204",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-22T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082205",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-22T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082301",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2026-08-23T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026082302",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2026-08-23T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026082303",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2026-08-23T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026082304",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2026-08-23T16:10:00Z"
+},
+
+{
+  "id": "fsl_2026082305",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-23T16:30:00Z"
+},
+
+{
+  "id": "fsl_2026082501",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-25T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082502",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Clearwater Threshers",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-25T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082503",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Tampa Tarpons",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-25T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082504",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "St. Lucie Mets",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-25T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026082505",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-25T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026082601",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-26T20:35:00Z"
+},
+
+{
+  "id": "fsl_2026082602",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-26T20:40:00Z"
+},
+
+{
+  "id": "fsl_2026082603",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-26T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082604",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Clearwater Threshers",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-26T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082605",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Tampa Tarpons",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-26T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082606",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "St. Lucie Mets",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-26T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026082701",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-27T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082702",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Clearwater Threshers",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-27T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082703",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Tampa Tarpons",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-27T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082704",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "St. Lucie Mets",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-27T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026082705",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-27T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026082801",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-28T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082802",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Clearwater Threshers",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-28T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082803",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Tampa Tarpons",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-28T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082804",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "St. Lucie Mets",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-28T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026082805",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-28T23:05:00Z"
+},
+
+{
+  "id": "fsl_2026082901",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Clearwater Threshers",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-29T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026082902",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Tampa Tarpons",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-29T22:00:00Z"
+},
+
+{
+  "id": "fsl_2026082903",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-29T22:05:00Z"
+},
+
+{
+  "id": "fsl_2026082904",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-29T22:30:00Z"
+},
+
+{
+  "id": "fsl_2026082905",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "St. Lucie Mets",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-29T22:35:00Z"
+},
+
+{
+  "id": "fsl_2026083001",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2026-08-30T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026083002",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Clearwater Threshers",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2026-08-30T16:00:00Z"
+},
+
+{
+  "id": "fsl_2026083003",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Bradenton Marauders",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2026-08-30T16:05:00Z"
+},
+
+{
+  "id": "fsl_2026083004",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Tampa Tarpons",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2026-08-30T16:30:00Z"
+},
+
+{
+  "id": "fsl_2026083005",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "St. Lucie Mets",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2026-08-30T17:05:00Z"
+}
 
 ]
