@@ -1,1111 +1,5 @@
 [
   {
-    "id": "el_2026070201",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Altoona Curve",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-02T22:00:00Z"
-  },
-  {
-    "id": "el_2026070202",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Chesapeake Baysox",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-02T22:07:00Z"
-  },
-  {
-    "id": "el_2026070203",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-02T22:30:00Z"
-  },
-  {
-    "id": "el_2026070204",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Erie SeaWolves",
-    "arena": "Canal Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-02T22:35:00Z"
-  },
-  {
-    "id": "el_2026070205",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Hartford Yard Goats",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-02T22:35:00Z",
-    "giveaway": {
-      "title": "Sun Hat",
-      "details": "First 1,000 adults receive a Sun Hat."
-    }
-  },
-  {
-    "id": "el_2026070206",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-02T23:00:00Z"
-  },
-  {
-    "id": "el_2026070301",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Altoona Curve",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-03T22:20:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070302",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Chesapeake Baysox",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-03T23:00:00Z",
-    "fireworks": {
-      "title": "Bing, Bang, Boom Fireworks Show"
-    }
-  },
-  {
-    "id": "el_2026070303",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-03T23:00:00Z",
-    "fireworks": {
-      "title": "MEGA BLAST Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070304",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-03T23:00:00Z",
-    "giveaway": {
-      "title": "Cowboy Hat",
-      "details": "First 1,000 fans ages 13 and older receive a Cowboy Hat."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070305",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Hartford Yard Goats",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-03T23:05:00Z",
-    "giveaway": {
-      "title": "Semiquincentennial Card Strip (Series 1)",
-      "details": "First 2,000 fans receive the Semiquincentennial Card Strip."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070306",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Erie SeaWolves",
-    "arena": "Canal Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-03T23:17:00Z",
-    "fireworks": {
-      "title": "Friday Night Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070401",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Chesapeake Baysox",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-04T20:00:00Z",
-    "giveaway": {
-      "title": "Patriotic Jersey",
-      "details": "First 1,000 fans ages 13 and older receive a Patriotic Jersey."
-    }
-  },
-  {
-    "id": "el_2026070402",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Altoona Curve",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-04T22:20:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070403",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-04T22:45:00Z",
-    "fireworks": {
-      "title": "MEGA BLAST Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070404",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-04T23:00:00Z",
-    "fireworks": {
-     "title": "Postgame Fireworks"
-    }
-  
-  },
-  {
-    "id": "el_2026070405",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Erie SeaWolves",
-    "arena": "Canal Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-04T23:05:00Z",
-    "giveaway": {
-      "title": "Rally Towel",
-      "details": "First 1,000 fans receive a Rally Towel."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070406",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Hartford Yard Goats",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-04T23:05:00Z",
-    "giveaway": {
-      "title": "Semiquincentennial Card Strip (Series 2)",
-      "details": "First 2,000 fans receive the Semiquincentennial Card Strip."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070501",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Chesapeake Baysox",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-05T17:00:00Z"
-  },
-  {
-    "id": "el_2026070502",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Altoona Curve",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-05T17:00:00Z"
-  },
-  {
-    "id": "el_2026070503",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-05T17:00:00Z"
-  },
-  {
-    "id": "el_2026070504",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Hartford Yard Goats",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-05T17:05:00Z",
-    "giveaway": [
-      {
-        "title": "Somerset Semiquincentennial T-Shirt",
-        "details": "First 2,000 adults and 500 kids receive a Somerset Semiquincentennial T-Shirt."
-      },
-      {
-        "title": "Semiquincentennial Card Strip (Series 3)",
-        "details": "First 2,000 fans receive the Semiquincentennial Card Strip (Series 3)."
-      }
-    ]
-  },
-  {
-    "id": "el_2026070505",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-05T21:15:00Z",
-    "giveaway": {
-      "title": "Trey Yesavage Hometown Hero Bobblehead",
-      "details": "First 2,000 kids receive the Trey Yesavage Hometown Hero Bobblehead."
-    }
-  },
-  {
-    "id": "el_2026070506",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Erie SeaWolves",
-    "arena": "Canal Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-05T22:35:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070701",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-07T22:03:00Z",
-    "giveaway": {
-      "title": "Original Tenders Bobblehead",
-      "details": "First 500 fans receive the Original Tenders Bobblehead."
-    }
-  },
-  {
-    "id": "el_2026070702",
-    "league": "EL",
-    "team": "Erie SeaWolves",
-    "opponent": "Harrisburg Senators",
-    "arena": "UPMC Park",
-    "city": "Erie, Pennsylvania",
-    "date": "2026-07-07T22:05:00Z"
-  },
-  {
-    "id": "el_2026070703",
-    "league": "EL",
-    "team": "Altoona Curve",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "Peoples Natural Gas Field",
-    "city": "Altoona, Pennsylvania",
-    "date": "2026-07-07T22:30:00Z",
-    "fireworks": {
-      "title": "Postgame TV Themes Fireworks"
-    }
-  },
-  {
-    "id": "el_2026070704",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Chesapeake Baysox",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-07T22:35:00Z",
-    "giveaway": {
-      "title": "Cheese Salads T-Shirt",
-      "details": "First 1,000 fans receive a Cheese Salads T-Shirt."
-    }
-  },
-  {
-    "id": "el_2026070705",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Reading Fightin Phils",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-07T22:35:00Z",
-    "giveaway": {
-      "title": "Scarf",
-      "details": "First 1,000 adults receive a Scarf."
-    }
-  },
-  {
-    "id": "el_2026070706",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "Binghamton Rumble Ponies",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-07-07T23:10:00Z"
-  },
-  {
-    "id": "el_2026070801",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Reading Fightin Phils",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-08T16:05:00Z"
-  },
-  {
-    "id": "el_2026070802",
-    "league": "EL",
-    "team": "Erie SeaWolves",
-    "opponent": "Harrisburg Senators",
-    "arena": "UPMC Park",
-    "city": "Erie, Pennsylvania",
-    "date": "2026-07-08T16:35:00Z"
-  },
-  {
-    "id": "el_2026070803",
-    "league": "EL",
-    "team": "Altoona Curve",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "Peoples Natural Gas Field",
-    "city": "Altoona, Pennsylvania",
-    "date": "2026-07-08T22:00:00Z"
-  },
-  {
-    "id": "el_2026070804",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-08T22:03:00Z",
-    "giveaway": {
-      "title": "Soccer Jersey",
-      "details": "First 500 fans receive a Soccer Jersey."
-    },
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026070805",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Chesapeake Baysox",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-08T22:35:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026070806",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "Binghamton Rumble Ponies",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-07-08T23:10:00Z",
-    "giveaway": {
-      "title": "Kids' Dunkin' Jersey",
-      "details": "First 1,000 kids receive a Dunkin' Jersey."
-    }
-  },
-  {
-    "id": "el_2026070901",
-    "league": "EL",
-    "team": "Altoona Curve",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "Peoples Natural Gas Field",
-    "city": "Altoona, Pennsylvania",
-    "date": "2026-07-09T22:00:00Z"
-  },
-  {
-    "id": "el_2026070902",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-09T22:03:00Z"
-  },
-  {
-    "id": "el_2026070903",
-    "league": "EL",
-    "team": "Erie SeaWolves",
-    "opponent": "Harrisburg Senators",
-    "arena": "UPMC Park",
-    "city": "Erie, Pennsylvania",
-    "date": "2026-07-09T22:05:00Z"
-  },
-  {
-    "id": "el_2026070904",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Chesapeake Baysox",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-09T22:35:00Z"
-  },
-  {
-    "id": "el_2026070905",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Reading Fightin Phils",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-09T22:35:00Z"
-  },
-  {
-    "id": "el_2026070906",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "Binghamton Rumble Ponies",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-07-09T23:10:00Z"
-  },
-  {
-    "id": "el_2026071001",
-    "league": "EL",
-    "team": "Altoona Curve",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "Peoples Natural Gas Field",
-    "city": "Altoona, Pennsylvania",
-    "date": "2026-07-10T22:00:00Z"
-  },
-  {
-    "id": "el_2026071002",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-10T22:03:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071003",
-    "league": "EL",
-    "team": "Erie SeaWolves",
-    "opponent": "Harrisburg Senators",
-    "arena": "UPMC Park",
-    "city": "Erie, Pennsylvania",
-    "date": "2026-07-10T22:35:00Z",
-    "fireworks": {
-      "title": "Erie Moon Mammoths Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071004",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Reading Fightin Phils",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-10T23:05:00Z",
-    "giveaway": {
-      "title": "Free Large Pizza Certificate",
-      "details": "First 1,000 adults receive a certificate for a free large pizza."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071005",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "Binghamton Rumble Ponies",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-07-10T23:10:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071006",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Chesapeake Baysox",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-10T23:17:00Z",
-    "fireworks": {
-      "title": "Friday Night Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071101",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-11T22:03:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071102",
-    "league": "EL",
-    "team": "Erie SeaWolves",
-    "opponent": "Harrisburg Senators",
-    "arena": "UPMC Park",
-    "city": "Erie, Pennsylvania",
-    "date": "2026-07-11T22:05:00Z",
-    "giveaway": {
-      "title": "John Oliver Bobblehead",
-      "details": "First 1,500 fans receive a John Oliver Bobblehead."
-    }
-  },
-  {
-    "id": "el_2026071103",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "Binghamton Rumble Ponies",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-07-11T22:10:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071104",
-    "league": "EL",
-    "team": "Altoona Curve",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "Peoples Natural Gas Field",
-    "city": "Altoona, Pennsylvania",
-    "date": "2026-07-11T22:30:00Z",
-    "fireworks": {
-      "title": "Postgame Good Grief! Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071105",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Chesapeake Baysox",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-11T23:05:00Z",
-    "giveaway": {
-      "title": "Corbin Bernsen Bobblehead",
-      "details": "First 1,000 fans receive a Corbin Bernsen Bobblehead."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071106",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Reading Fightin Phils",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-11T23:05:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071201",
-    "league": "EL",
-    "team": "Altoona Curve",
-    "opponent": "Richmond Flying Squirrels",
-    "arena": "Peoples Natural Gas Field",
-    "city": "Altoona, Pennsylvania",
-    "date": "2026-07-12T17:00:00Z"
-  },
-  {
-    "id": "el_2026071202",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Chesapeake Baysox",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-12T17:05:00Z"
-  },
-  {
-    "id": "el_2026071203",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-12T17:05:00Z",
-    "giveaway": {
-      "title": "Buffalo Tenders Bobblehead",
-      "details": "First 500 fans receive the Buffalo Tenders Bobblehead."
-    }
-  },
-  {
-    "id": "el_2026071204",
-    "league": "EL",
-    "team": "Somerset Patriots",
-    "opponent": "Reading Fightin Phils",
-    "arena": "TD Bank Ballpark",
-    "city": "Bridgewater, New Jersey",
-    "date": "2026-07-12T17:05:00Z",
-    "giveaway": {
-      "title": "Duffel Bag",
-      "details": "First 1,000 adults receive a Duffel Bag."
-    }
-  },
-  {
-    "id": "el_2026071205",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "Binghamton Rumble Ponies",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-07-12T17:10:00Z"
-  },
-  {
-    "id": "el_2026071206",
-    "league": "EL",
-    "team": "Erie SeaWolves",
-    "opponent": "Harrisburg Senators",
-    "arena": "UPMC Park",
-    "city": "Erie, Pennsylvania",
-    "date": "2026-07-12T17:35:00Z",
-    "giveaway": {
-      "title": "Build-a-Fuzz",
-      "details": "First 500 kids ages 12 and under receive a Build-a-Fuzz Building Blocks Set."
-    }
-  },
-  {
-    "id": "el_2026071701",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Somerset Patriots",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-17T22:20:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071702",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Akron RubberDucks",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-17T23:00:00Z",
-    "fireworks": {
-      "title": "Miller Auto Team Fireworks Series"
-    }
-  },
-  {
-    "id": "el_2026071703",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "Altoona Curve",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-17T23:00:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071704",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-17T23:00:00Z",
-    "giveaway": {
-      "title": "717 Retro Hat",
-      "details": "First 1,000 fans ages 13 and older receive a 717 Retro Hat."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071705",
-    "league": "EL",
-    "team": "Chesapeake Baysox",
-    "opponent": "Hartford Yard Goats",
-    "arena": "Prince George's Stadium",
-    "city": "Bowie, Maryland",
-    "date": "2026-07-17T23:05:00Z",
-    "giveaway": {
-      "title": "Supergirl Cape Socks",
-      "details": "First 1,000 fans ages 3 and over receive Supergirl Cape Socks."
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071706",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "Erie SeaWolves",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-07-17T23:05:00Z"
-  },
-  {
-    "id": "el_2026071801",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Akron RubberDucks",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-18T17:00:00Z",
-    "giveaway": {
-      "title": "Scoop Scoundrels Ice Cream Bucket Hat",
-      "details": "First 1,000 fans receive a Scoop Scoundrels Ice Cream Bucket Hat."
-    }
-  },
-  {
-    "id": "el_2026071802",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-18T22:00:00Z",
-    "giveaway": {
-      "title": "Rascal Plushie",
-      "details": "First 500 fans ages 12 and under receive a Rascal Plushie."
-    }
-  },
-  {
-    "id": "el_2026071803",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Somerset Patriots",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-18T22:00:00Z"
-  },
-  {
-    "id": "el_2026071804",
-    "league": "EL",
-    "team": "Chesapeake Baysox",
-    "opponent": "Hartford Yard Goats",
-    "arena": "Prince George's Stadium",
-    "city": "Bowie, Maryland",
-    "date": "2026-07-18T22:35:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071805",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "Altoona Curve",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-18T22:45:00Z",
-    "giveaway": {
-      "title": "Dickie Noles R-Phils Bobblehead",
-      "details": "First 1,000 fans receive the Dickie Noles R-Phils Bobblehead."
-    },
-    "fireworks": {
-      "title": "MEGA BLAST Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071806",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "Erie SeaWolves",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-07-18T23:05:00Z",
-    "fireworks": {
-      "title": "In-Your-Face Fireworks"
-    }
-  },
-  {
-    "id": "el_2026071901",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Akron RubberDucks",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-19T17:00:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026071902",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "New Hampshire Fisher Cats",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-19T17:00:00Z"
-  },
-  {
-    "id": "el_2026071903",
-    "league": "EL",
-    "team": "Portland Sea Dogs",
-    "opponent": "Somerset Patriots",
-    "arena": "Delta Dental Park",
-    "city": "Portland, Maine",
-    "date": "2026-07-19T17:00:00Z"
-  },
-  {
-    "id": "el_2026071904",
-    "league": "EL",
-    "team": "Chesapeake Baysox",
-    "opponent": "Hartford Yard Goats",
-    "arena": "Prince George's Stadium",
-    "city": "Bowie, Maryland",
-    "date": "2026-07-19T17:05:00Z"
-  },
-  {
-    "id": "el_2026071905",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "Erie SeaWolves",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-07-19T21:05:00Z",
-    "giveaway": {
-      "title": "Aloha Shirt",
-      "details": "Fans receive an Aloha Shirt."
-    }
-  },
-  {
-    "id": "el_2026071906",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "Altoona Curve",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-07-19T21:15:00Z"
-  },
-  {
-    "id": "el_2026072101",
-    "league": "EL",
-    "team": "Chesapeake Baysox",
-    "opponent": "Erie SeaWolves",
-    "arena": "Prince George's Stadium",
-    "city": "Bowie, Maryland",
-    "date": "2026-07-21T16:05:00Z"
-  },
-  {
-    "id": "el_2026072102",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Altoona Curve",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-21T16:05:00Z"
-  },
-  {
-    "id": "el_2026072103",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Somerset Patriots",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-21T22:03:00Z",
-    "giveaway": {
-      "title": "Original Tenders Bobblehead",
-      "details": "First 500 fans receive the Original Tenders Bobblehead."
-    }
-  },
-  {
-    "id": "el_2026072104",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-21T22:07:00Z",
-    "fireworks": {
-      "title": "Miller Auto Team Fireworks Series"
-    }
-  },
-  {
-    "id": "el_2026072105",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Reading Fightin Phils",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-21T22:30:00Z",
-    "fireworks": {
-      "title": "Mayflies Corduroy Hat Ticket Package"
-    }
-  },
-  {
-    "id": "el_2026072106",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "Hartford Yard Goats",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-07-21T23:05:00Z"
-  },
-  {
-    "id": "el_2026072201",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Reading Fightin Phils",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-22T16:00:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026072202",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-22T17:00:00Z"
-  },
-  {
-    "id": "el_2026072203",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Somerset Patriots",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-22T22:03:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026072204",
-    "league": "EL",
-    "team": "Chesapeake Baysox",
-    "opponent": "Erie SeaWolves",
-    "arena": "Prince George's Stadium",
-    "city": "Bowie, Maryland",
-    "date": "2026-07-22T22:35:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026072205",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Altoona Curve",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-22T22:35:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026072206",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "Hartford Yard Goats",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-07-22T23:05:00Z",
-    "fireworks": {
-      "title": "Bring Your Dog to the Ballpark"
-    }
-  },
-  {
-    "id": "el_2026072301",
-    "league": "EL",
-    "team": "New Hampshire Fisher Cats",
-    "opponent": "Somerset Patriots",
-    "arena": "Delta Dental Stadium",
-    "city": "Manchester, New Hampshire",
-    "date": "2026-07-23T16:05:00Z"
-  },
-  {
-    "id": "el_2026072302",
-    "league": "EL",
-    "team": "Binghamton Rumble Ponies",
-    "opponent": "Portland Sea Dogs",
-    "arena": "Mirabito Stadium",
-    "city": "Binghamton, New York",
-    "date": "2026-07-23T22:07:00Z"
-  },
-  {
-    "id": "el_2026072303",
-    "league": "EL",
-    "team": "Harrisburg Senators",
-    "opponent": "Reading Fightin Phils",
-    "arena": "FNB Field",
-    "city": "Harrisburg, Pennsylvania",
-    "date": "2026-07-23T22:30:00Z",
-    "giveaway": {
-      "title": "The Greatest Outfield Ever Tin Sign",
-      "details": "First 1,000 fans receive The Greatest Outfield Ever Tin Sign."
-    }
-  },
-  {
-    "id": "el_2026072304",
-    "league": "EL",
-    "team": "Chesapeake Baysox",
-    "opponent": "Erie SeaWolves",
-    "arena": "Prince George's Stadium",
-    "city": "Bowie, Maryland",
-    "date": "2026-07-23T22:35:00Z",
-    "giveaway": {
-      "title": "Baysox Boonie Hat",
-      "details": "First 750 fans ages 13 and over receive a Baysox Boonie Hat."
-    }
-  },
-  {
-    "id": "el_2026072305",
-    "league": "EL",
-    "team": "Akron RubberDucks",
-    "opponent": "Altoona Curve",
-    "arena": "7 17 Credit Union Park",
-    "city": "Akron, Ohio",
-    "date": "2026-07-23T22:35:00Z"
-  },
-  {
-    "id": "el_2026072306",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "Hartford Yard Goats",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-07-23T23:05:00Z"
-  },
-  {
     "id": "el_2026072401",
     "league": "EL",
     "team": "New Hampshire Fisher Cats",
@@ -1569,5 +463,1601 @@
     "fireworks": {
       "title": "Postgame Fireworks"
     }
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+  "id": "el_2026080101",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Harrisburg Senators",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-01T22:00:00Z"
+},
+
+{
+  "id": "el_2026080102",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-01T22:05:00Z"
+},
+
+{
+  "id": "el_2026080103",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-01T22:10:00Z"
+},
+
+{
+  "id": "el_2026080104",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Chesapeake Baysox",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-01T22:30:00Z"
+},
+
+{
+  "id": "el_2026080105",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-01T22:45:00Z"
+},
+
+{
+  "id": "el_2026080106",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-01T23:05:00Z"
+},
+
+{
+  "id": "el_2026080201",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Harrisburg Senators",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-02T17:00:00Z"
+},
+
+{
+  "id": "el_2026080202",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-02T17:10:00Z"
+},
+
+{
+  "id": "el_2026080203",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-02T17:35:00Z"
+},
+
+{
+  "id": "el_2026080204",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-02T21:05:00Z"
+},
+
+{
+  "id": "el_2026080205",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-02T21:15:00Z"
+},
+
+{
+  "id": "el_2026080206",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Chesapeake Baysox",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-02T22:00:00Z"
+},
+
+{
+  "id": "el_2026080401",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Somerset Patriots",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-04T16:05:00Z"
+},
+
+{
+  "id": "el_2026080402",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-04T22:03:00Z"
+},
+
+{
+  "id": "el_2026080403",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Altoona Curve",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-04T22:05:00Z"
+},
+
+{
+  "id": "el_2026080404",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-04T22:07:00Z"
+},
+
+{
+  "id": "el_2026080405",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-04T22:35:00Z"
+},
+
+{
+  "id": "el_2026080406",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Reading Fightin Phils",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-04T23:05:00Z"
+},
+
+{
+  "id": "el_2026080501",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-05T16:05:00Z"
+},
+
+{
+  "id": "el_2026080502",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Altoona Curve",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-05T16:35:00Z"
+},
+
+{
+  "id": "el_2026080503",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-05T21:35:00Z"
+},
+
+{
+  "id": "el_2026080504",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-05T21:40:00Z"
+},
+
+{
+  "id": "el_2026080505",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-05T22:07:00Z"
+},
+
+{
+  "id": "el_2026080506",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Somerset Patriots",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-05T22:35:00Z"
+},
+
+{
+  "id": "el_2026080507",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Reading Fightin Phils",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-05T23:05:00Z"
+},
+
+{
+  "id": "el_2026080601",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-06T22:03:00Z"
+},
+
+{
+  "id": "el_2026080602",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Altoona Curve",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-06T22:05:00Z"
+},
+
+{
+  "id": "el_2026080603",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-06T22:07:00Z"
+},
+
+{
+  "id": "el_2026080604",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-06T22:35:00Z"
+},
+
+{
+  "id": "el_2026080605",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Somerset Patriots",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-06T22:35:00Z"
+},
+
+{
+  "id": "el_2026080606",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Reading Fightin Phils",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-06T23:05:00Z"
+},
+
+{
+  "id": "el_2026080701",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-07T22:03:00Z"
+},
+
+{
+  "id": "el_2026080702",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Altoona Curve",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-07T22:05:00Z"
+},
+
+{
+  "id": "el_2026080703",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-07T23:00:00Z"
+},
+
+{
+  "id": "el_2026080704",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "el_2026080705",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Reading Fightin Phils",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "el_2026080706",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Somerset Patriots",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-07T23:17:00Z"
+},
+
+{
+  "id": "el_2026080801",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-08T22:03:00Z"
+},
+
+{
+  "id": "el_2026080802",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Altoona Curve",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-08T22:05:00Z"
+},
+
+{
+  "id": "el_2026080803",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-08T22:07:00Z"
+},
+
+{
+  "id": "el_2026080804",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-08T22:35:00Z"
+},
+
+{
+  "id": "el_2026080805",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Somerset Patriots",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-08T23:05:00Z"
+},
+
+{
+  "id": "el_2026080806",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Reading Fightin Phils",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-08T23:05:00Z"
+},
+
+{
+  "id": "el_2026080901",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-09T17:00:00Z"
+},
+
+{
+  "id": "el_2026080902",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-09T17:05:00Z"
+},
+
+{
+  "id": "el_2026080903",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-09T17:05:00Z"
+},
+
+{
+  "id": "el_2026080904",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Somerset Patriots",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-09T17:05:00Z"
+},
+
+{
+  "id": "el_2026080905",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Altoona Curve",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-09T17:35:00Z"
+},
+
+{
+  "id": "el_2026080906",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Reading Fightin Phils",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-09T21:05:00Z"
+},
+
+{
+  "id": "el_2026081101",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-11T22:00:00Z"
+},
+
+{
+  "id": "el_2026081102",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-11T22:00:00Z"
+},
+
+{
+  "id": "el_2026081103",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-11T22:30:00Z"
+},
+
+{
+  "id": "el_2026081104",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-11T22:35:00Z"
+},
+
+{
+  "id": "el_2026081105",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-11T23:00:00Z"
+},
+
+{
+  "id": "el_2026081106",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Erie SeaWolves",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-11T23:10:00Z"
+},
+
+{
+  "id": "el_2026081201",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-12T16:05:00Z"
+},
+
+{
+  "id": "el_2026081202",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-12T21:00:00Z"
+},
+
+{
+  "id": "el_2026081203",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-12T22:00:00Z"
+},
+
+{
+  "id": "el_2026081204",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-12T22:00:00Z"
+},
+
+{
+  "id": "el_2026081205",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-12T23:00:00Z"
+},
+
+{
+  "id": "el_2026081206",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Erie SeaWolves",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-12T23:10:00Z"
+},
+
+{
+  "id": "el_2026081207",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-12T21:05:00Z"
+},
+
+{
+  "id": "el_2026081301",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-13T22:00:00Z"
+},
+
+{
+  "id": "el_2026081302",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-13T22:00:00Z"
+},
+
+{
+  "id": "el_2026081303",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-13T22:30:00Z"
+},
+
+{
+  "id": "el_2026081304",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-13T22:35:00Z"
+},
+
+{
+  "id": "el_2026081305",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-13T23:00:00Z"
+},
+
+{
+  "id": "el_2026081306",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Erie SeaWolves",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-13T23:10:00Z"
+},
+
+{
+  "id": "el_2026081401",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-14T22:00:00Z"
+},
+
+{
+  "id": "el_2026081402",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-14T22:00:00Z"
+},
+
+{
+  "id": "el_2026081403",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-14T22:35:00Z"
+},
+
+{
+  "id": "el_2026081404",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-14T23:00:00Z"
+},
+
+{
+  "id": "el_2026081405",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-14T23:00:00Z"
+},
+
+{
+  "id": "el_2026081406",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Erie SeaWolves",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-14T23:10:00Z"
+},
+
+{
+  "id": "el_2026081501",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-15T22:00:00Z"
+},
+
+{
+  "id": "el_2026081502",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-15T22:00:00Z"
+},
+
+{
+  "id": "el_2026081503",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-15T22:00:00Z"
+},
+
+{
+  "id": "el_2026081504",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Erie SeaWolves",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-15T22:10:00Z"
+},
+
+{
+  "id": "el_2026081505",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-15T22:35:00Z"
+},
+
+{
+  "id": "el_2026081506",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-15T22:45:00Z"
+},
+
+{
+  "id": "el_2026081601",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-16T17:00:00Z"
+},
+
+{
+  "id": "el_2026081602",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-16T17:00:00Z"
+},
+
+{
+  "id": "el_2026081603",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Erie SeaWolves",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-16T17:10:00Z"
+},
+
+{
+  "id": "el_2026081604",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-16T21:05:00Z"
+},
+
+{
+  "id": "el_2026081605",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-16T21:15:00Z"
+},
+
+{
+  "id": "el_2026081606",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-16T22:00:00Z"
+},
+
+{
+  "id": "el_2026081801",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-18T22:00:00Z"
+},
+
+{
+  "id": "el_2026081802",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-18T22:05:00Z"
+},
+
+{
+  "id": "el_2026081803",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Altoona Curve",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-18T22:07:00Z"
+},
+
+{
+  "id": "el_2026081804",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Harrisburg Senators",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-18T22:35:00Z"
+},
+
+{
+  "id": "el_2026081805",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-18T22:35:00Z"
+},
+
+{
+  "id": "el_2026081806",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-18T23:10:00Z"
+},
+
+{
+  "id": "el_2026081901",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-19T22:00:00Z"
+},
+
+{
+  "id": "el_2026081902",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-19T22:05:00Z"
+},
+
+{
+  "id": "el_2026081903",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Altoona Curve",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-19T22:07:00Z"
+},
+
+{
+  "id": "el_2026081904",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Harrisburg Senators",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-19T22:35:00Z"
+},
+
+{
+  "id": "el_2026081905",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-19T22:35:00Z"
+},
+
+{
+  "id": "el_2026081906",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-19T23:10:00Z"
+},
+
+{
+  "id": "el_2026082001",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-20T22:00:00Z"
+},
+
+{
+  "id": "el_2026082002",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-20T22:05:00Z"
+},
+
+{
+  "id": "el_2026082003",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Altoona Curve",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-20T22:07:00Z"
+},
+
+{
+  "id": "el_2026082004",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Harrisburg Senators",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-20T22:35:00Z"
+},
+
+{
+  "id": "el_2026082005",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-20T22:35:00Z"
+},
+
+{
+  "id": "el_2026082006",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-20T23:10:00Z"
+},
+
+{
+  "id": "el_2026082101",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-21T22:00:00Z"
+},
+
+{
+  "id": "el_2026082102",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-21T22:05:00Z"
+},
+
+{
+  "id": "el_2026082103",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Altoona Curve",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-21T23:00:00Z"
+},
+
+{
+  "id": "el_2026082104",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-21T23:05:00Z"
+},
+
+{
+  "id": "el_2026082105",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-21T23:10:00Z"
+},
+
+{
+  "id": "el_2026082106",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Harrisburg Senators",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-21T23:17:00Z"
+},
+
+{
+  "id": "el_2026082201",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-22T22:00:00Z"
+},
+
+{
+  "id": "el_2026082202",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-22T22:05:00Z"
+},
+
+{
+  "id": "el_2026082203",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Harrisburg Senators",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-22T22:05:00Z"
+},
+
+{
+  "id": "el_2026082204",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Altoona Curve",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-22T22:07:00Z"
+},
+
+{
+  "id": "el_2026082205",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-22T22:10:00Z"
+},
+
+{
+  "id": "el_2026082206",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-22T22:35:00Z"
+},
+
+{
+  "id": "el_2026082301",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Altoona Curve",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2026-08-23T17:00:00Z"
+},
+
+{
+  "id": "el_2026082302",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2026-08-23T17:00:00Z"
+},
+
+{
+  "id": "el_2026082303",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Harrisburg Senators",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2026-08-23T17:05:00Z"
+},
+
+{
+  "id": "el_2026082304",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2026-08-23T17:05:00Z"
+},
+
+{
+  "id": "el_2026082305",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2026-08-23T17:10:00Z"
+},
+
+{
+  "id": "el_2026082306",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2026-08-23T17:35:00Z"
+},
+
+{
+  "id": "el_2026082501",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-25T15:00:00Z"
+},
+
+{
+  "id": "el_2026082502",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Erie SeaWolves",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-25T22:00:00Z"
+},
+
+{
+  "id": "el_2026082503",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-25T22:03:00Z"
+},
+
+{
+  "id": "el_2026082504",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-25T22:30:00Z"
+},
+
+{
+  "id": "el_2026082505",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Akron RubberDucks",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-25T22:35:00Z"
+},
+
+{
+  "id": "el_2026082506",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Portland Sea Dogs",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-25T23:05:00Z"
+},
+
+{
+  "id": "el_2026082601",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Erie SeaWolves",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-26T22:00:00Z"
+},
+
+{
+  "id": "el_2026082602",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-26T22:03:00Z"
+},
+
+{
+  "id": "el_2026082603",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-26T22:30:00Z"
+},
+
+{
+  "id": "el_2026082604",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Akron RubberDucks",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-26T22:35:00Z"
+},
+
+{
+  "id": "el_2026082605",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-26T22:45:00Z"
+},
+
+{
+  "id": "el_2026082606",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Portland Sea Dogs",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-26T23:05:00Z"
+},
+
+{
+  "id": "el_2026082701",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Erie SeaWolves",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-27T22:00:00Z"
+},
+
+{
+  "id": "el_2026082702",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-27T22:03:00Z"
+},
+
+{
+  "id": "el_2026082703",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-27T22:30:00Z"
+},
+
+{
+  "id": "el_2026082704",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Akron RubberDucks",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-27T22:35:00Z"
+},
+
+{
+  "id": "el_2026082705",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-27T22:45:00Z"
+},
+
+{
+  "id": "el_2026082706",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Portland Sea Dogs",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-27T23:05:00Z"
+},
+
+{
+  "id": "el_2026082801",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Erie SeaWolves",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-28T22:00:00Z"
+},
+
+{
+  "id": "el_2026082802",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-28T22:03:00Z"
+},
+
+{
+  "id": "el_2026082803",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Akron RubberDucks",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-28T22:35:00Z"
+},
+
+{
+  "id": "el_2026082804",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-28T22:45:00Z"
+},
+
+{
+  "id": "el_2026082805",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-28T23:00:00Z"
+},
+
+{
+  "id": "el_2026082806",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Portland Sea Dogs",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-28T23:05:00Z"
+},
+
+{
+  "id": "el_2026082901",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Erie SeaWolves",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-29T22:00:00Z"
+},
+
+{
+  "id": "el_2026082902",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-29T22:00:00Z"
+},
+
+{
+  "id": "el_2026082903",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-29T22:03:00Z"
+},
+
+{
+  "id": "el_2026082904",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Akron RubberDucks",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-29T22:05:00Z"
+},
+
+{
+  "id": "el_2026082905",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-29T22:45:00Z"
+},
+
+{
+  "id": "el_2026082906",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Portland Sea Dogs",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-29T23:05:00Z"
+},
+
+{
+  "id": "el_2026083001",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2026-08-30T17:00:00Z"
+},
+
+{
+  "id": "el_2026083002",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Hartford Yard Goats",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2026-08-30T17:05:00Z"
+},
+
+{
+  "id": "el_2026083003",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Akron RubberDucks",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2026-08-30T17:05:00Z"
+},
+
+{
+  "id": "el_2026083004",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Portland Sea Dogs",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2026-08-30T21:05:00Z"
+},
+
+{
+  "id": "el_2026083005",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2026-08-30T21:15:00Z"
+},
+
+{
+  "id": "el_2026083006",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Erie SeaWolves",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2026-08-30T22:00:00Z"
+}
 ]
