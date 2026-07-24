@@ -1,1247 +1,5 @@
 [
   {
-    "id": "mwl_2026063001",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Lake County Captains",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-06-30T22:35:00Z",
-    "giveaway": {
-      "title": "Izaac Pacheco Bobblehead",
-      "details": "First 1,000 fans"
-    },
-    "fireworks": {
-      "title": "Farm Bureau Insurance Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026063002",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-06-30T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026063003",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "South Bend Cubs",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-06-30T23:05:00Z",
-    "fireworks": {
-      "title": "Bark In The Park, Bring Your Dog To The Ballgame"
-    }
-  },
-  {
-    "id": "mwl_2026063004",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Great Lakes Loons",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-06-30T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026063005",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-06-30T23:30:00Z",
-    "giveaway": {
-      "title": "Pennant #7 Giveaway",
-      "details": "All fans"
-    },
-    "fireworks": {
-      "title": "Bark in the Park"
-    }
-  },
-  {
-    "id": "mwl_2026063006",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-06-30T23:35:00Z"
-  },
-  {
-    "id": "mwl_2026070101",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Lake County Captains",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-01T22:35:00Z"
-  },
-  {
-    "id": "mwl_2026070102",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-01T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070103",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "South Bend Cubs",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-01T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070104",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Great Lakes Loons",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-01T23:05:00Z",
-    "giveaway": {
-      "title": "Train Rally Towel Giveaway",
-      "details": "All fans in attendance"
-    },
-    "fireworks": {
-      "title": "Paws & Claws. Bring your pet to the ballgame."
-    }
-  },
-  {
-    "id": "mwl_2026070105",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-01T23:30:00Z"
-  },
-  {
-    "id": "mwl_2026070106",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-01T23:35:00Z"
-  },
-  {
-    "id": "mwl_2026070201",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Lake County Captains",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-02T22:35:00Z"
-  },
-  {
-    "id": "mwl_2026070202",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-02T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070203",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "South Bend Cubs",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-02T23:05:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070204",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Great Lakes Loons",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-02T23:05:00Z",
-    "giveaway": {
-      "title": "$2 Domestic Draft Beers",
-      "details": "All game long"
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070205",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-02T23:30:00Z",
-    "giveaway": {
-      "title": "Pint Glass Giveaway #7",
-      "details": "All fans"
-    },
-    "fireworks": {
-      "title": "Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070206",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-02T23:35:00Z",
-    "giveaway": {
-      "title": "Oven Mitt Giveaway",
-      "details": "First 1,000 fans"
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070301",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Lake County Captains",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-03T22:35:00Z"
-  },
-  {
-    "id": "mwl_2026070302",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-03T23:00:00Z",
-    "fireworks": {
-      "title": "Red, White, & Boom Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070303",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-03T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070304",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Great Lakes Loons",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-03T23:05:00Z",
-    "giveaway": [
-      {
-        "title": "Harry Potter Mystery Jersey",
-        "details": "Premium ticket package includes jersey"
-      },
-      {
-        "title": "Harry Potter Game-Worn Jersey",
-        "details": "Premium ticket package includes game-worn jersey"
-      }
-    ],
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070305",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "South Bend Cubs",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-03T23:35:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070306",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-04T00:05:00Z",
-    "giveaway": {
-      "title": "Mason Burns Bobblehead Giveaway",
-      "details": "First 1,000 fans"
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070401",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "South Bend Cubs",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-04T18:05:00Z"
-  },
-  {
-    "id": "mwl_2026070402",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Great Lakes Loons",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-04T22:05:00Z",
-    "giveaway": {
-      "title": "Mini American Flag Giveaway",
-      "details": "All fans"
-    },
-    "fireworks": {
-      "title": "City of Fort Wayne Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070403",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-04T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070404",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-04T23:05:00Z",
-    "fireworks": {
-      "title": "Fourth of July Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070405",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Lake County Captains",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-04T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070406",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-04T23:30:00Z",
-    "fireworks": {
-      "title": "Post Game Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026070501",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-05T17:05:00Z"
-  },
-  {
-    "id": "mwl_2026070502",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Great Lakes Loons",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-05T17:05:00Z",
-    "giveaway": {
-      "title": "Bucket Hat Giveaway",
-      "details": "All fans in attendance"
-    }
-  },
-  {
-    "id": "mwl_2026070503",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-05T18:00:00Z",
-    "giveaway": {
-      "title": "Maikel Garcia Bobblehead Giveaway",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026070504",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Lake County Captains",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-05T18:00:00Z"
-  },
-  {
-    "id": "mwl_2026070505",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "South Bend Cubs",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-05T18:05:00Z"
-  },
-  {
-    "id": "mwl_2026070506",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-05T19:05:00Z"
-  },
-
-
-
-  {
-    "id": "mwl_2026070701",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-07T16:05:00Z"
-  },
-  {
-    "id": "mwl_2026070702",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-07T23:00:00Z"
-  },
-  {
-    "id": "mwl_2026070703",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "Dayton Dragons",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-07T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070704",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Peoria Chiefs",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-07T23:30:00Z",
-    "giveaway": {
-      "title": "Pennant #8 Giveaway",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026070705",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "South Bend Cubs",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-07T23:35:00Z"
-  },
-  {
-    "id": "mwl_2026070706",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-07T23:40:00Z"
-  },
-  {
-    "id": "mwl_2026070801",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "South Bend Cubs",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-08T17:05:00Z",
-    "giveaway": {
-      "title": "UFG Insurance Youth Baseball Gate Giveaway",
-      "details": "Fans receive a youth baseball giveaway item."
-    }
-  },
-  {
-    "id": "mwl_2026070802",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-08T17:10:00Z"
-  },
-  {
-    "id": "mwl_2026070803",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-08T22:35:00Z"
-  },
-  {
-    "id": "mwl_2026070804",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-08T23:00:00Z"
-  },
-  {
-    "id": "mwl_2026070805",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "Dayton Dragons",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-08T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070806",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Peoria Chiefs",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-08T23:30:00Z",
-    "giveaway": {
-      "title": "T-Shirt Giveaway #7",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026070901",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-09T22:35:00Z"
-  },
-  {
-    "id": "mwl_2026070902",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-09T23:00:00Z",
-    "fireworks": {
-      "title": "DAWG Night. Bring your dog to the ballgame."
-    }
-  },
-  {
-    "id": "mwl_2026070903",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "Dayton Dragons",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-09T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026070904",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Peoria Chiefs",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-09T23:30:00Z",
-    "giveaway": {
-      "title": "Pint Glass Giveaway #8",
-      "details": "All fans"
-    },
-    "fireworks": {
-      "title": "Bark in the Park"
-    }
-  },
-  {
-    "id": "mwl_2026070905",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "South Bend Cubs",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-09T23:35:00Z"
-  },
-  {
-    "id": "mwl_2026070906",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-09T23:40:00Z"
-  },
-  
-  {
-    "id": "mwl_2026071001",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-10T22:35:00Z",
-    "giveaway": {
-      "title": "Pizza Slice Bobblehead",
-      "details": "First 1,000 fans"
-    },
-    "fireworks": {
-      "title": "Post-Game Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071002",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-10T23:00:00Z",
-    "fireworks": {
-      "title": "Fireworks Friday"
-    }
-  },
-  {
-    "id": "mwl_2026071003",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "Dayton Dragons",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-10T23:05:00Z",
-    "giveaway": {
-      "title": "Pontooners Bottle Opener Coaster Giveaway",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071004",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Peoria Chiefs",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-10T23:30:00Z",
-    "fireworks": {
-      "title": "Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071005",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "South Bend Cubs",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-10T23:35:00Z"
-  },
-  {
-    "id": "mwl_2026071006",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-10T23:40:00Z"
-  },
-  {
-    "id": "mwl_2026071101",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Peoria Chiefs",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-11T22:30:00Z",
-    "giveaway": {
-      "title": "Logan Lee Bobblehead Giveaway",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071102",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-11T23:00:00Z",
-    "giveaway": {
-      "title": "Benny the Blue Pike Bobblehead",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071103",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "Dayton Dragons",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-11T23:05:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071104",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-11T23:05:00Z",
-    "giveaway": {
-      "title": "Josue Briceño Bobblehead",
-      "details": "First 1,000 fans"
-    },
-    "fireworks": {
-      "title": "Farm Bureau Insurance Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071105",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "South Bend Cubs",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-11T23:35:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks",
-      "details": "Stay after the game for a postgame fireworks show."
-    }
-  },
-  {
-    "id": "mwl_2026071106",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-11T23:40:00Z",
-    "giveaway": {
-      "title": "Hawaiian Shirt",
-      "details": "Special ticket package"
-    },
-    "fireworks": {
-      "title": "Post-Game Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071201",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Lansing Lugnuts",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-12T17:00:00Z"
-  },
-  {
-    "id": "mwl_2026071202",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "Dayton Dragons",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-12T17:05:00Z"
-  },
-  {
-    "id": "mwl_2026071203",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Peoria Chiefs",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-12T18:00:00Z",
-    "giveaway": {
-      "title": "T-Shirt Giveaway #8",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071204",
-    "league": "MWL",
-    "team": "West Michigan Whitecaps",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "LMCU Ballpark",
-    "city": "Comstock Park, Michigan",
-    "date": "2026-07-12T18:00:00Z",
-    "giveaway": {
-      "title": "Whitecaps Replica Jersey",
-      "details": "First 1,000 fans"
-    }
-  },
-  {
-    "id": "mwl_2026071205",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "South Bend Cubs",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-12T18:05:00Z"
-  },
-  {
-    "id": "mwl_2026071206",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-12T19:05:00Z",
-    "giveaway": {
-      "title": "Brewers Sunday Hat",
-      "details": "First 1,000 fans"
-    }
-  },
-
-
-
-
-  {
-    "id": "mwl_2026071701",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Dayton Dragons",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-17T23:00:00Z",
-    "fireworks": {
-      "title": "Fireworks Friday"
-    }
-  },
-  {
-    "id": "mwl_2026071702",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "Peoria Chiefs",
-    "arena": "Four Winds Field",
-    "city": "South Bend, Indiana",
-    "date": "2026-07-17T23:05:00Z",
-    "fireworks": {
-      "title": "Fantastic Friday Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071703",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "West Michigan Whitecaps",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-17T23:05:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071704",
-    "league": "MWL",
-    "team": "Lansing Lugnuts",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "Jackson Field",
-    "city": "Lansing, Michigan",
-    "date": "2026-07-17T23:05:00Z",
-    "giveaway": {
-      "title": "Jacob Wilson Bobblehead",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071705",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-17T23:35:00Z",
-    "giveaway": {
-      "title": "2 for 1 Drinks",
-      "details": "Buy one, get one free on 16oz draft & canned beer, 20oz soda and bottled water."
-    }
-  },
-  {
-    "id": "mwl_2026071706",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Quad Cities River Bandits",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-17T23:40:00Z",
-    "fireworks": {
-      "title": "Post-Game Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071801",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Quad Cities River Bandits",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-18T21:10:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071802",
-    "league": "MWL",
-    "team": "Quad Cities River Bandits",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Modern Woodmen Park",
-    "city": "Davenport, Iowa",
-    "date": "2026-07-19T00:10:00Z"
-  },
-  {
-    "id": "mwl_2026071803",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-18T22:30:00Z",
-    "fireworks": {
-      "title": "Stay after the game for a postgame fireworks show following Iowa Lottery Night."
-    }
-  },
-  {
-    "id": "mwl_2026071804",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-19T01:30:00Z"
-  },
-  {
-    "id": "mwl_2026071805",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Dayton Dragons",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-18T23:00:00Z",
-    "giveaway": {
-      "title": "Christmas in July Peanuts Bobblehead",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071806",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "Peoria Chiefs",
-    "arena": "Four Winds Field",
-    "city": "South Bend, Indiana",
-    "date": "2026-07-18T23:05:00Z",
-    "giveaway": {
-      "title": "Harry Potter Scarf",
-      "details": "Special ticket package"
-    }
-  },
-  {
-    "id": "mwl_2026071807",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "West Michigan Whitecaps",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-18T23:05:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026071808",
-    "league": "MWL",
-    "team": "Lansing Lugnuts",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "Jackson Field",
-    "city": "Lansing, Michigan",
-    "date": "2026-07-18T23:05:00Z",
-    "giveaway": {
-      "title": "Carlos Beltran Throwback Replica",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026071901",
-    "league": "MWL",
-    "team": "Lake County Captains",
-    "opponent": "Dayton Dragons",
-    "arena": "Classic Auto Group Park",
-    "city": "Eastlake, Ohio",
-    "date": "2026-07-19T17:00:00Z"
-  },
-  {
-    "id": "mwl_2026071902",
-    "league": "MWL",
-    "team": "Great Lakes Loons",
-    "opponent": "West Michigan Whitecaps",
-    "arena": "Dow Diamond",
-    "city": "Midland, Michigan",
-    "date": "2026-07-19T17:05:00Z"
-  },
-  {
-    "id": "mwl_2026071903",
-    "league": "MWL",
-    "team": "Lansing Lugnuts",
-    "opponent": "Fort Wayne TinCaps",
-    "arena": "Jackson Field",
-    "city": "Lansing, Michigan",
-    "date": "2026-07-19T17:05:00Z"
-  },
-  {
-    "id": "mwl_2026071904",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "Peoria Chiefs",
-    "arena": "Four Winds Field",
-    "city": "South Bend, Indiana",
-    "date": "2026-07-19T18:05:00Z",
-    "giveaway": {
-      "title": "Owen Caissie Bobblehead Giveaway",
-      "details": "First 1,000 fans"
-    }
-  },
-  {
-    "id": "mwl_2026071905",
-    "league": "MWL",
-    "team": "Cedar Rapids Kernels",
-    "opponent": "Beloit Sky Carp",
-    "arena": "Veterans Memorial Stadium",
-    "city": "Cedar Rapids, Iowa",
-    "date": "2026-07-19T19:05:00Z"
-  },
-  {
-    "id": "mwl_2026071906",
-    "league": "MWL",
-    "team": "Wisconsin Timber Rattlers",
-    "opponent": "Quad Cities River Bandits",
-    "arena": "Neuroscience Group Field at Fox Cities Stadium",
-    "city": "Grand Chute, Wisconsin",
-    "date": "2026-07-19T19:10:00Z",
-    "giveaway": {
-      "title": "Sal Frelick Bobblehead Giveaway",
-      "details": "First 1,000 fans"
-    }
-  },
-  {
-    "id": "mwl_2026072101",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-21T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072102",
-    "league": "MWL",
-    "team": "Lansing Lugnuts",
-    "opponent": "Great Lakes Loons",
-    "arena": "Jackson Field",
-    "city": "Lansing, Michigan",
-    "date": "2026-07-21T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072103",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "Quad Cities River Bandits",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-21T23:05:00Z",
-    "fireworks": {
-      "title": "Bark In The Park, Bring Your Dog To The Ballgame"
-    }
-  },
-  {
-    "id": "mwl_2026072104",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Four Winds Field",
-    "city": "South Bend, Indiana",
-    "date": "2026-07-21T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072105",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Lake County Captains",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-21T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072106",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "West Michigan Whitecaps",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-22T00:35:00Z"
-  },
-  {
-    "id": "mwl_2026072201",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Four Winds Field",
-    "city": "South Bend, Indiana",
-    "date": "2026-07-22T16:05:00Z"
-  },
-  {
-    "id": "mwl_2026072202",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Lake County Captains",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-22T16:05:00Z"
-  },
-  {
-    "id": "mwl_2026072203",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "West Michigan Whitecaps",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-22T18:05:00Z"
-  },
-  {
-    "id": "mwl_2026072204",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "Quad Cities River Bandits",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-22T19:05:00Z"
-  },
-  {
-    "id": "mwl_2026072205",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-22T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072206",
-    "league": "MWL",
-    "team": "Lansing Lugnuts",
-    "opponent": "Great Lakes Loons",
-    "arena": "Jackson Field",
-    "city": "Lansing, Michigan",
-    "date": "2026-07-22T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072301",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "Cedar Rapids Kernels",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-07-23T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072302",
-    "league": "MWL",
-    "team": "Lansing Lugnuts",
-    "opponent": "Great Lakes Loons",
-    "arena": "Jackson Field",
-    "city": "Lansing, Michigan",
-    "date": "2026-07-23T23:05:00Z",
-    "giveaway": {
-      "title": "Straw Hat Giveaway",
-      "details": "All fans"
-    }
-  },
-  {
-    "id": "mwl_2026072303",
-    "league": "MWL",
-    "team": "Beloit Sky Carp",
-    "opponent": "Quad Cities River Bandits",
-    "arena": "ABC Supply Stadium",
-    "city": "Beloit, Wisconsin",
-    "date": "2026-07-23T23:05:00Z"
-  },
-  {
-    "id": "mwl_2026072304",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "Wisconsin Timber Rattlers",
-    "arena": "Four Winds Field",
-    "city": "South Bend, Indiana",
-    "date": "2026-07-23T23:05:00Z",
-    "fireworks": {
-      "title": "Post-Game Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026072305",
-    "league": "MWL",
-    "team": "Fort Wayne TinCaps",
-    "opponent": "Lake County Captains",
-    "arena": "Parkview Field",
-    "city": "Fort Wayne, Indiana",
-    "date": "2026-07-23T23:05:00Z",
-    "giveaway": {
-      "title": "$2 Domestic Draft Beers",
-      "details": "All game long"
-    },
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
-    "id": "mwl_2026072306",
-    "league": "MWL",
-    "team": "Peoria Chiefs",
-    "opponent": "West Michigan Whitecaps",
-    "arena": "Dozer Park",
-    "city": "Peoria, Illinois",
-    "date": "2026-07-24T00:35:00Z",
-    "fireworks": {
-      "title": "Postgame Fireworks"
-    }
-  },
-  {
     "id": "mwl_2026072401",
     "league": "MWL",
     "team": "Dayton Dragons",
@@ -1696,6 +454,1593 @@
       "title": "Neon Foam Stick Giveaway",
       "details": "First 1,000 fans"
     }
-  }
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+  "id": "mwl_2026080101",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Dayton Dragons",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-01T22:30:00Z"
+},
+
+{
+  "id": "mwl_2026080102",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "South Bend Cubs",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-01T23:00:00Z"
+},
+
+{
+  "id": "mwl_2026080103",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Beloit Sky Carp",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-01T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080104",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-01T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080105",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Peoria Chiefs",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-01T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026080106",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-01T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026080201",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "South Bend Cubs",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-02T17:00:00Z"
+},
+
+{
+  "id": "mwl_2026080202",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-02T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026080203",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Dayton Dragons",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-02T18:00:00Z"
+},
+
+{
+  "id": "mwl_2026080204",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Beloit Sky Carp",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-02T18:00:00Z"
+},
+
+{
+  "id": "mwl_2026080205",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Peoria Chiefs",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-02T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026080206",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-02T18:10:00Z"
+},
+
+{
+  "id": "mwl_2026080401",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-04T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026080402",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Great Lakes Loons",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-04T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080403",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Lake County Captains",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-04T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080404",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-04T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080405",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-04T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080406",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-04T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026080501",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Lake County Captains",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-05T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026080502",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-05T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026080503",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Great Lakes Loons",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-05T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080504",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-05T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080505",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-05T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080506",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-05T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026080601",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Great Lakes Loons",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-06T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080602",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Lake County Captains",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-06T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080603",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-06T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080604",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-06T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080605",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-06T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080606",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-06T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026080701",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Great Lakes Loons",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080702",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Lake County Captains",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080703",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080704",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080705",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-07T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080806",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-08T00:05:00Z"
+},
+
+{
+  "id": "mwl_2026080801",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-08T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026080802",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Great Lakes Loons",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-08T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080803",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Lake County Captains",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-08T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080804",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-08T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026080805",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-08T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026080906",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-09T00:05:00Z"
+},
+
+{
+  "id": "mwl_2026080901",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Great Lakes Loons",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-09T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026080902",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Lake County Captains",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-09T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026080903",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-09T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026080904",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-09T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026080905",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-09T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026080906",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-09T19:05:00Z"
+},
+
+{
+  "id": "mwl_2026081101",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Lansing Lugnuts",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-11T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026081102",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "Dayton Dragons",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-11T23:00:00Z"
+},
+
+{
+  "id": "mwl_2026081103",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "South Bend Cubs",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-11T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081104",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-11T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026081105",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-11T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081106",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-11T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081201",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "Dayton Dragons",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-12T16:05:00Z"
+},
+
+{
+  "id": "mwl_2026081202",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-12T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026081203",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Lansing Lugnuts",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-12T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026081204",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "South Bend Cubs",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-12T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081205",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-12T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026081206",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-12T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081301",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Lansing Lugnuts",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-13T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026081302",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "Dayton Dragons",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-13T23:00:00Z"
+},
+
+{
+  "id": "mwl_2026081303",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "South Bend Cubs",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-13T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081304",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-13T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026081305",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-13T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081306",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-13T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081401",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Lansing Lugnuts",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-14T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026081402",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "Dayton Dragons",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-14T23:00:00Z"
+},
+
+{
+  "id": "mwl_2026081403",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "South Bend Cubs",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-14T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081404",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-14T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026081405",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-14T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081506",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-15T00:05:00Z"
+},
+
+{
+  "id": "mwl_2026081501",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-15T22:30:00Z"
+},
+
+{
+  "id": "mwl_2026081502",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "Dayton Dragons",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-15T23:00:00Z"
+},
+
+{
+  "id": "mwl_2026081503",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "South Bend Cubs",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-15T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081504",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Lansing Lugnuts",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-15T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081505",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-15T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026081606",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-16T00:05:00Z"
+},
+
+{
+  "id": "mwl_2026081601",
+  "league": "MWL",
+  "team": "Lake County Captains",
+  "opponent": "Dayton Dragons",
+  "arena": "Classic Auto Group Park",
+  "city": "Eastlake, Ohio",
+  "date": "2026-08-16T17:00:00Z"
+},
+
+{
+  "id": "mwl_2026081602",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "South Bend Cubs",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-16T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026081603",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Lansing Lugnuts",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-16T18:00:00Z"
+},
+
+{
+  "id": "mwl_2026081604",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Fort Wayne TinCaps",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-16T18:00:00Z"
+},
+
+{
+  "id": "mwl_2026081605",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Wisconsin Timber Rattlers",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-16T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026081606",
+  "league": "MWL",
+  "team": "Peoria Chiefs",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Dozer Park",
+  "city": "Peoria, Illinois",
+  "date": "2026-08-16T19:05:00Z"
+},
+
+{
+  "id": "mwl_2026081801",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Great Lakes Loons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-18T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026081802",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Peoria Chiefs",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-18T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081803",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-18T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081804",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-18T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081805",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-18T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081806",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lake County Captains",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-18T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026081901",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Peoria Chiefs",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-19T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026081902",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lake County Captains",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-19T17:10:00Z"
+},
+
+{
+  "id": "mwl_2026081903",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Great Lakes Loons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-19T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026081904",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-19T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081905",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-19T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026081906",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-19T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082001",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Peoria Chiefs",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-20T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082002",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-20T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082003",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-20T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082004",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-20T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082005",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Great Lakes Loons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-20T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082006",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lake County Captains",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-20T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082101",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Peoria Chiefs",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-21T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082102",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-21T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082103",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-21T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082104",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-21T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082105",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Great Lakes Loons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-21T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082106",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lake County Captains",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-21T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082201",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Great Lakes Loons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-22T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082202",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Peoria Chiefs",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-22T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082203",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-22T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082204",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-22T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082205",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-22T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026082206",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lake County Captains",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-22T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082301",
+  "league": "MWL",
+  "team": "Lansing Lugnuts",
+  "opponent": "Peoria Chiefs",
+  "arena": "Jackson Field",
+  "city": "Lansing, Michigan",
+  "date": "2026-08-23T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026082302",
+  "league": "MWL",
+  "team": "Dayton Dragons",
+  "opponent": "Quad Cities River Bandits",
+  "arena": "Day Air Ballpark",
+  "city": "Dayton, Ohio",
+  "date": "2026-08-23T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026082303",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Great Lakes Loons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-23T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026082304",
+  "league": "MWL",
+  "team": "Beloit Sky Carp",
+  "opponent": "Cedar Rapids Kernels",
+  "arena": "ABC Supply Stadium",
+  "city": "Beloit, Wisconsin",
+  "date": "2026-08-23T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026082305",
+  "league": "MWL",
+  "team": "South Bend Cubs",
+  "opponent": "West Michigan Whitecaps",
+  "arena": "Four Winds Field at Coveleski Stadium",
+  "city": "South Bend, Indiana",
+  "date": "2026-08-23T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026082306",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "Lake County Captains",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-23T18:10:00Z"
+},
+
+{
+  "id": "mwl_2026082501",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Peoria Chiefs",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-25T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082502",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Dayton Dragons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-25T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082503",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-25T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082504",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-25T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026082505",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Lake County Captains",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-25T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026082506",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "South Bend Cubs",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-25T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082601",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Lake County Captains",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-26T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026082602",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Peoria Chiefs",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-26T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082603",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Dayton Dragons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-26T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082604",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-26T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082605",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-26T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026082606",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "South Bend Cubs",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-26T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082701",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Peoria Chiefs",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-27T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082702",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-27T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082703",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Dayton Dragons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-27T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082704",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-27T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026082705",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Lake County Captains",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-27T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026082706",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "South Bend Cubs",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-27T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082801",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Peoria Chiefs",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-28T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082802",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-28T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082803",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Dayton Dragons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-28T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082804",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-28T23:30:00Z"
+},
+
+{
+  "id": "mwl_2026082805",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Lake County Captains",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-28T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026082806",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "South Bend Cubs",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-28T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026082901",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-29T22:30:00Z"
+},
+
+{
+  "id": "mwl_2026082902",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Dayton Dragons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-29T22:35:00Z"
+},
+
+{
+  "id": "mwl_2026082903",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-29T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082904",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Peoria Chiefs",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-29T23:05:00Z"
+},
+
+{
+  "id": "mwl_2026082905",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Lake County Captains",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-29T23:35:00Z"
+},
+
+{
+  "id": "mwl_2026082906",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "South Bend Cubs",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-29T23:40:00Z"
+},
+
+{
+  "id": "mwl_2026083001",
+  "league": "MWL",
+  "team": "Great Lakes Loons",
+  "opponent": "Lansing Lugnuts",
+  "arena": "Dow Diamond",
+  "city": "Midland, Michigan",
+  "date": "2026-08-30T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026083002",
+  "league": "MWL",
+  "team": "Fort Wayne TinCaps",
+  "opponent": "Dayton Dragons",
+  "arena": "Parkview Field",
+  "city": "Fort Wayne, Indiana",
+  "date": "2026-08-30T17:05:00Z"
+},
+
+{
+  "id": "mwl_2026083003",
+  "league": "MWL",
+  "team": "Quad Cities River Bandits",
+  "opponent": "Beloit Sky Carp",
+  "arena": "Modern Woodmen Park",
+  "city": "Davenport, Iowa",
+  "date": "2026-08-30T18:00:00Z"
+},
+
+{
+  "id": "mwl_2026083004",
+  "league": "MWL",
+  "team": "West Michigan Whitecaps",
+  "opponent": "Peoria Chiefs",
+  "arena": "LMCU Ballpark",
+  "city": "Comstock Park, Michigan",
+  "date": "2026-08-30T18:00:00Z"
+},
+
+{
+  "id": "mwl_2026083005",
+  "league": "MWL",
+  "team": "Cedar Rapids Kernels",
+  "opponent": "Lake County Captains",
+  "arena": "Veterans Memorial Stadium",
+  "city": "Cedar Rapids, Iowa",
+  "date": "2026-08-30T18:05:00Z"
+},
+
+{
+  "id": "mwl_2026083006",
+  "league": "MWL",
+  "team": "Wisconsin Timber Rattlers",
+  "opponent": "South Bend Cubs",
+  "arena": "Neuroscience Group Field at Fox Cities Stadium",
+  "city": "Appleton, Wisconsin",
+  "date": "2026-08-30T18:10:00Z"
+}
 
 ]
