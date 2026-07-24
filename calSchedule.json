@@ -1,682 +1,5 @@
 [
-  {
-    "id": "cal_2026063001",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Stockton Ports",
-    "arena": "The Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-01T01:05:00Z"
-  },
-  {
-    "id": "cal_2026063002",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-01T01:30:00Z"
-  },
-  {
-    "id": "cal_2026063003",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Visalia Rawhide",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-01T01:35:00Z"
-  },
-  {
-    "id": "cal_2026063004",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Ontario",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-01T01:50:00Z"
-  },
-
-  {
-    "id": "cal_2026070201",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Stockton Ports",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-02T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070202",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-02T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026070203",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Visalia Rawhide",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-02T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070204",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-02T01:50:00Z"
-  },
-  
-  {
-    "id": "cal_2026070301",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Stockton Ports",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-03T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070302",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-03T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026070303",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Visalia Rawhide",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-03T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070304",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-03T01:50:00Z"
-  },
-  
-  {
-    "id": "cal_2026070401",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-04T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026070402",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Visalia Rawhide",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-04T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070403",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Stockton Ports",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-04T01:45:00Z"
-  },
-  
-  {
-    "id": "cal_2026070404",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-04T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070401",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Stockton Ports",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-04T23:45:00Z"
-  },
-  
-  {
-    "id": "cal_2026070502",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-05T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026070503",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Visalia Rawhide",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-05T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070504",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-05T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070601",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-06T00:00:00Z"
-  },
-  
-  {
-    "id": "cal_2026070602",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-06T00:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070603",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Visalia Rawhide",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-06T00:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070604",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Stockton Ports",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-06T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070801",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-08T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026070802",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "San Jose Giants",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-08T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070803",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Inland Empire 66ers",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-08T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070804",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-08T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026070901",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-09T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026070902",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "San Jose Giants",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-09T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070903",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Inland Empire 66ers",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-09T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026070904",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-09T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071001",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-10T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026071002",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "San Jose Giants",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-10T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071003",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Inland Empire 66ers",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-10T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071004",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-10T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071101",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-11T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026071102",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "San Jose Giants",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-11T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071103",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Inland Empire 66ers",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-11T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071104",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-11T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071201",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Inland Empire 66ers",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-12T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071202",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-12T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026071203",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "San Jose Giants",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-12T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071204",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-12T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071201",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "San Jose Giants",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-12T19:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071202",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Inland Empire 66ers",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-12T20:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071203",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-12T21:00:00Z"
-  },
-  
-  {
-    "id": "cal_2026071204",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-12T21:09:00Z"
-  },
-  
-  {
-    "id": "cal_2026071801",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Inland Empire 66ers",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-18T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026071802",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-18T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071803",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-18T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071804",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "San Jose Giants",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-18T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071901",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-19T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026071902",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Inland Empire 66ers",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-19T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026071903",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-19T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026071904",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "San Jose Giants",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-19T02:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026072001",
-    "league": "CAL",
-    "team": "Stockton Ports",
-    "opponent": "San Jose Giants",
-    "arena": "Banner Island Ballpark",
-    "city": "Stockton, California",
-    "date": "2026-07-20T00:00:00Z"
-  },
-  
-  {
-    "id": "cal_2026072002",
-    "league": "CAL",
-    "team": "Rancho Cucamonga Quakes",
-    "opponent": "Inland Empire 66ers",
-    "arena": "LoanMart Field",
-    "city": "Rancho Cucamonga, California",
-    "date": "2026-07-20T00:00:00Z"
-  },
-  
-  {
-    "id": "cal_2026072003",
-    "league": "CAL",
-    "team": "Ontario Tower Buzzers",
-    "opponent": "Lake Elsinore Storm",
-    "arena": "ONT Field",
-    "city": "Ontario, California",
-    "date": "2026-07-20T00:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026072004",
-    "league": "CAL",
-    "team": "Visalia Rawhide",
-    "opponent": "Fresno Grizzlies",
-    "arena": "Valley Strong Ballpark",
-    "city": "Visalia, California",
-    "date": "2026-07-20T00:59:00Z"
-  },
-  
-  {
-    "id": "cal_2026072201",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Visalia Rawhide",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-22T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026072202",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-22T01:30:00Z"
-  },
-  
-  {
-    "id": "cal_2026072203",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Stockton Ports",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-22T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026072204",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-22T01:50:00Z"
-  },
-  
-  {
-    "id": "cal_2026072201",
-    "league": "CAL",
-    "team": "San Jose Giants",
-    "opponent": "Ontario Tower Buzzers",
-    "arena": "Excite Ballpark",
-    "city": "San Jose, California",
-    "date": "2026-07-22T20:00:00Z"
-  },
-  
-  {
-    "id": "cal_2026072302",
-    "league": "CAL",
-    "team": "Lake Elsinore Storm",
-    "opponent": "Visalia Rawhide",
-    "arena": "Lake Elsinore Diamond",
-    "city": "Lake Elsinore, California",
-    "date": "2026-07-23T01:05:00Z"
-  },
-  
-  {
-    "id": "cal_2026072303",
-    "league": "CAL",
-    "team": "Inland Empire 66ers",
-    "opponent": "Stockton Ports",
-    "arena": "San Manuel Stadium",
-    "city": "San Bernardino, California",
-    "date": "2026-07-23T01:35:00Z"
-  },
-  
-  {
-    "id": "cal_2026072304",
-    "league": "CAL",
-    "team": "Fresno Grizzlies",
-    "opponent": "Rancho Cucamonga Quakes",
-    "arena": "Chukchansi Park",
-    "city": "Fresno, California",
-    "date": "2026-07-23T01:50:00Z"
-  },
-  
-  {
+   {
     "id": "cal_2026072401",
     "league": "CAL",
     "team": "Lake Elsinore Storm",
@@ -994,7 +317,1053 @@
     "arena": "Banner Island Ballpark",
     "city": "Stockton, California",
     "date": "2026-08-01T02:05:00Z"
-  }
+  },
+
+
+
+
+
+
+  {
+  "id": "cal_2026080201",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-02T01:05:00Z"
+},
+
+{
+  "id": "cal_2026080202",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "San Jose Giants",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-02T01:30:00Z"
+},
+
+{
+  "id": "cal_2026080203",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Inland Empire 66ers",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-02T01:35:00Z"
+},
+
+{
+  "id": "cal_2026080204",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-02T02:05:00Z"
+},
+
+{
+  "id": "cal_2026080201",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Inland Empire 66ers",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-02T19:05:00Z"
+},
+
+{
+  "id": "cal_2026080302",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-03T00:00:00Z"
+},
+
+{
+  "id": "cal_2026080303",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "San Jose Giants",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-03T00:00:00Z"
+},
+
+{
+  "id": "cal_2026080304",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-03T00:05:00Z"
+},
+
+{
+  "id": "cal_2026080401",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-04T18:05:00Z"
+},
+
+{
+  "id": "cal_2026080502",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Stockton Ports",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-05T01:30:00Z"
+},
+
+{
+  "id": "cal_2026080503",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-05T01:35:00Z"
+},
+
+{
+  "id": "cal_2026080504",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Visalia Rawhide",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-05T01:50:00Z"
+},
+
+{
+  "id": "cal_2026080501",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Stockton Ports",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-05T20:00:00Z"
+},
+
+{
+  "id": "cal_2026080602",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-06T01:05:00Z"
+},
+
+{
+  "id": "cal_2026080603",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-06T01:35:00Z"
+},
+
+{
+  "id": "cal_2026080604",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Visalia Rawhide",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-06T01:50:00Z"
+},
+
+{
+  "id": "cal_2026080701",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-07T01:05:00Z"
+},
+
+{
+  "id": "cal_2026080702",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Stockton Ports",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-07T01:30:00Z"
+},
+
+{
+  "id": "cal_2026080703",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-07T01:35:00Z"
+},
+
+{
+  "id": "cal_2026080704",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Visalia Rawhide",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-07T01:50:00Z"
+},
+
+{
+  "id": "cal_2026080801",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-08T01:35:00Z"
+},
+
+{
+  "id": "cal_2026080802",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-08T01:45:00Z"
+},
+
+{
+  "id": "cal_2026080803",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Stockton Ports",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-08T02:00:00Z"
+},
+
+{
+  "id": "cal_2026080804",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Visalia Rawhide",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-08T02:05:00Z"
+},
+
+{
+  "id": "cal_2026080901",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Stockton Ports",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-09T00:00:00Z"
+},
+
+{
+  "id": "cal_2026080902",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-09T01:35:00Z"
+},
+
+{
+  "id": "cal_2026080903",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-09T01:45:00Z"
+},
+
+{
+  "id": "cal_2026080904",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Visalia Rawhide",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-09T01:50:00Z"
+},
+
+{
+  "id": "cal_2026081001",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Stockton Ports",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-10T00:00:00Z"
+},
+
+{
+  "id": "cal_2026081002",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Visalia Rawhide",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-10T00:05:00Z"
+},
+
+{
+  "id": "cal_2026081003",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-10T00:35:00Z"
+},
+
+{
+  "id": "cal_2026081004",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-10T01:05:00Z"
+},
+
+{
+  "id": "cal_2026081201",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Fresno Grizzlies",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-12T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081202",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-12T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081203",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-12T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081204",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Visalia Rawhide",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-12T02:05:00Z"
+},
+
+{
+  "id": "cal_2026081201",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Fresno Grizzlies",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-12T20:00:00Z"
+},
+
+{
+  "id": "cal_2026081302",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-13T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081303",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-13T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081304",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Visalia Rawhide",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-13T02:05:00Z"
+},
+
+{
+  "id": "cal_2026081401",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Fresno Grizzlies",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-14T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081402",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-14T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081403",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-14T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081404",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Visalia Rawhide",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-14T02:05:00Z"
+},
+
+{
+  "id": "cal_2026081501",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-15T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081502",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-15T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081503",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Fresno Grizzlies",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-15T02:00:00Z"
+},
+
+{
+  "id": "cal_2026081504",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Visalia Rawhide",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-15T02:05:00Z"
+},
+
+{
+  "id": "cal_2026081601",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Fresno Grizzlies",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-16T01:00:00Z"
+},
+
+{
+  "id": "cal_2026081602",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-16T01:30:00Z"
+},
+
+{
+  "id": "cal_2026081603",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-16T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081604",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Visalia Rawhide",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-16T02:05:00Z"
+},
+
+{
+  "id": "cal_2026081701",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Fresno Grizzlies",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-17T00:00:00Z"
+},
+
+{
+  "id": "cal_2026081702",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Visalia Rawhide",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-17T00:00:00Z"
+},
+
+{
+  "id": "cal_2026081703",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-17T00:00:00Z"
+},
+
+{
+  "id": "cal_2026081704",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-17T00:35:00Z"
+},
+
+{
+  "id": "cal_2026081901",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "San Jose Giants",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-19T01:05:00Z"
+},
+
+{
+  "id": "cal_2026081902",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-19T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081903",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Inland Empire 66ers",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-19T01:35:00Z"
+},
+
+{
+  "id": "cal_2026081904",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Stockton Ports",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-19T01:50:00Z"
+},
+
+{
+  "id": "cal_2026082001",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "San Jose Giants",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-20T01:05:00Z"
+},
+
+{
+  "id": "cal_2026082002",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-20T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082003",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Inland Empire 66ers",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-20T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082004",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Stockton Ports",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-20T01:50:00Z"
+},
+
+{
+  "id": "cal_2026082101",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "San Jose Giants",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-21T01:05:00Z"
+},
+
+{
+  "id": "cal_2026082102",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-21T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082103",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Inland Empire 66ers",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-21T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082104",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Stockton Ports",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-21T01:50:00Z"
+},
+
+{
+  "id": "cal_2026082201",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-22T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082202",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Inland Empire 66ers",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-22T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082203",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "San Jose Giants",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-22T01:45:00Z"
+},
+
+{
+  "id": "cal_2026082204",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Stockton Ports",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-22T02:05:00Z"
+},
+
+{
+  "id": "cal_2026082301",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Inland Empire 66ers",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-23T01:05:00Z"
+},
+
+{
+  "id": "cal_2026082302",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-23T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082303",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "San Jose Giants",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-23T01:45:00Z"
+},
+
+{
+  "id": "cal_2026082304",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Stockton Ports",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-23T01:50:00Z"
+},
+
+{
+  "id": "cal_2026082301",
+  "league": "CAL",
+  "team": "Visalia Rawhide",
+  "opponent": "Rancho Cucamonga Quakes",
+  "arena": "Valley Strong Ballpark",
+  "city": "Visalia, California",
+  "date": "2026-08-23T19:05:00Z"
+},
+
+{
+  "id": "cal_2026082402",
+  "league": "CAL",
+  "team": "Fresno Grizzlies",
+  "opponent": "Stockton Ports",
+  "arena": "Chukchansi Park",
+  "city": "Fresno, California",
+  "date": "2026-08-24T00:05:00Z"
+},
+
+{
+  "id": "cal_2026082403",
+  "league": "CAL",
+  "team": "Ontario Tower Buzzers",
+  "opponent": "Inland Empire 66ers",
+  "arena": "ONT Field",
+  "city": "Ontario, California",
+  "date": "2026-08-24T00:05:00Z"
+},
+
+{
+  "id": "cal_2026082404",
+  "league": "CAL",
+  "team": "Lake Elsinore Storm",
+  "opponent": "San Jose Giants",
+  "arena": "Lake Elsinore Diamond",
+  "city": "Lake Elsinore, California",
+  "date": "2026-08-24T01:05:00Z"
+},
+
+{
+  "id": "cal_2026082601",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Visalia Rawhide",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-26T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082602",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-26T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082603",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-26T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082604",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-26T02:05:00Z"
+},
+
+{
+  "id": "cal_2026082701",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Visalia Rawhide",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-27T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082702",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-27T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082703",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-27T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082704",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-27T02:05:00Z"
+},
+
+{
+  "id": "cal_2026082801",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Visalia Rawhide",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-28T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082802",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-28T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082803",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-28T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082804",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-28T02:05:00Z"
+},
+
+{
+  "id": "cal_2026082901",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-29T01:30:00Z"
+},
+
+{
+  "id": "cal_2026082902",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-29T01:35:00Z"
+},
+
+{
+  "id": "cal_2026082903",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Visalia Rawhide",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-29T02:00:00Z"
+},
+
+{
+  "id": "cal_2026082904",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-29T02:05:00Z"
+},
+
+{
+  "id": "cal_2026083001",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Visalia Rawhide",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-30T00:00:00Z"
+},
+
+{
+  "id": "cal_2026083002",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-30T01:30:00Z"
+},
+
+{
+  "id": "cal_2026083003",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-30T01:35:00Z"
+},
+
+{
+  "id": "cal_2026083004",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-30T02:05:00Z"
+},
+
+{
+  "id": "cal_2026083001",
+  "league": "CAL",
+  "team": "San Jose Giants",
+  "opponent": "Visalia Rawhide",
+  "arena": "Excite Ballpark",
+  "city": "San Jose, California",
+  "date": "2026-08-30T20:00:00Z"
+},
+
+{
+  "id": "cal_2026083102",
+  "league": "CAL",
+  "team": "Rancho Cucamonga Quakes",
+  "opponent": "Lake Elsinore Storm",
+  "arena": "LoanMart Field",
+  "city": "Rancho Cucamonga, California",
+  "date": "2026-08-31T00:00:00Z"
+},
+
+{
+  "id": "cal_2026083103",
+  "league": "CAL",
+  "team": "Stockton Ports",
+  "opponent": "Ontario Tower Buzzers",
+  "arena": "Banner Island Ballpark",
+  "city": "Stockton, California",
+  "date": "2026-08-31T00:00:00Z"
+},
+
+{
+  "id": "cal_2026083104",
+  "league": "CAL",
+  "team": "Inland Empire 66ers",
+  "opponent": "Fresno Grizzlies",
+  "arena": "San Manuel Stadium",
+  "city": "San Bernardino, California",
+  "date": "2026-08-31T00:35:00Z"
+}
+  
     
   
   
