@@ -7,10 +7,7 @@
     "opponent": "Los Angeles Angels",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-08-06T16:35:00Z",
-    "fireworks": {
-      "title": "Ja Rule Postgame Concert \u2014 Ja Rule postgame concert presented by Coca-Cola. Everyone with a ticket to the White Sox vs. Guardians game will have the chance to enjoy the show. Field Pass Packages are available."
-    }
+    "date": "2026-08-06T16:35:00Z"
   },
   
   {
@@ -102,9 +99,9 @@
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
     "date": "2026-08-06T23:10:00Z",
-   "giveaway": [
+    "giveaway": [
       {
-        "title": "Cabo Verde Celebration - VIP Package",
+        "title": "Cabo Verde Celebration",
         "details": "Cultural celebration VIP package with giveaway items available with special ticket purchase using code CABOVIP."
       }
     ]
@@ -120,7 +117,7 @@
     "date": "2026-08-06T23:15:00Z",
     "giveaway": [
       {
-        "title": "Alan Jackson Celebration Night and Bobblehead Giveaway",
+        "title": "Bobblehead Giveaway",
         "details": "The first 15,000 fans in attendance will receive an Alan Jackson bobblehead featuring Alan floating down the Chattahoochee River in none other than a Braves jersey and cowboy hat!"
       }
     ],
@@ -155,7 +152,10 @@
     "opponent": "New York Mets",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-08-07T22:40:00Z"
+    "date": "2026-08-07T22:40:00Z",
+    "fireworks": {
+      "title": "Postgame Zambelli fireworks show. Presented by Ford."
+    }
   },
   
   {
@@ -175,7 +175,17 @@
     "opponent": "Cincinnati Reds",
     "arena": "Nationals Park",
     "city": "Washington, DC",
-    "date": "2026-08-07T22:45:00Z"
+    "date": "2026-08-07T22:45:00Z",
+    "fireworks": {
+      "title": "Postgame summer concert series presented by Harris Teeter and Coca-Cola featuring Jordan Davis."
+    },
+    "giveaway": [
+      {
+        "title": "Country Night Cowboy Hat",
+        "details": "Special ticket purchase required for Country Night Cowboy Hat."
+      }
+    ]
+  },
   },
   
   {
@@ -205,7 +215,13 @@
     "opponent": "Los Angeles Angels",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-08-07T23:10:00Z"
+    "date": "2026-08-07T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "NCL Beach Towel",
+        "details": "Ticket bundle includes an exclusive Marlins x NCL beach towel. Presented by Norwegian Cruise Line."
+      }
+    ]
   },
   
   {
@@ -217,7 +233,7 @@
     "city": "Chicago, Illinois",
     "date": "2026-08-07T23:40:00Z",
     "fireworks": {
-      "title": "Ja Rule Postgame Concert \u2014 Ja Rule postgame concert presented by Coca-Cola. Everyone with a ticket to the White Sox vs. Guardians game will have the chance to enjoy the show. Field Pass Packages are available."
+      "title": "Ja Rule postgame concert presented by Coca-Cola. Everyone with a ticket to the White Sox vs. Guardians game will have the chance to enjoy the show. Field Pass Packages are available."
     }
   },
   
@@ -238,7 +254,21 @@
     "opponent": "Baltimore Orioles",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-08-08T00:05:00Z"
+    "date": "2026-08-08T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "\"I Like Texas\" Limited Edition Vinyl Record",
+        "details": "First 10,000 fans receive an \"I Like Texas\" limited edition vinyl record. Presented by 105.3 The Fan."
+      },
+      {
+        "title": "Baylor Night",
+        "details": "Celebrate Baylor U Night with a co-branded Baylor U x Rangers windbreaker."
+      },
+      {
+        "title": "Baylor Night Windbreaker",
+        "details": "Tickets purchased through this offer come with a co-branded Baylor U \u00d7 Rangers windbreaker."
+      }
+    ]
   },
   
   {
@@ -248,7 +278,10 @@
     "opponent": "Chicago Cubs",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-08-08T00:10:00Z"
+    "date": "2026-08-08T00:10:00Z",
+    "fireworks": {
+      "title": "Post-game fireworks show. Presented by Price Chopper and Oreo."
+    }
   },
   
   {
@@ -258,7 +291,13 @@
     "opponent": "Colorado Rockies",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-08-08T00:15:00Z"
+    "date": "2026-08-08T00:15:00Z",
+    "giveaway": [
+      {
+        "title": "Joe & Jack Buck Bobblehead",
+        "details": "First 15,000 fans, 13 and older, receive a Joe & Jack Buck bobblehead featuring the iconic father-son broadcasting duo with a voice chip with their most iconic calls. Presented by Ameren."
+      }
+    ]
   },
   
   {
@@ -272,11 +311,11 @@
     "giveaway": [
       {
         "title": "Golf Hat Ticket Pack",
-        "details": "Limited-edition D-backs Rope Hat!. Special event ticket required."
+        "details": "Golf hat ticket pack special event. Special event ticket required."
       }
     ],
     "fireworks": {
-      "title": "Free postgame concert featuring Jhayco. All fans with a game ticket can watch from the stands; Concert Field Pass available to upgrade for field access."
+      "title": "Postgame concert featuring Jhayco. Special event ticket required."
     }
   },
   
@@ -297,7 +336,13 @@
     "opponent": "Tampa Bay Rays",
     "arena": "T-Mobile Park",
     "city": "Seattle, Washington",
-    "date": "2026-08-08T01:40:00Z"
+    "date": "2026-08-08T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Montana State University Night T-Shirt",
+        "details": "Mariners-themed Montana State University T-Shirt exclusively via online offer at Mariners.com/MSU."
+      }
+    ]
   },
   
   {
@@ -307,7 +352,13 @@
     "opponent": "Detroit Tigers",
     "arena": "Oracle Park",
     "city": "San Francisco, California",
-    "date": "2026-08-08T02:15:00Z"
+    "date": "2026-08-08T02:15:00Z",
+    "giveaway": [
+      {
+        "title": "Matt Chapman Bobblehead",
+        "details": "Matt Chapman bobblehead giveaway for Top Gun Night. Special Event ticket required."
+      }
+    ]
   },
   
   {
@@ -337,7 +388,17 @@
     "opponent": "Los Angeles Angels",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-08-08T20:10:00Z"
+    "date": "2026-08-08T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "Colombian Heritage Jersey",
+        "details": "Colombian Heritage Celebration ticket package includes an exclusive jersey."
+      },
+      {
+        "title": "Pizza Saturdays",
+        "details": "Special ticket package includes four game tickets, one 16\" large pizza (cheese or pepperoni), and four drinks - 12 oz. Cerveceria La Tropical beers, sodas, or waters. Presented by Cerveceria La Tropical."
+      }
+    ]
   },
   
   {
@@ -357,7 +418,20 @@
     "opponent": "New York Mets",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-08-08T22:40:00Z"
+    "date": "2026-08-08T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Backyard Baseball Special Ticket Package",
+        "details": "Special ticket package includes game ticket plus exclusive Pablo Sanchez bobblehead."
+      },
+      {
+        "title": "Free T-Shirt Giveaway",
+        "details": "First 20,000 fans take home a 2010's themed Pirates t-shirt, presented by Chick-fil-A Pittsburgh."
+      }
+    ],
+    "fireworks": {
+      "title": "Arrive early for a pregame block party on Federal Street, presented by Mike's Beer Bar. Stop by the Pirates Clubhouse store from 4pm to 5pm for the opportunity to make your own Topps card with Pirates alumni!"
+    }
   },
   
   {
@@ -367,7 +441,13 @@
     "opponent": "Cincinnati Reds",
     "arena": "Nationals Park",
     "city": "Washington, DC",
-    "date": "2026-08-08T22:45:00Z"
+    "date": "2026-08-08T22:45:00Z",
+    "giveaway": [
+      {
+        "title": "Hawaiian Shirt & Shorts Set",
+        "details": "First 20,000 fans receive a Hawaiian shirt and shorts set."
+      }
+    ]
   },
   
   {
@@ -377,7 +457,13 @@
     "opponent": "Chicago Cubs",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-08-08T23:10:00Z"
+    "date": "2026-08-08T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Royal-Tees Giveaway",
+        "details": "First 10,000 fans receive a Royal-Tee featuring Bobby Witt Jr. and Maikel Garcia with their Rawlings Gold Glove awards."
+      }
+    ]
   },
   
   {
@@ -387,7 +473,13 @@
     "opponent": "Minnesota Twins",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-08-08T23:10:00Z"
+    "date": "2026-08-08T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Bar Dice Set",
+        "details": "First 25,000 ticketed fans 21+ through the gates receive a bar dice set. Presented by Miller Lite."
+      }
+    ]
   },
   
   {
@@ -397,7 +489,13 @@
     "opponent": "Houston Astros",
     "arena": "Petco Park",
     "city": "San Diego, California",
-    "date": "2026-08-08T23:15:00Z"
+    "date": "2026-08-08T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Pickleball Day Accessory Bag",
+        "details": "Limited-edition accessory bag for National Pickleball Day."
+      }
+    ]
   },
   
   {
@@ -407,7 +505,13 @@
     "opponent": "Detroit Tigers",
     "arena": "Oracle Park",
     "city": "San Francisco, California",
-    "date": "2026-08-08T23:15:00Z"
+    "date": "2026-08-08T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Wall of Fame Ceremony Poster",
+        "details": "All fans in attendance receive a poster. Presented by Levi's\u00ae."
+      }
+    ]
   },
   
   {
@@ -417,7 +521,13 @@
     "opponent": "Colorado Rockies",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-08-08T23:15:00Z"
+    "date": "2026-08-08T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Cardinals Polo",
+        "details": "First 15,000 fans, 13 and older, receive an all-over-print Cardinals polo available in Medium and XL (while supplies last). Presented by Bayer."
+      }
+    ]
   },
   
   {
@@ -427,7 +537,13 @@
     "opponent": "Baltimore Orioles",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-08-08T23:15:00Z"
+    "date": "2026-08-08T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Golf Polo",
+        "details": "First 10,000 fans receive a golf polo. Presented by Energy Transfer."
+      }
+    ]
   },
   
   {
@@ -437,7 +553,13 @@
     "opponent": "Cleveland Guardians",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-08-08T23:15:00Z"
+    "date": "2026-08-08T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Ozzie Guill\u00e9n Replica Jersey",
+        "details": "First 15,000 fans receive an Ozzie Guill\u00e9n replica jersey, available in M or XL. Presented by Verve, a Credit Union."
+      }
+    ]
   },
   
   {
