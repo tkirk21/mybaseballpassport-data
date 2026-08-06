@@ -8,6 +8,9 @@
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
     "date": "2026-08-06T16:35:00Z"
+    "fireworks": {
+      "title": "Ja Rule Postgame Concert \u2014 Ja Rule postgame concert presented by Coca-Cola. Everyone with a ticket to the White Sox vs. Guardians game will have the chance to enjoy the show. Field Pass Packages are available."
+    }
   },
   
   {
@@ -18,6 +21,16 @@
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
     "date": "2026-08-06T16:40:00Z"
+    "giveaway": [
+      {
+        "title": "Business Day Specials",
+        "details": "Discounted View Level ticket and $10 in concession credits. Drop your business card in the container at a Fan Accommodation Station and you could win tickets to the next Business Day Game."
+      },
+      {
+        "title": "Thirsty Thursdays",
+        "details": "Discounted Field Box or Terrace Line ticket and $10 concession credit valid for food and beverages."
+      }
+    ]
   },
   
   {
@@ -40,11 +53,11 @@
     "date": "2026-08-06T17:10:00Z",
     "giveaway": [
       {
-        "title": "NARUTO™ Night Jersey",
-        "details": "NARUTO™-themed baseball jersey included with purchase of a special Theme Night ticket."
+        "title": "NARUTO\u2122 Night Jersey",
+        "details": "NARUTO\u2122-themed baseball jersey included with purchase of a special Theme Night ticket. Anime-themed activations throughout the ballpark. \u00a92002MK - 2007SP"
       }
     ]
-  }, 
+  },
   {
     "id": "mlb_2026080605",
     "league": "MLB",
@@ -107,12 +120,12 @@
     "date": "2026-08-06T23:15:00Z",
     "giveaway": [
       {
-        "title": "Alan Jackson Bobblehead",
-        "details": "First 15,000 fans receive an Alan Jackson bobblehead featuring Alan floating down the Chattahoochee River in a Braves jersey and cowboy hat."
+        "title": "Alan Jackson Celebration Night and Bobblehead Giveaway",
+        "details": "The first 15,000 fans in attendance will receive an Alan Jackson bobblehead featuring Alan floating down the Chattahoochee River in none other than a Braves jersey and cowboy hat!"
       }
     ],
     "fireworks": {
-      "title": "Alan Jackson Celebration Night — pregame party in the Plaza featuring Alan's music, line dancing, and a themed food truck."
+      "title": "Fans can look forward to a party in the Plaza before the game featuring Alan's music, line dancing, and \"Good Time\" themed food truck featuring items inspired by some of his greatest hits and more!"
     }
   },
   {
@@ -203,6 +216,9 @@
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
     "date": "2026-08-07T23:40:00Z"
+    "fireworks": {
+      "title": "Ja Rule Postgame Concert \u2014 Ja Rule postgame concert presented by Coca-Cola. Everyone with a ticket to the White Sox vs. Guardians game will have the chance to enjoy the show. Field Pass Packages are available."
+    }
   },
   
   {
