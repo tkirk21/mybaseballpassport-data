@@ -253,6 +253,15 @@
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
     "date": "2026-08-08T01:40:00Z"
+    "giveaway": [
+      {
+        "title": "Golf Hat Ticket Pack",
+        "details": "Limited-edition D-backs Rope Hat!. Special event ticket required."
+      }
+    ],
+    "fireworks": {
+      "title": "Free postgame concert featuring Jhayco. All fans with a game ticket can watch from the stands; Concert Field Pass available to upgrade for field access."
+    }
   },
   
   {
@@ -2133,6 +2142,9 @@
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
     "date": "2026-08-22T01:40:00Z"
+    "fireworks": {
+      "title": "Faith & Family Night presented by Chick-fil-A — postgame concert featuring Matthew West."
+    }
   },
   
   {
@@ -2293,6 +2305,12 @@
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
     "date": "2026-08-23T00:10:00Z"
+    "giveaway": [
+      {
+        "title": "Serpientes Haboob Globe",
+        "details": "First 20,000 fans receive a Serpientes Haboob Globe. Part of Hispanic Heritage Weekend presented by Estrella Jalisco."
+      }
+    ]
   },
   
   {
