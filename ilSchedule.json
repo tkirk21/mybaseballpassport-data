@@ -30,7 +30,24 @@
   "opponent": "Columbus Clippers",
   "arena": "NBT Bank Stadium",
   "city": "Syracuse, New York",
-  "date": "2026-08-06T22:35:00Z"
+  "date": "2026-08-06T22:35:00Z",
+  "giveaway": [
+    {
+      "title": "Amazin' Giveaway Pack Available",
+      "details": "The greatest ticket package ever invented! For today's giveaway, purchase this special ticket package including (1) game ticket & (1) guaranteed giveaway for today's game! Click on the button on the right to purchase your Amazin' Giveaway Pack now!"
+    },
+    {
+      "title": "Military Appreciation Day featuring Jersey Giveaway",
+      "details": "Honor the United States Military with the Syracuse Mets. The 1st 1000 fans through the gates will receive a Military Appreciation Day flag jersey giveaway! After the game, all fans can enjoy a post-game fireworks show."
+    },
+    {
+      "title": "Independence Day Weekend Commemorative Coin",
+      "details": "Purchase a Syracuse Mets 150 Anniversary x United States 250 Semiquincentennial Anniversary Amazin' Giveaway Exclusive Coin! "
+    }
+  ],
+  "fireworks": {
+    "title": "Post-game Fireworks"
+  }
 },
 
 {
@@ -40,7 +57,10 @@
   "opponent": "Norfolk Tides",
   "arena": "Sahlen Field",
   "city": "Buffalo, New York",
-  "date": "2026-08-06T22:35:00Z"
+  "date": "2026-08-06T22:35:00Z",
+  "fireworks": {
+    "title": "Family Value Night, $10 Tickets, Select $3 Kids Concessions"
+  }
 },
 
 {
@@ -70,7 +90,10 @@
   "opponent": "Jacksonville Jumbo Shrimp",
   "arena": "Coolray Field",
   "city": "Lawrenceville, Georgia",
-  "date": "2026-08-06T23:05:00Z"
+  "date": "2026-08-06T23:05:00Z",
+  "fireworks": {
+    "title": "Throwback Thursday"
+  }
 },
 
 {
@@ -80,7 +103,10 @@
   "opponent": "Nashville Sounds",
   "arena": "AutoZone Park",
   "city": "Memphis, Tennessee",
-  "date": "2026-08-06T23:45:00Z"
+  "date": "2026-08-06T23:45:00Z",
+  "fireworks": {
+    "title": "$7 Student Tickets"
+  }
 },
 
 {
@@ -90,7 +116,16 @@
   "opponent": "Louisville Bats",
   "arena": "CHS Field",
   "city": "St Paul, Minnesota",
-  "date": "2026-08-07T00:07:00Z"
+  "date": "2026-08-07T00:07:00Z",
+  "giveaway": [
+    {
+      "title": "Celebrating the history of black baseball in Minnesota as the St. Paul Gophers",
+      "details": ""
+    }
+  ],
+  "fireworks": {
+    "title": "Thirsty Thursday: Enjoy $2 Draft Beers, and 2-for-1 NUTRL, Busch Light, and Summit Lager cans all game long."
+  }
 },
 
 {
