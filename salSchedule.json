@@ -17,7 +17,10 @@
   "opponent": "Brooklyn Cyclones",
   "arena": "Daniel S. Frawley Stadium",
   "city": "Wilmington, Delaware",
-  "date": "2026-08-06T22:35:00Z"
+  "date": "2026-08-06T22:35:00Z",
+  "fireworks": {
+    "title": "Alma Maters Colors Night"
+  }
 },
 
 {
@@ -27,7 +30,10 @@
   "opponent": "Greensboro Grasshoppers",
   "arena": "AdventHealth Stadium",
   "city": "Rome, Georgia",
-  "date": "2026-08-06T22:45:00Z"
+  "date": "2026-08-06T22:45:00Z",
+  "fireworks": {
+    "title": "Rome Summer Legends"
+  }
 },
 
 {
@@ -37,7 +43,16 @@
   "opponent": "Hudson Valley Renegades",
   "arena": "Fluor Field at the West End",
   "city": "Greenville, South Carolina",
-  "date": "2026-08-06T22:45:00Z"
+  "date": "2026-08-06T22:45:00Z",
+  "giveaway": [
+    {
+      "title": "PKL Park Pickleball Paddle Giveaway",
+      "details": "Fitness Night Giveaway to the first 1,000 fans! \n\nCustom co-branded PKL Park & Drive pickleball paddle giveaway* to the first 1,000 fans through the Main St. and Field St. gates. \n\n*One paddle per fan"
+    }
+  ],
+  "fireworks": {
+    "title": "Dollar Drink Night"
+  }
 },
 
 {
@@ -47,7 +62,16 @@
   "opponent": "Frederick Keys",
   "arena": "ShoreTown Ballpark",
   "city": "Lakewood, New Jersey",
-  "date": "2026-08-06T23:05:00Z"
+  "date": "2026-08-06T23:05:00Z",
+  "giveaway": [
+    {
+      "title": "Jersey Tomatoes Night",
+      "details": "For one night only, the BlueClaws celebrate the Garden State and will take the field as the Jersey Tomatoes! There will be special promotions, games, merchandise, and much more! "
+    }
+  ],
+  "fireworks": {
+    "title": "Thirsty Thursday"
+  }
 },
 
 {
@@ -106,7 +130,16 @@
   "opponent": "Hudson Valley Renegades",
   "arena": "Fluor Field at the West End",
   "city": "Greenville, South Carolina",
-  "date": "2026-08-07T22:45:00Z"
+  "date": "2026-08-07T22:45:00Z",
+  "giveaway": [
+    {
+      "title": "Greenville-Themed YOUTH Jersey Giveaway",
+      "details": "Be one of the first 1,000 kids through the gates on Friday, August 7 and you'll receive a free Greenville-themed jersey courtesy of The Blood Connection. "
+    }
+  ],
+  "fireworks": {
+    "title": "Friday Night Fireworks, powered by GE Vernova"
+  }
 },
 
 {
@@ -116,7 +149,10 @@
   "opponent": "Frederick Keys",
   "arena": "ShoreTown Ballpark",
   "city": "Lakewood, New Jersey",
-  "date": "2026-08-07T23:05:00Z"
+  "date": "2026-08-07T23:05:00Z",
+  "fireworks": {
+    "title": "Star Wars Night Ticket Package"
+  }
 },
 
 {
@@ -126,7 +162,10 @@
   "opponent": "Hub City Spartanburgers",
   "arena": "Bowling Green Ballpark",
   "city": "Bowling Green, Kentucky",
-  "date": "2026-08-07T23:35:00Z"
+  "date": "2026-08-07T23:35:00Z",
+  "fireworks": {
+    "title": "Fireworks Fridays"
+  }
 },
 
 {
@@ -136,7 +175,10 @@
   "opponent": "Brooklyn Cyclones",
   "arena": "Daniel S. Frawley Stadium",
   "city": "Wilmington, Delaware",
-  "date": "2026-08-08T22:05:00Z"
+  "date": "2026-08-08T22:05:00Z",
+  "fireworks": {
+    "title": "Scout Night Sleepover"
+  }
 },
 
 {
@@ -156,7 +198,20 @@
   "opponent": "Greensboro Grasshoppers",
   "arena": "AdventHealth Stadium",
   "city": "Rome, Georgia",
-  "date": "2026-08-08T22:45:00Z"
+  "date": "2026-08-08T22:45:00Z",
+  "giveaway": [
+    {
+      "title": "Rome Racing Shirt Ticket Package",
+      "details": "Secure a ticket to racing night, a vintage-style Rome Racing Shirt, and be entered for a chance to win an autographed Chase Elliott Championship Die-cast."
+    },
+    {
+      "title": "Summer Legends Gold Medal Giveaway",
+      "details": "Be among the first 500 fans through the gates and claim the gold, courtesy of our friends at Louisiana Hot Sauce!"
+    }
+  ],
+  "fireworks": {
+    "title": "Rome Summer Legends"
+  }
 },
 
 {
