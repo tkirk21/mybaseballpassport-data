@@ -252,7 +252,7 @@
     "opponent": "Los Angeles Dodgers",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-08T01:40:00Z"
+    "date": "2026-08-08T01:40:00Z",
     "giveaway": [
       {
         "title": "Golf Hat Ticket Pack",
@@ -651,7 +651,13 @@
     "opponent": "Colorado Rockies",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-11T01:40:00Z"
+    "date": "2026-08-11T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Construction Nights Trucker Hat",
+        "details": "Special ticket package includes a discounted game ticket and limited-edition D-backs Construction-themed trucker hat."
+      }
+    ]
   },
   
   {
@@ -801,7 +807,17 @@
     "opponent": "Colorado Rockies",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-12T01:40:00Z"
+    "date": "2026-08-12T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Pokémon GO Hat",
+        "details": "Special event ticket pack includes an exclusive Pokémon GO hat, choice of Instinct, Mystic, or Valor gym team logo."
+      },
+      {
+        "title": "Construction Nights Trucker Hat",
+        "details": "Special ticket package includes a discounted game ticket and limited-edition D-backs Construction-themed trucker hat."
+      }
+    ]
   },
   
   {
@@ -2141,7 +2157,13 @@
     "opponent": "Cincinnati Reds",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-22T01:40:00Z"
+    "date": "2026-08-22T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "GCU Night Jersey",
+        "details": "Special Event ticket pack includes a co-branded D-backs GCU jersey (adult medium or XL, first come first served)."
+      }
+    ],
     "fireworks": {
       "title": "Faith & Family Night presented by Chick-fil-A — postgame concert featuring Matthew West."
     }
@@ -2304,11 +2326,15 @@
     "opponent": "Cincinnati Reds",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-23T00:10:00Z"
+    "date": "2026-08-23T00:10:00Z",
     "giveaway": [
       {
         "title": "Serpientes Haboob Globe",
         "details": "First 20,000 fans receive a Serpientes Haboob Globe. Part of Hispanic Heritage Weekend presented by Estrella Jalisco."
+      },
+      {
+        "title": "Puerto Rican Heritage Jersey",
+        "details": "Special Event ticket package includes a Puerto Rican-inspired D-backs jersey (sizes youth large through adult 3XL, first come first served)."
       }
     ]
   },
@@ -2470,7 +2496,17 @@
     "opponent": "Cincinnati Reds",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-23T20:15:00Z"
+    "date": "2026-08-23T20:15:00Z",
+    "giveaway": [
+      {
+        "title": "Dominican Heritage Hat",
+        "details": "Special Event ticket package includes a co-branded D-backs Dominican Republic Heritage hat (limited availability)."
+      },
+      {
+        "title": "Yoga on the Field Water Bottle",
+        "details": "Special-edition D-backs water bottle included with pregame Yoga on the Field ticket package, presented by Blue Cross Blue Shield of Arizona."
+      }
+    ]
   },
   
   {
@@ -2690,7 +2726,17 @@
     "opponent": "Chicago Cubs",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-08-26T01:40:00Z"
+    "date": "2026-08-26T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Women's Night Charm Bracelet",
+        "details": "Special Event ticket pack includes an exclusive D-backs charm bracelet."
+      },
+      {
+        "title": "Greek Heritage Celebration Hat",
+        "details": "Special Event ticket package includes a Greek-inspired D-backs hat (limited availability)."
+      }
+    ]
   },
   
   {
