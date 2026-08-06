@@ -1681,7 +1681,13 @@
     "opponent": "Chicago White Sox",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-08-15T17:10:00Z"
+    "date": "2026-08-15T17:10:00Z",
+    "giveaway": [
+      {
+        "title": "Ferris State University",
+        "details": "Special Ticket Package includes a custom Ferris State University hooded tee."
+      }
+    ]
   },
   
   {
@@ -1701,7 +1707,13 @@
     "opponent": "New York Yankees",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-08-15T19:07:00Z"
+    "date": "2026-08-15T19:07:00Z",
+    "giveaway": [
+      {
+        "title": "Care Bears Specialty Ticket",
+        "details": "Specialty ticket required. Your specialty ticket includes a ticket to the game and a Blue Jays plush care bear."
+      }
+    ]
   },
   
   {
@@ -1721,7 +1733,13 @@
     "opponent": "Washington Nationals",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-08-15T20:10:00Z"
+    "date": "2026-08-15T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "KPop Demon Hunters Mets Jersey",
+        "details": "First 15,000 fans receive a KPop Demon Hunters Mets jersey."
+      }
+    ]
   },
   
   {
@@ -1731,7 +1749,24 @@
     "opponent": "Baltimore Orioles",
     "arena": "Tropicana Field",
     "city": "St. Petersburg, Florida",
-    "date": "2026-08-15T22:10:00Z"
+    "date": "2026-08-15T22:10:00Z",
+    "giveaway": [
+      {
+        "title": "Flappy Boi Bobble",
+        "details": "First 10,000 fans receive a Flappy Boi bobblehead. Presented by Crown Automotive Group."
+      },
+      {
+        "title": "Rays Invasion Shirt",
+        "details": "Rays Invasion shirt. Ticket package required."
+      },
+      {
+        "title": "Country Hat",
+        "details": "Country hat. Ticket package required."
+      }
+    ],
+    "fireworks": {
+      "title": "Jordan Davis Postgame Concert \u2014 Postgame concert. Presented by Orlando Health, Union Home Mortgage and Dream Finders Homes. Add-on field access wristbands available for the best view of the show."
+    }
   },
   
   {
@@ -1741,7 +1776,16 @@
     "opponent": "Miami Marlins",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-08-15T22:40:00Z"
+    "date": "2026-08-15T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Harry Potter Night Bobblehead",
+        "details": "Featuring each of the four Reds mascots representing one of the Hogwarts Houses - Gryffindor, Hufflepuff, Ravenclaw, or Slytherin. Bobbleheads distributed randomly at the gates blind box style."
+      }
+    ],
+    "fireworks": {
+      "title": "Harry Potter Night Bobblehead \u2014 To fans in attendance, while supplies last."
+    }
   },
   
   {
@@ -1751,7 +1795,13 @@
     "opponent": "San Diego Padres",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-08-15T23:10:00Z"
+    "date": "2026-08-15T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "City Connect Sling Bag Giveaway",
+        "details": "First 15,000 fans receive a City Connect sling bag. Courtesy of The Cleveland Museum of Natural History."
+      }
+    ]
   },
   
   {
@@ -1761,7 +1811,13 @@
     "opponent": "Seattle Mariners",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-08-15T23:10:00Z"
+    "date": "2026-08-15T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Yordan Alvarez Home Run Train Bobblehead",
+        "details": "First 10,000 fans receive a Yordan Alvarez Home Run Train bobblehead. Presented by Phillips66."
+      }
+    ]
   },
   
   {
@@ -1781,7 +1837,16 @@
     "opponent": "Boston Red Sox",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-08-15T23:15:00Z"
+    "date": "2026-08-15T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "PNC Park Replica Statue Giveaway",
+        "details": "First 20,000 fans take home a PNC Park replica statue."
+      }
+    ],
+    "fireworks": {
+      "title": "Pregame block party on Federal Street presented by Mike's Beer Bar. Presented by PNC."
+    }
   },
   
   {
@@ -1801,7 +1866,13 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-08-15T23:15:00Z"
+    "date": "2026-08-15T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Reggie Smith \"Legends of Dodger Baseball\" Bobblehead",
+        "details": "Presented by Bank of America."
+      }
+    ]
   },
   
   {
@@ -1811,7 +1882,10 @@
     "opponent": "Kansas City Royals",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-08-16T01:38:00Z"
+    "date": "2026-08-16T01:38:00Z",
+    "fireworks": {
+      "title": "Post-game fireworks show. Presented by your SoCal Hyundai Dealers."
+    }
   },
   
   {
@@ -1821,7 +1895,16 @@
     "opponent": "Texas Rangers",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, CA",
-    "date": "2026-08-16T01:40:00Z"
+    "date": "2026-08-16T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Shea Langeliers Bobblehead",
+        "details": "Sacramento Saturdays presented by SAFE Credit Union: Early arriving fans receive a Shea Langeliers bobblehead, while supplies last."
+      }
+    ],
+    "fireworks": {
+      "title": "Shea Langeliers Bobblehead \u2014 Each Saturday brings something special with premium wearables, unique collectibles, and in-game celebrations."
+    }
   },
   
   {
@@ -1831,7 +1914,13 @@
     "opponent": "Baltimore Orioles",
     "arena": "Tropicana Field",
     "city": "St. Petersburg, Florida",
-    "date": "2026-08-16T16:15:00Z"
+    "date": "2026-08-16T16:15:00Z",
+    "giveaway": [
+      {
+        "title": "Margaritaville Tropical Shirt",
+        "details": "Margaritaville tropical shirt. Ticket package required."
+      }
+    ]
   },
   
   {
@@ -1881,7 +1970,13 @@
     "opponent": "San Diego Padres",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-08-16T17:40:00Z"
+    "date": "2026-08-16T17:40:00Z",
+    "giveaway": [
+      {
+        "title": "Care Bears Plush",
+        "details": "Special ticket package required from CLEGuardians.com/specials. This is not a stadium-wide giveaway."
+      }
+    ]
   },
   
   {
@@ -1891,7 +1986,13 @@
     "opponent": "Chicago White Sox",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-08-16T17:40:00Z"
+    "date": "2026-08-16T17:40:00Z",
+    "giveaway": [
+      {
+        "title": "Gate Giveaway",
+        "details": "Surprise giveway."
+      }
+    ]
   },
   
   {
@@ -1971,7 +2072,13 @@
     "opponent": "Seattle Mariners",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-08-16T23:20:00Z"
+    "date": "2026-08-16T23:20:00Z",
+    "giveaway": [
+      {
+        "title": "Tatsuya Imai Jersey",
+        "details": "First 10,000 fans receive a Tatsuya Imai jersey. Presented by ZIPAIR."
+      }
+    ]
   },
   
   {
@@ -2031,7 +2138,13 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-08-17T23:10:00Z"
+    "date": "2026-08-17T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "The Original Viral Mystery Squishy Dumpling Ticket Offer",
+        "details": "Special ticket offer with code SQUISHY."
+      }
+    ]
   },
   
   {
@@ -2041,7 +2154,13 @@
     "opponent": "San Diego Padres",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-08-17T23:10:00Z"
+    "date": "2026-08-17T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Bo Bichette Bobblehead",
+        "details": "First 18,000 fans receive a Bo Bichette bobblehead. Presented by Hyundai."
+      }
+    ]
   },
   
   {
@@ -2091,7 +2210,13 @@
     "opponent": "New York Yankees",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-08-18T22:35:00Z"
+    "date": "2026-08-18T22:35:00Z",
+    "giveaway": [
+      {
+        "title": "Hat",
+        "details": "Special ticket package required. Giveaway item for Italian Heritage Night. This is not a stadium-wide giveaway."
+      }
+    ]
   },
   
   {
@@ -2111,7 +2236,13 @@
     "opponent": "San Francisco Giants",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-08-18T22:40:00Z"
+    "date": "2026-08-18T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Hello Kitty Figurine",
+        "details": "Special ticket package required from CLEGuardians.com/specials. This is not a stadium-wide giveaway."
+      }
+    ]
   },
   
   {
@@ -2121,7 +2252,13 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-08-18T22:40:00Z"
+    "date": "2026-08-18T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Senior Days",
+        "details": "Fans 50 and older may purchase select non-premium tickets at half-price in advance of game day only. Presented by Anthem Blue Cross Blue Shield."
+      }
+    ]
   },
   
   {
@@ -2141,7 +2278,10 @@
     "opponent": "Miami Marlins",
     "arena": "Citizens Bank Park",
     "city": "Philadelphia, Pennsylia",
-    "date": "2026-08-18T22:40:00Z"
+    "date": "2026-08-18T22:40:00Z",
+    "fireworks": {
+      "title": "Postgame concert presented by Jim Beam."
+    }
   },
   
   {
@@ -2151,7 +2291,13 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-08-18T23:10:00Z"
+    "date": "2026-08-18T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "The Original Viral Mystery Squishy Dumpling Ticket Offer",
+        "details": "Special ticket offer with code SQUISHY."
+      }
+    ]
   },
   
   {
@@ -2161,7 +2307,13 @@
     "opponent": "San Diego Padres",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-08-18T23:10:00Z"
+    "date": "2026-08-18T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Mets Reversible Bucket Hat",
+        "details": "First 15,000 fans receive a Mets reversible bucket hat. Presented by Citi."
+      }
+    ]
   },
   
   {
@@ -2191,7 +2343,13 @@
     "opponent": "Seattle Mariners",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-08-18T23:40:00Z"
+    "date": "2026-08-18T23:40:00Z",
+    "giveaway": [
+      {
+        "title": "Local Artist Hat",
+        "details": "First 10,000 ticketed fans through the gates receive a local artist hat. Presented by Hupy and Abraham. Designed by Ric Stultz of Racine."
+      }
+    ]
   },
   
   {
@@ -2201,7 +2359,13 @@
     "opponent": "Washington Nationals",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-08-19T00:05:00Z"
+    "date": "2026-08-19T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "True Brvnd Washington Senators Cap",
+        "details": "Dallas culture brand True Brvnd and the Texas Rangers collaboration featuring throwback Texas Rangers uniforms. The fourth cap from the 2026 series pays homage to the Washington Senators. Limited-edition cap available by purchasing theme night tickets."
+      }
+    ]
   },
   
   {
