@@ -5323,6 +5323,24 @@
     "endDate": "2020-11-01"
   },
   {
+    "teamName": "Iowa Cubs",
+    "teamCode": "IOW",
+    "arena": "Field Of Dreams",
+    "arenaId": "field_of_dreams_dyersville",
+    "city": "Dyersville, Iowa",
+    "address": "28995 Lansing Rd, Dyersville, IA 52040",
+    "website": "milb.com/iowa",
+    "latitude": 42.49780899618447,
+    "longitude": -91.0549246699964,
+    "colorCode": "#0E3386",
+    "colorCode2": "#D12325",
+    "colorCode3": "#000000",
+    "league": "IL",
+    "timezone": "America/Chicago",
+    "startDate": "2026-08-11",
+    "endDate": "2026-08-12"
+  },	
+  {
     "teamName": "Las Vegas Stars",
     "teamCode": "LAS",
     "arena": "Cashman Field",
