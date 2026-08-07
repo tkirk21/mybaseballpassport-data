@@ -9,7 +9,7 @@
   "city": "Worcester, Massachusetts",
   "date": "2026-08-06T16:05:00Z",
   "fireworks": {
-    "title": "Player Meet & Greet presented by DCU"
+    "title": "Player Meet & Greet presented by DCU \u2014 Meet a couple of current WooSox players for autographs and photographs in the DCU Club following the conclusion of the game."
   }
 },
 
@@ -34,15 +34,15 @@
   "giveaway": [
     {
       "title": "Military Appreciation Day featuring Jersey Giveaway",
-      "details": "Honor the United States Military with the Syracuse Mets. The 1st 1000 fans through the gates will receive a Military Appreciation Day flag jersey giveaway! After the game, all fans can enjoy a post-game fireworks show."
+      "details": "The 1st 1000 fans through the gates will receive a Military Appreciation Day flag jersey giveaway!"
     },
     {
       "title": "Independence Day Weekend Commemorative Coin",
-      "details": "Purchase a Syracuse Mets 150 Anniversary x United States 250 Semiquincentennial Anniversary Amazin' Giveaway Exclusive Coin! "
+      "details": "Purchase a Syracuse Mets 150 Anniversary x United States 250 Semiquincentennial Anniversary Amazin' Giveaway Exclusive Coin!"
     }
   ],
   "fireworks": {
-    "title": "Post-game Fireworks"
+    "title": "Be sure to stick around after the game for a fireworks EXTRAVAGANZA you won't want to miss!"
   }
 },
 
@@ -55,7 +55,7 @@
   "city": "Buffalo, New York",
   "date": "2026-08-06T22:35:00Z",
   "fireworks": {
-    "title": "Family Value Night, $10 Tickets, Select $3 Kids Concessions"
+    "title": "Family Value Night, $10 Tickets, Select $3 Kids Concessions."
   }
 },
 
@@ -88,7 +88,7 @@
   "city": "Lawrenceville, Georgia",
   "date": "2026-08-06T23:05:00Z",
   "fireworks": {
-    "title": "Throwback Thursday"
+    "title": "We're throwing back the prices (and the themes) every Thursday night, with $2 Sahlen's hot dogs and $3 domestic beers."
   }
 },
 
@@ -115,12 +115,12 @@
   "date": "2026-08-07T00:07:00Z",
   "giveaway": [
     {
-      "title": "Celebrating the history of black baseball in Minnesota as the St. Paul Gophers",
-      "details": ""
+      "title": "Thirsty Thursday",
+      "details": "Enjoy $2 Draft Beers, and 2-for-1 NUTRL, Busch Light, and Summit Lager cans all game long."
     }
   ],
   "fireworks": {
-    "title": "Thirsty Thursday: Enjoy $2 Draft Beers, and 2-for-1 NUTRL, Busch Light, and Summit Lager cans all game long."
+    "title": "Celebrating the history of black baseball in Minnesota as the St. Paul Gophers",
   }
 },
 
@@ -131,7 +131,10 @@
   "opponent": "Columbus Clippers",
   "arena": "NBT Bank Stadium",
   "city": "Syracuse, New York",
-  "date": "2026-08-07T22:35:00Z"
+  "date": "2026-08-07T22:35:00Z",
+  "fireworks": {
+    "title": "Be sure to stick around after the game for a fireworks EXTRAVAGANZA you won't want to miss!"
+  }
 },
 
 {
@@ -141,7 +144,16 @@
   "opponent": "Norfolk Tides",
   "arena": "Sahlen Field",
   "city": "Buffalo, New York",
-  "date": "2026-08-07T22:35:00Z"
+  "date": "2026-08-07T22:35:00Z",
+  "giveaway": [
+    {
+      "title": "Cheerios Giveaway",
+      "details": "Celebration that will include cereal-themed Jerseys & Caps, a Cereal Bowl and Cheerios Giveaway to the first 2,000 fans "
+    }
+  ],
+  "fireworks": {
+    "title": "“We'll have pregame Resurgence Brewing Happy Hour (5-6:30pm) and postgame Fireworks!"
+  }
 },
 
 {
@@ -151,7 +163,10 @@
   "opponent": "Lehigh Valley IronPigs",
   "arena": "Polar Park",
   "city": "Worcester, Massachusetts",
-  "date": "2026-08-07T22:45:00Z"
+  "date": "2026-08-07T22:45:00Z",
+  "fireworks": {
+    "title": "Town Takeover: Southbridge"
+  }
 },
 
 {
@@ -181,7 +196,10 @@
   "opponent": "Omaha Storm Chasers",
   "arena": "Fifth Third Field",
   "city": "Toledo, Ohio",
-  "date": "2026-08-07T23:05:00Z"
+  "date": "2026-08-07T23:05:00Z",
+  "fireworks": {
+    "title": "Live music is coming to the Owens Corning stage! Our first-ever Hensville Live!"
+  }
 },
 
 {
@@ -191,7 +209,16 @@
   "opponent": "Jacksonville Jumbo Shrimp",
   "arena": "Coolray Field",
   "city": "Lawrenceville, Georgia",
-  "date": "2026-08-07T23:05:00Z"
+  "date": "2026-08-07T23:05:00Z",
+  "giveaway": [
+    {
+      "title": "Crayola\u00ae Specialty Jersey Auction",
+      "details": "Stripers' players and coaches will don a specialty jersey to coincide with the theme of the night. Autographed, game-worn jerseys will be available at GoStripers.com during and after the game."
+    }
+  ],
+  "fireworks": {
+    "title": "A spectacular fireworks display lights up the sky after each Friday game."
+  }
 },
 
 {
@@ -211,7 +238,10 @@
   "opponent": "Louisville Bats",
   "arena": "CHS Field",
   "city": "St Paul, Minnesota",
-  "date": "2026-08-08T00:07:00Z"
+  "date": "2026-08-08T00:07:00Z",
+  "fireworks": {
+    "title": "Post-game Friday Night Fireworks!"
+  }
 },
 
 {
@@ -221,7 +251,13 @@
   "opponent": "Lehigh Valley IronPigs",
   "arena": "Polar Park",
   "city": "Worcester, Massachusetts",
-  "date": "2026-08-08T20:05:00Z"
+  "date": "2026-08-08T20:05:00Z",
+  "giveaway": [
+    {
+      "title": "The Larry Lucchino Writers Series: Teddy Tannenbaum",
+      "details": "Ticket buyers for the game can enjoy a complimentary lunch in the DCU Club and a Q&A session starting at 1pm."
+    }
+  ]
 },
 
 {
@@ -241,7 +277,16 @@
   "opponent": "Jacksonville Jumbo Shrimp",
   "arena": "Coolray Field",
   "city": "Lawrenceville, Georgia",
-  "date": "2026-08-08T22:05:00Z"
+  "date": "2026-08-08T22:05:00Z",
+  "giveaway": [
+    {
+      "title": "Chris Sale Bobblehead Giveaway",
+      "details": "Collect this one-of-a-kind bobblehead of 2024 National League Cy Young winner Chris Sale, clad in a Stripers jersey as seen during his 2025 rehab assignment."
+    }
+  ],
+  "fireworks": {
+    "title": "The Stripers honor the police officers, fire fighters, EMTs, and other first responders who serve our community every day. Presented by COUNTRY Financial."
+  }
 },
 
 {
@@ -251,7 +296,20 @@
   "opponent": "Columbus Clippers",
   "arena": "NBT Bank Stadium",
   "city": "Syracuse, New York",
-  "date": "2026-08-08T22:35:00Z"
+  "date": "2026-08-08T22:35:00Z",
+  "giveaway": [
+    {
+      "title": "Amazin' Giveaway Pack Available",
+      "details": "For today's giveaway, purchase this special ticket package including (1) game ticket & (1) guaranteed giveaway for today's game!"
+    },
+    {
+      "title": "Haudenosaunee Night Jersey Giveaway & Jersey Auction",
+      "details": "The 1st 1500 fans through the gates will receive a Haudenosaunee jersey giveaway!"
+    }
+  ],
+  "fireworks": {
+    "title": "Be sure to stick around after the game for a fireworks EXTRAVAGANZA you won't want to miss!"
+  }
 },
 
 {
@@ -261,7 +319,10 @@
   "opponent": "Norfolk Tides",
   "arena": "Sahlen Field",
   "city": "Buffalo, New York",
-  "date": "2026-08-08T22:35:00Z"
+  "date": "2026-08-08T22:35:00Z",
+  "fireworks": {
+    "title": "Join us pregame for a Women in Sports Night Panel Discussion in the Pub at the Park restaurant, starting at 4:30 p.m."
+  }
 },
 
 {
@@ -281,7 +342,10 @@
   "opponent": "Omaha Storm Chasers",
   "arena": "Fifth Third Field",
   "city": "Toledo, Ohio",
-  "date": "2026-08-08T23:05:00Z"
+  "date": "2026-08-08T23:05:00Z",
+  "fireworks": {
+    "title": "Live music is coming to the Owens Corning stage! Our first-ever Hensville Live!"
+  }
 },
 
 {
@@ -301,7 +365,16 @@
   "opponent": "Louisville Bats",
   "arena": "CHS Field",
   "city": "St Paul, Minnesota",
-  "date": "2026-08-08T23:37:00Z"
+  "date": "2026-08-08T23:37:00Z",
+  "giveaway": [
+    {
+      "title": "Backyard Sports Baseball Hat/Basketball Jersey Package",
+      "details": "Purchase your tickets here to receive either a Backyard Sports hat, or a Pablo Sanchez basketball jersey."
+    }
+  ],
+  "fireworks": {
+    "title": "Backyard Brawl. Melonheads vs. The Fishes."
+  }
 },
 
 {
@@ -311,7 +384,10 @@
   "opponent": "Columbus Clippers",
   "arena": "NBT Bank Stadium",
   "city": "Syracuse, New York",
-  "date": "2026-08-09T17:05:00Z"
+  "date": "2026-08-09T17:05:00Z",
+  "fireworks": {
+    "title": "Kids 12 and under receive a voucher good for a bag of chips, a 12oz Coca-Cola beverage, a kids Hofmann hot dog, and a small Perry's Ice Cream! "
+  }
 },
 
 {
@@ -321,7 +397,16 @@
   "opponent": "Norfolk Tides",
   "arena": "Sahlen Field",
   "city": "Buffalo, New York",
-  "date": "2026-08-09T17:05:00Z"
+  "date": "2026-08-09T17:05:00Z",
+  "giveaway": [
+    {
+      "title": "Sliding Mitt Giveaway",
+      "details": "The first 2,000 fans through the MGMT Reputation Gate at Swan St. (12pm)."
+    }
+  ],
+  "fireworks": {
+    "title": "Family Funday includes a pregame Mascot Meet n' Greet, special activities for the kids, and postgame Kids Run the Bases."
+  }
 },
 
 {
@@ -331,7 +416,16 @@
   "opponent": "Lehigh Valley IronPigs",
   "arena": "Polar Park",
   "city": "Worcester, Massachusetts",
-  "date": "2026-08-09T17:05:00Z"
+  "date": "2026-08-09T17:05:00Z",
+  "giveaway": [
+    {
+      "title": "Ceddanne Rafaela Bobblehead Giveaway",
+      "details": "First 5,000 fans in attendance"
+    }
+  ],
+  "fireworks": {
+    "title": "Fans of all ages can round the basepaths after every Sunday game."
+  }
 },
 
 {
@@ -361,7 +455,16 @@
   "opponent": "Louisville Bats",
   "arena": "CHS Field",
   "city": "St Paul, Minnesota",
-  "date": "2026-08-09T19:07:00Z"
+  "date": "2026-08-09T19:07:00Z",
+  "giveaway": [
+    {
+      "title": " Team Cardset Giveaway",
+      "details": "Frist 1500 through the gate."
+    }
+  ],
+  "fireworks": {
+    "title": "Cub Family Sunday's"
+  }
 },
 
 {
@@ -371,7 +474,17 @@
   "opponent": "Omaha Storm Chasers",
   "arena": "Fifth Third Field",
   "city": "Toledo, Ohio",
-  "date": "2026-08-09T20:05:00Z"
+  "date": "2026-08-09T20:05:00Z",
+  "giveaway": [
+    {
+      "title": "Elmo Plush",
+      "details": "This package included a Mud Hens-themed Elmo plush and one ticket to Sesame Street Night."
+    }
+  ],
+  "fireworks": {
+    "title": "Postgame Kids Run the Bases"
+  }
+  
 },
 
 {
@@ -381,7 +494,10 @@
   "opponent": "Jacksonville Jumbo Shrimp",
   "arena": "Coolray Field",
   "city": "Lawrenceville, Georgia",
-  "date": "2026-08-09T20:05:00Z"
+  "date": "2026-08-09T20:05:00Z",
+  "fireworks": {
+    "title": "Kick the afternoon off with Pre-Game Catch on the Field, and end it with Kids Run the Bases."
+  }
 },
 
 {
@@ -401,7 +517,10 @@
   "opponent": "Toledo Mud Hens",
   "arena": "Louisville Slugger Field",
   "city": "Louisville , Kentucky",
-  "date": "2026-08-11T22:35:00Z"
+  "date": "2026-08-11T22:35:00Z",
+  "fireworks": {
+    "title": "Taco Tuesday Special \u2014 $4 Tacos sold at select concession stands and the two (2) \"La Taqueria De Buddy\" stands!"
+  }
 },
 
 {
@@ -411,7 +530,10 @@
   "opponent": "Gwinnett Stripers",
   "arena": "Harbor Park",
   "city": "Norfolk, Virginia",
-  "date": "2026-08-11T22:35:00Z"
+  "date": "2026-08-11T22:35:00Z",
+  "fireworks": {
+    "title": "Pre-Game Party Plaza: Live Music from Hanks Martin."
+  }
 },
 
 {
@@ -421,7 +543,10 @@
   "opponent": "Memphis Redbirds",
   "arena": "Durham Bulls Athletic Park",
   "city": "Durham, North Carolina",
-  "date": "2026-08-11T22:45:00Z"
+  "date": "2026-08-11T22:45:00Z",
+  "fireworks": {
+    "title": "Tendies & Tallboys \u2014 Fans can enjoy special deals on chicken tenders and tallboy beers on select nights at the DBAP!"
+  }
 },
 
 {
@@ -431,7 +556,10 @@
   "opponent": "Buffalo Bisons",
   "arena": "Polar Park",
   "city": "Worcester, Massachusetts",
-  "date": "2026-08-11T22:45:00Z"
+  "date": "2026-08-11T22:45:00Z",
+  "fireworks": {
+    "title": "Prostate Cancer Awareness Night"
+  }
 },
 
 {
@@ -441,7 +569,16 @@
   "opponent": "Charlotte Knights",
   "arena": "ESL Ballpark",
   "city": "Rochester, New York",
-  "date": "2026-08-11T22:45:00Z"
+  "date": "2026-08-11T22:45:00Z",
+  "giveaway": [
+    {
+      "title": "Zoo Cap Giveaway",
+      "details": "1st 1,000 fans Presented by Seneca Park Zoo."
+    }
+  ],
+  "fireworks": {
+    "title": "A Red Wings player will sign in a 20-minute autograph session that starts 45 minutes before the first pitch."
+  }
 },
 
 {
@@ -451,7 +588,10 @@
   "opponent": "Scranton/Wilkes-Barre RailRiders",
   "arena": "Coca-Cola Park",
   "city": "Allentown, Pennsylvania",
-  "date": "2026-08-11T22:45:00Z"
+  "date": "2026-08-11T22:45:00Z",
+  "fireworks": {
+    "title": "Mutts Gone Nuts. Bring your dog to the ballpark."
+  }
 },
 
 {
@@ -461,7 +601,10 @@
   "opponent": "Omaha Storm Chasers",
   "arena": "Huntington Park",
   "city": "Columbus, Ohio",
-  "date": "2026-08-11T23:05:00Z"
+  "date": "2026-08-11T23:05:00Z",
+  "fireworks": {
+    "title": "TANSKY TUESDAY DIME-A-DOG NIGHT \u2014 A Columbus staple, join us for ten cent Sahlen's hot dogs available throughout the game, while supplies last."
+  }
 },
 
 {
@@ -471,7 +614,10 @@
   "opponent": "Syracuse Mets",
   "arena": "VyStar Ballpark",
   "city": "Jacksonville, Florida",
-  "date": "2026-08-11T23:05:00Z"
+  "date": "2026-08-11T23:05:00Z",
+  "fireworks": {
+    "title": "Join us in Harbour Hall from 6:30 to 8pm for a women in sports networking event!"
+  }
 },
 
 {
@@ -479,9 +625,12 @@
   "league": "IL",
   "team": "Iowa Cubs",
   "opponent": "St. Paul Saints",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-11T23:30:00Z"
+  "arena": "Field of Dreams",
+  "city": "Dyersville, Iowa",
+  "date": "2026-08-11T23:30:00Z",
+  "fireworks": {
+    "title": "MiLB's return to the iconic movie set for the first time in four years."
+  }
 },
 
 {
@@ -491,7 +640,10 @@
   "opponent": "Indianapolis Indians",
   "arena": "First Horizon Park",
   "city": "Nashville, Tennessee",
-  "date": "2026-08-11T23:35:00Z"
+  "date": "2026-08-11T23:35:00Z",
+  "fireworks": {
+    "title": "Bring your dog and enjoy baseball together at the ballpark. All fans enjoy $2 hot dogs, nachos, and popcorn from the concession stands!"
+  }
 },
 
 {
@@ -551,7 +703,13 @@
   "opponent": "Scranton/Wilkes-Barre RailRiders",
   "arena": "Coca-Cola Park",
   "city": "Allentown, Pennsylvania",
-  "date": "2026-08-12T22:45:00Z"
+  "date": "2026-08-12T22:45:00Z",
+  "giveaway": [
+      {
+        "title": "Youth Beanie Giveaway",
+        "details": "First 1,000 kids 17 & under"
+      }
+    ]
 },
 
 {
@@ -561,7 +719,10 @@
   "opponent": "Omaha Storm Chasers",
   "arena": "Huntington Park",
   "city": "Columbus, Ohio",
-  "date": "2026-08-12T23:05:00Z"
+  "date": "2026-08-12T23:05:00Z",
+  "fireworks": {
+    "title": "Students 14 and above can present a valid ID for a $5 Reserved Ticket. ($6 day of game)."
+  }
 },
 
 {
@@ -571,7 +732,11 @@
   "opponent": "Syracuse Mets",
   "arena": "VyStar Ballpark",
   "city": "Jacksonville, Florida",
-  "date": "2026-08-12T23:05:00Z"
+  "date": "2026-08-12T23:05:00Z",
+  "giveaway": {
+      "title": "Wear it Home Wednesday"
+      "details": "Be the one of the first 500 people in through the Main Gate at the Baptist Health Centerfield Plaza to get one of these \"Be a Simple Kind of Shrimp\" t-shirts presented by Prime Shrimp and Ambetter Health!"
+  }
 },
 
 {
@@ -591,7 +756,11 @@
   "opponent": "St. Paul Saints",
   "arena": "Principal Park",
   "city": "Des Moines, Iowa",
-  "date": "2026-08-12T23:38:00Z"
+  "date": "2026-08-12T23:38:00Z",
+  "giveaway": {
+      "title": "Noons at Noon"
+      "details": "SPECIAL TICKET REQUIRED. Get an Upper Reserved ticket and 2 High Noons (12 oz.) for just $26 (after fees)."
+    }
 },
 
 {
