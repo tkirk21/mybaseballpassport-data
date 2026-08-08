@@ -404,4 +404,18 @@
       { "name": "Dunkin' Park", "from": "2023-02-01", "to": null }
     ]
   }
+
+
+
+
+  {
+    "currentArena": "HomeTrust Park",
+    "teamName": "Asheville Tourists",
+    "league": "SAL",
+    "history": [
+      { "name": "Lewis McCormick Field", "from": "1980-03-01", "to": "2026-04-13" },
+      { "name": "HomeTrust Park", "from": "2026-04-14", "to": null }
+    ]
+  }
+	
 ]
