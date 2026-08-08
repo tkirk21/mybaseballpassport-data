@@ -1,163 +1,17 @@
 [
 
 {
-  "id": "el_2026080601",
-  "league": "EL",
-  "team": "New Hampshire Fisher Cats",
-  "opponent": "Portland Sea Dogs",
-  "arena": "Delta Dental Stadium",
-  "city": "Manchester, New Hampshire",
-  "date": "2026-08-06T22:03:00Z",
-  "fireworks": {
-    "title": "Crossbody Bag"
-  }
-},
-
-{
-  "id": "el_2026080602",
-  "league": "EL",
-  "team": "Erie SeaWolves",
-  "opponent": "Altoona Curve",
-  "arena": "UPMC Park",
-  "city": "Erie, Pennsylvania",
-  "date": "2026-08-06T22:05:00Z",
-  "fireworks": {
-    "title": "Small Business Night"
-  }
-},
-
-{
-  "id": "el_2026080603",
-  "league": "EL",
-  "team": "Binghamton Rumble Ponies",
-  "opponent": "Hartford Yard Goats",
-  "arena": "Mirabito Stadium",
-  "city": "Binghamton, New York",
-  "date": "2026-08-06T22:07:00Z",
-  "giveaway": [
-    {
-      "title": "Binghamton Mets Specialty Jerseys",
-      "details": ""
-    }
-  ],
-  "fireworks": {
-    "title": "Visions FCU Veterans Expo"
-  }
-},
-
-{
-  "id": "el_2026080604",
-  "league": "EL",
-  "team": "Chesapeake Baysox",
-  "opponent": "Harrisburg Senators",
-  "arena": "Prince George's Stadium",
-  "city": "Bowie, Maryland",
-  "date": "2026-08-06T22:35:00Z",
-  "giveaway": [
-    {
-      "title": "Hawaiian Shirt Giveaway",
-      "details": ""
-    }
-  ],
-  "fireworks": {
-    "title": "Baysox LIVE Happy Hour"
-  }
-},
-
-{
-  "id": "el_2026080605",
-  "league": "EL",
-  "team": "Akron RubberDucks",
-  "opponent": "Somerset Patriots",
-  "arena": "7 17 Credit Union Park",
-  "city": "Akron, Ohio",
-  "date": "2026-08-06T22:35:00Z",
-  "fireworks": {
-    "title": "Thirsty Thursday"
-  }
-},
-
-{
-  "id": "el_2026080606",
-  "league": "EL",
-  "team": "Richmond Flying Squirrels",
-  "opponent": "Reading Fightin Phils",
-  "arena": "CarMax Park",
-  "city": "Richmond, Virginia",
-  "date": "2026-08-06T23:05:00Z",
-  "fireworks": {
-    "title": "Virginia Tech Night"
-  }
-},
-
-{
-  "id": "el_2026080701",
-  "league": "EL",
-  "team": "New Hampshire Fisher Cats",
-  "opponent": "Portland Sea Dogs",
-  "arena": "Delta Dental Stadium",
-  "city": "Manchester, New Hampshire",
-  "date": "2026-08-07T22:03:00Z"
-},
-
-{
-  "id": "el_2026080702",
-  "league": "EL",
-  "team": "Erie SeaWolves",
-  "opponent": "Altoona Curve",
-  "arena": "UPMC Park",
-  "city": "Erie, Pennsylvania",
-  "date": "2026-08-07T22:05:00Z"
-},
-
-{
-  "id": "el_2026080703",
-  "league": "EL",
-  "team": "Binghamton Rumble Ponies",
-  "opponent": "Hartford Yard Goats",
-  "arena": "Mirabito Stadium",
-  "city": "Binghamton, New York",
-  "date": "2026-08-07T23:00:00Z"
-},
-
-{
-  "id": "el_2026080704",
-  "league": "EL",
-  "team": "Chesapeake Baysox",
-  "opponent": "Harrisburg Senators",
-  "arena": "Prince George's Stadium",
-  "city": "Bowie, Maryland",
-  "date": "2026-08-07T23:05:00Z"
-},
-
-{
-  "id": "el_2026080705",
-  "league": "EL",
-  "team": "Richmond Flying Squirrels",
-  "opponent": "Reading Fightin Phils",
-  "arena": "CarMax Park",
-  "city": "Richmond, Virginia",
-  "date": "2026-08-07T23:05:00Z"
-},
-
-{
-  "id": "el_2026080706",
-  "league": "EL",
-  "team": "Akron RubberDucks",
-  "opponent": "Somerset Patriots",
-  "arena": "7 17 Credit Union Park",
-  "city": "Akron, Ohio",
-  "date": "2026-08-07T23:17:00Z"
-},
-
-{
   "id": "el_2026080801",
   "league": "EL",
   "team": "New Hampshire Fisher Cats",
   "opponent": "Portland Sea Dogs",
   "arena": "Delta Dental Stadium",
   "city": "Manchester, New Hampshire",
-  "date": "2026-08-08T22:03:00Z"
+  "date": "2026-08-08T22:03:00Z",
+  "fireworks": {
+      "title": "Come watch another Atlas Postgame Fireworks Show light up the sky at Delta Dental Stadium!"
+    }
+  },
 },
 
 {
@@ -167,7 +21,14 @@
   "opponent": "Altoona Curve",
   "arena": "UPMC Park",
   "city": "Erie, Pennsylvania",
-  "date": "2026-08-08T22:05:00Z"
+  "date": "2026-08-08T22:05:00Z",
+  "giveaway": [
+      {
+        "title": "Replica Jersey Giveaway",
+        "details": "The first 1,000 fans will receive a Flagship City Kitties Replica Jersey! "
+      }
+    ]
+  },
 },
 
 {
@@ -197,7 +58,16 @@
   "opponent": "Somerset Patriots",
   "arena": "7 17 Credit Union Park",
   "city": "Akron, Ohio",
-  "date": "2026-08-08T23:05:00Z"
+  "date": "2026-08-08T23:05:00Z",
+  "giveaway": [
+    {
+      "title": "Giveaway Saturday",
+      "details": "Mike Vrabel Bobblehead. While stocks last."
+    }
+  ],
+  "fireworks": {
+    "title": "Postgame Fireworks."
+  }
 },
 
 {
@@ -207,7 +77,11 @@
   "opponent": "Reading Fightin Phils",
   "arena": "CarMax Park",
   "city": "Richmond, Virginia",
-  "date": "2026-08-08T23:05:00Z"
+  "date": "2026-08-08T23:05:00Z",
+  "fireworks": {
+      "title": "Stick around following the game for fireworks!"
+    }
+  },
 },
 
 {
@@ -217,7 +91,17 @@
   "opponent": "Hartford Yard Goats",
   "arena": "Mirabito Stadium",
   "city": "Binghamton, New York",
-  "date": "2026-08-09T17:00:00Z"
+  "date": "2026-08-09T17:00:00Z",
+  "giveaway": [
+      {
+        "title": "Taylor Swift Themed Jersey GIveaway",
+        "details": "Be one of the first 1,000 fans for a special Life of a Show Pony inspired Taylor Swift themed jersey giveaway."
+      }
+    ],
+    "fireworks": {
+      "title": "Don't miss a special drone show."
+    }
+  },
 },
 
 {
@@ -237,7 +121,17 @@
   "opponent": "Harrisburg Senators",
   "arena": "Prince George's Stadium",
   "city": "Bowie, Maryland",
-  "date": "2026-08-09T17:05:00Z"
+  "date": "2026-08-09T17:05:00Z",
+  "giveaway": [
+      {
+        "title": "Bobblehead Giveaway",
+        "details": "Dylan Beavers Bobblehead Giveaway. While stocks last."
+      }
+    ],
+    "fireworks": {
+      "title": "Free player autographs and Kids Park from 12:00-12:30pm. ALL fans run the bases post game."
+    }
+  },
 },
 
 {
@@ -257,7 +151,10 @@
   "opponent": "Altoona Curve",
   "arena": "UPMC Park",
   "city": "Erie, Pennsylvania",
-  "date": "2026-08-09T17:35:00Z"
+  "date": "2026-08-09T17:35:00Z",
+  "fireworks": {
+      "title": "After the game, all fans can play Catch on the Field!"
+    }
 },
 
 {
@@ -267,7 +164,11 @@
   "opponent": "Reading Fightin Phils",
   "arena": "CarMax Park",
   "city": "Richmond, Virginia",
-  "date": "2026-08-09T21:05:00Z"
+  "date": "2026-08-09T21:05:00Z",
+  "fireworks": {
+      "title": "Meet select members of the Flying Squirrels team for autographs every Sunday from 3:45pm - 4:15pm in The Backstop."
+    }
+  },
 },
 
 {
@@ -297,7 +198,11 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-11T22:30:00Z"
+  "date": "2026-08-11T22:30:00Z",
+  "fireworks": {
+      "title": "Celebrate the spirit of Mardi Gras with a night full of festive fun, colorful celebrations, and plenty of chances to let the good times roll!"
+    }
+  },
 },
 
 {
@@ -307,7 +212,14 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-11T22:35:00Z"
+  "date": "2026-08-11T22:35:00Z",
+  "giveaway": [
+      {
+        "title": "Souvenir Cups",
+        "details": "Fans will receive a souvenir cup when they enter the ballpark."
+      }
+    ]
+  },
 },
 
 {
@@ -347,7 +259,17 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-12T21:00:00Z"
+  "date": "2026-08-12T21:00:00Z",
+  "giveaway": [
+      {
+        "title": "MCorduroy Hat Add-On",
+        "details": "Purchase tickets to a Mayfly game and add on the exclusive Mayflies Corduroy Hat to finish the fit."
+      }
+    ],
+    "fireworks": {
+      "title": "Salute to the Hot Dog \u2014 It's Salute to the Hot Dog Night, and every hot dog is your ticket to win! For every hot dog you purchase, you'll receive one rubber duck. Toss your duck into the designated prize pool for a chance to win special prizes throughout the night."
+    }
+  },
 },
 
 {
@@ -387,7 +309,14 @@
   "opponent": "Erie SeaWolves",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-12T23:10:00Z"
+  "date": "2026-08-12T23:10:00Z",
+  "giveaway": [
+      {
+        "title": "Adult Camo Jersey Giveaway",
+        "details": "The first 1,000 fans in attendance."
+      }
+    ]
+  },
 },
 
 {
@@ -417,7 +346,14 @@
   "opponent": "Binghamton Rumble Ponies",
   "arena": "Delta Dental Park at Hadlock Field",
   "city": "Portland, Maine",
-  "date": "2026-08-13T22:00:00Z"
+  "date": "2026-08-13T22:00:00Z",
+  "giveaway": [
+      {
+        "title": "Bobblehead Giveaway",
+        "details": "Be one of the first 1,000 fans to enter the ballpark and receive an exclusive Cooper Flagg bobblehead."
+      }
+    ]
+  },
 },
 
 {
@@ -427,7 +363,17 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-13T22:30:00Z"
+  "date": "2026-08-13T22:30:00Z",
+  "giveaway": [
+      {
+        "title": "Pride Bandana Giveaway",
+        "details": "The first 500 fans 13 and older will receive a Pride bandana."
+      }
+    ],
+    "fireworks": {
+      "title": "Support our Clothing Drive by donating new or gently used clothing at the ballpark! Fans who make a donation will be entered for a chance to win four tickets to a Senators game during the 2027 season."
+    }
+  },
 },
 
 {
@@ -437,7 +383,11 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-13T22:35:00Z"
+  "date": "2026-08-13T22:35:00Z",
+  "fireworks": {
+      "title": "Don't miss the best fireworks in New Jersey after the game. There will be a special appearance by King Julien."
+    }
+  },
 },
 
 {
@@ -447,7 +397,11 @@
   "opponent": "Chesapeake Baysox",
   "arena": "FirstEnergy Stadium",
   "city": "Reading, Pennsylvania",
-  "date": "2026-08-13T23:00:00Z"
+  "date": "2026-08-13T23:00:00Z",
+  "fireworks": {
+      "title": "Fireworks - Recovery Awareness Night. Boston Beer Company; 5:00 Happy Hour: $1 Off Beer & Pre-Game Concert - Rusty Rail Brewing Company; Post-Game Concert & $1 Off Beer - Bru Daddy's Brewing Company."
+    }
+  },
 },
 
 {
@@ -457,7 +411,11 @@
   "opponent": "Erie SeaWolves",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-13T23:10:00Z"
+  "date": "2026-08-13T23:10:00Z",
+  "fireworks": {
+      "title": "Italian Heritage Night \u2014 It's Italian Heritage Night at the 'ol ballgame, with specialty foods, promotions and themes that will have you hollering Salute!"
+    }
+  },
 },
 
 {
@@ -467,7 +425,14 @@
   "opponent": "Akron RubberDucks",
   "arena": "Peoples Natural Gas Field",
   "city": "Altoona, Pennsylvania",
-  "date": "2026-08-14T22:00:00Z"
+  "date": "2026-08-14T22:00:00Z",
+  "giveaway": [
+      {
+        "title": "T-Shirt Giveaway",
+        "details": "Dress up, strike a pose, and grab a Curve Mascot Superhero Shirt!"
+      }
+    ]
+  },
 },
 
 {
@@ -487,7 +452,14 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-14T22:35:00Z"
+  "date": "2026-08-14T22:35:00Z",
+  "giveaway": [
+      {
+        "title": "Bobbleheads/Jersey",
+        "details": "Fans will receive a Carlos Lagrange Jersey Diners bobblehead when they enter the ballpark."
+      }
+    ]
+  },
 },
 
 {
@@ -497,7 +469,11 @@
   "opponent": "Chesapeake Baysox",
   "arena": "FirstEnergy Stadium",
   "city": "Reading, Pennsylvania",
-  "date": "2026-08-14T23:00:00Z"
+  "date": "2026-08-14T23:00:00Z",
+  "fireworks": {
+      "title": "Dead Head Tribute w/ Pre-Game & Post-Game Concert by \"Good Lovin Jam Band\"
+    }
+  },
 },
 
 {
@@ -507,7 +483,11 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-14T23:00:00Z"
+  "date": "2026-08-14T23:00:00Z",
+  "fireworks": {
+      "title": "Light up your nights at FNB Field with spectacular postgame fireworks."
+    }
+  },
 },
 
 {
@@ -517,7 +497,10 @@
   "opponent": "Erie SeaWolves",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-14T23:10:00Z"
+  "date": "2026-08-14T23:10:00Z",
+  "fireworks": {
+      "title": "Stick around after the game for a fireworks show."
+    }
 },
 
 {
@@ -537,7 +520,11 @@
   "opponent": "Binghamton Rumble Ponies",
   "arena": "Delta Dental Park at Hadlock Field",
   "city": "Portland, Maine",
-  "date": "2026-08-15T22:00:00Z"
+  "date": "2026-08-15T22:00:00Z",
+  "fireworks": {
+      "title": "Fireworks!"
+    }
+  },
 },
 
 {
@@ -547,7 +534,13 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-15T22:00:00Z"
+  "date": "2026-08-15T22:00:00Z",
+  "giveaway": [
+      {
+        "title": "Rally Towel Giveaway",
+        "details": "The first 1,000 fans through the gates will receive a rally towel, featuring a design created by brave pediatric cancer patients."
+      }
+    ]
 },
 
 {
@@ -567,7 +560,17 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-15T22:35:00Z"
+  "date": "2026-08-15T22:35:00Z",
+  "giveaway": [
+    {
+      "title": "Semiquincentennial Card Strip",
+      "description": "The first 2,000 fans will receive a Semiquincentennial Card Strip (Series 4: 1st 2,000) featuring Five Generals' Houses"
+    }
+  ],
+  "fireworks": {
+      "title": "Don't miss the best fireworks in New Jersey after the game."
+    }
+  },
 },
 
 {
@@ -597,7 +600,21 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-16T17:00:00Z"
+  "date": "2026-08-16T17:00:00Z",
+  "giveaway": [
+      {
+        "title": "Luau Bucket Hat Giveaway",
+        "details": "The first 1,000 fans will receive a Luau bucket hat!"
+      },
+      {
+        "title": "Luau Straw Hat Add-On",
+        "details": "Grab tickets to a Luau game and add a Luau Straw Hat featuring a vibrant tropical underbrim."
+      }
+    ],
+    "fireworks": {
+      "title": "Set sail for a night of swashbuckling fun, mystical mermaids, and treasure-filled adventures at the ballpark."
+    }
+  },
 },
 
 {
@@ -617,7 +634,14 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-16T21:05:00Z"
+  "date": "2026-08-16T21:05:00Z",
+  "giveaway": [
+      {
+        "title": "Bucket Hats",
+        "details": "Fans will receive a bucket hat when they enter the ballpark."
+      }
+    ]
+  },
 },
 
 {
@@ -667,7 +691,11 @@
   "opponent": "Altoona Curve",
   "arena": "Mirabito Stadium",
   "city": "Binghamton, New York",
-  "date": "2026-08-18T22:07:00Z"
+  "date": "2026-08-18T22:07:00Z",
+  "fireworks": {
+      "title": "Bar Wars \u2014 Which bar will reign supreme in the annual Bar Wars competition this year? Don't miss Bar Wars an Olympic Style competition featuring a variety of bar games such as flip cup, hot dog eating contest, kan jam, ladder ball, and much more."
+    }
+  },
 },
 
 {
@@ -677,7 +705,17 @@
   "opponent": "Harrisburg Senators",
   "arena": "7 17 Credit Union Park",
   "city": "Akron, Ohio",
-  "date": "2026-08-18T22:35:00Z"
+  "date": "2026-08-18T22:35:00Z",
+  "giveaway": [
+      {
+        "title": "T-Shirt Tuesday",
+        "details": "Each Tuesday night features a unique T-shirt throwing it back to previous rebrands of the \"Only in Akron\" series."
+      }
+    ],
+    "fireworks": {
+      "title": "Tall Boy Tuesday \u2014 Fans 21 and over can celebrate the beginning of a RubberDucks homestand with an Anheuser-Busch Tall Boy! $1 discount for the featured Tall Boy of the night!"
+    }
+  },
 },
 
 {
@@ -697,7 +735,14 @@
   "opponent": "Somerset Patriots",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-18T23:10:00Z"
+  "date": "2026-08-18T23:10:00Z",
+  "giveaway": [
+      {
+        "title": "Kids Pinstripe Jersey Giveaway",
+        "details": "The first 1,000 kids though the gates."
+      }
+    ]
+  },
 },
 
 {
@@ -727,7 +772,11 @@
   "opponent": "Altoona Curve",
   "arena": "Mirabito Stadium",
   "city": "Binghamton, New York",
-  "date": "2026-08-19T22:07:00Z"
+  "date": "2026-08-19T22:07:00Z",
+  "fireworks": {
+      "title": "The Good Witch and Bad Witch Appearance \u2014 Defy Gravity with a special appearance by The Good Witch and The Bad Witch who are making a special appearance. Arrive early for a special sing-along with both witches and grab a picture for one night only."
+    }
+  },
 },
 
 {
@@ -737,7 +786,11 @@
   "opponent": "Harrisburg Senators",
   "arena": "7 17 Credit Union Park",
   "city": "Akron, Ohio",
-  "date": "2026-08-19T22:35:00Z"
+  "date": "2026-08-19T22:35:00Z",
+  "fireworks": {
+      "title": "Karaoke Night \u2014 Step up to the mic and sing your heart out between innings as the ballpark turns into Akron's biggest karaoke party."
+    }
+  },
 },
 
 {
@@ -747,7 +800,11 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "Prince George's Stadium",
   "city": "Bowie, Maryland",
-  "date": "2026-08-19T22:35:00Z"
+  "date": "2026-08-19T22:35:00Z",
+  "fireworks": {
+      "title": "Woof Wednesday \u2014 Leashed  and vaccinated dogs are welcome to come and enjoy a night at the ballpark.  Must show current, valid tags at gate prior to entry."
+    }
+  },
 },
 
 {
@@ -797,7 +854,12 @@
   "opponent": "Harrisburg Senators",
   "arena": "7 17 Credit Union Park",
   "city": "Akron, Ohio",
-  "date": "2026-08-20T22:35:00Z"
+  "date": "2026-08-20T22:35:00Z",
+  "giveaway": {
+      "title": "Thirsty Thursday",
+      "description": "Enjoy $2 beer & fountain Coca-Cola products all night long!"
+    }
+  },
 },
 
 {
@@ -807,7 +869,10 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "Prince George's Stadium",
   "city": "Bowie, Maryland",
-  "date": "2026-08-20T22:35:00Z"
+  "date": "2026-08-20T22:35:00Z",
+  "fireworks": {
+      "title": "Baysox LIVE Happy Hour \u2014 LIVE from 5:00-6:30p, music and beer specials."
+    }
 },
 
 {
@@ -827,7 +892,17 @@
   "opponent": "Reading Fightin Phils",
   "arena": "Delta Dental Park at Hadlock Field",
   "city": "Portland, Maine",
-  "date": "2026-08-21T22:00:00Z"
+  "date": "2026-08-21T22:00:00Z",
+  "giveaway": [
+      {
+        "title": "Bobblehead Giveaway",
+        "details": "In honor of Women in Sports Night, the first 1,000 fans to enter the ballpark will receive a talking bobblehead of Sea Dogs broadcaster Emma Tiedemann, who has made history as part of the first all female team to call a Boston Red Sox game."
+      }
+    ],
+    "fireworks": {
+      "title": "Celebrating the women of the ballpark!"
+    }
+  },
 },
 
 {
@@ -837,7 +912,11 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "UPMC Park",
   "city": "Erie, Pennsylvania",
-  "date": "2026-08-21T22:05:00Z"
+  "date": "2026-08-21T22:05:00Z",
+  "fireworks": {
+      "title": "Dive into a night of nautical nonsense! Enjoy themed fun, fireworks, and undersea antics that make UPMC Park feel like the Bikini Bottom. Stick around after the game for Pyrotecnico Fireworks!"
+    }
+  },
 },
 
 {
@@ -857,7 +936,13 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "Prince George's Stadium",
   "city": "Bowie, Maryland",
-  "date": "2026-08-21T23:05:00Z"
+  "date": "2026-08-21T23:05:00Z",
+  "giveaway": [
+      {
+        "title": "Crayola Crayon Giveaway",
+        "details": "While stocks last."
+      }
+    ]
 },
 
 {
@@ -867,7 +952,11 @@
   "opponent": "Somerset Patriots",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-21T23:10:00Z"
+  "date": "2026-08-21T23:10:00Z",
+  "fireworks": {
+      "title": "Stick around after the game for an AMAZING fireworks show."
+    }
+  },
 },
 
 {
@@ -877,7 +966,17 @@
   "opponent": "Harrisburg Senators",
   "arena": "7 17 Credit Union Park",
   "city": "Akron, Ohio",
-  "date": "2026-08-21T23:17:00Z"
+  "date": "2026-08-21T23:17:00Z",
+  "giveaway": [
+      {
+        "title": "Look, My Hot Dog is GREEN! $1K Giveaway",
+        "details": "Purchase a hot dog, and you may just end up with a wrapper full of cash!"
+      }
+    ],
+    "fireworks": {
+      "title": "Friday Night Fireworks."
+    }
+  },
 },
 
 {
@@ -897,7 +996,14 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "UPMC Park",
   "city": "Erie, Pennsylvania",
-  "date": "2026-08-22T22:05:00Z"
+  "date": "2026-08-22T22:05:00Z",
+  "giveaway": [
+      {
+        "title": "SeaWolves Football Jersey Giveaway",
+        "details": "Why kick field goals when you can score a touchdown with a SeaWolves football jersey! Perfect for game day. While stocks last."
+      }
+    ]
+  },
 },
 
 {
@@ -907,7 +1013,17 @@
   "opponent": "Harrisburg Senators",
   "arena": "7 17 Credit Union Park",
   "city": "Akron, Ohio",
-  "date": "2026-08-22T22:05:00Z"
+  "date": "2026-08-22T22:05:00Z",
+  "giveaway": [
+      {
+        "title": "Mystery Celebrity Bobblehead Giveaway",
+        "details": "While stock last"
+      }
+    ],
+    "fireworks": {
+      "title": "Postgame Fireworks"
+    }
+  },
 },
 
 {
@@ -917,7 +1033,13 @@
   "opponent": "Altoona Curve",
   "arena": "Mirabito Stadium",
   "city": "Binghamton, New York",
-  "date": "2026-08-22T22:07:00Z"
+  "date": "2026-08-22T22:07:00Z",
+  "giveaway": [
+      {
+        "title": "Binghamton Spiedies Football Jersey Giveaway",
+        "details": "The first 1,000 fans 13 and older receive a special Lupo's Football Jersey."
+      }
+    ]
 },
 
 {
@@ -927,7 +1049,11 @@
   "opponent": "Somerset Patriots",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-22T22:10:00Z"
+  "date": "2026-08-22T22:10:00Z",
+  "fireworks": {
+      "title": "Emo Night w/ Fireworks."
+    }
+  },
 },
 
 {
@@ -977,7 +1103,11 @@
   "opponent": "Richmond Flying Squirrels",
   "arena": "Prince George's Stadium",
   "city": "Bowie, Maryland",
-  "date": "2026-08-23T17:05:00Z"
+  "date": "2026-08-23T17:05:00Z",
+  "fireworks": {
+      "title": "Free player autographs and Kids Park from 12:00-12:30pm. ALL fans run the bases post game."
+    }
+  },
 },
 
 {
@@ -987,7 +1117,13 @@
   "opponent": "Somerset Patriots",
   "arena": "Dunkin' Park",
   "city": "Hartford, Connecticut",
-  "date": "2026-08-23T17:10:00Z"
+  "date": "2026-08-23T17:10:00Z",
+  "giveaway": {
+      "title": "Jr. Fire Marshal Night",
+      "description": "Kids will receive a red firefighters hat at the gates!"
+    }
+  },
+  {
 },
 
 {
@@ -997,7 +1133,17 @@
   "opponent": "New Hampshire Fisher Cats",
   "arena": "UPMC Park",
   "city": "Erie, Pennsylvania",
-  "date": "2026-08-23T17:35:00Z"
+  "date": "2026-08-23T17:35:00Z",
+  "giveaway": [
+      {
+        "title": "Build-a-C. Wolf Giveaway",
+        "details": "Stack, play, and howl into fun with the C. Wolf Building Blocks Set! Build Erie's favorite mascot and create endless adventures!"
+      }
+    ],
+    "fireworks": {
+      "title": "After the game, all fans can play Catch on the Field!"
+    }
+  },
 },
 
 {
@@ -1047,7 +1193,11 @@
   "opponent": "Akron RubberDucks",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-25T22:35:00Z"
+  "date": "2026-08-25T22:35:00Z",
+  "fireworks": {
+      "title": "Fans will receive a dog treat bag when they enter the ballpark.\n\nBring your well-behaved, socialized dogs to the ballpark!"
+    }
+  },
 },
 
 {
@@ -1057,7 +1207,17 @@
   "opponent": "Portland Sea Dogs",
   "arena": "CarMax Park",
   "city": "Richmond, Virginia",
-  "date": "2026-08-25T23:05:00Z"
+  "date": "2026-08-25T23:05:00Z",
+  "giveaway": [
+      {
+        "title": "Trucker Hat Giveaway",
+        "details": "The first 2,500 fans of all ages will receive a Widget Trucker Hat featuring the iconic Mixed Nuts!"
+      }
+    ],
+    "fireworks": {
+      "title": "Fans 55 & up are eligible to join the Silver Squirrels. Members mingle every Tuesday (excluding Opening Day) and receive cool Flying Squirrels perks. Gates: 5:30pm | First pitch: 7:05pm"
+    }
+  },
 },
 
 {
@@ -1147,7 +1307,21 @@
   "opponent": "Chesapeake Baysox",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-27T22:30:00Z"
+  "date": "2026-08-27T22:30:00Z",
+  "giveaway": [
+      {
+        "title": "Mayflies Corduroy Hat Add-On",
+        "details": "Purchase tickets to a Mayfly game and add on the exclusive Mayflies Corduroy Hat to finish the fit."
+      },
+      {
+        "title": "Mayflies Hockey Jersey Add-On",
+        "details": "Rep the Mayflies in style with this limited-edition hockey jersey, perfect for game days and showing off your Mayflies pride."
+      }
+    ],
+    "fireworks": {
+      "title": "Hockey Night \u2014 The Harrisburg Senators are bringing the excitement of the ice to the diamond with Hockey Night. This ultimate sports crossover event will offer fans a unique game-day experience blending the atmosphere of two energetic sports."
+    }
+  },
 },
 
 {
@@ -1177,7 +1351,10 @@
   "opponent": "Portland Sea Dogs",
   "arena": "CarMax Park",
   "city": "Richmond, Virginia",
-  "date": "2026-08-27T23:05:00Z"
+  "date": "2026-08-27T23:05:00Z", 
+   "fireworks": {
+      "title": "Stick around following the game for fireworks!"
+    }
 },
 
 {
@@ -1207,7 +1384,11 @@
   "opponent": "Akron RubberDucks",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-28T22:35:00Z"
+  "date": "2026-08-28T22:35:00Z",
+  "fireworks": {
+      "title": "Don't miss the best fireworks in New Jersey after the game."
+    }
+  },
 },
 
 {
@@ -1227,7 +1408,17 @@
   "opponent": "Chesapeake Baysox",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-28T23:00:00Z"
+  "date": "2026-08-28T23:00:00Z",
+  "giveaway": [
+      {
+        "title": "East vs West Hat Giveaway",
+        "details": "The first 500 fans on the West Shore will receive a Red Hat and the first 500 fans on the East Shore will receive a Blue Hat! Rep your shore and let the friendly rivalry take over the stands."
+      }
+    ],
+    "fireworks": {
+      "title": "East Shore vs. West Shore Night is back! It's time to see which shore has the most passionate Senators fans as we go head-to-head in a fun showdown!"
+    }
+  },
 },
 
 {
@@ -1247,7 +1438,10 @@
   "opponent": "Erie SeaWolves",
   "arena": "Peoples Natural Gas Field",
   "city": "Altoona, Pennsylvania",
-  "date": "2026-08-29T22:00:00Z"
+  "date": "2026-08-29T22:00:00Z",
+    "fireworks": {
+      "title": "Stick around after the game for a \"Now, That's What I Call Fireworks\" themed show!"
+    }
 },
 
 {
@@ -1267,7 +1461,17 @@
   "opponent": "Hartford Yard Goats",
   "arena": "Delta Dental Stadium",
   "city": "Manchester, New Hampshire",
-  "date": "2026-08-29T22:03:00Z"
+  "date": "2026-08-29T22:03:00Z",
+  "giveaway": [
+      {
+        "title": "Coconut Tenders Bobblehead",
+        "details": "Bobblehead #3 of 3 in the Manchester Chicken Tender Series Presented."
+      }
+    ],
+    "fireworks": {
+      "title": "Come watch another Atlas Postgame Fireworks Show light up the sky at Delta Dental Stadium!"
+    }
+  },
 },
 
 {
@@ -1277,7 +1481,11 @@
   "opponent": "Akron RubberDucks",
   "arena": "TD Bank Ballpark",
   "city": "Bridgewater Township, New Jersey",
-  "date": "2026-08-29T22:05:00Z"
+  "date": "2026-08-29T22:05:00Z",
+  "fireworks": {
+      "title": "Don't miss the best fireworks in New Jersey after the game."
+    }
+  },
 },
 
 {
@@ -1287,7 +1495,11 @@
   "opponent": "Binghamton Rumble Ponies",
   "arena": "FirstEnergy Stadium",
   "city": "Reading, Pennsylvania",
-  "date": "2026-08-29T22:45:00Z"
+  "date": "2026-08-29T22:45:00Z",
+  "fireworks": {
+      "title": "FEATURED GAME: Post-Game Drone Show Celebrating 60 Seasons of Phillies Affiliation & Celebrating"
+    }
+  },
 },
 
 {
@@ -1307,7 +1519,17 @@
   "opponent": "Chesapeake Baysox",
   "arena": "FNB Field",
   "city": "Harrisburg, Pennsylvania",
-  "date": "2026-08-30T17:00:00Z"
+  "date": "2026-08-30T17:00:00Z",
+  "giveaway": [
+      {
+        "title": "Beach Towel Giveaway",
+        "details": "The first 500 fans will receive a Los Playeros de Harrisburg beach towel!"
+      },
+      {
+        "title": "Los Playeros de Harrisburg Jersey Add-On",
+        "details": "Add the Los Playeros de Harrisburg Jersey to your ticket and celebrate our COPA identity all night long."
+      }
+    ]
 },
 
 {
