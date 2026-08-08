@@ -403,7 +403,7 @@
       { "name": "Dunkin' Donuts Park ", "from": "2017-03-01", "to": "2022-10-31" },
       { "name": "Dunkin' Park", "from": "2023-02-01", "to": null }
     ]
-  }
+  },
 
 
 
@@ -416,6 +416,16 @@
       { "name": "Lewis McCormick Field", "from": "1980-03-01", "to": "2026-04-13" },
       { "name": "HomeTrust Park", "from": "2026-04-14", "to": null }
     ]
-  }
+  },
+  {
+    "currentArena": "Bank of the James Stadium",
+    "teamName": "Lynchburg Hillcats",
+    "league": "CL",
+    "history": [
+	  { "name": "City Stadium", "from": "1995-01-01", "to": "2004-12-31" },	
+      { "name": "Calvin Falwell Field at City Stadium", "from": "2005-03-01", "to": "2020-03-28" },
+      { "name": "Bank of the James Stadium", "from": "2020-03-01", "to": null }
+    ]
+  }	
 	
 ]
