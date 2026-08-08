@@ -1,38 +1,5 @@
 [
-  {
-	"teamName": "West Division All-Stars",
-	"teamCode": "WDA",
-	"arena": "Haymarket Park",
-	"arenaId": "haymarket_park_lincoln",
-	"city": "Lincoln, Nebraska",
-	"address": "403 Line Dr Cir, Lincoln, NE 68508",
-	"website": "https://aabaseball.com/",
-	"latitude": 40.8231064418699, 
-	"longitude": -96.71377725158298,
-	"colorCode": "#ffffff",
-	"colorCode2": "#000000",
-	"league": "AAPB",
-	"timezone": "America/Chicago",
-	"startDate": "2026-07-15",
-	"endDate": "2026-07-16"
-  },
-   {
-	"teamName": "East Division All-Stars",
-	"teamCode": "EDA",
-	"arena": "Haymarket Park",
-	"arenaId": "haymarket_park_lincoln",
-	"city": "Lincoln, Nebraska",
-	"address": "403 Line Dr Cir, Lincoln, NE 68508",
-	"website": "https://aabaseball.com/",
-	"latitude": 40.8231064418699, 
-	"longitude": -96.71377725158298,
-	"colorCode": "#ffffff",
-	"colorCode2": "#000000",
-	"league": "AAPB",
-	"timezone": "America/Chicago",
-	"startDate": "2026-07-15",
-	"endDate": "2026-07-16"
-  },		
+  
   {
     "teamName": "National League All-Stars",
     "teamCode": "NL",
@@ -8224,7 +8191,45 @@
 	"timezone": "Asia/Taipei",
 	"startDate": "2022-01-01",
 	"endDate": null
-  }
+  },
+
+
+
+  {
+	"teamName": "West Division All-Stars",
+	"teamCode": "WDA",
+	"arena": "Haymarket Park",
+	"arenaId": "haymarket_park_lincoln",
+	"city": "Lincoln, Nebraska",
+	"address": "403 Line Dr Cir, Lincoln, NE 68508",
+	"website": "https://aabaseball.com/",
+	"latitude": 40.8231064418699, 
+	"longitude": -96.71377725158298,
+	"colorCode": "#ffffff",
+	"colorCode2": "#000000",
+	"league": "AAPB",
+	"timezone": "America/Chicago",
+	"startDate": "2026-07-15",
+	"endDate": "2026-07-16"
+  },
+   {
+	"teamName": "East Division All-Stars",
+	"teamCode": "EDA",
+	"arena": "Haymarket Park",
+	"arenaId": "haymarket_park_lincoln",
+	"city": "Lincoln, Nebraska",
+	"address": "403 Line Dr Cir, Lincoln, NE 68508",
+	"website": "https://aabaseball.com/",
+	"latitude": 40.8231064418699, 
+	"longitude": -96.71377725158298,
+	"colorCode": "#ffffff",
+	"colorCode2": "#000000",
+	"league": "AAPB",
+	"timezone": "America/Chicago",
+	"startDate": "2026-07-15",
+	"endDate": "2026-07-16"
+  }	
+	
 	
 	
 ]
