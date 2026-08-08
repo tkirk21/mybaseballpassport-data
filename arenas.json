@@ -1368,7 +1368,7 @@
     "colorCode4": "#000000",
     "league": "SL",
     "timezone": "America/New_York",
-    "startDate": "2015-02-01",
+    "startDate": "2021-02-01",
     "endDate": null
   },
   {
@@ -1386,7 +1386,7 @@
     "colorCode3": "#FFFFFF",
     "league": "SL",
     "timezone": "America/New_York",
-    "startDate": "2013-02-01",
+    "startDate": "2021-02-01",
     "endDate": null
   },
   {
@@ -1463,7 +1463,7 @@
     "colorCode5": "#E4D77E",
     "league": "SL",
     "timezone": "America/New_York",
-    "startDate": "2004-02-01",
+    "startDate": "2021-02-01",
     "endDate": null
   },
   {
@@ -1482,7 +1482,7 @@
 	"colorCode4": "#C4CED4",
     "league": "SL",
     "timezone": "America/New_York",
-    "startDate": "2012-02-01",
+    "startDate": "2021-02-01",
     "endDate": null
   },
   {
@@ -1502,7 +1502,7 @@
 	"colorCode6": "#000000",
     "league": "SL",
     "timezone": "America/New_York",
-    "startDate": "2012-02-01",
+    "startDate": "2021-02-01",
     "endDate": null
   },		
   {
