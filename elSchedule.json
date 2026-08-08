@@ -79,7 +79,6 @@
   "fireworks": {
       "title": "Stick around following the game for fireworks!"
     }
-  },
 },
 
 {
@@ -99,7 +98,6 @@
     "fireworks": {
       "title": "Don't miss a special drone show."
     }
-  },
 },
 
 {
@@ -129,7 +127,6 @@
     "fireworks": {
       "title": "Free player autographs and Kids Park from 12:00-12:30pm. ALL fans run the bases post game."
     }
-  },
 },
 
 {
@@ -166,7 +163,6 @@
   "fireworks": {
       "title": "Meet select members of the Flying Squirrels team for autographs every Sunday from 3:45pm - 4:15pm in The Backstop."
     }
-  },
 },
 
 {
@@ -200,7 +196,6 @@
   "fireworks": {
       "title": "Celebrate the spirit of Mardi Gras with a night full of festive fun, colorful celebrations, and plenty of chances to let the good times roll!"
     }
-  },
 },
 
 {
@@ -217,7 +212,6 @@
         "details": "Fans will receive a souvenir cup when they enter the ballpark."
       }
     ]
-  },
 },
 
 {
@@ -267,7 +261,6 @@
     "fireworks": {
       "title": "Salute to the Hot Dog \u2014 It's Salute to the Hot Dog Night, and every hot dog is your ticket to win! For every hot dog you purchase, you'll receive one rubber duck. Toss your duck into the designated prize pool for a chance to win special prizes throughout the night."
     }
-  },
 },
 
 {
@@ -314,7 +307,6 @@
         "details": "The first 1,000 fans in attendance."
       }
     ]
-  },
 },
 
 {
@@ -351,7 +343,6 @@
         "details": "Be one of the first 1,000 fans to enter the ballpark and receive an exclusive Cooper Flagg bobblehead."
       }
     ]
-  },
 },
 
 {
@@ -371,7 +362,6 @@
     "fireworks": {
       "title": "Support our Clothing Drive by donating new or gently used clothing at the ballpark! Fans who make a donation will be entered for a chance to win four tickets to a Senators game during the 2027 season."
     }
-  },
 },
 
 {
@@ -385,7 +375,6 @@
   "fireworks": {
       "title": "Don't miss the best fireworks in New Jersey after the game. There will be a special appearance by King Julien."
     }
-  },
 },
 
 {
@@ -399,7 +388,6 @@
   "fireworks": {
       "title": "Fireworks - Recovery Awareness Night. Boston Beer Company; 5:00 Happy Hour: $1 Off Beer & Pre-Game Concert - Rusty Rail Brewing Company; Post-Game Concert & $1 Off Beer - Bru Daddy's Brewing Company."
     }
-  },
 },
 
 {
@@ -413,7 +401,6 @@
   "fireworks": {
       "title": "Italian Heritage Night \u2014 It's Italian Heritage Night at the 'ol ballgame, with specialty foods, promotions and themes that will have you hollering Salute!"
     }
-  },
 },
 
 {
@@ -430,7 +417,7 @@
         "details": "Dress up, strike a pose, and grab a Curve Mascot Superhero Shirt!"
       }
     ]
-  },
+
 },
 
 {
@@ -457,7 +444,7 @@
         "details": "Fans will receive a Carlos Lagrange Jersey Diners bobblehead when they enter the ballpark."
       }
     ]
-  },
+
 },
 
 {
@@ -469,9 +456,9 @@
   "city": "Reading, Pennsylvania",
   "date": "2026-08-14T23:00:00Z",
   "fireworks": {
-      "title": "Dead Head Tribute w/ Pre-Game & Post-Game Concert by \"Good Lovin Jam Band\"
+      "title": "Dead Head Tribute w/ Pre-Game & Post-Game Concert by Good Lovin Jam Band"
     }
-  },
+
 },
 
 {
@@ -485,7 +472,7 @@
   "fireworks": {
       "title": "Light up your nights at FNB Field with spectacular postgame fireworks."
     }
-  },
+
 },
 
 {
@@ -522,7 +509,7 @@
   "fireworks": {
       "title": "Fireworks!"
     }
-  },
+
 },
 
 {
@@ -568,7 +555,6 @@
   "fireworks": {
       "title": "Don't miss the best fireworks in New Jersey after the game."
     }
-  },
 },
 
 {
@@ -612,7 +598,6 @@
     "fireworks": {
       "title": "Set sail for a night of swashbuckling fun, mystical mermaids, and treasure-filled adventures at the ballpark."
     }
-  },
 },
 
 {
@@ -639,7 +624,6 @@
         "details": "Fans will receive a bucket hat when they enter the ballpark."
       }
     ]
-  },
 },
 
 {
@@ -693,7 +677,6 @@
   "fireworks": {
       "title": "Bar Wars \u2014 Which bar will reign supreme in the annual Bar Wars competition this year? Don't miss Bar Wars an Olympic Style competition featuring a variety of bar games such as flip cup, hot dog eating contest, kan jam, ladder ball, and much more."
     }
-  },
 },
 
 {
@@ -713,7 +696,7 @@
     "fireworks": {
       "title": "Tall Boy Tuesday \u2014 Fans 21 and over can celebrate the beginning of a RubberDucks homestand with an Anheuser-Busch Tall Boy! $1 discount for the featured Tall Boy of the night!"
     }
-  },
+
 },
 
 {
@@ -740,7 +723,7 @@
         "details": "The first 1,000 kids though the gates."
       }
     ]
-  },
+
 },
 
 {
@@ -774,7 +757,6 @@
   "fireworks": {
       "title": "The Good Witch and Bad Witch Appearance \u2014 Defy Gravity with a special appearance by The Good Witch and The Bad Witch who are making a special appearance. Arrive early for a special sing-along with both witches and grab a picture for one night only."
     }
-  },
 },
 
 {
@@ -788,7 +770,6 @@
   "fireworks": {
       "title": "Karaoke Night \u2014 Step up to the mic and sing your heart out between innings as the ballpark turns into Akron's biggest karaoke party."
     }
-  },
 },
 
 {
@@ -802,7 +783,6 @@
   "fireworks": {
       "title": "Woof Wednesday \u2014 Leashed  and vaccinated dogs are welcome to come and enjoy a night at the ballpark.  Must show current, valid tags at gate prior to entry."
     }
-  },
 },
 
 {
@@ -857,7 +837,6 @@
       "title": "Thirsty Thursday",
       "description": "Enjoy $2 beer & fountain Coca-Cola products all night long!"
     }
-  },
 },
 
 {
@@ -900,7 +879,6 @@
     "fireworks": {
       "title": "Celebrating the women of the ballpark!"
     }
-  },
 },
 
 {
@@ -914,7 +892,7 @@
   "fireworks": {
       "title": "Dive into a night of nautical nonsense! Enjoy themed fun, fireworks, and undersea antics that make UPMC Park feel like the Bikini Bottom. Stick around after the game for Pyrotecnico Fireworks!"
     }
-  },
+
 },
 
 {
@@ -954,7 +932,7 @@
   "fireworks": {
       "title": "Stick around after the game for an AMAZING fireworks show."
     }
-  },
+
 },
 
 {
@@ -974,7 +952,7 @@
     "fireworks": {
       "title": "Friday Night Fireworks."
     }
-  },
+
 },
 
 {
@@ -1001,7 +979,6 @@
         "details": "Why kick field goals when you can score a touchdown with a SeaWolves football jersey! Perfect for game day. While stocks last."
       }
     ]
-  },
 },
 
 {
@@ -1021,7 +998,7 @@
     "fireworks": {
       "title": "Postgame Fireworks"
     }
-  },
+
 },
 
 {
@@ -1051,7 +1028,6 @@
   "fireworks": {
       "title": "Emo Night w/ Fireworks."
     }
-  },
 },
 
 {
@@ -1105,7 +1081,6 @@
   "fireworks": {
       "title": "Free player autographs and Kids Park from 12:00-12:30pm. ALL fans run the bases post game."
     }
-  },
 },
 
 {
@@ -1120,8 +1095,7 @@
       "title": "Jr. Fire Marshal Night",
       "description": "Kids will receive a red firefighters hat at the gates!"
     }
-  },
-  {
+
 },
 
 {
@@ -1141,7 +1115,7 @@
     "fireworks": {
       "title": "After the game, all fans can play Catch on the Field!"
     }
-  },
+
 },
 
 {
@@ -1195,7 +1169,6 @@
   "fireworks": {
       "title": "Fans will receive a dog treat bag when they enter the ballpark.\n\nBring your well-behaved, socialized dogs to the ballpark!"
     }
-  },
 },
 
 {
@@ -1215,7 +1188,6 @@
     "fireworks": {
       "title": "Fans 55 & up are eligible to join the Silver Squirrels. Members mingle every Tuesday (excluding Opening Day) and receive cool Flying Squirrels perks. Gates: 5:30pm | First pitch: 7:05pm"
     }
-  },
 },
 
 {
@@ -1319,7 +1291,6 @@
     "fireworks": {
       "title": "Hockey Night \u2014 The Harrisburg Senators are bringing the excitement of the ice to the diamond with Hockey Night. This ultimate sports crossover event will offer fans a unique game-day experience blending the atmosphere of two energetic sports."
     }
-  },
 },
 
 {
@@ -1386,7 +1357,6 @@
   "fireworks": {
       "title": "Don't miss the best fireworks in New Jersey after the game."
     }
-  },
 },
 
 {
@@ -1416,7 +1386,6 @@
     "fireworks": {
       "title": "East Shore vs. West Shore Night is back! It's time to see which shore has the most passionate Senators fans as we go head-to-head in a fun showdown!"
     }
-  },
 },
 
 {
@@ -1470,7 +1439,6 @@
       "title": "Come watch another Atlas Postgame Fireworks Show light up the sky at Delta Dental Stadium!"
     }
   },
-},
 
 {
   "id": "el_2026082904",
@@ -1483,7 +1451,7 @@
   "fireworks": {
       "title": "Don't miss the best fireworks in New Jersey after the game."
     }
-  },
+
 },
 
 {
@@ -1497,7 +1465,7 @@
   "fireworks": {
       "title": "FEATURED GAME: Post-Game Drone Show Celebrating 60 Seasons of Phillies Affiliation & Celebrating"
     }
-  },
+
 },
 
 {
