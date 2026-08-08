@@ -1,119 +1,5 @@
 [
 
-{
-  "id": "pcl_2026080601",
-  "league": "PCL",
-  "team": "Albuquerque Isotopes",
-  "opponent": "Sugar Land Space Cowboys",
-  "arena": "Rio Grande Credit Union Field at Isotopes Park",
-  "city": "Albuquerque, New Mexico",
-  "date": "2026-08-06T18:05:00Z"
-},
-
-{
-  "id": "pcl_2026080602",
-  "league": "PCL",
-  "team": "Salt Lake Bees",
-  "opponent": "Oklahoma City Comets",
-  "arena": "Ballpark at America First Square",
-  "city": "South Jordan, Utah",
-  "date": "2026-08-07T00:35:00Z",
-  "fireworks": {
-    "title": "Thirsty Thursdays"
-  }
-},
-
-{
-  "id": "pcl_2026080603",
-  "league": "PCL",
-  "team": "Reno Aces",
-  "opponent": "El Paso Chihuahuas",
-  "arena": "Greater Nevada Field",
-  "city": "Reno, Nevada",
-  "date": "2026-08-07T01:35:00Z",
-  "fireworks": {
-    "title": "Throwback Thursday"
-  }
-},
-
-{
-  "id": "pcl_2026080604",
-  "league": "PCL",
-  "team": "Sacramento River Cats",
-  "opponent": "Round Rock Express",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, California",
-  "date": "2026-08-07T01:45:00Z",
-  "giveaway": [
-    {
-      "title": "Homestand Poster Giveaway",
-      "details": "Arrive early and score a Homestand Poster Giveaway! Each poster features a custom design created just for that homestand, and is available only to the first 500 fans through the gates. Get in early and take home a collectible you can only find at the ballpark!"
-    }
-  ],
-  "fireworks": {
-    "title": "Taps and Trivia Thursdays"
-  }
-},
-
-{
-  "id": "pcl_2026080605",
-  "league": "PCL",
-  "team": "Las Vegas Aviators",
-  "opponent": "Tacoma Rainiers",
-  "arena": "Las Vegas Ballpark",
-  "city": "Las Vegas, Nevada",
-  "date": "2026-08-07T02:05:00Z"
-},
-
-{
-  "id": "pcl_2026080701",
-  "league": "PCL",
-  "team": "Salt Lake Bees",
-  "opponent": "Oklahoma City Comets",
-  "arena": "Ballpark at America First Square",
-  "city": "South Jordan, Utah",
-  "date": "2026-08-08T00:35:00Z"
-},
-
-{
-  "id": "pcl_2026080702",
-  "league": "PCL",
-  "team": "Albuquerque Isotopes",
-  "opponent": "Sugar Land Space Cowboys",
-  "arena": "Rio Grande Credit Union Field at Isotopes Park",
-  "city": "Albuquerque, New Mexico",
-  "date": "2026-08-08T00:35:00Z"
-},
-
-{
-  "id": "pcl_2026080703",
-  "league": "PCL",
-  "team": "Reno Aces",
-  "opponent": "El Paso Chihuahuas",
-  "arena": "Greater Nevada Field",
-  "city": "Reno, Nevada",
-  "date": "2026-08-08T01:35:00Z"
-},
-
-{
-  "id": "pcl_2026080704",
-  "league": "PCL",
-  "team": "Sacramento River Cats",
-  "opponent": "Round Rock Express",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, California",
-  "date": "2026-08-08T01:45:00Z"
-},
-
-{
-  "id": "pcl_2026080705",
-  "league": "PCL",
-  "team": "Las Vegas Aviators",
-  "opponent": "Tacoma Rainiers",
-  "arena": "Las Vegas Ballpark",
-  "city": "Las Vegas, Nevada",
-  "date": "2026-08-08T02:05:00Z"
-},
 
 {
   "id": "pcl_2026080801",
@@ -132,7 +18,16 @@
   "opponent": "Sugar Land Space Cowboys",
   "arena": "Rio Grande Credit Union Field at Isotopes Park",
   "city": "Albuquerque, New Mexico",
-  "date": "2026-08-09T00:35:00Z"
+  "date": "2026-08-09T00:35:00Z",
+  "giveaway": [
+    {
+      "title": "Native American Heritage NightPostgame Fireworks (weather permitting)",
+      "details": "The first 2500 fans receive a hat courtesy of the Indian Pueblo Cultural Center"
+    }
+  ],
+  "fireworks": {
+    "title": "Postgame fireworks!"
+  }
 },
 
 {
@@ -142,7 +37,16 @@
   "opponent": "El Paso Chihuahuas",
   "arena": "Greater Nevada Field",
   "city": "Reno, Nevada",
-  "date": "2026-08-09T01:35:00Z"
+  "date": "2026-08-09T01:35:00Z",
+  "giveaway": [
+    {
+      "title": "Giveaway",
+      "details": "A Truckee Car giveaway headlines Cars Night."
+    }
+  ],
+  "fireworks": {
+      "title": "Get autographs signed by Aces players for the first 15 minutes after gates open before First Pitch!"
+    }
 },
 
 {
@@ -152,7 +56,16 @@
   "opponent": "Round Rock Express",
   "arena": "Sutter Health Park",
   "city": "West Sacramento, California",
-  "date": "2026-08-09T01:37:00Z"
+  "date": "2026-08-09T01:37:00Z",
+  "giveaway": [
+      {
+        "title": "Game-Used Jersey Auction",
+        "details": "Fans can bid on game-used jerseys tied to each night's theme. Bidding starts at $150 per jersey and remains open through the final out of the sixth inning."
+      }
+    ],
+    "fireworks": {
+      "title": "Sactown Hoedown will lead pregame line dancing in the Sactown Smokehouse from gates opening at 5:37 p.m. until 6:30 p.m."
+    }
 },
 
 {
@@ -172,7 +85,13 @@
   "opponent": "Sugar Land Space Cowboys",
   "arena": "Rio Grande Credit Union Field at Isotopes Park",
   "city": "Albuquerque, New Mexico",
-  "date": "2026-08-09T19:35:00Z"
+  "date": "2026-08-09T19:35:00Z",
+  "giveaway": [
+      {
+        "title": "Princess & Pirate Day",
+        "details": "Princess Wand OR Pirate Sword Giveaway (children 15 & younger, while supplies last)"
+      }
+    ]
 },
 
 {
@@ -192,7 +111,10 @@
   "opponent": "El Paso Chihuahuas",
   "arena": "Greater Nevada Field",
   "city": "Reno, Nevada",
-  "date": "2026-08-09T20:05:00Z"
+  "date": "2026-08-09T20:05:00Z",
+  "fireworks": {
+      "title": "Family Sunday! Enjoy $1.50 hot dogs throughout the game! Kids run the bases postgame."
+    }
 },
 
 {
@@ -202,7 +124,10 @@
   "opponent": "Oklahoma City Comets",
   "arena": "Ballpark at America First Square",
   "city": "South Jordan, Utah",
-  "date": "2026-08-10T00:05:00Z"
+  "date": "2026-08-10T00:05:00Z",
+  "fireworks": {
+      "title": "Bark at the Park \u2014 Fetch some unforgettable moments and bring your furry friend to The Ballpark at America First Square!"
+    }
 },
 
 {
@@ -232,7 +157,11 @@
   "opponent": "Albuquerque Isotopes",
   "arena": "Chickasaw Bricktown Ballpark",
   "city": "Oklahoma City, Oklahoma",
-  "date": "2026-08-11T23:35:00Z"
+  "date": "2026-08-11T23:35:00Z",
+  "giveaway": {
+      "title": "$2 Tuesday",
+      "description": "Enjoy $2 Miller, Coors, and Pepsi products."
+    }
 },
 
 {
@@ -272,7 +201,11 @@
   "opponent": "Salt Lake Bees",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-12T18:05:00Z"
+  "date": "2026-08-12T18:05:00Z",
+  "giveaway": {
+      "title": "Mature Munchies Wednesday",
+      "description": "Guest over 60 years old will receive a free hot dog meal from the promotions booth.\n\nEach guest over 50 years old will receive a voucher for a $1 popcorn!"
+    }
 },
 
 {
@@ -342,7 +275,10 @@
   "opponent": "Salt Lake Bees",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-14T00:35:00Z"
+  "date": "2026-08-14T00:35:00Z",
+  "fireworks": {
+      "title": "Bark at the Park \u2014 Bring your pup out to the ballpark to enjoy a baseball game!"
+    }
 },
 
 {
@@ -372,7 +308,10 @@
   "opponent": "Albuquerque Isotopes",
   "arena": "Chickasaw Bricktown Ballpark",
   "city": "Oklahoma City, Oklahoma",
-  "date": "2026-08-15T00:05:00Z"
+  "date": "2026-08-15T00:05:00Z",
+  "fireworks": {
+      "title": "Post Game Fireworks Show"
+    }
 },
 
 {
@@ -382,7 +321,10 @@
   "opponent": "Sugar Land Space Cowboys",
   "arena": "Dell Diamond",
   "city": "Round Rock, Texas",
-  "date": "2026-08-15T00:05:00Z"
+  "date": "2026-08-15T00:05:00Z",
+  "fireworks": {
+      "title": "Friday Fireworks."
+    }
 },
 
 {
@@ -392,7 +334,13 @@
   "opponent": "Salt Lake Bees",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-15T00:35:00Z"
+  "date": "2026-08-15T00:35:00Z",
+  "giveaway": [
+      {
+        "title": "Matachines Bobblehead Giveaway",
+        "details": "For the first 1,500."
+      }
+    ]
 },
 
 {
@@ -432,7 +380,13 @@
   "opponent": "Sugar Land Space Cowboys",
   "arena": "Dell Diamond",
   "city": "Round Rock, Texas",
-  "date": "2026-08-16T00:05:00Z"
+  "date": "2026-08-16T00:05:00Z",
+  "giveaway": [
+      {
+        "title": "Western Shirt Giveaway",
+        "details": "While stock last."
+      }
+    ]
 },
 
 {
@@ -442,7 +396,10 @@
   "opponent": "Salt Lake Bees",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-16T00:35:00Z"
+  "date": "2026-08-16T00:35:00Z",
+  "fireworks": {
+      "title": "Stay until after the game to enjoy the best fireworks show in the city as we light up the sky with our Fireworks Spectacular!"
+    }
 },
 
 {
@@ -452,7 +409,11 @@
   "opponent": "Reno Aces",
   "arena": "Cheney Stadium",
   "city": "Tacoma, Washington",
-  "date": "2026-08-16T01:05:00Z"
+  "date": "2026-08-16T01:05:00Z",
+  "giveaway": {
+      "title": "Cerveza Saturday",
+      "description": "For fans 21 and over. This special ticket package includes a reserved seat, an exclusive Cerveza Saturday t-shirt, and your first Estrella Jalisco from the R Bar"
+    }
 },
 
 {
@@ -472,7 +433,16 @@
   "opponent": "Salt Lake Bees",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-16T18:05:00Z"
+  "date": "2026-08-16T18:05:00Z",
+  "giveaway": [
+      {
+        "title": "Jersey Cooler Giveaway",
+        "details": "Kids giveaways. The first 500 kids will receive a kids mesh jersey cooler!"
+      }
+    ],
+    "fireworks": {
+      "title": "After the game, (12 and under) can enjoy running the bases following the final out!"
+    }
 },
 
 {
@@ -482,7 +452,10 @@
   "opponent": "Sugar Land Space Cowboys",
   "arena": "Dell Diamond",
   "city": "Round Rock, Texas",
-  "date": "2026-08-16T18:05:00Z"
+  "date": "2026-08-16T18:05:00Z",
+  "fireworks": {
+      "title": "Free inflatables and train rides for children outside the ballpark before the game and kids can run the bases after the game."
+    }
 },
 
 {
@@ -502,7 +475,10 @@
   "opponent": "Albuquerque Isotopes",
   "arena": "Chickasaw Bricktown Ballpark",
   "city": "Oklahoma City, Oklahoma",
-  "date": "2026-08-16T23:05:00Z"
+  "date": "2026-08-16T23:05:00Z",
+  "fireworks": {
+      "title": "Pregame player autographs on the concourse and postgame kids run the bases!"
+    }
 },
 
 {
@@ -521,7 +497,7 @@
   "team": "Sugar Land Space Cowboys",
   "opponent": "Oklahoma City Comets",
   "arena": "Constellation Field",
-  "city": "Suger Land, Texas",
+  "city": "Sugar Land, Texas",
   "date": "2026-08-19T00:05:00Z"
 },
 
@@ -562,7 +538,11 @@
   "opponent": "Tacoma Rainiers",
   "arena": "Sutter Health Park",
   "city": "West Sacramento, California",
-  "date": "2026-08-19T01:45:00Z"
+  "date": "2026-08-19T01:45:00Z",
+  "giveaway": {
+      "title": "Toyota Two-For Tuesdays",
+      "description": "Enjoy $2 hot dogs, $2 novelty ice cream, and a two-for-one value menu featuring pizza, nachos, pretzels, popcorn, and Merlino's."
+    }
 },
 
 {
@@ -572,7 +552,11 @@
   "opponent": "Round Rock Express",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-19T18:05:00Z"
+  "date": "2026-08-19T18:05:00Z",
+  "giveaway": {
+      "title": "Mature Munchies Wednesday",
+      "description": "Guest over 60 years old will receive a free hot dog meal from the promotions booth.\n\nEach guest over 50 years old will receive a voucher for a $1 popcorn!"
+    }
 },
 
 {
@@ -612,7 +596,11 @@
   "opponent": "Tacoma Rainiers",
   "arena": "Sutter Health Park",
   "city": "West Sacramento, California",
-  "date": "2026-08-20T01:45:00Z"
+  "date": "2026-08-20T01:45:00Z",
+  "giveaway": {
+      "title": "Bogle Wine Wednesday",
+      "description": "Enjoy $2 off all Bogle wines throughout the ballpark"
+    }
 },
 
 {
@@ -652,7 +640,13 @@
   "opponent": "Round Rock Express",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-20T00:35:00Z"
+  "date": "2026-08-20T00:35:00Z",
+  "giveaway": [
+      {
+        "title": "Football Jersey Giveaway",
+        "details": "1,500 fans will receive a Chihuahuas football jersey to kick off the start of football season!"
+      }
+    ]
 },
 
 {
@@ -662,7 +656,13 @@
   "opponent": "Tacoma Rainiers",
   "arena": "Sutter Health Park",
   "city": "West Sacramento, California",
-  "date": "2026-08-21T01:45:00Z"
+  "date": "2026-08-21T01:45:00Z",
+  "giveaway": [
+      {
+        "title": "Homestand Poster Giveaway",
+        "details": "Score a Homestand Poster Giveaway! Available only to the first 500 fans through the gates!"
+      }
+    ]
 },
 
 {
@@ -682,7 +682,10 @@
   "opponent": "Las Vegas Aviators",
   "arena": "Rio Grande Credit Union Field at Isotopes Park",
   "city": "Albuquerque, New Mexico",
-  "date": "2026-08-22T00:35:00Z"
+  "date": "2026-08-22T00:35:00Z",
+  "fireworks": {
+        "title": "E.R.As Night (Orbit's Version), featuring music from your favorite Showgirl and Postgame Fireworks"
+      }
 },
 
 {
@@ -702,7 +705,13 @@
   "opponent": "Round Rock Express",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-22T00:35:00Z"
+  "date": "2026-08-22T00:35:00Z",
+  "giveaway": [
+      {
+        "title": "Bucket Hat Giveaway",
+        "details": "1,500 fans will receive a Harry Potter reversible bucket hat!"
+      }
+    ]
 },
 
 {
@@ -712,7 +721,13 @@
   "opponent": "Tacoma Rainiers",
   "arena": "Sutter Health Park",
   "city": "West Sacramento, California",
-  "date": "2026-08-22T01:45:00Z"
+  "date": "2026-08-22T01:45:00Z",
+  "giveaway": [
+      {
+        "title": "Lunch Box Giveaway",
+        "details": "The first 2,500 fans through the gates will receive a River Cats Lunch Box!"
+      }
+    ]
 },
 
 {
@@ -732,7 +747,14 @@
   "opponent": "Las Vegas Aviators",
   "arena": "Rio Grande Credit Union Field at Isotopes Park",
   "city": "Albuquerque, New Mexico",
-  "date": "2026-08-23T00:35:00Z"
+  "date": "2026-08-23T00:35:00Z",
+  "giveaway": [
+      {
+        "title": "Lowrider Bobbleheads",
+        "details": "first 3,000 fans"
+      }
+    ]
+  }
 },
 
 {
@@ -742,7 +764,10 @@
   "opponent": "Reno Aces",
   "arena": "Ballpark at America First Square",
   "city": "South Jordan, Utah",
-  "date": "2026-08-23T00:35:00Z"
+  "date": "2026-08-23T00:35:00Z",
+  "fireworks": {
+      "title": "Scheels Postgame Kids Run"
+    }
 },
 
 {
@@ -752,7 +777,16 @@
   "opponent": "Round Rock Express",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-23T00:35:00Z"
+  "date": "2026-08-23T00:35:00Z",
+  "giveaway": [
+      {
+        "title": "Harry Potter Weekend Jersey Auction",
+        "details": "Two of Harry Potter Weekend, the specialty Harry Potter Jerseys the Chihuahuas are wearing will be auctioned off with the auction ending at the end of the 7th inning. Fans that won the auction will have the opportunity to receive the jersey directly from the player they won it from after the game."
+      }
+    ],
+    "fireworks": {
+      "title": "Dive into the magic of Harry Potter Weekend at Southwest University Park! From enchanted baseball games to spellbinding activities, the ballpark transforms into a world of wizards, fun, and unforgettable adventures. Experience a day full of wonder, laughter, and memories that feel straight out of a storybook."
+    }
 },
 
 {
@@ -762,7 +796,13 @@
   "opponent": "Tacoma Rainiers",
   "arena": "Sutter Health Park",
   "city": "West Sacramento, California",
-  "date": "2026-08-23T01:37:00Z"
+  "date": "2026-08-23T01:37:00Z",
+  "giveaway": [
+      {
+        "title": "Family Fun Pack",
+        "details": "Starting at less than $30 per ticket, you can enhance your game day with a hot dog, soda, and a limited-edition River Cats item. This week, all Family Fun Pack ticket holders receive a River Cats Harry Potter hat!"
+      }
+    ]
 },
 
 {
@@ -772,7 +812,16 @@
   "opponent": "Round Rock Express",
   "arena": "Southwest University Park",
   "city": "El Paso, Texas",
-  "date": "2026-08-23T18:05:00Z"
+  "date": "2026-08-23T18:05:00Z",
+  "giveaway": [
+      {
+        "title": "Helmet Piggy Bank Giveaway",
+        "details": "1000 kids 12 and under will receive an EP helmet piggy bank!"
+      }
+    ],
+    "fireworks": {
+      "title": "After the game, (12 and under) can enjoy running the bases following the final out!"
+    }
 },
 
 {
@@ -792,7 +841,13 @@
   "opponent": "Las Vegas Aviators",
   "arena": "Rio Grande Credit Union Field at Isotopes Park",
   "city": "Albuquerque, New Mexico",
-  "date": "2026-08-23T19:35:00Z"
+  "date": "2026-08-23T19:35:00Z",
+  "giveaway": [
+      {
+        "title": "Sesame Street Day",
+        "details": "Sesame Street Youth Bucket Hats for the first 1,000 fans 15 & younger"
+      }
+    ]
 },
 
 {
@@ -822,7 +877,11 @@
   "opponent": "El Paso Chihuahuas",
   "arena": "Chickasaw Bricktown Ballpark",
   "city": "Oklahoma City, Oklahoma",
-  "date": "2026-08-25T23:35:00Z"
+  "date": "2026-08-25T23:35:00Z",
+  "giveaway": {
+      "title": "$2 Tuesday",
+      "description": "Enjoy $2 Miller, Coors, and Pepsi products"
+    }
 },
 
 {
@@ -842,7 +901,10 @@
   "opponent": "Sacramento River Cats",
   "arena": "Greater Nevada Field",
   "city": "Reno, Nevada",
-  "date": "2026-08-26T01:35:00Z"
+  "date": "2026-08-26T01:35:00Z",
+  "fireworks": {
+      "title": "Dog Day \u2014 Once a homestand, grab your furry friend and head down to Greater Nevada Field for Dog Day at the park featuring Lambo the Bat Dog!"
+    }
 },
 
 {
@@ -972,7 +1034,10 @@
   "opponent": "Albuquerque Isotopes",
   "arena": "Dell Diamond",
   "city": "Round Rock, Texas",
-  "date": "2026-08-29T00:05:00Z"
+  "date": "2026-08-29T00:05:00Z",
+  "fireworks": {
+      "title": "Friday Fireworks"
+    }
 },
 
 {
@@ -1052,7 +1117,16 @@
   "opponent": "Sacramento River Cats",
   "arena": "Greater Nevada Field",
   "city": "Reno, Nevada",
-  "date": "2026-08-30T01:35:00Z"
+  "date": "2026-08-30T01:35:00Z",
+  "giveaway": [
+      {
+        "title": "Cross Body Bag Giveaway",
+        "details": "While stocks last."
+      }
+    ],
+    "fireworks": {
+      "title": "Get autographs signed by Aces players for the first 15 minutes after gates open before First Pitch!"
+    }
 },
 
 {
@@ -1072,7 +1146,13 @@
   "opponent": "Albuquerque Isotopes",
   "arena": "Dell Diamond",
   "city": "Round Rock, Texas",
-  "date": "2026-08-30T18:05:00Z"
+  "date": "2026-08-30T18:05:00Z",
+  "giveaway": [
+      {
+        "title": "Vince Young Bobblehead Giveaway",
+        "details": "While stocks last"
+      }
+    ]
 },
 
 {
@@ -1102,7 +1182,10 @@
   "opponent": "El Paso Chihuahuas",
   "arena": "Chickasaw Bricktown Ballpark",
   "city": "Oklahoma City, Oklahoma",
-  "date": "2026-08-30T23:05:00Z"
+  "date": "2026-08-30T23:05:00Z",
+  "fireworks": {
+      "title": "Pregame player autographs on the concourse and postgame kids run the bases!"
+    }
 },
 
 {
