@@ -1,173 +1,5 @@
 [
 
-{
-  "id": "sl_2026080601",
-  "league": "SL",
-  "team": "Chattanooga Lookouts",
-  "opponent": "Knoxville Smokies",
-  "arena": "Erlanger Park",
-  "city": "Chattanooga, Tennessee",
-  "date": "2026-08-06T23:00:00Z",
-  "fireworks": {
-    "title": "Thirsty Thursday"
-  }
-},
-
-{
-  "id": "sl_2026080602",
-  "league": "SL",
-  "team": "Pensacola Blue Wahoos",
-  "opponent": "Montgomery Biscuits",
-  "arena": "Blue Wahoos Stadium",
-  "city": "Pensacola, Florida",
-  "date": "2026-08-06T23:05:00Z",
-  "fireworks": {
-    "title": "Mullet Thursday"
-  }
-},
-
-{
-  "id": "sl_2026080603",
-  "league": "SL",
-  "team": "Columbus Clingstones",
-  "opponent": "Biloxi Shuckers",
-  "arena": "Synovus Park",
-  "city": "Columbus, Georgia",
-  "date": "2026-08-06T23:06:00Z"
-},
-
-{
-  "id": "sl_2026080604",
-  "league": "SL",
-  "team": "Rocket City Trash Pandas",
-  "opponent": "Birmingham Barons",
-  "arena": "Toyota Field",
-  "city": "Madison, Alabama",
-  "date": "2026-08-06T23:35:00Z",
-  "fireworks": {
-    "title": "Grateful Dead Drone Show"
-  }
-},
-
-{
-  "id": "sl_2026080701",
-  "league": "SL",
-  "team": "Chattanooga Lookouts",
-  "opponent": "Knoxville Smokies",
-  "arena": "Erlanger Park",
-  "city": "Chattanooga, Tennessee",
-  "date": "2026-08-07T23:00:00Z"
-},
-
-{
-  "id": "sl_2026080702",
-  "league": "SL",
-  "team": "Pensacola Blue Wahoos",
-  "opponent": "Montgomery Biscuits",
-  "arena": "Blue Wahoos Stadium",
-  "city": "Pensacola, Florida",
-  "date": "2026-08-07T23:05:00Z"
-},
-
-{
-  "id": "sl_2026080703",
-  "league": "SL",
-  "team": "Columbus Clingstones",
-  "opponent": "Biloxi Shuckers",
-  "arena": "Synovus Park",
-  "city": "Columbus, Georgia",
-  "date": "2026-08-07T23:06:00Z"
-},
-
-{
-  "id": "sl_2026080704",
-  "league": "SL",
-  "team": "Rocket City Trash Pandas",
-  "opponent": "Birmingham Barons",
-  "arena": "Toyota Field",
-  "city": "Madison, Alabama",
-  "date": "2026-08-07T23:35:00Z"
-},
-
-{
-  "id": "sl_2026080801",
-  "league": "SL",
-  "team": "Columbus Clingstones",
-  "opponent": "Biloxi Shuckers",
-  "arena": "Synovus Park",
-  "city": "Columbus, Georgia",
-  "date": "2026-08-08T22:05:00Z"
-},
-
-{
-  "id": "sl_2026080802",
-  "league": "SL",
-  "team": "Chattanooga Lookouts",
-  "opponent": "Knoxville Smokies",
-  "arena": "Erlanger Park",
-  "city": "Chattanooga, Tennessee",
-  "date": "2026-08-08T22:30:00Z"
-},
-
-{
-  "id": "sl_2026080803",
-  "league": "SL",
-  "team": "Pensacola Blue Wahoos",
-  "opponent": "Montgomery Biscuits",
-  "arena": "Blue Wahoos Stadium",
-  "city": "Pensacola, Florida",
-  "date": "2026-08-08T23:05:00Z"
-},
-
-{
-  "id": "sl_2026080804",
-  "league": "SL",
-  "team": "Rocket City Trash Pandas",
-  "opponent": "Birmingham Barons",
-  "arena": "Toyota Field",
-  "city": "Madison, Alabama",
-  "date": "2026-08-08T23:35:00Z"
-},
-
-{
-  "id": "sl_2026080901",
-  "league": "SL",
-  "team": "Chattanooga Lookouts",
-  "opponent": "Knoxville Smokies",
-  "arena": "Erlanger Park",
-  "city": "Chattanooga, Tennessee",
-  "date": "2026-08-09T17:00:00Z"
-},
-
-{
-  "id": "sl_2026080902",
-  "league": "SL",
-  "team": "Columbus Clingstones",
-  "opponent": "Biloxi Shuckers",
-  "arena": "Synovus Park",
-  "city": "Columbus, Georgia",
-  "date": "2026-08-09T20:05:00Z"
-},
-
-{
-  "id": "sl_2026080903",
-  "league": "SL",
-  "team": "Rocket City Trash Pandas",
-  "opponent": "Birmingham Barons",
-  "arena": "Toyota Field",
-  "city": "Madison, Alabama",
-  "date": "2026-08-09T21:05:00Z"
-},
-
-{
-  "id": "sl_2026080904",
-  "league": "SL",
-  "team": "Pensacola Blue Wahoos",
-  "opponent": "Montgomery Biscuits",
-  "arena": "Blue Wahoos Stadium",
-  "city": "Pensacola, Florida",
-  "date": "2026-08-09T21:05:00Z"
-},
 
 {
   "id": "sl_2026081101",
@@ -176,8 +8,12 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Covenant Health Park",
   "city": "Knoxville, Tennessee",
-  "date": "2026-08-11T23:00:00Z"
-},
+  "date": "2026-08-11T23:00:00Z",
+  "giveaway": {
+      "title": "Taco Tuesday",
+      "details": "Tuesday's just got better! Fans can enjoy seasoned ground beef, chopped grilled chicken, black beans, Spanish rice, tortilla chips, soft shell tacos, shells, Pepsi products, and water! Toppings include: cheese, lettuce, diced tomatoes, salsa, taco sauce, and sour cream.  \n$19.99 Presale | $24.99 Day of Game \n*Must have upgraded ticket*"
+    }
+  },
 
 {
   "id": "sl_2026081102",
@@ -196,7 +32,16 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Keesler Federal Park",
   "city": "Biloxi, Mississippi",
-  "date": "2026-08-11T23:35:00Z"
+  "date": "2026-08-11T23:35:00Z",
+  "giveaway": [
+    {
+      "title": "T-Shirt Tuesday Giveaway",
+      "details": "Be one of the first 250 fans and receive a Shuckers patriotic-themed t-shirt!"
+    }
+  ],
+  "fireworks": {
+    "title": "Brew Crew Tuesday presented by Coors Light \u2014 Fans can purchase a 20oz souvenir tumbler for $13 with $7 refills at the first and third-base Beer Gardens."
+  }
 },
 
 {
@@ -216,7 +61,11 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Covenant Health Park",
   "city": "Knoxville, Tennessee",
-  "date": "2026-08-12T23:00:00Z"
+  "date": "2026-08-12T23:00:00Z",
+  "giveaway": {
+      "title": "All-You-Can-Eat Wednesday",
+      "details": "Join us for All-You-Can-Eat Wednesdays! With the extraordinary buffet featuring pulled pork, hot dogs, Bush's Baked Beans, popcorn, Uncle Ray's Potato Chips, Pepsi products, & water, you are sure not to go hungry! Buffet runs from 6:00 pm to 8:00 pm. \n$19.99 Presale | $24.99 Day of Game\n*Must have upgraded ticket*"
+    }
 },
 
 {
@@ -226,7 +75,11 @@
   "opponent": "Chattanooga Lookouts",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-12T23:35:00Z"
+  "date": "2026-08-12T23:35:00Z",
+  "giveaway": {
+      "title": "334 Nights",
+      "details": "$3 popcorn, $3 bagged roasted peanuts, $4 craft beer cans in the ASE Club Car Bar"
+    }
 },
 
 {
@@ -266,7 +119,16 @@
   "opponent": "Chattanooga Lookouts",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-13T23:35:00Z"
+  "date": "2026-08-13T23:35:00Z",
+  "giveaway": [
+      {
+        "title": "Pink Out the Park",
+        "details": "Pink Jersey Giveaway. While stock last"
+      }
+    ],
+    "fireworks": {
+      "title": "Thirsty Thursday\u2122 \u2014 1/2 off 16oz domestic drafts and souvenir sodas!"
+    }
 },
 
 {
@@ -316,8 +178,11 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Keesler Federal Park",
   "city": "Biloxi, Mississippi",
-  "date": "2026-08-14T23:35:00Z"
-},
+  "date": "2026-08-14T23:35:00Z",
+"fireworks": {
+      "title": "Fireworks Friday presented by Island View Casino Resort for the best fireworks show on the Coast!"
+    }
+  },
 
 {
   "id": "sl_2026081404",
@@ -326,7 +191,13 @@
   "opponent": "Columbus Clingstones",
   "arena": "Regions Field",
   "city": "Birmingham, Alabama",
-  "date": "2026-08-15T00:00:00Z"
+  "date": "2026-08-15T00:00:00Z",
+  "giveaway": [
+      {
+        "title": "Los Barons Giveaway",
+        "details": "First 1,000 Fans ages 12 & under will receive a free themed jersey!"
+      }
+    ]
 },
 
 {
@@ -336,7 +207,16 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Covenant Health Park",
   "city": "Knoxville, Tennessee",
-  "date": "2026-08-15T23:00:00Z"
+  "date": "2026-08-15T23:00:00Z",
+  "giveaway": [
+      {
+        "title": "Tennessee Night Bobblehead Giveaway",
+        "details": "The first 1,000 fans through the gates will receive a DeSean Bishop bobblehead!"
+      }
+    ],
+    "fireworks": {
+      "title": "Tennessee Night \u2014 It's going to feel like '98 all game long during Tennessee Night at Covenant Health Park! Celebrate all things Tennessee with a night full of Volunteer spirit, in-between inning entertainment, and music!"
+    }
 },
 
 {
@@ -346,7 +226,11 @@
   "opponent": "Chattanooga Lookouts",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-15T23:05:00Z"
+  "date": "2026-08-15T23:05:00Z",
+  "fireworks": {
+      "title": "Stay after the game for a MAX Fireworks Show!"
+    }
+
 },
 
 {
@@ -356,8 +240,14 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Keesler Federal Park",
   "city": "Biloxi, Mississippi",
-  "date": "2026-08-15T23:05:00Z"
-},
+  "date": "2026-08-15T23:05:00Z",
+"giveaway": [
+      {
+        "title": "Biloxi Mudbugs Water Bottle Giveaway",
+        "details": "The Biloxi Mudbugs returns with a themed water bottle giveaway for the first 1,500 fans."
+      }
+    ]
+  },
 
 {
   "id": "sl_2026081504",
@@ -376,8 +266,17 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Covenant Health Park",
   "city": "Knoxville, Tennessee",
-  "date": "2026-08-16T18:00:00Z"
-},
+  "date": "2026-08-16T18:00:00Z",
+"giveaway": [
+      {
+        "title": "Color Your Own Lunch Box Giveaway",
+        "details": "The first 1,000 kids will receive their very own color your own lunch box!"
+      }
+    ],
+    "fireworks": {
+      "title": "After the games, kids ages 4-12 can run the bases after the game. The Smokies will be wearing specialty Crayola jerseys that you can bid on and take home!"
+    }
+  },
 
 {
   "id": "sl_2026081602",
@@ -396,8 +295,17 @@
   "opponent": "Chattanooga Lookouts",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-16T20:33:00Z"
-},
+  "date": "2026-08-16T20:33:00Z",
+  "giveaway": [
+      {
+        "title": "Jersey Giveaway",
+        "details": "Lil' Crumbs Kimchi Jersey Giveaway. While stock lasts."
+      }
+    ],
+    "fireworks": {
+      "title": "Bring your dog out for some fun in the sun!"
+    }
+  },
 
 {
   "id": "sl_2026081604",
@@ -416,8 +324,11 @@
   "opponent": "Birmingham Barons",
   "arena": "Erlanger Park",
   "city": "Chattanooga, Tennessee",
-  "date": "2026-08-18T23:00:00Z"
-},
+  "date": "2026-08-18T23:00:00Z",
+  "fireworks": {
+      "title": "Get ready for a tail-wagging good time at our Dogs at the Diamond Night. Catch the pre-game dog parade and enjoy Titos's giveaways, custom dog tag machine, and potential adoptable dogs!"
+    }
+  },
 
 {
   "id": "sl_2026081802",
@@ -436,9 +347,12 @@
   "opponent": "Montgomery Biscuits",
   "arena": "Synovus Park",
   "city": "Columbus, Georgia",
-  "date": "2026-08-18T23:06:00Z"
-},
-
+  "date": "2026-08-18T23:06:00Z",
+  "giveaway": {
+      "title": "TANSKY TUESDAY DIME-A-DOG NIGHT",
+      "Description": "A Columbus staple, join us for ten cent Sahlen's hot dogs available throughout the game, while supplies last."
+    }
+  },
 {
   "id": "sl_2026081804",
   "league": "SL",
@@ -446,7 +360,11 @@
   "opponent": "Biloxi Shuckers",
   "arena": "Toyota Field",
   "city": "Madison, Alabama",
-  "date": "2026-08-18T23:35:00Z"
+  "date": "2026-08-18T23:35:00Z",
+  "fireworks": {
+      "title": "Bring your four-legged best friend to the ballpark on Tail Waggin' Tuesdays! Fans with dogs are welcome to enjoy the game in Sections 1 and 2 or out on the grass berm. While pups don't need a ticket, we kindly ask for a $1 donation per dog upon entry, with all proceeds benefiting local animal non profits."
+    }
+
 },
 
 {
@@ -486,7 +404,11 @@
   "opponent": "Biloxi Shuckers",
   "arena": "Toyota Field",
   "city": "Madison, Alabama",
-  "date": "2026-08-19T23:35:00Z"
+  "date": "2026-08-19T23:35:00Z",
+  "giveaway": {
+      "title": "Wine Wednesday",
+      "details": "Enjoy selected $5 white, red and ros\u00e9 wine at the Rock Porch, Pub Madison, Third Base Bar, and SportsMED Stadium Club."
+    }
 },
 
 {
@@ -526,8 +448,17 @@
   "opponent": "Biloxi Shuckers",
   "arena": "Toyota Field",
   "city": "Madison, Alabama",
-  "date": "2026-08-20T23:35:00Z"
-},
+  "date": "2026-08-20T23:35:00Z",
+  "giveaway": [
+      {
+        "title": "Nelson Rada Gold Glove Bobblehead Giveaway",
+        "details": "The first 1,000 fans ages 18 and older will receive a Nelson Rada Gold Glove Bobblehead, commemorating his Minor League Gold Glove Award."
+      }
+    ],
+   "fireworks": {
+      "title": "Enjoy live music from Tomy G\u00e9 DJ at the Rock Porch from 5-6:30 PM."
+    }
+  },
 
 {
   "id": "sl_2026082101",
@@ -536,7 +467,17 @@
   "opponent": "Birmingham Barons",
   "arena": "Erlanger Park",
   "city": "Chattanooga, Tennessee",
-  "date": "2026-08-21T23:00:00Z"
+  "date": "2026-08-21T23:00:00Z",
+  "giveaway": [
+      {
+        "title": "Lookouts Football Jersey",
+        "details": "Special ticket required"
+      }
+    ],
+    "fireworks": {
+      "title": "Cap off your week by watching the Lookouts light up the sky with a spectacular post-game fireworks."
+    }
+
 },
 
 {
@@ -546,8 +487,17 @@
   "opponent": "Knoxville Smokies",
   "arena": "Blue Wahoos Stadium",
   "city": "Pensacola, Florida",
-  "date": "2026-08-21T23:05:00Z"
-},
+  "date": "2026-08-21T23:05:00Z",
+"giveaway": [
+      {
+        "title": "Giveaway Friday",
+        "details": "Early-arriving fans will receive a premium giveaway item!"
+      },
+      {
+      "title": "Blue Wahoos Car Sun Shade",
+      "details": "Keep your car cool with the coolest baseball team in town, the Pensacola Blue Wahoos."
+    ]
+  },
 
 {
   "id": "sl_2026082103",
@@ -576,8 +526,11 @@
   "opponent": "Montgomery Biscuits",
   "arena": "Synovus Park",
   "city": "Columbus, Georgia",
-  "date": "2026-08-22T22:05:00Z"
-},
+  "date": "2026-08-22T22:05:00Z",
+  "fireworks": {
+      "title": "Stick around following the conclusion of the game for a fireworks show!"
+    }
+  },
 
 {
   "id": "sl_2026082202",
@@ -586,7 +539,10 @@
   "opponent": "Birmingham Barons",
   "arena": "Erlanger Park",
   "city": "Chattanooga, Tennessee",
-  "date": "2026-08-22T22:30:00Z"
+  "date": "2026-08-22T22:30:00Z",
+  "fireworks": {
+      "title": "Spend your Saturday evenings enjoying live music at Erlanger Park! Arrive early for a lively pre-game concert featuring great tunes and Scenic City views before first pitch."
+    }
 },
 
 {
@@ -596,8 +552,11 @@
   "opponent": "Knoxville Smokies",
   "arena": "Blue Wahoos Stadium",
   "city": "Pensacola, Florida",
-  "date": "2026-08-22T23:05:00Z"
-},
+  "date": "2026-08-22T23:05:00Z",
+  "fireworks": {
+      "title": "Fireworks light up the sky above Pensacola Bay!"
+    }
+  },
 
 {
   "id": "sl_2026082204",
@@ -606,8 +565,17 @@
   "opponent": "Biloxi Shuckers",
   "arena": "Toyota Field",
   "city": "Madison, Alabama",
-  "date": "2026-08-22T23:35:00Z"
-},
+  "date": "2026-08-22T23:35:00Z",
+  "giveaway": [
+      {
+        "title": "Beer Stein Giveaway",
+        "details": "The first 1,000 adults 21 and over get a Trash Pandas Beer Stein."
+      }
+    ],
+    "fireworks": {
+      "title": "Cullman Oktoberfest \u2014 Celebrate Bavarian tradition on Cullman Oktoberfest Night at TOYOTA Field! Enjoy festive entertainment, and authentic Oktoberfest flair as the Trash Pandas team up with Cullman Oktoberfest for a night filled with music, culture, and plenty of reasons to prost before first pitch."
+    }
+  },
 
 {
   "id": "sl_2026082301",
@@ -616,8 +584,17 @@
   "opponent": "Birmingham Barons",
   "arena": "Erlanger Park",
   "city": "Chattanooga, Tennessee",
-  "date": "2026-08-23T17:00:00Z"
-},
+  "date": "2026-08-23T17:00:00Z",
+  "giveaway": [
+      {
+        "title": "Chattanooga Firefighters Assoc. Local 820 Canned Food Drive Sunday",
+        "details": "Bring a canned food item to the Lookouts ticket office window and get a Buy One Get One Free Concourse Pass to that Sunday's game Presented by Chattanooga Firefighters Association Local 820."
+      }
+    ],
+    "fireworks": {
+      "title": "Enjoy Food City Family Fun for all ages, including post-game kids run the bases and catch on the field."
+    }
+  },
 
 {
   "id": "sl_2026082302",
@@ -626,8 +603,11 @@
   "opponent": "Montgomery Biscuits",
   "arena": "Synovus Park",
   "city": "Columbus, Georgia",
-  "date": "2026-08-23T20:05:00Z"
-},
+  "date": "2026-08-23T20:05:00Z",
+  "fireworks": {
+      "title": "Fans of all ages are welcome to stick around after the game for a lap around the bases!"
+    }
+  },
 
 {
   "id": "sl_2026082303",
@@ -646,7 +626,17 @@
   "opponent": "Biloxi Shuckers",
   "arena": "Toyota Field",
   "city": "Madison, Alabama",
-  "date": "2026-08-23T21:05:00Z"
+  "date": "2026-08-23T21:05:00Z",
+  "giveaway": [
+      {
+        "title": "Lun\u00e1ticos Day with Sprocket Sugar Skull Bobblehead Giveaway",
+        "details": "Celebrate culture, community, and baseball on Lun\u00e1ticos Day with the Trash Pandas! The first 1,500 fans will receive a Sprocket Sugar Skull Bobblehead."
+      }
+    ],
+    "fireworks": {
+      "title": "Stay after the game on Sundays for Kids Run the Bases."
+    }
+  },
 },
 
 {
@@ -666,8 +656,12 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-25T23:35:00Z"
-},
+  "date": "2026-08-25T23:35:00Z",
+  "giveaway": {
+      "title": "Tacos and Tall Boys",
+      "details": "$4 tacos & $4 select tall boys available at the Golden Sombrero concession stand"
+    }
+  },
 
 {
   "id": "sl_2026082503",
@@ -676,8 +670,18 @@
   "opponent": "Knoxville Smokies",
   "arena": "Keesler Federal Park",
   "city": "Biloxi, Mississippi",
-  "date": "2026-08-25T23:35:00Z"
-},
+  "date": "2026-08-25T23:35:00Z",
+  "giveaway": [
+      {
+        "title": "T-Shirt Tuesday Giveaway",
+        "details": "Be one of the first 250 fans and receive a Shuckers patriotic-themed t-shirt!"
+      },
+      {
+      "title": "Brew Crew Tuesday",
+      "details": "Fans can purchase a 20oz souvenir tumbler for $13 with $7 refills at the first and third-base Beer Gardens."
+      }
+    ]
+  },
 
 {
   "id": "sl_2026082604",
@@ -686,8 +690,12 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Regions Field",
   "city": "Birmingham, Alabama",
-  "date": "2026-08-26T00:00:00Z"
-},
+  "date": "2026-08-26T00:00:00Z",
+  "giveaway": {
+      "title": "It's Cinco Somewhere",
+      "details": "2-for-$5 Tacos & $5 Margaritas"
+    }
+  },
 
 {
   "id": "sl_2026082601",
@@ -706,8 +714,12 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-26T23:35:00Z"
-},
+  "date": "2026-08-26T23:35:00Z",
+  "giveaway": {
+      "title": "334 Nights",
+      "details": "$3 popcorn, $3 bagged roasted peanuts, $4 craft beer cans in the ASE Club Car Bar"
+    }
+  },
 
 {
   "id": "sl_2026082603",
@@ -716,9 +728,11 @@
   "opponent": "Knoxville Smokies",
   "arena": "Keesler Federal Park",
   "city": "Biloxi, Mississippi",
-  "date": "2026-08-26T23:35:00Z"
-},
-
+  "date": "2026-08-26T23:35:00Z",
+  "fireworks": {
+      "title": "Bark in the Park & $3 Wine."
+    }
+  },
 {
   "id": "sl_2026082704",
   "league": "SL",
@@ -746,9 +760,16 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-27T23:35:00Z"
-},
-
+  "date": "2026-08-27T23:35:00Z",
+  "giveaway": [
+      {
+        "title": "College Night",
+        "details": "T-Shirt Giveaway. While stocks last."      },
+      {
+      "title": "Thirsty Thursday!",
+      "details": "1/2 off 16oz domestic drafts and souvenir sodas!"
+    ]
+  },
 {
   "id": "sl_2026082703",
   "league": "SL",
@@ -766,8 +787,16 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Regions Field",
   "city": "Birmingham, Alabama",
-  "date": "2026-08-28T00:00:00Z"
-},
+  "date": "2026-08-28T00:00:00Z",
+  "giveaway": [
+      {
+        "title": "2025 Championship Replica Ring Giveaway",
+        "details": "First 1,000 Fans Ages 18+"
+      }
+    ],
+    "fireworks": {
+      "title": "Friday Night Fireworks!
+  },
 
 {
   "id": "sl_2026082801",
@@ -776,8 +805,11 @@
   "opponent": "Columbus Clingstones",
   "arena": "Erlanger Park",
   "city": "Chattanooga, Tennessee",
-  "date": "2026-08-28T23:00:00Z"
-},
+  "date": "2026-08-28T23:00:00Z",
+  "fireworks": {
+      "title": "Cap off your week by watching the Lookouts light up the sky with a spectacular post-game fireworks show."
+    }
+  },
 
 {
   "id": "sl_2026082802",
@@ -826,8 +858,11 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-29T23:05:00Z"
-},
+  "date": "2026-08-29T23:05:00Z",
+  "fireworks": {
+      "title": "Stay after the game for a MAX Fireworks Show!"
+    }
+  },
 
 {
   "id": "sl_2026082903",
@@ -836,8 +871,17 @@
   "opponent": "Knoxville Smokies",
   "arena": "Keesler Federal Park",
   "city": "Biloxi, Mississippi",
-  "date": "2026-08-29T23:05:00Z"
-},
+  "date": "2026-08-29T23:05:00Z",
+  "giveaway": [
+      {
+        "title": "Spider-Man Funko Pop Giveaway",
+        "details": "The first 1,000 fans will receive a Spider-Man Funko Pop."
+      }
+    ],
+    "fireworks": {
+      "title": "Marvel Night \u2014 It's a superhero-sized night with Marvel Night! Join the Shuckers for a night filled with superheroes, comic-book villains and more!"
+    }
+  },
 
 {
   "id": "sl_2026082904",
@@ -846,7 +890,17 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Regions Field",
   "city": "Birmingham, Alabama",
-  "date": "2026-08-29T23:30:00Z"
+  "date": "2026-08-29T23:30:00Z",
+  "giveaway": [
+      {
+        "title": "Girls Night Out & Clear Bag Giveaway",
+        "details": "Join us for a night celebrating Women! The night will be filled with female artist, giveaways, and the Diamond Dig! First 1,000 fans will receive a Clear Bag!"
+      }
+    ],
+    "fireworks": {
+      "title": "Diamond Dig \u2014 100 Women have the opportunity to dig up the field for a chance to find a real Diamond!"
+    }
+
 },
 
 {
@@ -856,8 +910,17 @@
   "opponent": "Columbus Clingstones",
   "arena": "Erlanger Park",
   "city": "Chattanooga, Tennessee",
-  "date": "2026-08-30T17:00:00Z"
-},
+  "date": "2026-08-30T17:00:00Z",
+  "giveaway": [
+      {
+        "title": "Viewfinder Giveaway",
+        "details": "Arrive early to snag a retro Lookouts Viewfinder!"
+      }
+    ],
+    "fireworks": {
+      "title": "Spend your Saturday evenings enjoying live music at Erlanger Park! Arrive early for a lively pre-game concert featuring great tunes and Scenic City views before first pitch."
+    }
+  },
 
 {
   "id": "sl_2026083002",
@@ -866,8 +929,11 @@
   "opponent": "Rocket City Trash Pandas",
   "arena": "Regions Field",
   "city": "Birmingham, Alabama",
-  "date": "2026-08-30T19:05:00Z"
-},
+  "date": "2026-08-30T19:05:00Z",
+  "giveaway": {
+      "title": "205 Sunday \u2014 Join us as we celebrate our community with $2.05 Hotdogs."
+    }
+  },
 
 {
   "id": "sl_2026083003",
@@ -876,8 +942,11 @@
   "opponent": "Pensacola Blue Wahoos",
   "arena": "Dabos Park",
   "city": "Montgomery, Alabama",
-  "date": "2026-08-30T20:33:00Z"
-},
+  "date": "2026-08-30T20:33:00Z",
+  "fireworks": {
+      "title": "Bring your dog out for some fun in the sun!"
+    }
+  },
 
 {
   "id": "sl_2026083004",
