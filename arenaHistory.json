@@ -405,6 +405,16 @@
     ]
   },
   {
+    "currentArena": "FirstEnergy Stadium",
+    "teamName": "Reading Phillies",
+    "league": "EL",
+    "history": [
+            { "name": "Reading Municipal Memorial Stadium", "from": "1967-03-01", "to": "1999-12-01" },
+	    { "name": "GPU Stadium", "from": "2000-03-01", "to": "2001-11-01" },
+      { "name": "FirstEnergy Stadium", "from": "2002-02-01", "to": null }
+    ]
+  },	
+  {
     "currentArena": "Chase Field",
     "teamName": "Trenton Thunder",
     "league": "EL",
