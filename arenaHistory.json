@@ -404,6 +404,15 @@
       { "name": "Dunkin' Park", "from": "2023-02-01", "to": null }
     ]
   },
+  {
+    "currentArena": "Chase Field",
+    "teamName": "Trenton Thunder",
+    "league": "EL",
+    "history": [
+	    { "name": "Trenton Thunder Ballpark ", "from": "1994-02-01", "to": "2012-11-01" },
+      { "name": "Arm & Hammer Park", "from": "2012-02-01", "to": "2021-12-31" }
+    ]
+  },	
 
 
 
