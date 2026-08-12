@@ -445,6 +445,18 @@
       { "name": "Calvin Falwell Field at City Stadium", "from": "2005-03-01", "to": "2020-03-28" },
       { "name": "Bank of the James Stadium", "from": "2020-03-01", "to": null }
     ]
+  },
+  {
+    "currentArena": "NelsonCorp Field",
+    "teamName": "Clinton LumberKings",
+    "league": "MWL",
+    "history": [
+      { "name": "Riverview Stadium", "from": "1937-01-01", "to": "2001-12-31" },
+      { "name": "Alliant Energy Field", "from": "2002-01-01", "to": "2010-12-31" },
+      { "name": "Ashford University Field", "from": "2011-01-01", "to": "2018-12-31" },
+	  { "name": "LumberKings Stadium", "from": "2019-01-01", "to": "2019-12-31" },
+      { "name": "NelsonCorp Field", "from": "2020-01-01", "to": "2020-12-31" }
+    ]
   }	
 	
 ]
