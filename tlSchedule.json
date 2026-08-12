@@ -401,7 +401,6 @@
   "fireworks": {
       "title": "Join us in the Beer Garden for some pre-game music! Gates will open at 5:05 PM."
     }
-  },
 },
 
 {
@@ -927,7 +926,7 @@
   "arena": "Arvest Ballpark",
   "city": "Springdale, Arkansas",
   "date": "2026-08-28T00:05:00Z",
-  "Giveaway": {
+  "giveaway": {
       "title": "Thirsty Thursday\u2122",
       "details": "Enjoy $2 drafts at two locations, $2 Peanuts, and $1 Small Coca-Cola Fountain Drinks at tonight's game."
     }
