@@ -7886,6 +7886,26 @@
 	"endDate": "1961-06-15"
   },	
   {
+    "teamName": "Reading Phillies",
+    "teamCode": "RP",
+    "arena": "FirstEnergy Stadium",
+    "arenaId": "firstenergy_stadium_reading",
+    "city": "Reading, Pennsylvania",
+    "address": "1950 Centre Ave, Reading, PA 19605",
+    "website": "milb.com/reading",
+    "latitude": 40.365232166811225, 
+    "longitude": -75.93401333138728,
+    "colorCode": "#D31145",
+    "colorCode2": "#002C61",
+    "colorCode3": "#B5A98F",
+    "colorCode4": "#FFFFFF",
+    "league": "EL",
+    "timezone": "America/New_York",
+    "startDate": "1967-02-01",
+    "endDate": "2012-12-31"
+  },
+	
+  {
 	"teamName": "Reading Red Sox",
 	"teamCode": "REA",
 	"arena": "FirstEnergy Stadium",
