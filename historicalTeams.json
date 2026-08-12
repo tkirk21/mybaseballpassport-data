@@ -7209,6 +7209,23 @@
     "league": "EL",
     "timezone": "America/New York",
     "startDate": "1923-02-01",
+    "endDate": "1963-10-31"
+  },
+  {
+    "teamName": "Binghamton Triplets",
+    "teamCode": "BNG",
+    "arena": "Johnson Field",
+    "arenaId": "johnson_field_johnson_city",
+    "city": "Johnson City, New York",
+    "address": "Northside Park, Johnson City, NY 13790",
+    "website": "milb.com/akron",
+    "latitude": 42.121867874060094,
+    "longitude": -75.9631274677024,
+    "colorCode": "#000000",
+    "colorCode2": "#FFFFFF",
+    "league": "EL",
+    "timezone": "America/New York",
+    "startDate": "1967-02-01",
     "endDate": "1968-10-31"
   },
   {
