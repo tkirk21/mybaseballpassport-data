@@ -4018,6 +4018,24 @@
     "endDate": "1999-11-01"
   },
   {
+    "teamName": "Louisville RiverBats",
+    "teamCode": "LOU",
+    "arena": "Louisville Slugger Field",
+    "arenaId": "louisville_slugger_field_louisville",
+    "city": "Louisville , Kentucky",
+    "address": "401 E Main St, Louisville, KY 40202",
+    "website": "milb.com/louisville",
+    "latitude": 38.25629425309601,
+    "longitude": -85.74461112509275,
+    "colorCode": "#EC1B2B",
+    "colorCode2": "#151240",
+    "colorCode3": "#FFFFFF",
+    "league": "IL",
+    "timezone": "America/New York",
+    "startDate": "2000-02-01",
+    "endDate": "2001-11-01"
+  },
+  {
     "teamName": "Maine Guides",
     "teamCode": "MNE",
     "arena": "The Ballpark",
