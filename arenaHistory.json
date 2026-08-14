@@ -396,6 +396,15 @@
     ]
   },
   {
+    "currentArena": "UPMC Park",
+    "teamName": "Erie Seawolves",
+    "league": "EL",
+    "history": [
+      { "name": "Uht Park", "from": "1995-03-01", "to": "2016-10-31" },
+      { "name": "UPMC Park", "from": "2017-02-01", "to": null }
+    ]
+  },	
+  {
     "currentArena": "Dunkin' Park",
     "teamName": "Hartford Yard Goats",
     "league": "EL",
