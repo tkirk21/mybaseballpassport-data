@@ -14579,24 +14579,6 @@
     "endDate": "1961-12-31"
   },
   {
-    "teamName": "Auburn Astros",
-    "teamCode": "AUB",
-    "arena": "Falcon Park",
-    "arenaId": "falcon_park_auburn",
-    "city": "Auburn, New York",
-    "address": "130 N Division St, Auburn, NY 13021",
-    "website": 	"auburndoubledays.com",
-    "latitude": 42.941726202568105,   
-    "longitude": -76.58508283274806,
-    "colorCode": "#071D49",
-    "colorCode2": "#BA0C2F",
-    "colorCode3": "#000000",
-    "league": "NYPL",
-    "timezone": "America/New_York",
-    "startDate": "1958-02-01",
-    "endDate": "1994-12-31"
-  },
-  {
     "teamName": "Utica Blue Sox",
     "teamCode": "UBS",
     "arena": "Donovan Stadium",
