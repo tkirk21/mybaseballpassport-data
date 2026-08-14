@@ -281,6 +281,16 @@
     ]
   },	
   {
+    "currentArena": "NBT Bank Stadium",
+    "teamName": "Syracuse Chiefs",
+    "league": "IL",
+    "history": [
+      { "name": "P&C Stadium", "from": "1997-02-01", "to": "2004-12-31" },
+      { "name": "Alliance Bank Stadium", "from": "2005-02-01", "to": "2013-12-31" },
+      { "name": "NBT Bank Stadium", "from": "2014-02-10", "to": "2018-12-31" }
+    ]
+  },		
+  {
     "currentArena": "Rio Grande Credit Union Field at Isotopes Park",
     "teamName": "Albuquerque Isotopes",
     "league": "PCL",
