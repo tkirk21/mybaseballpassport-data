@@ -1,1224 +1,4 @@
 [
-  {
-  "id": "aapb_2026080101",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-01T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026080102",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux City Explorers",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-01T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026080103",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-01T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026080104",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-01T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080105",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Lake Country DockHounds",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-01T23:45:00Z"
-},
-
-{
-  "id": "aapb_2026080106",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-02T00:06:00Z"
-},
-
-{
-  "id": "aapb_2026080201",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux City Explorers",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-02T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026080202",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-02T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026080203",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-02T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026080204",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Lake Country DockHounds",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-02T19:00:00Z"
-},
-
-{
-  "id": "aapb_2026080205",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-02T20:00:00Z"
-},
-
-{
-  "id": "aapb_2026080206",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-02T23:06:00Z"
-},
-
-{
-  "id": "aapb_2026080301",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-03T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080401",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-04T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080402",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-04T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080403",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Chicago Dogs",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-04T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080404",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-04T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080405",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-04T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080406",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-04T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080501",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-05T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080502",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-05T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080503",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Chicago Dogs",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-05T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080504",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-05T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080505",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-05T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080506",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-05T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080601",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-06T17:00:00Z"
-},
-
-{
-  "id": "aapb_2026080602",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-06T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080603",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Chicago Dogs",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-06T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026080604",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-06T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080605",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-06T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080606",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-06T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080701",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-07T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080702",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-07T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080703",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-07T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080704",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Chicago Dogs",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-07T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080705",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Kane County Cougars",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-07T23:45:00Z"
-},
-
-{
-  "id": "aapb_2026080706",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-08T00:05:00Z"
-},
-
-{
-  "id": "aapb_2026080801",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-08T22:35:00Z"
-},
-
-{
-  "id": "aapb_2026080802",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-08T23:05:00Z"
-},
-
-{
-  "id": "aapb_2026080803",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Chicago Dogs",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-08T23:05:00Z"
-},
-
-{
-  "id": "aapb_2026080804",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-08T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080805",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-08T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026080806",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Kane County Cougars",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-08T23:45:00Z"
-},
-
-{
-  "id": "aapb_2026080901",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-09T18:05:00Z"
-},
-
-{
-  "id": "aapb_2026080902",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-09T18:05:00Z"
-},
-
-{
-  "id": "aapb_2026080903",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-09T18:05:00Z"
-},
-
-{
-  "id": "aapb_2026080904",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Kane County Cougars",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-09T19:00:00Z"
-},
-
-{
-  "id": "aapb_2026080905",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Chicago Dogs",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-09T21:05:00Z"
-},
-
-{
-  "id": "aapb_2026080906",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-09T21:05:00Z"
-},
-
-{
-  "id": "aapb_2026081101",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-11T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081102",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Chicago Dogs",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-11T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081103",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-11T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081104",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-11T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081105",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux City Explorers",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-12T00:02:00Z"
-},
-
-{
-  "id": "aapb_2026081106",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-12T00:06:00Z"
-},
-
-{
-  "id": "aapb_2026081201",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-12T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081202",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Chicago Dogs",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-12T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081203",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-12T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081204",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081205",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux City Explorers",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-13T00:02:00Z"
-},
-
-{
-  "id": "aapb_2026081206",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-13T00:06:00Z"
-},
-
-{
-  "id": "aapb_2026081301",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux City Explorers",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-13T17:30:00Z"
-},
-
-{
-  "id": "aapb_2026081302",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-13T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081303",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Chicago Dogs",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-13T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081304",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-13T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081305",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081306",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-14T00:06:00Z"
-},
-
-{
-  "id": "aapb_2026081401",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-14T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081402",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-14T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081403",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Kane County Cougars",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-14T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081404",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Sioux City Explorers",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-15T00:00:00Z"
-},
-
-{
-  "id": "aapb_2026081405",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-15T00:02:00Z"
-},
-
-{
-  "id": "aapb_2026081406",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-15T00:06:00Z"
-},
-
-{
-  "id": "aapb_2026081501",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-15T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026081502",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-15T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026081503",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-15T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026081504",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Sioux City Explorers",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-15T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026081505",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Kane County Cougars",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-15T23:05:00Z"
-},
-
-{
-  "id": "aapb_2026081506",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-16T00:06:00Z"
-},
-
-{
-  "id": "aapb_2026081601",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-16T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026081602",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-16T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026081603",
-  "league": "AAPB",
-  "team": "Winnipeg Goldeyes",
-  "opponent": "Sioux City Explorers",
-  "arena": "Blue Cross Park",
-  "city": "Winnipeg, Manitoba",
-  "date": "2026-08-16T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026081604",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Kane County Cougars",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-16T18:05:00Z"
-},
-
-{
-  "id": "aapb_2026081605",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-16T20:00:00Z"
-},
-
-{
-  "id": "aapb_2026081606",
-  "league": "AAPB",
-  "team": "Cleburne Railroaders",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "La Moderna Field",
-  "city": "Cleburne, Texas",
-  "date": "2026-08-16T23:06:00Z"
-},
-
-{
-  "id": "aapb_2026081701",
-  "league": "AAPB",
-  "team": "Fargo-Moorhead RedHawks",
-  "opponent": "Sioux Falls Canaries",
-  "arena": "Newman Outdoor Field",
-  "city": "Fargo, North Dakota",
-  "date": "2026-08-18T00:02:00Z"
-},
-
-{
-  "id": "aapb_2026081801",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-18T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081802",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081803",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081804",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081805",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081806",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Chicago Dogs",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-18T23:45:00Z"
-},
-
-{
-  "id": "aapb_2026081901",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-19T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026081902",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081903",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081904",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081905",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026081906",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Chicago Dogs",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-19T23:45:00Z"
-},
-
-{
-  "id": "aapb_2026082001",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Milwaukee Milkmen",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-20T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026082002",
-  "league": "AAPB",
-  "team": "Kansas City Monarchs",
-  "opponent": "Lincoln Saltdogs",
-  "arena": "Legends Field",
-  "city": "Kansas City, Kansas",
-  "date": "2026-08-20T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026082003",
-  "league": "AAPB",
-  "team": "Lake Country DockHounds",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Wisconsin Brewing Company Park",
-  "city": "Oconomowoc, Wisconsin",
-  "date": "2026-08-20T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026082004",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-20T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026082005",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-20T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026082006",
-  "league": "AAPB",
-  "team": "Gary SouthShore RailCats",
-  "opponent": "Chicago Dogs",
-  "arena": "U.S. Steel Yard",
-  "city": "Gary, Indiana",
-  "date": "2026-08-20T23:45:00Z"
-},
-
-{
-  "id": "aapb_2026082101",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-21T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026082102",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-21T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026082103",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-21T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026082104",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-21T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026082105",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-21T23:35:00Z"
-},
-
-{
-  "id": "aapb_2026082106",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-22T00:05:00Z"
-},
-
-{
-  "id": "aapb_2026082201",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-22T22:35:00Z"
-},
-
-{
-  "id": "aapb_2026082202",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-22T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026082203",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-22T23:00:00Z"
-},
-
-{
-  "id": "aapb_2026082204",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "aapb_2026082205",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "aapb_2026082206",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-22T23:30:00Z"
-},
-
-{
-  "id": "aapb_2026082301",
-  "league": "AAPB",
-  "team": "Kane County Cougars",
-  "opponent": "Lake Country DockHounds",
-  "arena": "Northwestern Medicine Field",
-  "city": "Geneva, Illinois",
-  "date": "2026-08-23T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026082302",
-  "league": "AAPB",
-  "team": "Milwaukee Milkmen",
-  "opponent": "Cleburne Railroaders",
-  "arena": "Franklin Field",
-  "city": "Franklin, Wisconsin",
-  "date": "2026-08-23T18:00:00Z"
-},
-
-{
-  "id": "aapb_2026082303",
-  "league": "AAPB",
-  "team": "Lincoln Saltdogs",
-  "opponent": "Fargo-Moorhead RedHawks",
-  "arena": "Haymarket Park",
-  "city": "Lincoln, Nebraska",
-  "date": "2026-08-23T18:05:00Z"
-},
-
-{
-  "id": "aapb_2026082304",
-  "league": "AAPB",
-  "team": "Chicago Dogs",
-  "opponent": "Gary SouthShore RailCats",
-  "arena": "Impact Field",
-  "city": "Rosemont, Illinois",
-  "date": "2026-08-23T20:00:00Z"
-},
-
-{
-  "id": "aapb_2026082305",
-  "league": "AAPB",
-  "team": "Sioux City Explorers",
-  "opponent": "Winnipeg Goldeyes",
-  "arena": "Lewis and Clark Park",
-  "city": "Sioux City, Iowa",
-  "date": "2026-08-23T21:05:00Z"
-},
-
-{
-  "id": "aapb_2026082306",
-  "league": "AAPB",
-  "team": "Sioux Falls Canaries",
-  "opponent": "Kansas City Monarchs",
-  "arena": "Sioux Falls Stadium",
-  "city": "Sioux Falls, South Dakota",
-  "date": "2026-08-23T21:05:00Z"
-},
-
 {
   "id": "aapb_2026082401",
   "league": "AAPB",
@@ -1597,6 +377,419 @@
   "arena": "La Moderna Field",
   "city": "Cleburne, Texas",
   "date": "2026-08-30T23:06:00Z"
-}
+},
+
+
+
+
+  {
+    "id": "aapb_20260901001",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Kane County Cougars",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-01T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260901002",
+    "league": "AAPB",
+    "team": "Lincoln Saltdogs",
+    "opponent": "Milwaukee Milkmen",
+    "arena": "Haymarket Park",
+    "city": "Lincoln, Nebraska",
+    "date": "2026-09-01T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260901003",
+    "league": "AAPB",
+    "team": "Sioux Falls Canaries",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Sioux Falls Stadium",
+    "city": "Sioux Falls, South Dakota",
+    "date": "2026-09-01T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260901004",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Sioux City Explorers",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-01T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260901005",
+    "league": "AAPB",
+    "team": "Gary SouthShore RailCats",
+    "opponent": "Lake Country DockHounds",
+    "arena": "U.S. Steel Yard",
+    "city": "Gary, Indiana",
+    "date": "2026-09-01T23:45:00Z"
+  },
+  
+  {
+    "id": "aapb_20260902006",
+    "league": "AAPB",
+    "team": "Fargo-Moorhead RedHawks",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Newman Outdoor Field",
+    "city": "Fargo, North Dakota",
+    "date": "2026-09-02T00:02:00Z"
+  },
+  
+  {
+    "id": "aapb_20260902007",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Kane County Cougars",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-02T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260902008",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Sioux City Explorers",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-02T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260902009",
+    "league": "AAPB",
+    "team": "Lincoln Saltdogs",
+    "opponent": "Milwaukee Milkmen",
+    "arena": "Haymarket Park",
+    "city": "Lincoln, Nebraska",
+    "date": "2026-09-02T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260902010",
+    "league": "AAPB",
+    "team": "Sioux Falls Canaries",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Sioux Falls Stadium",
+    "city": "Sioux Falls, South Dakota",
+    "date": "2026-09-02T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260902011",
+    "league": "AAPB",
+    "team": "Gary SouthShore RailCats",
+    "opponent": "Lake Country DockHounds",
+    "arena": "U.S. Steel Yard",
+    "city": "Gary, Indiana",
+    "date": "2026-09-02T23:45:00Z"
+  },
+  
+  {
+    "id": "aapb_20260903012",
+    "league": "AAPB",
+    "team": "Fargo-Moorhead RedHawks",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Newman Outdoor Field",
+    "city": "Fargo, North Dakota",
+    "date": "2026-09-03T00:02:00Z"
+  },
+  
+  {
+    "id": "aapb_20260903013",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Kane County Cougars",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-03T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260903014",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Sioux City Explorers",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260903015",
+    "league": "AAPB",
+    "team": "Lincoln Saltdogs",
+    "opponent": "Milwaukee Milkmen",
+    "arena": "Haymarket Park",
+    "city": "Lincoln, Nebraska",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260903016",
+    "league": "AAPB",
+    "team": "Sioux Falls Canaries",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Sioux Falls Stadium",
+    "city": "Sioux Falls, South Dakota",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260903017",
+    "league": "AAPB",
+    "team": "Gary SouthShore RailCats",
+    "opponent": "Lake Country DockHounds",
+    "arena": "U.S. Steel Yard",
+    "city": "Gary, Indiana",
+    "date": "2026-09-03T23:45:00Z"
+  },
+  
+  {
+    "id": "aapb_20260904018",
+    "league": "AAPB",
+    "team": "Fargo-Moorhead RedHawks",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Newman Outdoor Field",
+    "city": "Fargo, North Dakota",
+    "date": "2026-09-04T00:02:00Z"
+  },
+  
+  {
+    "id": "aapb_20260904019",
+    "league": "AAPB",
+    "team": "Kane County Cougars",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Northwestern Medicine Field",
+    "city": "Geneva, Illinois",
+    "date": "2026-09-04T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260904020",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Gary SouthShore RailCats",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-04T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260904021",
+    "league": "AAPB",
+    "team": "Milwaukee Milkmen",
+    "opponent": "Fargo-Moorhead RedHawks",
+    "arena": "Franklin Field",
+    "city": "Franklin, Wisconsin",
+    "date": "2026-09-04T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260904022",
+    "league": "AAPB",
+    "team": "Lake Country DockHounds",
+    "opponent": "Sioux City Explorers",
+    "arena": "Wisconsin Brewing Company Park",
+    "city": "Oconomowoc, Wisconsin",
+    "date": "2026-09-04T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260904023",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-04T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905024",
+    "league": "AAPB",
+    "team": "Sioux Falls Canaries",
+    "opponent": "Lincoln Saltdogs",
+    "arena": "Sioux Falls Stadium",
+    "city": "Sioux Falls, South Dakota",
+    "date": "2026-09-05T00:05:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905025",
+    "league": "AAPB",
+    "team": "Sioux Falls Canaries",
+    "opponent": "Lincoln Saltdogs",
+    "arena": "Sioux Falls Stadium",
+    "city": "Sioux Falls, South Dakota",
+    "date": "2026-09-05T22:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905026",
+    "league": "AAPB",
+    "team": "Milwaukee Milkmen",
+    "opponent": "Fargo-Moorhead RedHawks",
+    "arena": "Franklin Field",
+    "city": "Franklin, Wisconsin",
+    "date": "2026-09-05T23:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905027",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Gary SouthShore RailCats",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-05T23:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905028",
+    "league": "AAPB",
+    "team": "Kane County Cougars",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Northwestern Medicine Field",
+    "city": "Geneva, Illinois",
+    "date": "2026-09-05T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905029",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-05T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260905030",
+    "league": "AAPB",
+    "team": "Lake Country DockHounds",
+    "opponent": "Sioux City Explorers",
+    "arena": "Wisconsin Brewing Company Park",
+    "city": "Oconomowoc, Wisconsin",
+    "date": "2026-09-05T23:35:00Z"
+  },
+  
+  {
+    "id": "aapb_20260906031",
+    "league": "AAPB",
+    "team": "Milwaukee Milkmen",
+    "opponent": "Fargo-Moorhead RedHawks",
+    "arena": "Franklin Field",
+    "city": "Franklin, Wisconsin",
+    "date": "2026-09-06T18:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260906032",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-06T18:05:00Z"
+  },
+  
+  {
+    "id": "aapb_20260906033",
+    "league": "AAPB",
+    "team": "Lake Country DockHounds",
+    "opponent": "Sioux City Explorers",
+    "arena": "Wisconsin Brewing Company Park",
+    "city": "Oconomowoc, Wisconsin",
+    "date": "2026-09-06T18:05:00Z"
+  },
+  
+  {
+    "id": "aapb_20260906034",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Gary SouthShore RailCats",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-06T20:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260906035",
+    "league": "AAPB",
+    "team": "Sioux Falls Canaries",
+    "opponent": "Lincoln Saltdogs",
+    "arena": "Sioux Falls Stadium",
+    "city": "Sioux Falls, South Dakota",
+    "date": "2026-09-06T21:05:00Z"
+  },
+  
+  {
+    "id": "aapb_20260906036",
+    "league": "AAPB",
+    "team": "Kane County Cougars",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Northwestern Medicine Field",
+    "city": "Geneva, Illinois",
+    "date": "2026-09-06T23:30:00Z"
+  },
+  
+  {
+    "id": "aapb_20260907037",
+    "league": "AAPB",
+    "team": "Milwaukee Milkmen",
+    "opponent": "Fargo-Moorhead RedHawks",
+    "arena": "Franklin Field",
+    "city": "Franklin, Wisconsin",
+    "date": "2026-09-07T18:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260907038",
+    "league": "AAPB",
+    "team": "Kane County Cougars",
+    "opponent": "Cleburne Railroaders",
+    "arena": "Northwestern Medicine Field",
+    "city": "Geneva, Illinois",
+    "date": "2026-09-07T18:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260907039",
+    "league": "AAPB",
+    "team": "Chicago Dogs",
+    "opponent": "Gary SouthShore RailCats",
+    "arena": "Impact Field",
+    "city": "Rosemont, Illinois",
+    "date": "2026-09-07T18:00:00Z"
+  },
+  
+  {
+    "id": "aapb_20260907040",
+    "league": "AAPB",
+    "team": "Lake Country DockHounds",
+    "opponent": "Sioux City Explorers",
+    "arena": "Wisconsin Brewing Company Park",
+    "city": "Oconomowoc, Wisconsin",
+    "date": "2026-09-07T18:05:00Z"
+  },
+  
+  {
+    "id": "aapb_20260907041",
+    "league": "AAPB",
+    "team": "Kansas City Monarchs",
+    "opponent": "Winnipeg Goldeyes",
+    "arena": "Legends Field",
+    "city": "Kansas City, Kansas",
+    "date": "2026-09-07T18:05:00Z"
+  }  
 
 ]
