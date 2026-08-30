@@ -498,46 +498,6 @@
     "arena": "Dozer Park",
     "city": "Peoria, Illinois",
     "date": "2026-09-06T19:05:00Z"
-  },
-  
-  {
-    "id": "mwl_2026091001",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "To Be Determined",
-    "arena": "Four Winds Field at Coveleski Stadium",
-    "city": "South Bend, Indiana",
-    "date": "2026-09-10T23:05:00Z"
-  },
-  
-  {
-    "id": "mwl_2026091002",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "To Be Determined",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-09-10T07:33:00Z"
-  },
-  
-  {
-    "id": "mwl_2026091101",
-    "league": "MWL",
-    "team": "Dayton Dragons",
-    "opponent": "To Be Determined",
-    "arena": "Day Air Ballpark",
-    "city": "Dayton, Ohio",
-    "date": "2026-09-11T07:33:00Z"
-  },
-  
-  {
-    "id": "mwl_2026091102",
-    "league": "MWL",
-    "team": "South Bend Cubs",
-    "opponent": "To Be Determined",
-    "arena": "Four Winds Field at Coveleski Stadium",
-    "city": "South Bend, Indiana",
-    "date": "2026-09-11T07:33:00Z"
   }
 
 ]
