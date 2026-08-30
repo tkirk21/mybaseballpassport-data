@@ -1888,35 +1888,5 @@
     "arena": "First Horizon Park",
     "city": "Nashville, Tennessee",
     "date": "2026-09-20T22:05:00Z"
-  },
-  
-  {
-    "id": "il_2026092201",
-    "league": "IL",
-    "team": "Memphis Redbirds",
-    "opponent": "To Be Determined",
-    "arena": "AutoZone Park",
-    "city": "Memphis, Tennessee",
-    "date": "2026-09-22T07:33:00Z"
-  },
-  
-  {
-    "id": "il_2026092301",
-    "league": "IL",
-    "team": "Memphis Redbirds",
-    "opponent": "To Be Determined",
-    "arena": "AutoZone Park",
-    "city": "Memphis, Tennessee",
-    "date": "2026-09-23T07:33:00Z"
-  },
-  
-  {
-    "id": "il_2026092401",
-    "league": "IL",
-    "team": "Memphis Redbirds",
-    "opponent": "To Be Determined",
-    "arena": "AutoZone Park",
-    "city": "Memphis, Tennessee",
-    "date": "2026-09-24T07:33:00Z"
-  }  
+  }
 ]
