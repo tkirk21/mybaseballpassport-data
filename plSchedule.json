@@ -1,2008 +1,486 @@
 [   
-  {
-    "id": "pl_2026072401",
-    "league": "PL",
-    "team": "Missoula PaddleHeads",
-    "opponent": "Billings Mustangs",
-    "arena": "Allegiance Field",
-    "city": "Missoula, Montana",
-    "date": "2026-07-25T00:35:00Z"
-  },
   
   {
-    "id": "pl_2026072402",
-    "league": "PL",
-    "team": "Glacier Range Riders",
-    "opponent": "Ogden Raptors",
-    "arena": "Glacier Bank Park",
-    "city": "Kalispell, Montana",
-    "date": "2026-07-25T01:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072403",
-    "league": "PL",
-    "team": "Idaho Falls Chukars",
-    "opponent": "Great Falls Voyagers",
-    "arena": "Melaleuca Field",
-    "city": "Idaho Falls, Idaho",
-    "date": "2026-07-25T01:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072404",
-    "league": "PL",
-    "team": "Long Beach Coast",
-    "opponent": "RedPocket Mobiles",
-    "arena": "Blair Field",
-    "city": "Long Beach, California",
-    "date": "2026-07-25T01:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072405",
+    "id": "pl_2026082901",
     "league": "PL",
     "team": "Oakland Ballers",
-    "opponent": "Boise Hawks",
-    "arena": "Raimondi Park",
-    "city": "Oakland, California",
-    "date": "2026-07-25T01:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072406",
-    "league": "PL",
-    "team": "Yuba-Sutter Freebirds",
-    "opponent": "Modesto Roadsters",
-    "arena": "Bryant Field",
-    "city": "Marysville, California",
-    "date": "2026-07-25T01:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072501",
-    "league": "PL",
-    "team": "Long Beach Coast",
-    "opponent": "RedPocket Mobiles",
-    "arena": "Blair Field",
-    "city": "Long Beach, California",
-    "date": "2026-07-25T23:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072502",
-    "league": "PL",
-    "team": "Oakland Ballers",
-    "opponent": "Boise Hawks",
-    "arena": "Raimondi Park",
-    "city": "Oakland, California",
-    "date": "2026-07-25T23:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072503",
-    "league": "PL",
-    "team": "Missoula PaddleHeads",
-    "opponent": "Billings Mustangs",
-    "arena": "Allegiance Field",
-    "city": "Missoula, Montana",
-    "date": "2026-07-26T00:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072504",
-    "league": "PL",
-    "team": "Glacier Range Riders",
-    "opponent": "Ogden Raptors",
-    "arena": "Glacier Bank Park",
-    "city": "Kalispell, Montana",
-    "date": "2026-07-26T01:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072505",
-    "league": "PL",
-    "team": "Idaho Falls Chukars",
-    "opponent": "Great Falls Voyagers",
-    "arena": "Melaleuca Field",
-    "city": "Idaho Falls, Idaho",
-    "date": "2026-07-26T01:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072506",
-    "league": "PL",
-    "team": "Yuba-Sutter Freebirds",
-    "opponent": "Modesto Roadsters",
-    "arena": "Bryant Field",
-    "city": "Marysville, California",
-    "date": "2026-07-26T01:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072601",
-    "league": "PL",
-    "team": "Glacier Range Riders",
-    "opponent": "Ogden Raptors",
-    "arena": "Glacier Bank Park",
-    "city": "Kalispell, Montana",
-    "date": "2026-07-26T19:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072602",
-    "league": "PL",
-    "team": "Idaho Falls Chukars",
-    "opponent": "Great Falls Voyagers",
-    "arena": "Melaleuca Field",
-    "city": "Idaho Falls, Idaho",
-    "date": "2026-07-26T20:00:00Z"
-  },
-  
-  {
-    "id": "pl_2026072603",
-    "league": "PL",
-    "team": "Long Beach Coast",
-    "opponent": "RedPocket Mobiles",
-    "arena": "Blair Field",
-    "city": "Long Beach, California",
-    "date": "2026-07-26T20:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072604",
-    "league": "PL",
-    "team": "Missoula PaddleHeads",
-    "opponent": "Billings Mustangs",
-    "arena": "Allegiance Field",
-    "city": "Missoula, Montana",
-    "date": "2026-07-26T20:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072605",
-    "league": "PL",
-    "team": "Oakland Ballers",
-    "opponent": "Boise Hawks",
-    "arena": "Raimondi Park",
-    "city": "Oakland, California",
-    "date": "2026-07-26T20:05:00Z"
-  },
-  
-  {
-    "id": "pl_2026072606",
-    "league": "PL",
-    "team": "Yuba-Sutter Freebirds",
-    "opponent": "Modesto Roadsters",
-    "arena": "Bryant Field",
-    "city": "Marysville, California",
-    "date": "2026-07-27T01:35:00Z"
-  },
-  
-  {
-    "id": "pl_2026072801",
-    "league": "PL",
-    "team": "Ogden Raptors",
     "opponent": "Long Beach Coast",
-    "arena": "Lindquist Field",
-    "city": "Ogden, Utah",
-    "date": "2026-07-29T00:30:00Z"
+    "arena": "Raimondi Park",
+    "city": "Oakland, California",
+    "date": "2026-08-29T23:35:00Z"
   },
   
   {
-    "id": "pl_2026072802",
+    "id": "pl_2026082902",
+    "league": "PL",
+    "team": "Great Falls Voyagers",
+    "opponent": "Boise Hawks",
+    "arena": "Centene Stadium",
+    "city": "Great Falls, Montnana",
+    "date": "2026-08-30T00:30:00Z"
+  },
+  
+  {
+    "id": "pl_2026082903",
     "league": "PL",
     "team": "Billings Mustangs",
-    "opponent": "Idaho Falls Chukars",
+    "opponent": "Ogden Raptors",
     "arena": "Dehler Park",
     "city": "Billings, Montana",
-    "date": "2026-07-29T00:35:00Z"
+    "date": "2026-08-30T00:35:00Z"
   },
   
   {
-    "id": "pl_2026072803",
+    "id": "pl_2026082904",
+    "league": "PL",
+    "team": "Glacier Range Riders",
+    "opponent": "RedPocket Mobiles",
+    "arena": "Glacier Bank Park",
+    "city": "Kalispell, Montana",
+    "date": "2026-08-30T01:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026082905",
+    "league": "PL",
+    "team": "Idaho Falls Chukars",
+    "opponent": "Yuba-Sutter Freebirds",
+    "arena": "Melaleuca Field",
+    "city": "Idaho Falls, Idaho",
+    "date": "2026-08-30T01:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026082906",
+    "league": "PL",
+    "team": "Modesto Roadsters",
+    "opponent": "Missoula PaddleHeads",
+    "arena": "John Thurman Field",
+    "city": "Modesto, California",
+    "date": "2026-08-30T02:11:00Z"
+  },
+  
+  {
+    "id": "pl_2026083001",
+    "league": "PL",
+    "team": "Great Falls Voyagers",
+    "opponent": "Boise Hawks",
+    "arena": "Centene Stadium",
+    "city": "Great Falls, Montnana",
+    "date": "2026-08-30T17:30:00Z"
+  },
+  
+  {
+    "id": "pl_2026083002",
+    "league": "PL",
+    "team": "Modesto Roadsters",
+    "opponent": "Missoula PaddleHeads",
+    "arena": "John Thurman Field",
+    "city": "Modesto, California",
+    "date": "2026-08-30T18:00:00Z"
+  },
+  
+  {
+    "id": "pl_2026083003",
+    "league": "PL",
+    "team": "Billings Mustangs",
+    "opponent": "Ogden Raptors",
+    "arena": "Dehler Park",
+    "city": "Billings, Montana",
+    "date": "2026-08-30T19:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026083004",
+    "league": "PL",
+    "team": "Glacier Range Riders",
+    "opponent": "RedPocket Mobiles",
+    "arena": "Glacier Bank Park",
+    "city": "Kalispell, Montana",
+    "date": "2026-08-30T19:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026083005",
+    "league": "PL",
+    "team": "Idaho Falls Chukars",
+    "opponent": "Yuba-Sutter Freebirds",
+    "arena": "Melaleuca Field",
+    "city": "Idaho Falls, Idaho",
+    "date": "2026-08-30T20:00:00Z"
+  },
+  
+  {
+    "id": "pl_2026083006",
+    "league": "PL",
+    "team": "Oakland Ballers",
+    "opponent": "Long Beach Coast",
+    "arena": "Raimondi Park",
+    "city": "Oakland, California",
+    "date": "2026-08-30T20:05:00Z"
+  },
+
+  {
+    "id": "pl_2026090101",
+    "league": "PL",
+    "team": "Ogden Raptors",
+    "opponent": "Glacier Range Riders",
+    "arena": "Lindquist Field",
+    "city": "Ogden, Utah",
+    "date": "2026-09-02T00:30:00Z"
+  },
+  
+  {
+    "id": "pl_2026090102",
+    "league": "PL",
+    "team": "Billings Mustangs",
+    "opponent": "RedPocket Mobiles",
+    "arena": "Dehler Park",
+    "city": "Billings, Montana",
+    "date": "2026-09-02T00:35:00Z"
+  },
+  
+  {
+    "id": "pl_2026090103",
     "league": "PL",
     "team": "Missoula PaddleHeads",
     "opponent": "Great Falls Voyagers",
     "arena": "Allegiance Field",
     "city": "Missoula, Montana",
-    "date": "2026-07-29T00:35:00Z"
+    "date": "2026-09-02T00:35:00Z"
   },
   
   {
-    "id": "pl_2026072804",
+    "id": "pl_2026090104",
     "league": "PL",
     "team": "Boise Hawks",
-    "opponent": "Glacier Range Riders",
+    "opponent": "Idaho Falls Chukars",
     "arena": "Memorial Stadium",
     "city": "Garden City, Idaho",
-    "date": "2026-07-29T01:05:00Z"
+    "date": "2026-09-02T01:05:00Z"
   },
   
   {
-    "id": "pl_2026072805",
+    "id": "pl_2026090105",
     "league": "PL",
     "team": "Yuba-Sutter Freebirds",
     "opponent": "Oakland Ballers",
     "arena": "Bryant Field",
     "city": "Marysville, California",
-    "date": "2026-07-29T01:35:00Z"
+    "date": "2026-09-02T01:35:00Z"
   },
   
   {
-    "id": "pl_2026072806",
+    "id": "pl_2026090106",
     "league": "PL",
-    "team": "Modesto Roadsters",
-    "opponent": "RedPocket Mobiles",
-    "arena": "John Thurman Field",
-    "city": "Modesto, California",
-    "date": "2026-07-29T02:11:00Z"
+    "team": "Long Beach Coast",
+    "opponent": "Modesto Roadsters",
+    "arena": "Blair Field",
+    "city": "Long Beach, California",
+    "date": "2026-09-02T02:35:00Z"
   },
-  
+    
   {
-    "id": "pl_2026072901",
+    "id": "pl_2026090201",
     "league": "PL",
     "team": "Ogden Raptors",
-    "opponent": "Long Beach Coast",
+    "opponent": "Glacier Range Riders",
     "arena": "Lindquist Field",
     "city": "Ogden, Utah",
-    "date": "2026-07-30T00:30:00Z"
+    "date": "2026-09-03T00:30:00Z"
   },
   
   {
-    "id": "pl_2026072902",
+    "id": "pl_2026090202",
     "league": "PL",
     "team": "Billings Mustangs",
-    "opponent": "Idaho Falls Chukars",
+    "opponent": "RedPocket Mobiles",
     "arena": "Dehler Park",
     "city": "Billings, Montana",
-    "date": "2026-07-30T00:35:00Z"
+    "date": "2026-09-03T00:35:00Z"
   },
   
   {
-    "id": "pl_2026072903",
+    "id": "pl_2026090203",
     "league": "PL",
     "team": "Missoula PaddleHeads",
     "opponent": "Great Falls Voyagers",
     "arena": "Allegiance Field",
     "city": "Missoula, Montana",
-    "date": "2026-07-30T00:35:00Z"
+    "date": "2026-09-03T00:35:00Z"
   },
   
   {
-    "id": "pl_2026072904",
+    "id": "pl_2026090204",
     "league": "PL",
     "team": "Boise Hawks",
-    "opponent": "Glacier Range Riders",
+    "opponent": "Idaho Falls Chukars",
     "arena": "Memorial Stadium",
     "city": "Garden City, Idaho",
-    "date": "2026-07-30T01:05:00Z"
+    "date": "2026-09-03T01:05:00Z"
   },
   
   {
-    "id": "pl_2026072905",
+    "id": "pl_2026090205",
     "league": "PL",
     "team": "Yuba-Sutter Freebirds",
     "opponent": "Oakland Ballers",
     "arena": "Bryant Field",
     "city": "Marysville, California",
-    "date": "2026-07-30T01:35:00Z"
+    "date": "2026-09-03T01:35:00Z"
   },
   
   {
-    "id": "pl_2026072906",
+    "id": "pl_2026090206",
     "league": "PL",
-    "team": "Modesto Roadsters",
-    "opponent": "RedPocket Mobiles",
-    "arena": "John Thurman Field",
-    "city": "Modesto, California",
-    "date": "2026-07-30T02:11:00Z"
+    "team": "Long Beach Coast",
+    "opponent": "Modesto Roadsters",
+    "arena": "Blair Field",
+    "city": "Long Beach, California",
+    "date": "2026-09-03T02:35:00Z"
   },
   
+  
   {
-    "id": "pl_2026073001",
+    "id": "pl_2026090301",
     "league": "PL",
     "team": "Ogden Raptors",
-    "opponent": "Long Beach Coast",
+    "opponent": "Glacier Range Riders",
     "arena": "Lindquist Field",
     "city": "Ogden, Utah",
-    "date": "2026-07-31T00:30:00Z"
+    "date": "2026-09-04T00:30:00Z"
   },
   
   {
-    "id": "pl_2026073002",
+    "id": "pl_2026090302",
     "league": "PL",
     "team": "Billings Mustangs",
-    "opponent": "Idaho Falls Chukars",
+    "opponent": "RedPocket Mobiles",
     "arena": "Dehler Park",
     "city": "Billings, Montana",
-    "date": "2026-07-31T00:35:00Z"
+    "date": "2026-09-04T00:35:00Z"
   },
   
   {
-    "id": "pl_2026073003",
+    "id": "pl_2026090303",
     "league": "PL",
     "team": "Missoula PaddleHeads",
     "opponent": "Great Falls Voyagers",
     "arena": "Allegiance Field",
     "city": "Missoula, Montana",
-    "date": "2026-07-31T00:35:00Z"
+    "date": "2026-09-04T00:35:00Z"
   },
   
   {
-    "id": "pl_2026073004",
+    "id": "pl_2026090304",
     "league": "PL",
     "team": "Boise Hawks",
-    "opponent": "Glacier Range Riders",
+    "opponent": "Idaho Falls Chukars",
     "arena": "Memorial Stadium",
     "city": "Garden City, Idaho",
-    "date": "2026-07-31T01:05:00Z"
+    "date": "2026-09-04T01:05:00Z"
   },
   
   {
-    "id": "pl_2026073005",
+    "id": "pl_2026090305",
     "league": "PL",
     "team": "Yuba-Sutter Freebirds",
     "opponent": "Oakland Ballers",
     "arena": "Bryant Field",
     "city": "Marysville, California",
-    "date": "2026-07-31T01:35:00Z"
+    "date": "2026-09-04T01:35:00Z"
   },
   
   {
-    "id": "pl_2026073006",
+    "id": "pl_2026090306",
     "league": "PL",
-    "team": "Modesto Roadsters",
-    "opponent": "RedPocket Mobiles",
-    "arena": "John Thurman Field",
-    "city": "Modesto, California",
-    "date": "2026-07-31T02:11:00Z"
+    "team": "Long Beach Coast",
+    "opponent": "Modesto Roadsters",
+    "arena": "Blair Field",
+    "city": "Long Beach, California",
+    "date": "2026-09-04T02:35:00Z"
   },
   
+  
   {
-    "id": "pl_2026073101",
+    "id": "pl_2026090401",
     "league": "PL",
     "team": "Great Falls Voyagers",
     "opponent": "Missoula PaddleHeads",
     "arena": "Centene Stadium",
     "city": "Great Falls, Montnana",
-    "date": "2026-08-01T00:30:00Z"
+    "date": "2026-09-05T00:30:00Z"
   },
   
   {
-    "id": "pl_2026073102",
+    "id": "pl_2026090402",
     "league": "PL",
     "team": "Ogden Raptors",
-    "opponent": "Long Beach Coast",
+    "opponent": "Glacier Range Riders",
     "arena": "Lindquist Field",
     "city": "Ogden, Utah",
-    "date": "2026-08-01T00:30:00Z"
+    "date": "2026-09-05T00:30:00Z"
   },
   
   {
-    "id": "pl_2026073103",
+    "id": "pl_2026090403",
     "league": "PL",
     "team": "Billings Mustangs",
-    "opponent": "Idaho Falls Chukars",
+    "opponent": "RedPocket Mobiles",
     "arena": "Dehler Park",
     "city": "Billings, Montana",
-    "date": "2026-08-01T00:35:00Z"
+    "date": "2026-09-05T00:35:00Z"
   },
   
   {
-    "id": "pl_2026073104",
+    "id": "pl_2026090404",
     "league": "PL",
     "team": "Boise Hawks",
-    "opponent": "Glacier Range Riders",
+    "opponent": "Idaho Falls Chukars",
     "arena": "Memorial Stadium",
     "city": "Garden City, Idaho",
-    "date": "2026-08-01T01:05:00Z"
+    "date": "2026-09-05T01:05:00Z"
   },
   
   {
-    "id": "pl_2026073105",
+    "id": "pl_2026090405",
     "league": "PL",
-    "team": "Oakland Ballers",
+    "team": "Yuba-Sutter Freebirds",
+    "opponent": "Oakland Ballers",
+    "arena": "Bryant Field",
+    "city": "Marysville, California",
+    "date": "2026-09-05T01:35:00Z"
+  },
+  
+  {
+    "id": "pl_2026090406",
+    "league": "PL",
+    "team": "Long Beach Coast",
+    "opponent": "Modesto Roadsters",
+    "arena": "Blair Field",
+    "city": "Long Beach, California",
+    "date": "2026-09-05T02:35:00Z"
+  },
+  
+  
+  {
+    "id": "pl_2026090501",
+    "league": "PL",
+    "team": "Great Falls Voyagers",
+    "opponent": "Missoula PaddleHeads",
+    "arena": "Centene Stadium",
+    "city": "Great Falls, Montnana",
+    "date": "2026-09-06T00:30:00Z"
+  },
+  
+  {
+    "id": "pl_2026090502",
+    "league": "PL",
+    "team": "Ogden Raptors",
+    "opponent": "Glacier Range Riders",
+    "arena": "Lindquist Field",
+    "city": "Ogden, Utah",
+    "date": "2026-09-06T00:30:00Z"
+  },
+  
+  {
+    "id": "pl_2026090503",
+    "league": "PL",
+    "team": "Billings Mustangs",
     "opponent": "RedPocket Mobiles",
-    "arena": "Raimondi Park",
-    "city": "Oakland, California",
-    "date": "2026-08-01T01:35:00Z"
+    "arena": "Dehler Park",
+    "city": "Billings, Montana",
+    "date": "2026-09-06T00:35:00Z"
   },
   
   {
-    "id": "pl_2026073106",
+    "id": "pl_2026090504",
     "league": "PL",
-    "team": "Modesto Roadsters",
-    "opponent": "Yuba-Sutter Freebirds",
-    "arena": "John Thurman Field",
-    "city": "Modesto, California",
-    "date": "2026-08-01T02:11:00Z"
+    "team": "Long Beach Coast",
+    "opponent": "Modesto Roadsters",
+    "arena": "Blair Field",
+    "city": "Long Beach, California",
+    "date": "2026-09-06T00:35:00Z"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
   {
-  "id": "pl_2026080101",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-01T23:35:00Z"
-},
-
-{
-  "id": "pl_2026080102",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-02T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080103",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Long Beach Coast",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-02T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080104",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-02T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080105",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "Glacier Range Riders",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-02T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080106",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-02T02:11:00Z"
-},
-
-{
-  "id": "pl_2026080201",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-02T17:30:00Z"
-},
-
-{
-  "id": "pl_2026080202",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-02T18:00:00Z"
-},
-
-{
-  "id": "pl_2026080203",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Long Beach Coast",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-02T19:00:00Z"
-},
-
-{
-  "id": "pl_2026080204",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-02T19:05:00Z"
-},
-
-{
-  "id": "pl_2026080205",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "Glacier Range Riders",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-02T19:05:00Z"
-},
-
-{
-  "id": "pl_2026080206",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-02T20:05:00Z"
-},
-
-{
-  "id": "pl_2026080401",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-05T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080402",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Long Beach Coast",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-05T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080403",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Ogden Raptors",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-05T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080404",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Boise Hawks",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-05T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080405",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-05T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080406",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Modesto Roadsters",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-05T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080501",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-06T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080502",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Long Beach Coast",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-06T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080503",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Ogden Raptors",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-06T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080504",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Boise Hawks",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-06T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080505",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-06T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080506",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Modesto Roadsters",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-06T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080601",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-07T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080602",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Long Beach Coast",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-07T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080603",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Ogden Raptors",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-07T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080604",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Boise Hawks",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-07T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080605",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-07T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080606",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Modesto Roadsters",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-07T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080701",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-08T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080702",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Ogden Raptors",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-08T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080703",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Long Beach Coast",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-08T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080704",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Boise Hawks",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-08T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080705",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Oakland Ballers",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-08T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080706",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "RedPocket Mobiles",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-08T02:11:00Z"
-},
-
-{
-  "id": "pl_2026080801",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-09T00:30:00Z"
-},
-
-{
-  "id": "pl_2026080802",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Ogden Raptors",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-09T00:35:00Z"
-},
-
-{
-  "id": "pl_2026080803",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Long Beach Coast",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-09T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080804",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Boise Hawks",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-09T01:05:00Z"
-},
-
-{
-  "id": "pl_2026080805",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Oakland Ballers",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-09T01:35:00Z"
-},
-
-{
-  "id": "pl_2026080806",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "RedPocket Mobiles",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-09T02:11:00Z"
-},
-
-{
-  "id": "pl_2026080901",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-09T17:30:00Z"
-},
-
-{
-  "id": "pl_2026080902",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "RedPocket Mobiles",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-09T18:00:00Z"
-},
-
-{
-  "id": "pl_2026080903",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Long Beach Coast",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-09T19:05:00Z"
-},
-
-{
-  "id": "pl_2026080904",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Boise Hawks",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-09T20:00:00Z"
-},
-
-{
-  "id": "pl_2026080905",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Ogden Raptors",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-09T20:05:00Z"
-},
-
-{
-  "id": "pl_2026080906",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Oakland Ballers",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-10T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081101",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-12T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081102",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Glacier Range Riders",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-12T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081103",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Great Falls Voyagers",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-12T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081104",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-12T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081105",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-12T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081106",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Modesto Roadsters",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-12T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081201",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-13T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081202",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Glacier Range Riders",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-13T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081203",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Great Falls Voyagers",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-13T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081204",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-13T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081205",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-13T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081206",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Modesto Roadsters",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-13T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081301",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-14T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081302",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Glacier Range Riders",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-14T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081303",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Great Falls Voyagers",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-14T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081304",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-14T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081305",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-14T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081306",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Modesto Roadsters",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-14T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081401",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-15T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081402",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Glacier Range Riders",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-15T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081403",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Great Falls Voyagers",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-15T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081404",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-15T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081405",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Oakland Ballers",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-15T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081406",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Modesto Roadsters",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-15T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081501",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Oakland Ballers",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-15T23:35:00Z"
-},
-
-{
-  "id": "pl_2026081502",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-16T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081503",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Glacier Range Riders",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-16T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081504",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Great Falls Voyagers",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-16T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081505",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-16T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081506",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Modesto Roadsters",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-16T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081601",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Idaho Falls Chukars",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-16T19:00:00Z"
-},
-
-{
-  "id": "pl_2026081602",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Glacier Range Riders",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-16T19:05:00Z"
-},
-
-{
-  "id": "pl_2026081603",
-  "league": "PL",
-  "team": "Boise Hawks",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Memorial Stadium",
-  "city": "Garden City, Idaho",
-  "date": "2026-08-16T19:05:00Z"
-},
-
-{
-  "id": "pl_2026081604",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Oakland Ballers",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-16T20:05:00Z"
-},
-
-{
-  "id": "pl_2026081605",
-  "league": "PL",
-  "team": "Missoula PaddleHeads",
-  "opponent": "Great Falls Voyagers",
-  "arena": "Allegiance Field",
-  "city": "Missoula, Montana",
-  "date": "2026-08-16T20:05:00Z"
-},
-
-{
-  "id": "pl_2026081606",
-  "league": "PL",
-  "team": "Yuba-Sutter Freebirds",
-  "opponent": "Modesto Roadsters",
-  "arena": "Bryant Field",
-  "city": "Marysville, California",
-  "date": "2026-08-17T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081801",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-19T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081802",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-19T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081803",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Boise Hawks",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-19T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081804",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-19T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081805",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-19T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081806",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Oakland Ballers",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-19T02:11:00Z"
-},
-
-{
-  "id": "pl_2026081901",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-20T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081902",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-20T00:30:00Z"
-},
-
-{
-  "id": "pl_2026081903",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Boise Hawks",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-20T00:35:00Z"
-},
-
-{
-  "id": "pl_2026081904",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-20T01:05:00Z"
-},
-
-{
-  "id": "pl_2026081905",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-20T01:35:00Z"
-},
-
-{
-  "id": "pl_2026081906",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Oakland Ballers",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-20T02:11:00Z"
-},
-
-{
-  "id": "pl_2026082001",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-21T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082002",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-21T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082003",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Boise Hawks",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-21T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082004",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-21T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082005",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-21T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082006",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Oakland Ballers",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-21T02:11:00Z"
-},
-
-{
-  "id": "pl_2026082101",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-22T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082102",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-22T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082103",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Boise Hawks",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-22T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082104",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-22T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082105",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-22T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082106",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Modesto Roadsters",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-22T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082201",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Modesto Roadsters",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-22T23:35:00Z"
-},
-
-{
-  "id": "pl_2026082202",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-23T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082203",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-23T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082204",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-23T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082205",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Boise Hawks",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-23T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082206",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-23T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082301",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Billings Mustangs",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-23T17:30:00Z"
-},
-
-{
-  "id": "pl_2026082302",
-  "league": "PL",
-  "team": "Ogden Raptors",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Lindquist Field",
-  "city": "Ogden, Utah",
-  "date": "2026-08-23T19:00:00Z"
-},
-
-{
-  "id": "pl_2026082303",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "Boise Hawks",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-23T19:05:00Z"
-},
-
-{
-  "id": "pl_2026082304",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-23T20:00:00Z"
-},
-
-{
-  "id": "pl_2026082305",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Modesto Roadsters",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-23T20:05:00Z"
-},
-
-{
-  "id": "pl_2026082306",
-  "league": "PL",
-  "team": "Long Beach Coast",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Blair Field",
-  "city": "Long Beach, California",
-  "date": "2026-08-23T21:05:00Z"
-},
-
-{
-  "id": "pl_2026082501",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Boise Hawks",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-26T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082502",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Ogden Raptors",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-26T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082503",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-26T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082504",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-26T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082505",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-26T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082506",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Long Beach Coast",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-26T02:11:00Z"
-},
-
-{
-  "id": "pl_2026082601",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Boise Hawks",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-27T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082602",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Ogden Raptors",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-27T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082603",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-27T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082604",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-27T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082605",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-27T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082606",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Long Beach Coast",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-27T02:11:00Z"
-},
-
-{
-  "id": "pl_2026082701",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Boise Hawks",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-28T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082702",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Ogden Raptors",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-28T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082703",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-28T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082704",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-28T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082705",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-28T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082706",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Long Beach Coast",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-28T02:11:00Z"
-},
-
-{
-  "id": "pl_2026082801",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Boise Hawks",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-29T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082802",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Ogden Raptors",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-29T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082803",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-29T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082804",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-29T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082805",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Long Beach Coast",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-29T01:35:00Z"
-},
-
-{
-  "id": "pl_2026082806",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-29T02:11:00Z"
-},
-
-{
-  "id": "pl_2026082901",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Long Beach Coast",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-29T23:35:00Z"
-},
-
-{
-  "id": "pl_2026082902",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Boise Hawks",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-30T00:30:00Z"
-},
-
-{
-  "id": "pl_2026082903",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Ogden Raptors",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-30T00:35:00Z"
-},
-
-{
-  "id": "pl_2026082904",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-30T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082905",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-30T01:05:00Z"
-},
-
-{
-  "id": "pl_2026082906",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-30T02:11:00Z"
-},
-
-{
-  "id": "pl_2026083001",
-  "league": "PL",
-  "team": "Great Falls Voyagers",
-  "opponent": "Boise Hawks",
-  "arena": "Centene Stadium",
-  "city": "Great Falls, Montnana",
-  "date": "2026-08-30T17:30:00Z"
-},
-
-{
-  "id": "pl_2026083002",
-  "league": "PL",
-  "team": "Modesto Roadsters",
-  "opponent": "Missoula PaddleHeads",
-  "arena": "John Thurman Field",
-  "city": "Modesto, California",
-  "date": "2026-08-30T18:00:00Z"
-},
-
-{
-  "id": "pl_2026083003",
-  "league": "PL",
-  "team": "Billings Mustangs",
-  "opponent": "Ogden Raptors",
-  "arena": "Dehler Park",
-  "city": "Billings, Montana",
-  "date": "2026-08-30T19:05:00Z"
-},
-
-{
-  "id": "pl_2026083004",
-  "league": "PL",
-  "team": "Glacier Range Riders",
-  "opponent": "RedPocket Mobiles",
-  "arena": "Glacier Bank Park",
-  "city": "Kalispell, Montana",
-  "date": "2026-08-30T19:05:00Z"
-},
-
-{
-  "id": "pl_2026083005",
-  "league": "PL",
-  "team": "Idaho Falls Chukars",
-  "opponent": "Yuba-Sutter Freebirds",
-  "arena": "Melaleuca Field",
-  "city": "Idaho Falls, Idaho",
-  "date": "2026-08-30T20:00:00Z"
-},
-
-{
-  "id": "pl_2026083006",
-  "league": "PL",
-  "team": "Oakland Ballers",
-  "opponent": "Long Beach Coast",
-  "arena": "Raimondi Park",
-  "city": "Oakland, California",
-  "date": "2026-08-30T20:05:00Z"
-}
-
+    "id": "pl_2026090505",
+    "league": "PL",
+    "team": "Boise Hawks",
+    "opponent": "Idaho Falls Chukars",
+    "arena": "Memorial Stadium",
+    "city": "Garden City, Idaho",
+    "date": "2026-09-06T01:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026090506",
+    "league": "PL",
+    "team": "Yuba-Sutter Freebirds",
+    "opponent": "Oakland Ballers",
+    "arena": "Bryant Field",
+    "city": "Marysville, California",
+    "date": "2026-09-06T01:35:00Z"
+  },
+  
+  
+  {
+    "id": "pl_2026090601",
+    "league": "PL",
+    "team": "Ogden Raptors",
+    "opponent": "Glacier Range Riders",
+    "arena": "Lindquist Field",
+    "city": "Ogden, Utah",
+    "date": "2026-09-06T19:00:00Z"
+  },
+  
+  {
+    "id": "pl_2026090602",
+    "league": "PL",
+    "team": "Billings Mustangs",
+    "opponent": "RedPocket Mobiles",
+    "arena": "Dehler Park",
+    "city": "Billings, Montana",
+    "date": "2026-09-06T19:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026090603",
+    "league": "PL",
+    "team": "Long Beach Coast",
+    "opponent": "Modesto Roadsters",
+    "arena": "Blair Field",
+    "city": "Long Beach, California",
+    "date": "2026-09-06T21:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026090604",
+    "league": "PL",
+    "team": "Great Falls Voyagers",
+    "opponent": "Missoula PaddleHeads",
+    "arena": "Centene Stadium",
+    "city": "Great Falls, Montnana",
+    "date": "2026-09-07T00:30:00Z"
+  },
+  
+  {
+    "id": "pl_2026090605",
+    "league": "PL",
+    "team": "Boise Hawks",
+    "opponent": "Idaho Falls Chukars",
+    "arena": "Memorial Stadium",
+    "city": "Garden City, Idaho",
+    "date": "2026-09-07T01:05:00Z"
+  },
+  
+  {
+    "id": "pl_2026090606",
+    "league": "PL",
+    "team": "Yuba-Sutter Freebirds",
+    "opponent": "Oakland Ballers",
+    "arena": "Bryant Field",
+    "city": "Marysville, California",
+    "date": "2026-09-07T01:35:00Z"
+  }
 ]
