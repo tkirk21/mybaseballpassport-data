@@ -1,2061 +1,1922 @@
 [
 
-{
-  "id": "il_2026080801",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-08T20:05:00Z",
-  "giveaway": [
-    {
-      "title": "The Larry Lucchino Writers Series: Teddy Tannenbaum",
-      "details": "Ticket buyers for the game can enjoy a complimentary lunch in the DCU Club and a Q&A session starting at 1pm."
-    }
-  ]
-},
-
-{
-  "id": "il_2026080802",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Durham Bulls",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-08T22:05:00Z"
-},
-
-{
-  "id": "il_2026080803",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-08T22:05:00Z",
-  "giveaway": [
-    {
-      "title": "Chris Sale Bobblehead Giveaway",
-      "details": "Collect this one-of-a-kind bobblehead of 2024 National League Cy Young winner Chris Sale, clad in a Stripers jersey as seen during his 2025 rehab assignment."
-    }
-  ],
-  "fireworks": {
-    "title": "The Stripers honor the police officers, fire fighters, EMTs, and other first responders who serve our community every day. Presented by COUNTRY Financial."
-  }
-},
-
-{
-  "id": "il_2026080804",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Columbus Clippers",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-08T22:35:00Z",
-  "giveaway": [
-    {
-      "title": "Amazin' Giveaway Pack Available",
-      "details": "For today's giveaway, purchase this special ticket package including (1) game ticket & (1) guaranteed giveaway for today's game!"
-    },
-    {
-      "title": "Haudenosaunee Night Jersey Giveaway & Jersey Auction",
-      "details": "The 1st 1500 fans through the gates will receive a Haudenosaunee jersey giveaway!"
-    }
-  ],
-  "fireworks": {
-    "title": "Be sure to stick around after the game for a fireworks EXTRAVAGANZA you won't want to miss!"
-  }
-},
-
-{
-  "id": "il_2026080805",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Norfolk Tides",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-08T22:35:00Z",
-  "fireworks": {
-    "title": "Join us pregame for a Women in Sports Night Panel Discussion in the Pub at the Park restaurant, starting at 4:30 p.m."
-  }
-},
-
-{
-  "id": "il_2026080806",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Iowa Cubs",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-08T23:05:00Z"
-},
-
-{
-  "id": "il_2026080807",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-08T23:05:00Z",
-  "fireworks": {
-    "title": "Live music is coming to the Owens Corning stage! Our first-ever Hensville Live!"
-  }
-},
-
-{
-  "id": "il_2026080808",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Nashville Sounds",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-08T23:35:00Z"
-},
-
-{
-  "id": "il_2026080809",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Louisville Bats",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-08T23:37:00Z",
-  "giveaway": [
-    {
-      "title": "Backyard Sports Baseball Hat/Basketball Jersey Package",
-      "details": "Purchase your tickets here to receive either a Backyard Sports hat, or a Pablo Sanchez basketball jersey."
-    }
-  ],
-  "fireworks": {
-    "title": "Backyard Brawl. Melonheads vs. The Fishes."
-  }
-},
-
-{
-  "id": "il_2026080901",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Columbus Clippers",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-09T17:05:00Z",
-  "fireworks": {
-    "title": "Kids 12 and under receive a voucher good for a bag of chips, a 12oz Coca-Cola beverage, a kids Hofmann hot dog, and a small Perry's Ice Cream! "
-  }
-},
-
-{
-  "id": "il_2026080902",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Norfolk Tides",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-09T17:05:00Z",
-  "giveaway": [
-    {
-      "title": "Sliding Mitt Giveaway",
-      "details": "The first 2,000 fans through the MGMT Reputation Gate at Swan St. (12pm)."
-    }
-  ],
-  "fireworks": {
-    "title": "Family Funday includes a pregame Mascot Meet n' Greet, special activities for the kids, and postgame Kids Run the Bases."
-  }
-},
-
-{
-  "id": "il_2026080903",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-09T17:05:00Z",
-  "giveaway": [
-    {
-      "title": "Ceddanne Rafaela Bobblehead Giveaway",
-      "details": "First 5,000 fans in attendance"
-    }
-  ],
-  "fireworks": {
-    "title": "Fans of all ages can round the basepaths after every Sunday game."
-  }
-},
-
-{
-  "id": "il_2026080904",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Iowa Cubs",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-09T17:35:00Z"
-},
-
-{
-  "id": "il_2026080905",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Nashville Sounds",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-09T18:05:00Z"
-},
-
-{
-  "id": "il_2026080906",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Louisville Bats",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-09T19:07:00Z",
-  "giveaway": [
-    {
-      "title": " Team Cardset Giveaway",
-      "details": "Frist 1500 through the gate."
-    }
-  ],
-  "fireworks": {
-    "title": "Cub Family Sunday's"
-  }
-},
-
-{
-  "id": "il_2026080907",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-09T20:05:00Z",
-  "giveaway": [
-    {
-      "title": "Elmo Plush",
-      "details": "This package included a Mud Hens-themed Elmo plush and one ticket to Sesame Street Night."
-    }
-  ],
-  "fireworks": {
-    "title": "Postgame Kids Run the Bases"
-  }
+  {
+    "id": "il_2026082901",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-08-29T20:05:00Z"
+  },
   
-},
-
-{
-  "id": "il_2026080908",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-09T20:05:00Z",
-  "fireworks": {
-    "title": "Kick the afternoon off with Pre-Game Catch on the Field, and end it with Kids Run the Bases."
-  }
-},
-
-{
-  "id": "il_2026080909",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Durham Bulls",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-09T21:05:00Z"
-},
-
-{
-  "id": "il_2026081101",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Toledo Mud Hens",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-11T22:35:00Z",
-  "fireworks": {
-    "title": "Taco Tuesday Special \u2014 $4 Tacos sold at select concession stands and the two (2) \"La Taqueria De Buddy\" stands!"
-  }
-},
-
-{
-  "id": "il_2026081102",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-11T22:35:00Z",
-  "fireworks": {
-    "title": "Pre-Game Party Plaza: Live Music from Hanks Martin."
-  }
-},
-
-{
-  "id": "il_2026081103",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Memphis Redbirds",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-11T22:45:00Z",
-  "fireworks": {
-    "title": "Tendies & Tallboys \u2014 Fans can enjoy special deals on chicken tenders and tallboy beers on select nights at the DBAP!"
-  }
-},
-
-{
-  "id": "il_2026081104",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Buffalo Bisons",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-11T22:45:00Z",
-  "fireworks": {
-    "title": "Prostate Cancer Awareness Night"
-  }
-},
-
-{
-  "id": "il_2026081105",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Charlotte Knights",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-11T22:45:00Z",
-  "giveaway": [
-    {
-      "title": "Zoo Cap Giveaway",
-      "details": "1st 1,000 fans Presented by Seneca Park Zoo."
-    }
-  ],
-  "fireworks": {
-    "title": "A Red Wings player will sign in a 20-minute autograph session that starts 45 minutes before the first pitch."
-  }
-},
-
-{
-  "id": "il_2026081106",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-11T22:45:00Z",
-  "fireworks": {
-    "title": "Mutts Gone Nuts. Bring your dog to the ballpark."
-  }
-},
-
-{
-  "id": "il_2026081107",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-11T23:05:00Z",
-  "fireworks": {
-    "title": "TANSKY TUESDAY DIME-A-DOG NIGHT \u2014 A Columbus staple, join us for ten cent Sahlen's hot dogs available throughout the game, while supplies last."
-  }
-},
-
-{
-  "id": "il_2026081108",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Syracuse Mets",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-11T23:05:00Z",
-  "fireworks": {
-    "title": "Join us in Harbour Hall from 6:30 to 8pm for a women in sports networking event!"
-  }
-},
-
-{
-  "id": "il_2026081109",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "St. Paul Saints",
-  "arena": "Field of Dreams",
-  "city": "Dyersville, Iowa",
-  "date": "2026-08-11T23:30:00Z",
-  "fireworks": {
-    "title": "MiLB's return to the iconic movie set for the first time in four years."
-  }
-},
-
-{
-  "id": "il_2026081110",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Indianapolis Indians",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-08-11T23:35:00Z",
-  "fireworks": {
-    "title": "Bring your dog and enjoy baseball together at the ballpark. All fans enjoy $2 hot dogs, nachos, and popcorn from the concession stands!"
-  }
-},
-
-{
-  "id": "il_2026081201",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Buffalo Bisons",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-12T16:05:00Z"
-},
-
-{
-  "id": "il_2026081202",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Toledo Mud Hens",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-12T22:35:00Z"
-},
-
-{
-  "id": "il_2026081203",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-12T22:35:00Z"
-},
-
-{
-  "id": "il_2026081204",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Memphis Redbirds",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-12T22:45:00Z"
-},
-
-{
-  "id": "il_2026081205",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Charlotte Knights",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-12T22:45:00Z"
-},
-
-{
-  "id": "il_2026081206",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-12T22:45:00Z",
-  "giveaway": [
-      {
-        "title": "Youth Beanie Giveaway",
-        "details": "First 1,000 kids 17 & under"
-      }
-    ]
-},
-
-{
-  "id": "il_2026081207",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-12T23:05:00Z",
-  "fireworks": {
-    "title": "Students 14 and above can present a valid ID for a $5 Reserved Ticket. ($6 day of game)."
-  }
-},
-
-{
-  "id": "il_2026081208",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Syracuse Mets",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-12T23:05:00Z",
-  "giveaway": {
-      "title": "Wear it Home Wednesday",
-      "details": "Be the one of the first 500 people in through the Main Gate at the Baptist Health Centerfield Plaza to get one of these \"Be a Simple Kind of Shrimp\" t-shirts presented by Prime Shrimp and Ambetter Health!"
-  }
-},
-
-{
-  "id": "il_2026081209",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Indianapolis Indians",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "il_2026081210",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "St. Paul Saints",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-12T23:38:00Z",
-  "giveaway": {
-      "title": "Noons at Noon",
-      "details": "SPECIAL TICKET REQUIRED. Get an Upper Reserved ticket and 2 High Noons (12 oz.) for just $26 (after fees)."
-    }
-},
-
-{
-  "id": "il_2026081301",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-13T16:05:00Z"
-},
-
-{
-  "id": "il_2026081302",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Charlotte Knights",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-13T17:05:00Z"
-},
-
-{
-  "id": "il_2026081303",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Toledo Mud Hens",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-13T22:35:00Z"
-},
-
-{
-  "id": "il_2026081304",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Memphis Redbirds",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-13T22:45:00Z"
-},
-
-{
-  "id": "il_2026081305",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Buffalo Bisons",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-13T22:45:00Z"
-},
-
-{
-  "id": "il_2026081306",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-13T22:45:00Z"
-},
-
-{
-  "id": "il_2026081307",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-13T23:05:00Z"
-},
-
-{
-  "id": "il_2026081308",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Syracuse Mets",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-13T23:05:00Z"
-},
-
-{
-  "id": "il_2026081309",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Indianapolis Indians",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "il_2026081310",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "St. Paul Saints",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-13T23:38:00Z"
-},
-
-{
-  "id": "il_2026081401",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-14T22:35:00Z"
-},
-
-{
-  "id": "il_2026081402",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Memphis Redbirds",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-14T22:45:00Z"
-},
-
-{
-  "id": "il_2026081403",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Buffalo Bisons",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-14T22:45:00Z"
-},
-
-{
-  "id": "il_2026081404",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Charlotte Knights",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-14T22:45:00Z"
-},
-
-{
-  "id": "il_2026081405",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-14T22:45:00Z"
-},
-
-{
-  "id": "il_2026081406",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-14T23:05:00Z"
-},
-
-{
-  "id": "il_2026081407",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Syracuse Mets",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-14T23:05:00Z"
-},
-
-{
-  "id": "il_2026081408",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Toledo Mud Hens",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-14T23:15:00Z"
-},
-
-{
-  "id": "il_2026081409",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Indianapolis Indians",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-08-14T23:35:00Z"
-},
-
-{
-  "id": "il_2026081410",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "St. Paul Saints",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-15T00:08:00Z"
-},
-
-{
-  "id": "il_2026081501",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Buffalo Bisons",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-15T20:05:00Z"
-},
-
-{
-  "id": "il_2026081502",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Charlotte Knights",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-15T22:05:00Z"
-},
-
-{
-  "id": "il_2026081503",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Syracuse Mets",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-15T22:35:00Z"
-},
-
-{
-  "id": "il_2026081504",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-15T22:35:00Z"
-},
-
-{
-  "id": "il_2026081505",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-15T22:35:00Z"
-},
-
-{
-  "id": "il_2026081506",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Memphis Redbirds",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-15T22:45:00Z"
-},
-
-{
-  "id": "il_2026081507",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-15T23:05:00Z"
-},
-
-{
-  "id": "il_2026081508",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "St. Paul Saints",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-15T23:08:00Z"
-},
-
-{
-  "id": "il_2026081509",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Toledo Mud Hens",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-15T23:15:00Z"
-},
-
-{
-  "id": "il_2026081510",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Indianapolis Indians",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-08-15T23:35:00Z"
-},
-
-{
-  "id": "il_2026081601",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Toledo Mud Hens",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-16T17:05:00Z"
-},
-
-{
-  "id": "il_2026081602",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Buffalo Bisons",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-16T17:05:00Z"
-},
-
-{
-  "id": "il_2026081603",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Charlotte Knights",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-16T17:05:00Z"
-},
-
-{
-  "id": "il_2026081604",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-16T17:05:00Z"
-},
-
-{
-  "id": "il_2026081605",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-16T17:05:00Z"
-},
-
-{
-  "id": "il_2026081606",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-16T17:15:00Z"
-},
-
-{
-  "id": "il_2026081607",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "St. Paul Saints",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-16T18:08:00Z"
-},
-
-{
-  "id": "il_2026081608",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Memphis Redbirds",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-16T21:05:00Z"
-},
-
-{
-  "id": "il_2026081609",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Syracuse Mets",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-16T21:05:00Z"
-},
-
-{
-  "id": "il_2026081610",
-  "league": "IL",
-  "team": "Nashville Sounds",
-  "opponent": "Indianapolis Indians",
-  "arena": "First Horizon Park",
-  "city": "Nashville, Tennessee",
-  "date": "2026-08-16T23:05:00Z"
-},
-
-{
-  "id": "il_2026081801",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Durham Bulls",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-18T22:35:00Z"
-},
-
-{
-  "id": "il_2026081802",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Louisville Bats",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-18T22:35:00Z"
-},
-
-{
-  "id": "il_2026081803",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-18T22:35:00Z"
-},
-
-{
-  "id": "il_2026081804",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-18T22:35:00Z"
-},
-
-{
-  "id": "il_2026081805",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Nashville Sounds",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-18T22:35:00Z"
-},
-
-{
-  "id": "il_2026081806",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-18T22:35:00Z"
-},
-
-{
-  "id": "il_2026081807",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "St. Paul Saints",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-18T23:05:00Z"
-},
-
-{
-  "id": "il_2026081808",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Rochester Red Wings",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "il_2026081809",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-18T23:45:00Z"
-},
-
-{
-  "id": "il_2026081901",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-19T17:05:00Z"
-},
-
-{
-  "id": "il_2026081902",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Durham Bulls",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-19T22:35:00Z"
-},
-
-{
-  "id": "il_2026081903",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Louisville Bats",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-19T22:35:00Z"
-},
-
-{
-  "id": "il_2026081904",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-19T22:35:00Z"
-},
-
-{
-  "id": "il_2026081905",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-19T22:35:00Z"
-},
-
-{
-  "id": "il_2026081906",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Nashville Sounds",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-19T22:35:00Z"
-},
-
-{
-  "id": "il_2026081907",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "St. Paul Saints",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-19T23:05:00Z"
-},
-
-{
-  "id": "il_2026081908",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Rochester Red Wings",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "il_2026081909",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-19T23:45:00Z"
-},
-
-{
-  "id": "il_2026082001",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Nashville Sounds",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-20T16:05:00Z"
-},
-
-{
-  "id": "il_2026082002",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "St. Paul Saints",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-20T16:05:00Z"
-},
-
-{
-  "id": "il_2026082003",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Louisville Bats",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-20T22:35:00Z"
-},
-
-{
-  "id": "il_2026082004",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-20T22:35:00Z"
-},
-
-{
-  "id": "il_2026082005",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-20T22:35:00Z"
-},
-
-{
-  "id": "il_2026082006",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-20T22:35:00Z"
-},
-
-{
-  "id": "il_2026082007",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Durham Bulls",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-20T23:05:00Z"
-},
-
-{
-  "id": "il_2026082008",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Rochester Red Wings",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-08-20T23:35:00Z"
-},
-
-{
-  "id": "il_2026082009",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-20T23:45:00Z"
-},
-
-{
-  "id": "il_2026082101",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-21T22:35:00Z"
-},
-
-{
-  "id": "il_2026082102",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Nashville Sounds",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-21T22:35:00Z"
-},
-
-{
-  "id": "il_2026082103",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-21T22:35:00Z"
-},
-
-{
-  "id": "il_2026082104",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Durham Bulls",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-21T23:05:00Z"
-},
-
-{
-  "id": "il_2026082105",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Louisville Bats",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-21T23:05:00Z"
-},
-
-{
-  "id": "il_2026082106",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-21T23:05:00Z"
-},
-
-{
-  "id": "il_2026082107",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "St. Paul Saints",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-21T23:05:00Z"
-},
-
-{
-  "id": "il_2026082108",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Rochester Red Wings",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-08-21T23:35:00Z"
-},
-
-{
-  "id": "il_2026082109",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-22T00:05:00Z"
-},
-
-{
-  "id": "il_2026082201",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Durham Bulls",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-22T22:05:00Z"
-},
-
-{
-  "id": "il_2026082202",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Louisville Bats",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-22T22:35:00Z"
-},
-
-{
-  "id": "il_2026082203",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-22T22:35:00Z"
-},
-
-{
-  "id": "il_2026082204",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Nashville Sounds",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-22T22:35:00Z"
-},
-
-{
-  "id": "il_2026082205",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-22T22:35:00Z"
-},
-
-{
-  "id": "il_2026082206",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "il_2026082207",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Rochester Red Wings",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "il_2026082208",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "St. Paul Saints",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "il_2026082209",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-22T23:35:00Z"
-},
-
-{
-  "id": "il_2026082301",
-  "league": "IL",
-  "team": "Gwinnett Stripers",
-  "opponent": "Durham Bulls",
-  "arena": "Coolray Field",
-  "city": "Lawrenceville, Georgia",
-  "date": "2026-08-23T17:05:00Z"
-},
-
-{
-  "id": "il_2026082302",
-  "league": "IL",
-  "team": "Syracuse Mets",
-  "opponent": "Worcester Red Sox",
-  "arena": "NBT Bank Stadium",
-  "city": "Syracuse, New York",
-  "date": "2026-08-23T17:05:00Z"
-},
-
-{
-  "id": "il_2026082303",
-  "league": "IL",
-  "team": "Norfolk Tides",
-  "opponent": "Nashville Sounds",
-  "arena": "Harbor Park",
-  "city": "Norfolk, Virginia",
-  "date": "2026-08-23T17:05:00Z"
-},
-
-{
-  "id": "il_2026082304",
-  "league": "IL",
-  "team": "Buffalo Bisons",
-  "opponent": "Lehigh Valley IronPigs",
-  "arena": "Sahlen Field",
-  "city": "Buffalo, New York",
-  "date": "2026-08-23T17:05:00Z"
-},
-
-{
-  "id": "il_2026082305",
-  "league": "IL",
-  "team": "Columbus Clippers",
-  "opponent": "St. Paul Saints",
-  "arena": "Huntington Park",
-  "city": "Columbus, Ohio",
-  "date": "2026-08-23T17:05:00Z"
-},
-
-{
-  "id": "il_2026082306",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Louisville Bats",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-23T17:35:00Z"
-},
-
-{
-  "id": "il_2026082307",
-  "league": "IL",
-  "team": "Toledo Mud Hens",
-  "opponent": "Iowa Cubs",
-  "arena": "Fifth Third Field",
-  "city": "Toledo, Ohio",
-  "date": "2026-08-23T18:05:00Z"
-},
-
-{
-  "id": "il_2026082308",
-  "league": "IL",
-  "team": "Memphis Redbirds",
-  "opponent": "Jacksonville Jumbo Shrimp",
-  "arena": "AutoZone Park",
-  "city": "Memphis, Tennessee",
-  "date": "2026-08-23T18:05:00Z"
-},
-
-{
-  "id": "il_2026082309",
-  "league": "IL",
-  "team": "Omaha Storm Chasers",
-  "opponent": "Rochester Red Wings",
-  "arena": "Werner Park",
-  "city": "Papillion, Nebraska",
-  "date": "2026-08-23T22:05:00Z"
-},
-
-{
-  "id": "il_2026082501",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-25T22:05:00Z"
-},
-
-{
-  "id": "il_2026082502",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-25T22:35:00Z"
-},
-
-{
-  "id": "il_2026082503",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Columbus Clippers",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-25T22:35:00Z"
-},
-
-{
-  "id": "il_2026082504",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Memphis Redbirds",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-25T22:35:00Z"
-},
-
-{
-  "id": "il_2026082505",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Buffalo Bisons",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-25T22:45:00Z"
-},
-
-{
-  "id": "il_2026082506",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Norfolk Tides",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-25T22:45:00Z"
-},
-
-{
-  "id": "il_2026082507",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Syracuse Mets",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-25T22:45:00Z"
-},
-
-{
-  "id": "il_2026082508",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Nashville Sounds",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-25T23:05:00Z"
-},
-
-{
-  "id": "il_2026082509",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-25T23:38:00Z"
-},
-
-{
-  "id": "il_2026082610",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Toledo Mud Hens",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-26T00:07:00Z"
-},
-
-{
-  "id": "il_2026082601",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Buffalo Bisons",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-26T17:05:00Z"
-},
-
-{
-  "id": "il_2026082602",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-26T17:08:00Z"
-},
-
-{
-  "id": "il_2026082603",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Columbus Clippers",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-26T17:35:00Z"
-},
-
-{
-  "id": "il_2026082604",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-26T22:05:00Z"
-},
-
-{
-  "id": "il_2026082605",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-26T22:35:00Z"
-},
-
-{
-  "id": "il_2026082606",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Memphis Redbirds",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-26T22:35:00Z"
-},
-
-{
-  "id": "il_2026082607",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Norfolk Tides",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-26T22:45:00Z"
-},
-
-{
-  "id": "il_2026082608",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Syracuse Mets",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-26T22:45:00Z"
-},
-
-{
-  "id": "il_2026082609",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Nashville Sounds",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-26T23:05:00Z"
-},
-
-{
-  "id": "il_2026082710",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Toledo Mud Hens",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-27T00:07:00Z"
-},
-
-{
-  "id": "il_2026082701",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-27T22:05:00Z"
-},
-
-{
-  "id": "il_2026082702",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-27T22:35:00Z"
-},
-
-{
-  "id": "il_2026082703",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Columbus Clippers",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-27T22:35:00Z"
-},
-
-{
-  "id": "il_2026082704",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Buffalo Bisons",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-27T22:45:00Z"
-},
-
-{
-  "id": "il_2026082705",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Norfolk Tides",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-27T22:45:00Z"
-},
-
-{
-  "id": "il_2026082706",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Syracuse Mets",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-27T22:45:00Z"
-},
-
-{
-  "id": "il_2026082707",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Memphis Redbirds",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-27T23:04:00Z"
-},
-
-{
-  "id": "il_2026082708",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Nashville Sounds",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-27T23:05:00Z"
-},
-
-{
-  "id": "il_2026082709",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-27T23:38:00Z"
-},
-
-{
-  "id": "il_2026082810",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Toledo Mud Hens",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-28T00:07:00Z"
-},
-
-{
-  "id": "il_2026082801",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Nashville Sounds",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-28T16:05:00Z"
-},
-
-{
-  "id": "il_2026082802",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Memphis Redbirds",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-28T21:05:00Z"
-},
-
-{
-  "id": "il_2026082803",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-28T22:05:00Z"
-},
-
-{
-  "id": "il_2026082804",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Buffalo Bisons",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-28T22:45:00Z"
-},
-
-{
-  "id": "il_2026082805",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Norfolk Tides",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-28T22:45:00Z"
-},
-
-{
-  "id": "il_2026082806",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Syracuse Mets",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-28T22:45:00Z"
-},
-
-{
-  "id": "il_2026082807",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Columbus Clippers",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-28T23:05:00Z"
-},
-
-{
-  "id": "il_2026082808",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-28T23:15:00Z"
-},
-
-{
-  "id": "il_2026082809",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Toledo Mud Hens",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-29T00:07:00Z"
-},
-
-{
-  "id": "il_2026082810",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-29T00:08:00Z"
-},
-
-{
-  "id": "il_2026082901",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-29T20:05:00Z"
-},
-
-{
-  "id": "il_2026082902",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Memphis Redbirds",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-29T22:05:00Z"
-},
-
-{
-  "id": "il_2026082903",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Columbus Clippers",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-29T22:35:00Z"
-},
-
-{
-  "id": "il_2026082904",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Nashville Sounds",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-29T22:35:00Z"
-},
-
-{
-  "id": "il_2026082905",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Syracuse Mets",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-29T22:35:00Z"
-},
-
-{
-  "id": "il_2026082906",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Buffalo Bisons",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-29T22:45:00Z"
-},
-
-{
-  "id": "il_2026082907",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Norfolk Tides",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-29T22:45:00Z"
-},
-
-{
-  "id": "il_2026082908",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-29T23:08:00Z"
-},
-
-{
-  "id": "il_2026082909",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-29T23:15:00Z"
-},
-
-{
-  "id": "il_2026082910",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Toledo Mud Hens",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-29T23:37:00Z"
-},
-
-{
-  "id": "il_2026083001",
-  "league": "IL",
-  "team": "Louisville Bats",
-  "opponent": "Gwinnett Stripers",
-  "arena": "Louisville Slugger Field",
-  "city": "Louisville , Kentucky",
-  "date": "2026-08-30T17:05:00Z"
-},
-
-{
-  "id": "il_2026083002",
-  "league": "IL",
-  "team": "Worcester Red Sox",
-  "opponent": "Scranton/Wilkes-Barre RailRiders",
-  "arena": "Polar Park",
-  "city": "Worcester, Massachusetts",
-  "date": "2026-08-30T17:05:00Z"
-},
-
-{
-  "id": "il_2026083003",
-  "league": "IL",
-  "team": "Rochester Red Wings",
-  "opponent": "Buffalo Bisons",
-  "arena": "ESL Ballpark",
-  "city": "Rochester, New York",
-  "date": "2026-08-30T17:05:00Z"
-},
-
-{
-  "id": "il_2026083004",
-  "league": "IL",
-  "team": "Durham Bulls",
-  "opponent": "Norfolk Tides",
-  "arena": "Durham Bulls Athletic Park",
-  "city": "Durham, North Carolina",
-  "date": "2026-08-30T17:05:00Z"
-},
-
-{
-  "id": "il_2026083005",
-  "league": "IL",
-  "team": "Lehigh Valley IronPigs",
-  "opponent": "Syracuse Mets",
-  "arena": "Coca-Cola Park",
-  "city": "Allentown, Pennsylvania",
-  "date": "2026-08-30T17:15:00Z"
-},
-
-{
-  "id": "il_2026083006",
-  "league": "IL",
-  "team": "Indianapolis Indians",
-  "opponent": "Columbus Clippers",
-  "arena": "Victory Field",
-  "city": "Indianapolis, Indiana",
-  "date": "2026-08-30T17:35:00Z"
-},
-
-{
-  "id": "il_2026083007",
-  "league": "IL",
-  "team": "Jacksonville Jumbo Shrimp",
-  "opponent": "Nashville Sounds",
-  "arena": "VyStar Ballpark",
-  "city": "Jacksonville, Florida",
-  "date": "2026-08-30T18:05:00Z"
-},
-
-{
-  "id": "il_2026083008",
-  "league": "IL",
-  "team": "Iowa Cubs",
-  "opponent": "Omaha Storm Chasers",
-  "arena": "Principal Park",
-  "city": "Des Moines, Iowa",
-  "date": "2026-08-30T18:08:00Z"
-},
-
-{
-  "id": "il_2026083009",
-  "league": "IL",
-  "team": "St. Paul Saints",
-  "opponent": "Toledo Mud Hens",
-  "arena": "CHS Field",
-  "city": "St Paul, Minnesota",
-  "date": "2026-08-30T19:07:00Z"
-},
-
-{
-  "id": "il_2026083010",
-  "league": "IL",
-  "team": "Charlotte Knights",
-  "opponent": "Memphis Redbirds",
-  "arena": "Truist Field",
-  "city": "Charlotte, North Carolina",
-  "date": "2026-08-30T21:05:00Z"
-}
+  {
+    "id": "il_2026082902",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Memphis Redbirds",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-08-29T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026082903",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Columbus Clippers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-08-29T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026082904",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Nashville Sounds",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-08-29T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026082905",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Syracuse Mets",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-08-29T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026082906",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Buffalo Bisons",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-08-29T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026082907",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Norfolk Tides",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-08-29T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026082908",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-08-29T23:08:00Z"
+  },
+  
+  {
+    "id": "il_2026082909",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-08-29T23:15:00Z"
+  },
+  
+  {
+    "id": "il_2026082910",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Toledo Mud Hens",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-08-29T23:37:00Z"
+  },
+  
+  {
+    "id": "il_2026083001",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Gwinnett Stripers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-08-30T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026083002",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-08-30T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026083003",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Buffalo Bisons",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-08-30T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026083004",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Norfolk Tides",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-08-30T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026083005",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Syracuse Mets",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-08-30T17:15:00Z"
+  },
+  
+  {
+    "id": "il_2026083006",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Columbus Clippers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-08-30T17:35:00Z"
+  },
+  
+  {
+    "id": "il_2026083007",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Nashville Sounds",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-08-30T18:05:00Z"
+  },
+  
+  {
+    "id": "il_2026083008",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-08-30T18:08:00Z"
+  },
+  
+  {
+    "id": "il_2026083009",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Toledo Mud Hens",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-08-30T19:07:00Z"
+  },
+  
+  {
+    "id": "il_2026083010",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Memphis Redbirds",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-08-30T21:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090101",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-01T20:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090102",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Worcester Red Sox",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-01T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090103",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Iowa Cubs",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-01T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090104",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Charlotte Knights",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-01T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090105",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Indianapolis Indians",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-01T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090106",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Rochester Red Wings",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-01T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090107",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-01T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090108",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Louisville Bats",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-01T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090109",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-01T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090110",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-01T23:45:00Z"
+  },
+  
+  {
+    "id": "il_2026090201",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-02T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090202",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-02T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090203",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Worcester Red Sox",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-02T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090204",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Iowa Cubs",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-02T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090205",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Charlotte Knights",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-02T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090206",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Indianapolis Indians",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-02T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090207",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Rochester Red Wings",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-02T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090208",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-02T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090209",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Louisville Bats",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-02T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090301",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-03T16:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090302",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Worcester Red Sox",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-03T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090303",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Iowa Cubs",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-03T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090304",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Indianapolis Indians",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-03T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090305",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Rochester Red Wings",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-03T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090306",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Charlotte Knights",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-03T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090307",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Louisville Bats",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090308",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090309",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-03T23:45:00Z"
+  },
+  
+  {
+    "id": "il_2026090401",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Worcester Red Sox",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-04T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090402",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Rochester Red Wings",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-04T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090403",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-04T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090404",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Iowa Cubs",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090405",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Charlotte Knights",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090406",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Indianapolis Indians",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090407",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Louisville Bats",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-04T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090408",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-04T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090509",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-05T00:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090501",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Charlotte Knights",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-05T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090502",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Worcester Red Sox",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-05T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090503",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Rochester Red Wings",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-05T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090504",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-05T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090505",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090506",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Iowa Cubs",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090507",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Indianapolis Indians",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090508",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090509",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Louisville Bats",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-05T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090601",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "Iowa Cubs",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-06T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090602",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Charlotte Knights",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-06T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090603",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Worcester Red Sox",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-06T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090604",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Louisville Bats",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-06T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090605",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Jacksonville Jumbo Shrimp",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-06T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090606",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Durham Bulls",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-06T18:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090607",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "St. Paul Saints",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-06T19:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090608",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Rochester Red Wings",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-06T21:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090609",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Indianapolis Indians",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-06T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090701",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-09-07T20:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090702",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Nashville Sounds",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-09-07T21:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090801",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Gwinnett Stripers",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-09-08T21:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090802",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Gwinnett Stripers",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-09-08T21:10:00Z"
+  },
+  
+  {
+    "id": "il_2026090803",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Columbus Clippers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-09-08T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090804",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Buffalo Bisons",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-08T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090805",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-09-08T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090806",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Worcester Red Sox",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-08T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026090807",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Syracuse Mets",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-09-08T23:37:00Z"
+  },
+  
+  {
+    "id": "il_2026090808",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-09-08T23:38:00Z"
+  },
+  
+  {
+    "id": "il_2026090809",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Norfolk Tides",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-08T23:45:00Z"
+  },
+  
+  {
+    "id": "il_2026090901",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Columbus Clippers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-09-09T16:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090902",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Norfolk Tides",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-09T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090903",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-09-09T17:08:00Z"
+  },
+  
+  {
+    "id": "il_2026090904",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-09-09T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090905",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Buffalo Bisons",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-09T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090906",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-09-09T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026090907",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Nashville Sounds",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-09-09T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026090908",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Worcester Red Sox",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-09T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026090909",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Gwinnett Stripers",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-09-09T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026090910",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Syracuse Mets",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-09-09T23:37:00Z"
+  },
+  
+  {
+    "id": "il_2026091001",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-09-10T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091002",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Columbus Clippers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-09-10T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091003",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-09-10T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091004",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Nashville Sounds",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-09-10T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026091005",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Worcester Red Sox",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-10T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026091006",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Buffalo Bisons",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-10T23:04:00Z"
+  },
+  
+  {
+    "id": "il_2026091007",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Gwinnett Stripers",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-09-10T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091008",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Syracuse Mets",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-09-10T23:37:00Z"
+  },
+  
+  {
+    "id": "il_2026091009",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-09-10T23:38:00Z"
+  },
+  
+  {
+    "id": "il_2026091010",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Norfolk Tides",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-10T23:45:00Z"
+  },
+  
+  {
+    "id": "il_2026091101",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-09-11T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091102",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-09-11T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091103",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Nashville Sounds",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-09-11T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026091104",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Worcester Red Sox",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-11T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026091105",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Buffalo Bisons",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-11T23:04:00Z"
+  },
+  
+  {
+    "id": "il_2026091106",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Gwinnett Stripers",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-09-11T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091107",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Columbus Clippers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-09-11T23:15:00Z"
+  },
+  
+  {
+    "id": "il_2026091108",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Syracuse Mets",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-09-11T23:37:00Z"
+  },
+  
+  {
+    "id": "il_2026091209",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Norfolk Tides",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-12T00:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091210",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-09-12T00:08:00Z"
+  },
+  
+  {
+    "id": "il_2026091201",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Buffalo Bisons",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-12T16:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091202",
+    "league": "IL",
+    "team": "Charlotte Knights",
+    "opponent": "Buffalo Bisons",
+    "arena": "Truist Field",
+    "city": "Charlotte, North Carolina",
+    "date": "2026-09-12T21:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091203",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-09-12T20:08:00Z"
+  },
+  
+  {
+    "id": "il_2026091204",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-09-12T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091205",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Syracuse Mets",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-09-12T22:07:00Z"
+  },
+  
+  {
+    "id": "il_2026091206",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-09-12T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091207",
+    "league": "IL",
+    "team": "Jacksonville Jumbo Shrimp",
+    "opponent": "Gwinnett Stripers",
+    "arena": "VyStar Ballpark",
+    "city": "Jacksonville, Florida",
+    "date": "2026-09-12T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091208",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Worcester Red Sox",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-12T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091209",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Nashville Sounds",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-09-12T22:45:00Z"
+  },
+  
+  {
+    "id": "il_2026091210",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Norfolk Tides",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-12T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091211",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Columbus Clippers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-09-12T23:15:00Z"
+  },
+  
+  {
+    "id": "il_2026091301",
+    "league": "IL",
+    "team": "Louisville Bats",
+    "opponent": "Columbus Clippers",
+    "arena": "Louisville Slugger Field",
+    "city": "Louisville , Kentucky",
+    "date": "2026-09-13T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091302",
+    "league": "IL",
+    "team": "Rochester Red Wings",
+    "opponent": "Scranton/Wilkes-Barre RailRiders",
+    "arena": "ESL Ballpark",
+    "city": "Rochester, New York",
+    "date": "2026-09-13T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091303",
+    "league": "IL",
+    "team": "Durham Bulls",
+    "opponent": "Nashville Sounds",
+    "arena": "Durham Bulls Athletic Park",
+    "city": "Durham, North Carolina",
+    "date": "2026-09-13T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091304",
+    "league": "IL",
+    "team": "Lehigh Valley IronPigs",
+    "opponent": "Worcester Red Sox",
+    "arena": "Coca-Cola Park",
+    "city": "Allentown, Pennsylvania",
+    "date": "2026-09-13T17:15:00Z"
+  },
+  
+  {
+    "id": "il_2026091305",
+    "league": "IL",
+    "team": "Indianapolis Indians",
+    "opponent": "Omaha Storm Chasers",
+    "arena": "Victory Field",
+    "city": "Indianapolis, Indiana",
+    "date": "2026-09-13T17:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091306",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "Norfolk Tides",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-13T18:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091307",
+    "league": "IL",
+    "team": "St. Paul Saints",
+    "opponent": "Syracuse Mets",
+    "arena": "CHS Field",
+    "city": "St Paul, Minnesota",
+    "date": "2026-09-13T18:07:00Z"
+  },
+  
+  {
+    "id": "il_2026091308",
+    "league": "IL",
+    "team": "Iowa Cubs",
+    "opponent": "Toledo Mud Hens",
+    "arena": "Principal Park",
+    "city": "Des Moines, Iowa",
+    "date": "2026-09-13T18:08:00Z"
+  },
+  
+  {
+    "id": "il_2026091501",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-15T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091502",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Durham Bulls",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-09-15T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091503",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-15T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091504",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-15T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091505",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Charlotte Knights",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-15T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091506",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-15T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091507",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "St. Paul Saints",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-15T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091508",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Iowa Cubs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-15T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091509",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Memphis Redbirds",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-15T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091601",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-16T15:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091602",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Durham Bulls",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-09-16T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091603",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-16T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091604",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-16T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091605",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Charlotte Knights",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-16T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091606",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-16T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091607",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "St. Paul Saints",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-16T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091608",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Iowa Cubs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-16T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091609",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Memphis Redbirds",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-16T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091701",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-17T16:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091702",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Charlotte Knights",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-17T16:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091703",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Durham Bulls",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-09-17T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091704",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-17T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091705",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-17T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091706",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "St. Paul Saints",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-17T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091707",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-17T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091708",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Iowa Cubs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-17T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091709",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Memphis Redbirds",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-17T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091801",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Durham Bulls",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-09-18T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091802",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-18T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091803",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Charlotte Knights",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-18T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091804",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-18T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091805",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-18T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091806",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-18T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091807",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "St. Paul Saints",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-18T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091808",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Iowa Cubs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-18T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091809",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Memphis Redbirds",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-18T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091901",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-19T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091902",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Iowa Cubs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-19T18:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091903",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Durham Bulls",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-09-19T20:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091904",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-19T21:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091905",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-19T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091906",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Charlotte Knights",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-19T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091907",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-19T22:35:00Z"
+  },
+  
+  {
+    "id": "il_2026091908",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "St. Paul Saints",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-19T23:05:00Z"
+  },
+  
+  {
+    "id": "il_2026091909",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Memphis Redbirds",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-19T23:35:00Z"
+  },
+  
+  {
+    "id": "il_2026092001",
+    "league": "IL",
+    "team": "Buffalo Bisons",
+    "opponent": "Rochester Red Wings",
+    "arena": "Sahlen Field",
+    "city": "Buffalo, New York",
+    "date": "2026-09-20T16:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092002",
+    "league": "IL",
+    "team": "Gwinnett Stripers",
+    "opponent": "Indianapolis Indians",
+    "arena": "Coolray Field",
+    "city": "Lawrenceville, Georgia",
+    "date": "2026-09-20T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092003",
+    "league": "IL",
+    "team": "Worcester Red Sox",
+    "opponent": "Durham Bulls",
+    "arena": "Polar Park",
+    "city": "Worcester, Massachusetts",
+    "date": "2026-09-20T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092004",
+    "league": "IL",
+    "team": "Norfolk Tides",
+    "opponent": "Charlotte Knights",
+    "arena": "Harbor Park",
+    "city": "Norfolk, Virginia",
+    "date": "2026-09-20T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092005",
+    "league": "IL",
+    "team": "Syracuse Mets",
+    "opponent": "Lehigh Valley IronPigs",
+    "arena": "NBT Bank Stadium",
+    "city": "Syracuse, New York",
+    "date": "2026-09-20T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092006",
+    "league": "IL",
+    "team": "Columbus Clippers",
+    "opponent": "St. Paul Saints",
+    "arena": "Huntington Park",
+    "city": "Columbus, Ohio",
+    "date": "2026-09-20T17:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092007",
+    "league": "IL",
+    "team": "Toledo Mud Hens",
+    "opponent": "Louisville Bats",
+    "arena": "Fifth Third Field",
+    "city": "Toledo, Ohio",
+    "date": "2026-09-20T18:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092008",
+    "league": "IL",
+    "team": "Omaha Storm Chasers",
+    "opponent": "Iowa Cubs",
+    "arena": "Werner Park",
+    "city": "Papillion, Nebraska",
+    "date": "2026-09-20T18:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092009",
+    "league": "IL",
+    "team": "Nashville Sounds",
+    "opponent": "Memphis Redbirds",
+    "arena": "First Horizon Park",
+    "city": "Nashville, Tennessee",
+    "date": "2026-09-20T22:05:00Z"
+  },
+  
+  {
+    "id": "il_2026092201",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "To Be Determined",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-22T07:33:00Z"
+  },
+  
+  {
+    "id": "il_2026092301",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "To Be Determined",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-23T07:33:00Z"
+  },
+  
+  {
+    "id": "il_2026092401",
+    "league": "IL",
+    "team": "Memphis Redbirds",
+    "opponent": "To Be Determined",
+    "arena": "AutoZone Park",
+    "city": "Memphis, Tennessee",
+    "date": "2026-09-24T07:33:00Z"
+  }  
 ]
