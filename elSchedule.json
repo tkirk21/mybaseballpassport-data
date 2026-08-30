@@ -877,45 +877,5 @@
     "arena": "CarMax Park",
     "city": "Richmond, Virginia",
     "date": "2026-09-13T18:05:00Z"
-  },
-  
-  {
-    "id": "el_2026091701",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "To Be Determined",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-09-17T22:30:00Z"
-  },
-  
-  {
-    "id": "el_2026091702",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "To Be Determined",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-09-17T22:45:00Z"
-  },
-  
-  {
-    "id": "el_2026091801",
-    "league": "EL",
-    "team": "Hartford Yard Goats",
-    "opponent": "To Be Determined",
-    "arena": "Dunkin' Park",
-    "city": "Hartford, Connecticut",
-    "date": "2026-09-18T22:30:00Z"
-  },
-  
-  {
-    "id": "el_2026091802",
-    "league": "EL",
-    "team": "Richmond Flying Squirrels",
-    "opponent": "To Be Determined",
-    "arena": "CarMax Park",
-    "city": "Richmond, Virginia",
-    "date": "2026-09-18T22:45:00Z"
-  }  
+  }
 ]
