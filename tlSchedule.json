@@ -1,948 +1,6 @@
 [ 
 
 {
-  "id": "tl_2026081101",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-11T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081102",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Midland RockHounds",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-11T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081203",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Arkansas Travelers",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-12T00:00:00Z"
-},
-
-{
-  "id": "tl_2026081204",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "San Antonio Missions",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-12T00:05:00Z",
-  "giveaway": {
-      "title": "Wine Wednesday",
-      "details": "Enjoy half-priced wine through the 7th inning on Wednesday night games!"
-    }
-},
-
-{
-  "id": "tl_2026081205",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-12T00:05:00Z",
-  "fireworks": {
-      "title": "Woof Wednesday \u2014 Bring your pups to the park and watch some fetch, every Wednesday night home game."
-    }
-},
-
-{
-  "id": "tl_2026081201",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081202",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Midland RockHounds",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081303",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Arkansas Travelers",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-13T00:00:00Z",
-  "giveaway": [
-      {
-        "title": "Ranch Dippers T-Shirt Giveaway",
-        "details": "Be one of the first 1,000 fans through the gates to receive a Ranch Dippers T-Shirt! Sizes available: Youth Large, Adult Medium, XL, XXL, & XXXL"
-      }
-    ]
-},
-
-{
-  "id": "tl_2026081304",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "San Antonio Missions",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-13T00:05:00Z",
-  "fireworks": {
-      "title": "Bark in the Park \u2014 Bring your four-legged, furry friend out for a RoughRiders baseball game, and enjoy out on the Family Lawn."
-    }
-},
-
-{
-  "id": "tl_2026081305",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-13T00:05:00Z",
-  "giveaway": [
-      {
-        "title": "Leongs Asian Diner Springfield Cashew Chickens Replica Jersey Giveaway (2,000)",
-        "details": "Delicious. 2,000 fans in attendance of the game on Thursday will be going home with their own Springfield Cashew Chickens Replica Jersey."
-      }
-    ]
-},
-
-{
-  "id": "tl_2026081301",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081302",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Midland RockHounds",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081403",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Arkansas Travelers",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-14T00:00:00Z"
-},
-
-{
-  "id": "tl_2026081404",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "San Antonio Missions",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-14T00:05:00Z",
-  "fireworks": {
-      "title": "Stay after the game as the RoughRiders light up the sky with a postgame fireworks spectacular!"
-    }
-},
-
-{
-  "id": "tl_2026081405",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-14T00:05:00Z",
-  "fireworks": {
-      "title": "After the final out, fans are invited down to our outfield grass to take in a postgame faith based concert with Caleb & John."
-    }
-  },
-
-{
-  "id": "tl_2026081401",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-14T23:35:00Z"
-},
-
-{
-  "id": "tl_2026081502",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Arkansas Travelers",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-15T00:00:00Z"
-},
-
-{
-  "id": "tl_2026081503",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "San Antonio Missions",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-15T00:05:00Z"
-},
-
-{
-  "id": "tl_2026081504",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-15T00:05:00Z"
-},
-
-{
-  "id": "tl_2026081505",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Midland RockHounds",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-15T00:05:00Z"
-},
-
-{
-  "id": "tl_2026081501",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-15T23:05:00Z"
-},
-
-{
-  "id": "tl_2026081502",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-15T23:35:00Z",
-  "giveaway": [
-      {
-        "title": "Hiland Dairy Kids Lunch Box Giveaway",
-        "details": "Be a hit at the lunch table with your own Hiland Dairy Kids Lunch Box with Springfield Cardinals branding, going to 1,500 kids 12-and-under in attendance."
-      }
-    ]
-},
-
-{
-  "id": "tl_2026081603",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Arkansas Travelers",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-16T00:00:00Z",
-  "giveaway": [
-      {
-        "title": "SpongeBob Bucket Hat Giveaway",
-        "details": "The first 1,500 fans through the gates will also receive a SpongeBob Bucket Hat!"
-      }
-    ]  
-},
-
-{
-  "id": "tl_2026081604",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "San Antonio Missions",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-16T00:05:00Z",
-  "giveaway": [
-      {
-        "title": "Kids Squishy Giveaway",
-        "details": "Kids 12 & under can arrive early to grab this limited-edition RoughRiders squishy at the gates!"
-      }
-    ],
-    "fireworks": {
-      "title": "Kids can circle the bases like their favorite RoughRiders players!"
-    }
-},
-
-{
-  "id": "tl_2026081605",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Midland RockHounds",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-16T00:05:00Z"
-},
-
-{
-  "id": "tl_2026081601",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-16T18:05:00Z"
-},
-
-{
-  "id": "tl_2026081602",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Midland RockHounds",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-16T18:05:00Z"
-},
-
-{
-  "id": "tl_2026081603",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "San Antonio Missions",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-16T23:05:00Z",
-  "giveaway": [
-      {
-        "title": "Youth Ice Cream Sock Giveaway",
-        "details": "Kids 12 & under can arrive early for an Ice Cream Sock Giveaway"
-      }
-    ]
-},
-
-{
-  "id": "tl_2026081604",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-16T23:05:00Z",
-  "giveaway": [
-      {
-        "title": "SpongeBob Specialty Jersey Auction",
-        "details": "Our auction of the Springfield Cardinals on-field Spongebob Specialty jerseys starts and ends in game."
-      },
-      {
-        "title": "SpongeBob Bucket Hat Theme Ticket",
-        "details": "Snag a theme ticket to the game on Sunday and receive both a seat for the game and a special Spongebob Bucket Hat."
-      }
-    ]
-},
-
-{
-  "id": "tl_2026081705",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Arkansas Travelers",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-17T00:00:00Z",
-  "giveaway": [
-      {
-        "title": "Sunglasses Giveaway",
-        "details": "Be one of the first 500 kids 14 and under to receive a pair of Drillers Sunglasses!"
-      }
-    ]
-},
-
-{
-  "id": "tl_2026081801",
-  "league": "TL",
-  "team": "Corpus Christi Hooks",
-  "opponent": "Midland RockHounds",
-  "arena": "Whataburger Field",
-  "city": "Corpus Christi, Texas",
-  "date": "2026-08-18T23:35:00Z",
-  "giveaway": [
-      {
-        "title": "Gulf Coast Capital Jersey",
-        "details": "While stock lasts."
-      }
-    ],
-    "fireworks": {
-      "title": "Use promo code HOOKS4FOR40 and receive four tickets, four hot dogs, and four sodas for just $40"
-    }
-},
-
-{
-  "id": "tl_2026081802",
-  "league": "TL",
-  "team": "Arkansas Travelers",
-  "opponent": "Springfield Cardinals",
-  "arena": "Dickey–Stephens Park",
-  "city": "Little Rock, Arkansas",
-  "date": "2026-08-18T23:35:00Z",
-  "fireworks": {
-      "title": "Join us in the Beer Garden for some pre-game music! Gates will open at 5:05 PM."
-    }
-},
-
-{
-  "id": "tl_2026081903",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Amarillo Sod Poodles",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-19T00:00:00Z"
-},
-
-{
-  "id": "tl_2026081904",
-  "league": "TL",
-  "team": "San Antonio Missions",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Nelson W. Wolff Municipal Stadium",
-  "city": "San Antonio, Texas",
-  "date": "2026-08-19T00:05:00Z"
-},
-
-{
-  "id": "tl_2026081905",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "Wichita Wind Surge",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-19T00:05:00Z",
-  "fireworks": {
-      "title": "For every night Tuesday game, the famous Lazy River will be open for single-game tickets for all ages to enjoy, with tickets for just $25!"
-    }
-
-},
-
-{
-  "id": "tl_2026081901",
-  "league": "TL",
-  "team": "Corpus Christi Hooks",
-  "opponent": "Midland RockHounds",
-  "arena": "Whataburger Field",
-  "city": "Corpus Christi, Texas",
-  "date": "2026-08-19T23:35:00Z",
-  "giveaway": [
-      {
-        "title": "Whataburger Family Day",
-        "details": "Fans can buy one ticket and get one free with promo code HOOKSBOGO"
-      }
-    ]
-  },
-
-{
-  "id": "tl_2026081902",
-  "league": "TL",
-  "team": "Arkansas Travelers",
-  "opponent": "Springfield Cardinals",
-  "arena": "Dickey–Stephens Park",
-  "city": "Little Rock, Arkansas",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082003",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Amarillo Sod Poodles",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-20T00:00:00Z"
-},
-
-{
-  "id": "tl_2026082004",
-  "league": "TL",
-  "team": "San Antonio Missions",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Nelson W. Wolff Municipal Stadium",
-  "city": "San Antonio, Texas",
-  "date": "2026-08-20T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082005",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "Wichita Wind Surge",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-20T00:05:00Z",
-  "fireworks": {
-      "title": "Enjoy half-priced wine through the 7th inning on Wednesday night games!"
-    }
-},
-
-{
-  "id": "tl_2026082001",
-  "league": "TL",
-  "team": "Corpus Christi Hooks",
-  "opponent": "Midland RockHounds",
-  "arena": "Whataburger Field",
-  "city": "Corpus Christi, Texas",
-  "date": "2026-08-20T23:35:00Z",
-  "giveaway": {
-      "title": "Scrubs Night",
-      "details": "Healthcare workers and their friends and families with $10 tickets and a free drink voucher!"
-    }
-},
-
-{
-  "id": "tl_2026082002",
-  "league": "TL",
-  "team": "Arkansas Travelers",
-  "opponent": "Springfield Cardinals",
-  "arena": "Dickey–Stephens Park",
-  "city": "Little Rock, Arkansas",
-  "date": "2026-08-20T23:35:00Z",
-  "fireworks": {
-      "title": "Fireworks Friday"
-    }
-},
-
-{
-  "id": "tl_2026082103",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Amarillo Sod Poodles",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-21T00:00:00Z"
-},
-
-{
-  "id": "tl_2026082104",
-  "league": "TL",
-  "team": "San Antonio Missions",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Nelson W. Wolff Municipal Stadium",
-  "city": "San Antonio, Texas",
-  "date": "2026-08-21T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082105",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "Wichita Wind Surge",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-21T00:05:00Z",
-  "fireworks": {
-      "title": "We're teaming up with Total Wine for Augtoberfest. Fans 21+ can enjoy samplings around the ballpark."
-    }
-},
-
-{
-  "id": "tl_2026082201",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Amarillo Sod Poodles",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-22T00:00:00Z",
-  "giveaway": [
-      {
-        "title": "Performance T-Shirt Giveaway",
-        "details": "Be one of the first 1,000 fans through the gates to receive a Drillers Performance T-Shirt!"
-      }
-    ]
-},
-
-{
-  "id": "tl_2026082202",
-  "league": "TL",
-  "team": "Corpus Christi Hooks",
-  "opponent": "Midland RockHounds",
-  "arena": "Whataburger Field",
-  "city": "Corpus Christi, Texas",
-  "date": "2026-08-22T00:05:00Z",
-  "fireworks": {
-      "title": "Bud Light Friday Fireworks"
-    }
-},
-
-{
-  "id": "tl_2026082203",
-  "league": "TL",
-  "team": "Arkansas Travelers",
-  "opponent": "Springfield Cardinals",
-  "arena": "Dickey–Stephens Park",
-  "city": "Little Rock, Arkansas",
-  "date": "2026-08-22T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082204",
-  "league": "TL",
-  "team": "San Antonio Missions",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Nelson W. Wolff Municipal Stadium",
-  "city": "San Antonio, Texas",
-  "date": "2026-08-22T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082205",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "Wichita Wind Surge",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-22T00:05:00Z",
-  "fireworks": {
-      "title": "Stay after the game as the RoughRiders light up the sky with a postgame fireworks spectacular!"
-    }
-},
-
-{
-  "id": "tl_2026082201",
-  "league": "TL",
-  "team": "Arkansas Travelers",
-  "opponent": "Springfield Cardinals",
-  "arena": "Dickey–Stephens Park",
-  "city": "Little Rock, Arkansas",
-  "date": "2026-08-22T23:05:00Z",
-  "giveaway": [
-      {
-        "title": "Hogwarts House Hat Giveaway",
-        "details": "Fans will receive a randomly-selected hat representing either Gryffindor, Slytherin, Ravenclaw or Hufflepuff."
-      }
-    ]
-},
-
-{
-  "id": "tl_2026082302",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Amarillo Sod Poodles",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-23T00:00:00Z",
-  "giveaway": [
-      {
-        "title": "Drillers Basketball Jersey Giveaway",
-        "details": "Be one of the first 1,500 fans through the gate to receive a Drillers Baskeball Jersey! Sizes available: Youth Large, Adult Medium, XL, XXL, & XXXL"
-      },
-      {
-       "title": "Drillers BeerFest", 
-       "details": "For just a $20 add-on to a Saturday night ticket, fans will receive a commemorative tasting glass that they can use to sample beers from local breweries at The Osage Picnic Pavilion from 5:30-7:30 p.m."
-      }
-    ]
-},
-
-{
-  "id": "tl_2026082303",
-  "league": "TL",
-  "team": "Corpus Christi Hooks",
-  "opponent": "Midland RockHounds",
-  "arena": "Whataburger Field",
-  "city": "Corpus Christi, Texas",
-  "date": "2026-08-23T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082304",
-  "league": "TL",
-  "team": "San Antonio Missions",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Nelson W. Wolff Municipal Stadium",
-  "city": "San Antonio, Texas",
-  "date": "2026-08-23T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082305",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "Wichita Wind Surge",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-23T00:05:00Z",
-  "giveaway": [
-      {
-        "title": "Arturo Disla \"The Buffalo\" Rally Towel Giveaway",
-        "details": "Arrive early to receive a rally towel while supplies last!"
-      }
-    ],
-    "fireworks": {
-      "title": "Stay after the game as the RoughRiders light up the sky with a postgame fireworks spectacular!"
-    }
-
-},
-
-{
-  "id": "tl_2026082301",
-  "league": "TL",
-  "team": "Tulsa Drillers",
-  "opponent": "Amarillo Sod Poodles",
-  "arena": "ONEOK Field",
-  "city": "Tulsa, Oklahoma",
-  "date": "2026-08-23T17:05:00Z",
-  "giveaway": [
-      {
-        "title": "Mr. Beast Jersey Giveaway",
-        "details": "Be one of the first 1,000 fans through the gate to receive a Drillers Mr. Beast Jersey! Sizes available: Youth Medium, Youth Large, Adult Medium, XL, XXL, and XXXL"
-      },
-      {
-        "title": "Kids Eat",
-        "details": "All kids 12 & Under receive a voucher for a FREE meal!"
-      }
-   ]
-},
-
-{
-  "id": "tl_2026082302",
-  "league": "TL",
-  "team": "Arkansas Travelers",
-  "opponent": "Springfield Cardinals",
-  "arena": "Dickey–Stephens Park",
-  "city": "Little Rock, Arkansas",
-  "date": "2026-08-23T18:35:00Z"
-},
-
-{
-  "id": "tl_2026082303",
-  "league": "TL",
-  "team": "Corpus Christi Hooks",
-  "opponent": "Midland RockHounds",
-  "arena": "Whataburger Field",
-  "city": "Corpus Christi, Texas",
-  "date": "2026-08-23T22:05:00Z"
-},
-
-{
-  "id": "tl_2026082304",
-  "league": "TL",
-  "team": "San Antonio Missions",
-  "opponent": "Northwest Arkansas Naturals",
-  "arena": "Nelson W. Wolff Municipal Stadium",
-  "city": "San Antonio, Texas",
-  "date": "2026-08-23T23:05:00Z"
-},
-
-{
-  "id": "tl_2026082305",
-  "league": "TL",
-  "team": "Frisco RoughRiders",
-  "opponent": "Wichita Wind Surge",
-  "arena": "Riders Field",
-  "city": "Frisco, Texas",
-  "date": "2026-08-23T23:05:00Z",
-  "giveaway": [
-      {
-        "title": "Smiling Teddy Big Chain Giveaway",
-        "details": "Kids 12 & under can arrive early to receive a Smiling Teddy Big Chain at the gates while supplies last!"
-      }
-    ],
-    "fireworks": {
-      "title": "Fans can enjoy pregame catch on the field and kid-centric themes every Sunday!"
-    }
-},
-
-{
-  "id": "tl_2026082501",
-  "league": "TL",
-  "team": "Midland RockHounds",
-  "opponent": "Tulsa Drillers",
-  "arena": "Momentum Bank Ballpark",
-  "city": "Midland, Texas",
-  "date": "2026-08-25T23:30:00Z"
-},
-
-{
-  "id": "tl_2026082502",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "San Antonio Missions",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-25T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082503",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Arkansas Travelers",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-25T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082504",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-25T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082605",
-  "league": "TL",
-  "team": "Northwest Arkansas Naturals",
-  "opponent": "Frisco RoughRiders",
-  "arena": "Arvest Ballpark",
-  "city": "Springdale, Arkansas",
-  "date": "2026-08-26T00:05:00Z",
-  "giveaway": {
-      "title": "Unused Ticket Game", 
-      "details": "Fans with any unused or unscanned tickets from the 2026 season can be exchanged in-person at the Arvest Ballpark Box Office for a ticket of equal value for today's game."
-    }
-
-},
-
-{
-  "id": "tl_2026082601",
-  "league": "TL",
-  "team": "Midland RockHounds",
-  "opponent": "Tulsa Drillers",
-  "arena": "Momentum Bank Ballpark",
-  "city": "Midland, Texas",
-  "date": "2026-08-26T23:30:00Z"
-},
-
-{
-  "id": "tl_2026082602",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "San Antonio Missions",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-26T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082603",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Arkansas Travelers",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-26T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082604",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-26T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082705",
-  "league": "TL",
-  "team": "Northwest Arkansas Naturals",
-  "opponent": "Frisco RoughRiders",
-  "arena": "Arvest Ballpark",
-  "city": "Springdale, Arkansas",
-  "date": "2026-08-27T00:05:00Z"
-},
-
-{
-  "id": "tl_2026082701",
-  "league": "TL",
-  "team": "Springfield Cardinals",
-  "opponent": "San Antonio Missions",
-  "arena": "Hammons Field",
-  "city": "Springfield, Missouri",
-  "date": "2026-08-27T23:35:00Z",
-  "giveaway": [
-      {
-        "title": "Chappell Roan Night Specialty Jersey Auction",
-        "details": "Our auction of the Springfield Cardinals on-field Chappell Roan Specialty jerseys starts and ends in game."
-      },
-      {
-        "title": "Midwest Princess Hat Theme Ticket",
-        "details": "Snag a theme ticket to the game Thursday that includes a ticket to the game and an official Chappell Roan Tour Midwest Princess Hat!"
-      }
-    ]
-},
-
-{
-  "id": "tl_2026082702",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Arkansas Travelers",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-27T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082703",
-  "league": "TL",
-  "team": "Amarillo Sod Poodles",
-  "opponent": "Corpus Christi Hooks",
-  "arena": "Hodgetown",
-  "city": "Amarillo, Texas",
-  "date": "2026-08-27T23:35:00Z"
-},
-
-{
-  "id": "tl_2026082804",
-  "league": "TL",
-  "team": "Midland RockHounds",
-  "opponent": "Tulsa Drillers",
-  "arena": "Momentum Bank Ballpark",
-  "city": "Midland, Texas",
-  "date": "2026-08-28T00:00:00Z"
-},
-
-{
-  "id": "tl_2026082805",
-  "league": "TL",
-  "team": "Northwest Arkansas Naturals",
-  "opponent": "Frisco RoughRiders",
-  "arena": "Arvest Ballpark",
-  "city": "Springdale, Arkansas",
-  "date": "2026-08-28T00:05:00Z",
-  "giveaway": {
-      "title": "Thirsty Thursday\u2122",
-      "details": "Enjoy $2 drafts at two locations, $2 Peanuts, and $1 Small Coca-Cola Fountain Drinks at tonight's game."
-    }
-},
-
-{
-  "id": "tl_2026082801",
-  "league": "TL",
-  "team": "Wichita Wind Surge",
-  "opponent": "Arkansas Travelers",
-  "arena": "Equity Bank Park",
-  "city": "Wichita, Kansas",
-  "date": "2026-08-28T23:35:00Z"
-},
-
-{
   "id": "tl_2026082902",
   "league": "TL",
   "team": "Midland RockHounds",
@@ -1113,5 +171,616 @@
       "title": "Free Kids Snack",
       "details": "Kids 12 and under will receive a voucher for a FREE Kids Snack as they enter the gates."
     }
+},
+
+  {
+  "id": "tl_2026090101",
+  "league": "TL",
+  "team": "Corpus Christi Hooks",
+  "opponent": "Springfield Cardinals",
+  "arena": "Whataburger Field",
+  "city": "Corpus Christi, Texas",
+  "date": "2026-09-01T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090102",
+  "league": "TL",
+  "team": "Arkansas Travelers",
+  "opponent": "Northwest Arkansas Naturals",
+  "arena": "Dickey–Stephens Park",
+  "city": "Little Rock, Arkansas",
+  "date": "2026-09-01T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090203",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "Wichita Wind Surge",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-02T00:00:00Z"
+},
+
+{
+  "id": "tl_2026090204",
+  "league": "TL",
+  "team": "San Antonio Missions",
+  "opponent": "Midland RockHounds",
+  "arena": "Nelson W. Wolff Municipal Stadium",
+  "city": "San Antonio, Texas",
+  "date": "2026-09-02T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090205",
+  "league": "TL",
+  "team": "Frisco RoughRiders",
+  "opponent": "Amarillo Sod Poodles",
+  "arena": "Riders Field",
+  "city": "Frisco, Texas",
+  "date": "2026-09-02T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090201",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "Wichita Wind Surge",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-02T17:05:00Z"
+},
+
+{
+  "id": "tl_2026090202",
+  "league": "TL",
+  "team": "Corpus Christi Hooks",
+  "opponent": "Springfield Cardinals",
+  "arena": "Whataburger Field",
+  "city": "Corpus Christi, Texas",
+  "date": "2026-09-02T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090203",
+  "league": "TL",
+  "team": "Arkansas Travelers",
+  "opponent": "Northwest Arkansas Naturals",
+  "arena": "Dickey–Stephens Park",
+  "city": "Little Rock, Arkansas",
+  "date": "2026-09-02T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090304",
+  "league": "TL",
+  "team": "San Antonio Missions",
+  "opponent": "Midland RockHounds",
+  "arena": "Nelson W. Wolff Municipal Stadium",
+  "city": "San Antonio, Texas",
+  "date": "2026-09-03T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090305",
+  "league": "TL",
+  "team": "Frisco RoughRiders",
+  "opponent": "Amarillo Sod Poodles",
+  "arena": "Riders Field",
+  "city": "Frisco, Texas",
+  "date": "2026-09-03T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090301",
+  "league": "TL",
+  "team": "Corpus Christi Hooks",
+  "opponent": "Springfield Cardinals",
+  "arena": "Whataburger Field",
+  "city": "Corpus Christi, Texas",
+  "date": "2026-09-03T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090302",
+  "league": "TL",
+  "team": "Arkansas Travelers",
+  "opponent": "Northwest Arkansas Naturals",
+  "arena": "Dickey–Stephens Park",
+  "city": "Little Rock, Arkansas",
+  "date": "2026-09-03T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090403",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "Wichita Wind Surge",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-04T00:00:00Z"
+},
+
+{
+  "id": "tl_2026090404",
+  "league": "TL",
+  "team": "San Antonio Missions",
+  "opponent": "Midland RockHounds",
+  "arena": "Nelson W. Wolff Municipal Stadium",
+  "city": "San Antonio, Texas",
+  "date": "2026-09-04T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090405",
+  "league": "TL",
+  "team": "Frisco RoughRiders",
+  "opponent": "Amarillo Sod Poodles",
+  "arena": "Riders Field",
+  "city": "Frisco, Texas",
+  "date": "2026-09-04T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090501",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "Wichita Wind Surge",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-05T00:00:00Z"
+},
+
+{
+  "id": "tl_2026090502",
+  "league": "TL",
+  "team": "Corpus Christi Hooks",
+  "opponent": "Springfield Cardinals",
+  "arena": "Whataburger Field",
+  "city": "Corpus Christi, Texas",
+  "date": "2026-09-05T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090503",
+  "league": "TL",
+  "team": "San Antonio Missions",
+  "opponent": "Midland RockHounds",
+  "arena": "Nelson W. Wolff Municipal Stadium",
+  "city": "San Antonio, Texas",
+  "date": "2026-09-05T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090504",
+  "league": "TL",
+  "team": "Arkansas Travelers",
+  "opponent": "Northwest Arkansas Naturals",
+  "arena": "Dickey–Stephens Park",
+  "city": "Little Rock, Arkansas",
+  "date": "2026-09-05T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090505",
+  "league": "TL",
+  "team": "Frisco RoughRiders",
+  "opponent": "Amarillo Sod Poodles",
+  "arena": "Riders Field",
+  "city": "Frisco, Texas",
+  "date": "2026-09-05T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090501",
+  "league": "TL",
+  "team": "Arkansas Travelers",
+  "opponent": "Northwest Arkansas Naturals",
+  "arena": "Dickey–Stephens Park",
+  "city": "Little Rock, Arkansas",
+  "date": "2026-09-05T23:05:00Z"
+},
+
+{
+  "id": "tl_2026090602",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "Wichita Wind Surge",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-06T00:00:00Z"
+},
+
+{
+  "id": "tl_2026090603",
+  "league": "TL",
+  "team": "Corpus Christi Hooks",
+  "opponent": "Springfield Cardinals",
+  "arena": "Whataburger Field",
+  "city": "Corpus Christi, Texas",
+  "date": "2026-09-06T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090604",
+  "league": "TL",
+  "team": "San Antonio Missions",
+  "opponent": "Midland RockHounds",
+  "arena": "Nelson W. Wolff Municipal Stadium",
+  "city": "San Antonio, Texas",
+  "date": "2026-09-06T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090605",
+  "league": "TL",
+  "team": "Frisco RoughRiders",
+  "opponent": "Amarillo Sod Poodles",
+  "arena": "Riders Field",
+  "city": "Frisco, Texas",
+  "date": "2026-09-06T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090601",
+  "league": "TL",
+  "team": "Frisco RoughRiders",
+  "opponent": "Amarillo Sod Poodles",
+  "arena": "Riders Field",
+  "city": "Frisco, Texas",
+  "date": "2026-09-06T19:05:00Z"
+},
+
+{
+  "id": "tl_2026090602",
+  "league": "TL",
+  "team": "Corpus Christi Hooks",
+  "opponent": "Springfield Cardinals",
+  "arena": "Whataburger Field",
+  "city": "Corpus Christi, Texas",
+  "date": "2026-09-06T22:05:00Z"
+},
+
+{
+  "id": "tl_2026090603",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "Wichita Wind Surge",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-06T23:00:00Z"
+},
+
+{
+  "id": "tl_2026090604",
+  "league": "TL",
+  "team": "San Antonio Missions",
+  "opponent": "Midland RockHounds",
+  "arena": "Nelson W. Wolff Municipal Stadium",
+  "city": "San Antonio, Texas",
+  "date": "2026-09-06T23:05:00Z"
+},
+
+{
+  "id": "tl_2026090605",
+  "league": "TL",
+  "team": "Arkansas Travelers",
+  "opponent": "Northwest Arkansas Naturals",
+  "arena": "Dickey–Stephens Park",
+  "city": "Little Rock, Arkansas",
+  "date": "2026-09-06T23:05:00Z"
+},
+
+{
+  "id": "tl_2026090801",
+  "league": "TL",
+  "team": "Midland RockHounds",
+  "opponent": "Corpus Christi Hooks",
+  "arena": "Momentum Bank Ballpark",
+  "city": "Midland, Texas",
+  "date": "2026-09-08T23:30:00Z"
+},
+
+{
+  "id": "tl_2026090802",
+  "league": "TL",
+  "team": "Springfield Cardinals",
+  "opponent": "Arkansas Travelers",
+  "arena": "Hammons Field",
+  "city": "Springfield, Missouri",
+  "date": "2026-09-08T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090803",
+  "league": "TL",
+  "team": "Wichita Wind Surge",
+  "opponent": "Frisco RoughRiders",
+  "arena": "Equity Bank Park",
+  "city": "Wichita, Kansas",
+  "date": "2026-09-08T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090804",
+  "league": "TL",
+  "team": "Amarillo Sod Poodles",
+  "opponent": "San Antonio Missions",
+  "arena": "Hodgetown",
+  "city": "Amarillo, Texas",
+  "date": "2026-09-08T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090905",
+  "league": "TL",
+  "team": "Northwest Arkansas Naturals",
+  "opponent": "Tulsa Drillers",
+  "arena": "Arvest Ballpark",
+  "city": "Springdale, Arkansas",
+  "date": "2026-09-09T00:05:00Z"
+},
+
+{
+  "id": "tl_2026090901",
+  "league": "TL",
+  "team": "Midland RockHounds",
+  "opponent": "Corpus Christi Hooks",
+  "arena": "Momentum Bank Ballpark",
+  "city": "Midland, Texas",
+  "date": "2026-09-09T23:30:00Z"
+},
+
+{
+  "id": "tl_2026090902",
+  "league": "TL",
+  "team": "Springfield Cardinals",
+  "opponent": "Arkansas Travelers",
+  "arena": "Hammons Field",
+  "city": "Springfield, Missouri",
+  "date": "2026-09-09T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090903",
+  "league": "TL",
+  "team": "Wichita Wind Surge",
+  "opponent": "Frisco RoughRiders",
+  "arena": "Equity Bank Park",
+  "city": "Wichita, Kansas",
+  "date": "2026-09-09T23:35:00Z"
+},
+
+{
+  "id": "tl_2026090904",
+  "league": "TL",
+  "team": "Amarillo Sod Poodles",
+  "opponent": "San Antonio Missions",
+  "arena": "Hodgetown",
+  "city": "Amarillo, Texas",
+  "date": "2026-09-09T23:35:00Z"
+},
+
+{
+  "id": "tl_2026091005",
+  "league": "TL",
+  "team": "Northwest Arkansas Naturals",
+  "opponent": "Tulsa Drillers",
+  "arena": "Arvest Ballpark",
+  "city": "Springdale, Arkansas",
+  "date": "2026-09-10T00:05:00Z"
+},
+
+{
+  "id": "tl_2026091001",
+  "league": "TL",
+  "team": "Springfield Cardinals",
+  "opponent": "Arkansas Travelers",
+  "arena": "Hammons Field",
+  "city": "Springfield, Missouri",
+  "date": "2026-09-10T23:35:00Z"
+},
+
+{
+  "id": "tl_2026091002",
+  "league": "TL",
+  "team": "Wichita Wind Surge",
+  "opponent": "Frisco RoughRiders",
+  "arena": "Equity Bank Park",
+  "city": "Wichita, Kansas",
+  "date": "2026-09-10T23:35:00Z"
+},
+
+{
+  "id": "tl_2026091003",
+  "league": "TL",
+  "team": "Amarillo Sod Poodles",
+  "opponent": "San Antonio Missions",
+  "arena": "Hodgetown",
+  "city": "Amarillo, Texas",
+  "date": "2026-09-10T23:35:00Z"
+},
+
+{
+  "id": "tl_2026091104",
+  "league": "TL",
+  "team": "Midland RockHounds",
+  "opponent": "Corpus Christi Hooks",
+  "arena": "Momentum Bank Ballpark",
+  "city": "Midland, Texas",
+  "date": "2026-09-11T00:00:00Z"
+},
+
+{
+  "id": "tl_2026091105",
+  "league": "TL",
+  "team": "Northwest Arkansas Naturals",
+  "opponent": "Tulsa Drillers",
+  "arena": "Arvest Ballpark",
+  "city": "Springdale, Arkansas",
+  "date": "2026-09-11T00:05:00Z"
+},
+
+{
+  "id": "tl_2026091101",
+  "league": "TL",
+  "team": "Wichita Wind Surge",
+  "opponent": "Frisco RoughRiders",
+  "arena": "Equity Bank Park",
+  "city": "Wichita, Kansas",
+  "date": "2026-09-11T23:35:00Z"
+},
+
+{
+  "id": "tl_2026091202",
+  "league": "TL",
+  "team": "Midland RockHounds",
+  "opponent": "Corpus Christi Hooks",
+  "arena": "Momentum Bank Ballpark",
+  "city": "Midland, Texas",
+  "date": "2026-09-12T00:00:00Z"
+},
+
+{
+  "id": "tl_2026091203",
+  "league": "TL",
+  "team": "Springfield Cardinals",
+  "opponent": "Arkansas Travelers",
+  "arena": "Hammons Field",
+  "city": "Springfield, Missouri",
+  "date": "2026-09-12T00:05:00Z"
+},
+
+{
+  "id": "tl_2026091204",
+  "league": "TL",
+  "team": "Northwest Arkansas Naturals",
+  "opponent": "Tulsa Drillers",
+  "arena": "Arvest Ballpark",
+  "city": "Springdale, Arkansas",
+  "date": "2026-09-12T00:05:00Z"
+},
+
+{
+  "id": "tl_2026091205",
+  "league": "TL",
+  "team": "Amarillo Sod Poodles",
+  "opponent": "San Antonio Missions",
+  "arena": "Hodgetown",
+  "city": "Amarillo, Texas",
+  "date": "2026-09-12T00:05:00Z"
+},
+
+{
+  "id": "tl_2026091201",
+  "league": "TL",
+  "team": "Northwest Arkansas Naturals",
+  "opponent": "Tulsa Drillers",
+  "arena": "Arvest Ballpark",
+  "city": "Springdale, Arkansas",
+  "date": "2026-09-12T23:05:00Z"
+},
+
+{
+  "id": "tl_2026091202",
+  "league": "TL",
+  "team": "Wichita Wind Surge",
+  "opponent": "Frisco RoughRiders",
+  "arena": "Equity Bank Park",
+  "city": "Wichita, Kansas",
+  "date": "2026-09-12T23:05:00Z"
+},
+
+{
+  "id": "tl_2026091203",
+  "league": "TL",
+  "team": "Springfield Cardinals",
+  "opponent": "Arkansas Travelers",
+  "arena": "Hammons Field",
+  "city": "Springfield, Missouri",
+  "date": "2026-09-12T23:35:00Z"
+},
+
+{
+  "id": "tl_2026091304",
+  "league": "TL",
+  "team": "Midland RockHounds",
+  "opponent": "Corpus Christi Hooks",
+  "arena": "Momentum Bank Ballpark",
+  "city": "Midland, Texas",
+  "date": "2026-09-13T00:00:00Z"
+},
+
+{
+  "id": "tl_2026091305",
+  "league": "TL",
+  "team": "Amarillo Sod Poodles",
+  "opponent": "San Antonio Missions",
+  "arena": "Hodgetown",
+  "city": "Amarillo, Texas",
+  "date": "2026-09-13T00:05:00Z"
+},
+
+{
+  "id": "tl_2026091301",
+  "league": "TL",
+  "team": "Midland RockHounds",
+  "opponent": "Corpus Christi Hooks",
+  "arena": "Momentum Bank Ballpark",
+  "city": "Midland, Texas",
+  "date": "2026-09-13T18:00:00Z"
+},
+
+{
+  "id": "tl_2026091302",
+  "league": "TL",
+  "team": "Wichita Wind Surge",
+  "opponent": "Frisco RoughRiders",
+  "arena": "Equity Bank Park",
+  "city": "Wichita, Kansas",
+  "date": "2026-09-13T18:05:00Z"
+},
+
+{
+  "id": "tl_2026091303",
+  "league": "TL",
+  "team": "Amarillo Sod Poodles",
+  "opponent": "San Antonio Missions",
+  "arena": "Hodgetown",
+  "city": "Amarillo, Texas",
+  "date": "2026-09-13T18:05:00Z"
+},
+
+{
+  "id": "tl_2026091304",
+  "league": "TL",
+  "team": "Springfield Cardinals",
+  "opponent": "Arkansas Travelers",
+  "arena": "Hammons Field",
+  "city": "Springfield, Missouri",
+  "date": "2026-09-13T18:15:00Z"
+},
+
+{
+  "id": "tl_2026091305",
+  "league": "TL",
+  "team": "Northwest Arkansas Naturals",
+  "opponent": "Tulsa Drillers",
+  "arena": "Arvest Ballpark",
+  "city": "Springdale, Arkansas",
+  "date": "2026-09-13T19:05:00Z"
+},
+
+{
+  "id": "tl_2026091701",
+  "league": "TL",
+  "team": "Tulsa Drillers",
+  "opponent": "To Be Determined",
+  "arena": "ONEOK Field",
+  "city": "Tulsa, Oklahoma",
+  "date": "2026-09-17T23:30:00Z"
 }
+  
 ]
