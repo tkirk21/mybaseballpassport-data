@@ -270,7 +270,7 @@
     "date": "2026-09-01T23:35:00Z"
   },
   
-  DEBUG day=2 looking_for='Frontier League' found=True
+
   {
     "id": "fl_2026090201",
     "league": "FL",
@@ -361,7 +361,7 @@
     "date": "2026-09-02T23:35:00Z"
   },
   
-  DEBUG day=3 looking_for='Frontier League' found=True
+
   {
     "id": "fl_2026090301",
     "league": "FL",
@@ -452,7 +452,7 @@
     "date": "2026-09-03T23:35:00Z"
   },
   
-  DEBUG day=4 looking_for='Frontier League' found=True
+ 
   {
     "id": "fl_2026090401",
     "league": "FL",
@@ -543,7 +543,7 @@
     "date": "2026-09-04T23:30:00Z"
   },
   
-  DEBUG day=5 looking_for='Frontier League' found=True
+
   {
     "id": "fl_2026090501",
     "league": "FL",
@@ -634,7 +634,7 @@
     "date": "2026-09-05T23:30:00Z"
   },
   
-  DEBUG day=6 looking_for='Frontier League' found=True
+
   {
     "id": "fl_2026090601",
     "league": "FL",
