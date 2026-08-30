@@ -357,47 +357,7 @@
   "arena": "Lake Elsinore Diamond",
   "city": "Lake Elsinore, California",
   "date": "2026-09-07T01:05:00Z"
-},
-
-{
-  "id": "cal_2026091101",
-  "league": "CAL",
-  "team": "Lake Elsinore Storm",
-  "opponent": "To Be Determined",
-  "arena": "Lake Elsinore Diamond",
-  "city": "Lake Elsinore, California",
-  "date": "2026-09-11T01:05:00Z"
-},
-
-{
-  "id": "cal_2026091102",
-  "league": "CAL",
-  "team": "San Jose Giants",
-  "opponent": "To Be Determined",
-  "arena": "Excite Ballpark",
-  "city": "San Jose, California",
-  "date": "2026-09-11T01:30:00Z"
-},
-
-{
-  "id": "cal_2026091201",
-  "league": "CAL",
-  "team": "Lake Elsinore Storm",
-  "opponent": "To Be Determined",
-  "arena": "Lake Elsinore Diamond",
-  "city": "Lake Elsinore, California",
-  "date": "2026-09-12T01:45:00Z"
-},
-
-{
-  "id": "cal_2026091202",
-  "league": "CAL",
-  "team": "San Jose Giants",
-  "opponent": "To Be Determined",
-  "arena": "Excite Ballpark",
-  "city": "San Jose, California",
-  "date": "2026-09-12T01:30:00Z"
-}   
+}
   
     
   
