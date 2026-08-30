@@ -1,2991 +1,727 @@
 [
+
   {
-    "id": "fl_2026072401",
-    "league": "FL",
-    "team": "Tri-City ValleyCats",
-    "opponent": "New Jersey Jackals",
-    "arena": "Joseph L. Bruno Stadium",
-    "city": "Troy, New York",
-    "date": "2026-07-24T22:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072402",
-    "league": "FL",
-    "team": "Quebec Les Capitales",
-    "opponent": "Down East Bird Dawgs",
-    "arena": "Stade Canac",
-    "city": "Quebec City, Quebec",
-    "date": "2026-07-24T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072403",
-    "league": "FL",
-    "team": "Sussex County Miners",
-    "opponent": "New York Boulders",
-    "arena": "Skylands Stadium",
-    "city": "Augusta, New Jersey",
-    "date": "2026-07-24T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072404",
+    "id": "fl_2026082901",
     "league": "FL",
     "team": "Trois-Rivieres Aigles",
-    "opponent": "Ottawa Titans",
+    "opponent": "Joliet Slammers",
     "arena": "Stade Quillorama",
     "city": "Trois-Rivières, Quebec",
-    "date": "2026-07-24T23:05:00Z"
+    "date": "2026-08-29T22:05:00Z"
   },
   
   {
-    "id": "fl_2026072405",
-    "league": "FL",
-    "team": "Washington Wild Things",
-    "opponent": "Brockton Rox",
-    "arena": "EQT Park",
-    "city": "Washington, Pennsylvania",
-    "date": "2026-07-24T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072406",
-    "league": "FL",
-    "team": "Gateway Grizzlies",
-    "opponent": "Lake Erie Crushers",
-    "arena": "Arsenal BG Ballpark",
-    "city": "Sauget, Illinois",
-    "date": "2026-07-24T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072407",
-    "league": "FL",
-    "team": "Mississippi Mud Monsters",
-    "opponent": "Evansville Otters",
-    "arena": "Trustmark Park",
-    "city": "Pearl, Mississippi",
-    "date": "2026-07-24T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072408",
-    "league": "FL",
-    "team": "Schaumburg Boomers",
-    "opponent": "Joliet Slammers",
-    "arena": "Wintrust Field",
-    "city": "Schaumburg, Illinois",
-    "date": "2026-07-24T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072409",
-    "league": "FL",
-    "team": "Windy City ThunderBolts",
-    "opponent": "Florence Y'alls",
-    "arena": "Ozinga Field",
-    "city": "Crestwood, Illinois",
-    "date": "2026-07-24T23:35:00Z"
-  },
-  
-  {
-    "id": "fl_2026072501",
-    "league": "FL",
-    "team": "Trois-Rivieres Aigles",
-    "opponent": "Ottawa Titans",
-    "arena": "Stade Quillorama",
-    "city": "Trois-Rivières, Quebec",
-    "date": "2026-07-25T22:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072502",
-    "league": "FL",
-    "team": "Tri-City ValleyCats",
-    "opponent": "New Jersey Jackals",
-    "arena": "Joseph L. Bruno Stadium",
-    "city": "Troy, New York",
-    "date": "2026-07-25T22:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072503",
-    "league": "FL",
-    "team": "Sussex County Miners",
-    "opponent": "New York Boulders",
-    "arena": "Skylands Stadium",
-    "city": "Augusta, New Jersey",
-    "date": "2026-07-25T22:35:00Z"
-  },
-  
-  {
-    "id": "fl_2026072504",
-    "league": "FL",
-    "team": "Mississippi Mud Monsters",
-    "opponent": "Evansville Otters",
-    "arena": "Trustmark Park",
-    "city": "Pearl, Mississippi",
-    "date": "2026-07-25T23:01:00Z"
-  },
-  
-  {
-    "id": "fl_2026072505",
-    "league": "FL",
-    "team": "Quebec Les Capitales",
-    "opponent": "Down East Bird Dawgs",
-    "arena": "Stade Canac",
-    "city": "Quebec City, Quebec",
-    "date": "2026-07-25T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072506",
-    "league": "FL",
-    "team": "Washington Wild Things",
-    "opponent": "Brockton Rox",
-    "arena": "EQT Park",
-    "city": "Washington, Pennsylvania",
-    "date": "2026-07-25T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072507",
-    "league": "FL",
-    "team": "Windy City ThunderBolts",
-    "opponent": "Florence Y'alls",
-    "arena": "Ozinga Field",
-    "city": "Crestwood, Illinois",
-    "date": "2026-07-25T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072508",
-    "league": "FL",
-    "team": "Gateway Grizzlies",
-    "opponent": "Lake Erie Crushers",
-    "arena": "Arsenal BG Ballpark",
-    "city": "Sauget, Illinois",
-    "date": "2026-07-25T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072509",
-    "league": "FL",
-    "team": "Schaumburg Boomers",
-    "opponent": "Joliet Slammers",
-    "arena": "Wintrust Field",
-    "city": "Schaumburg, Illinois",
-    "date": "2026-07-25T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072601",
-    "league": "FL",
-    "team": "Sussex County Miners",
-    "opponent": "New York Boulders",
-    "arena": "Skylands Stadium",
-    "city": "Augusta, New Jersey",
-    "date": "2026-07-26T17:35:00Z"
-  },
-  
-  {
-    "id": "fl_2026072602",
-    "league": "FL",
-    "team": "Schaumburg Boomers",
-    "opponent": "Joliet Slammers",
-    "arena": "Wintrust Field",
-    "city": "Schaumburg, Illinois",
-    "date": "2026-07-26T18:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026072603",
-    "league": "FL",
-    "team": "Gateway Grizzlies",
-    "opponent": "Lake Erie Crushers",
-    "arena": "Arsenal BG Ballpark",
-    "city": "Sauget, Illinois",
-    "date": "2026-07-26T18:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072604",
-    "league": "FL",
-    "team": "Windy City ThunderBolts",
-    "opponent": "Florence Y'alls",
-    "arena": "Ozinga Field",
-    "city": "Crestwood, Illinois",
-    "date": "2026-07-26T18:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072605",
-    "league": "FL",
-    "team": "Washington Wild Things",
-    "opponent": "Brockton Rox",
-    "arena": "EQT Park",
-    "city": "Washington, Pennsylvania",
-    "date": "2026-07-26T20:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072606",
-    "league": "FL",
-    "team": "Tri-City ValleyCats",
-    "opponent": "New Jersey Jackals",
-    "arena": "Joseph L. Bruno Stadium",
-    "city": "Troy, New York",
-    "date": "2026-07-26T21:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026072607",
-    "league": "FL",
-    "team": "Quebec Les Capitales",
-    "opponent": "Down East Bird Dawgs",
-    "arena": "Stade Canac",
-    "city": "Quebec City, Quebec",
-    "date": "2026-07-26T21:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072608",
-    "league": "FL",
-    "team": "Trois-Rivieres Aigles",
-    "opponent": "Ottawa Titans",
-    "arena": "Stade Quillorama",
-    "city": "Trois-Rivières, Quebec",
-    "date": "2026-07-26T21:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072609",
-    "league": "FL",
-    "team": "Mississippi Mud Monsters",
-    "opponent": "Evansville Otters",
-    "arena": "Trustmark Park",
-    "city": "Pearl, Mississippi",
-    "date": "2026-07-26T23:01:00Z"
-  },
-  
-  {
-    "id": "fl_2026072801",
+    "id": "fl_2026082902",
     "league": "FL",
     "team": "Brockton Rox",
-    "opponent": "Washington Wild Things",
+    "opponent": "New York Boulders",
     "arena": "Campanelli Stadium",
     "city": "Brockton, Massachusetts",
-    "date": "2026-07-28T14:30:00Z"
+    "date": "2026-08-29T22:30:00Z"
   },
   
   {
-    "id": "fl_2026072802",
+    "id": "fl_2026082903",
     "league": "FL",
-    "team": "Ottawa Titans",
-    "opponent": "Sussex County Miners",
-    "arena": "Ottawa Stadium",
-    "city": "Ottawa, Ontario",
-    "date": "2026-07-28T22:30:00Z"
+    "team": "Tri-City ValleyCats",
+    "opponent": "Down East Bird Dawgs",
+    "arena": "Joseph L. Bruno Stadium",
+    "city": "Troy, New York",
+    "date": "2026-08-29T22:30:00Z"
   },
   
   {
-    "id": "fl_2026072803",
+    "id": "fl_2026082904",
     "league": "FL",
     "team": "Florence Y'alls",
-    "opponent": "Joliet Slammers",
+    "opponent": "Washington Wild Things",
     "arena": "Thomas More Stadium",
     "city": "Florence, Kentucky",
-    "date": "2026-07-28T22:52:00Z"
+    "date": "2026-08-29T22:36:00Z"
   },
   
   {
-    "id": "fl_2026072804",
-    "league": "FL",
-    "team": "Down East Bird Dawgs",
-    "opponent": "Tri-City ValleyCats",
-    "arena": "Grainger Stadium",
-    "city": "Kinston, North Carolina",
-    "date": "2026-07-28T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026072805",
+    "id": "fl_2026082905",
     "league": "FL",
     "team": "New Jersey Jackals",
-    "opponent": "Lake Erie Crushers",
-    "arena": "Hinchliffe Stadium",
-    "city": "Paterson, New Jersey",
-    "date": "2026-07-28T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026072806",
-    "league": "FL",
-    "team": "Trois-Rivieres Aigles",
-    "opponent": "Quebec Les Capitales",
-    "arena": "Stade Quillorama",
-    "city": "Trois-Rivières, Quebec",
-    "date": "2026-07-28T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072807",
-    "league": "FL",
-    "team": "Gateway Grizzlies",
-    "opponent": "Windy City ThunderBolts",
-    "arena": "Arsenal BG Ballpark",
-    "city": "Sauget, Illinois",
-    "date": "2026-07-28T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072808",
-    "league": "FL",
-    "team": "Mississippi Mud Monsters",
-    "opponent": "Schaumburg Boomers",
-    "arena": "Trustmark Park",
-    "city": "Pearl, Mississippi",
-    "date": "2026-07-28T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072809",
-    "league": "FL",
-    "team": "Evansville Otters",
-    "opponent": "New York Boulders",
-    "arena": "Bosse Field",
-    "city": "Evansville, Indiana",
-    "date": "2026-07-28T23:35:00Z"
-  },
-  
-  {
-    "id": "fl_2026072901",
-    "league": "FL",
-    "team": "Brockton Rox",
-    "opponent": "Washington Wild Things",
-    "arena": "Campanelli Stadium",
-    "city": "Brockton, Massachusetts",
-    "date": "2026-07-29T14:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072902",
-    "league": "FL",
-    "team": "Down East Bird Dawgs",
-    "opponent": "Tri-City ValleyCats",
-    "arena": "Grainger Stadium",
-    "city": "Kinston, North Carolina",
-    "date": "2026-07-29T15:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026072903",
-    "league": "FL",
-    "team": "Mississippi Mud Monsters",
-    "opponent": "Schaumburg Boomers",
-    "arena": "Trustmark Park",
-    "city": "Pearl, Mississippi",
-    "date": "2026-07-29T16:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026072904",
-    "league": "FL",
-    "team": "Ottawa Titans",
     "opponent": "Sussex County Miners",
-    "arena": "Ottawa Stadium",
-    "city": "Ottawa, Ontario",
-    "date": "2026-07-29T22:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072905",
-    "league": "FL",
-    "team": "Florence Y'alls",
-    "opponent": "Joliet Slammers",
-    "arena": "Thomas More Stadium",
-    "city": "Florence, Kentucky",
-    "date": "2026-07-29T22:42:00Z"
-  },
-  
-  {
-    "id": "fl_2026072906",
-    "league": "FL",
-    "team": "New Jersey Jackals",
-    "opponent": "Lake Erie Crushers",
     "arena": "Hinchliffe Stadium",
     "city": "Paterson, New Jersey",
-    "date": "2026-07-29T23:00:00Z"
+    "date": "2026-08-29T23:00:00Z"
   },
   
   {
-    "id": "fl_2026072907",
-    "league": "FL",
-    "team": "Trois-Rivieres Aigles",
-    "opponent": "Quebec Les Capitales",
-    "arena": "Stade Quillorama",
-    "city": "Trois-Rivières, Quebec",
-    "date": "2026-07-29T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026072908",
-    "league": "FL",
-    "team": "Gateway Grizzlies",
-    "opponent": "Windy City ThunderBolts",
-    "arena": "Arsenal BG Ballpark",
-    "city": "Sauget, Illinois",
-    "date": "2026-07-29T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026072909",
-    "league": "FL",
-    "team": "Evansville Otters",
-    "opponent": "New York Boulders",
-    "arena": "Bosse Field",
-    "city": "Evansville, Indiana",
-    "date": "2026-07-29T23:35:00Z"
-  },
-  
-  {
-    "id": "fl_2026073001",
-    "league": "FL",
-    "team": "Ottawa Titans",
-    "opponent": "Sussex County Miners",
-    "arena": "Ottawa Stadium",
-    "city": "Ottawa, Ontario",
-    "date": "2026-07-30T22:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026073002",
-    "league": "FL",
-    "team": "Florence Y'alls",
-    "opponent": "Joliet Slammers",
-    "arena": "Thomas More Stadium",
-    "city": "Florence, Kentucky",
-    "date": "2026-07-30T22:44:00Z"
-  },
-  
-  {
-    "id": "fl_2026073003",
-    "league": "FL",
-    "team": "Brockton Rox",
-    "opponent": "Washington Wild Things",
-    "arena": "Campanelli Stadium",
-    "city": "Brockton, Massachusetts",
-    "date": "2026-07-30T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026073004",
-    "league": "FL",
-    "team": "Down East Bird Dawgs",
-    "opponent": "Tri-City ValleyCats",
-    "arena": "Grainger Stadium",
-    "city": "Kinston, North Carolina",
-    "date": "2026-07-30T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026073005",
-    "league": "FL",
-    "team": "New Jersey Jackals",
-    "opponent": "Lake Erie Crushers",
-    "arena": "Hinchliffe Stadium",
-    "city": "Paterson, New Jersey",
-    "date": "2026-07-30T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026073006",
-    "league": "FL",
-    "team": "Trois-Rivieres Aigles",
-    "opponent": "Quebec Les Capitales",
-    "arena": "Stade Quillorama",
-    "city": "Trois-Rivières, Quebec",
-    "date": "2026-07-30T23:05:00Z"
-  },
-  
-  {
-    "id": "fl_2026073007",
-    "league": "FL",
-    "team": "Gateway Grizzlies",
-    "opponent": "Windy City ThunderBolts",
-    "arena": "Arsenal BG Ballpark",
-    "city": "Sauget, Illinois",
-    "date": "2026-07-30T23:30:00Z"
-  },
-  
-  {
-    "id": "fl_2026073008",
+    "id": "fl_2026082906",
     "league": "FL",
     "team": "Mississippi Mud Monsters",
-    "opponent": "Schaumburg Boomers",
+    "opponent": "Windy City ThunderBolts",
     "arena": "Trustmark Park",
     "city": "Pearl, Mississippi",
-    "date": "2026-07-30T23:30:00Z"
+    "date": "2026-08-29T23:01:00Z"
   },
   
   {
-    "id": "fl_2026073009",
+    "id": "fl_2026082907",
     "league": "FL",
-    "team": "Evansville Otters",
-    "opponent": "New York Boulders",
-    "arena": "Bosse Field",
-    "city": "Evansville, Indiana",
-    "date": "2026-07-30T23:35:00Z"
+    "team": "Quebec Les Capitales",
+    "opponent": "Ottawa Titans",
+    "arena": "Stade Canac",
+    "city": "Quebec City, Quebec",
+    "date": "2026-08-29T23:05:00Z"
   },
   
   {
-    "id": "fl_2026073101",
+    "id": "fl_2026082908",
     "league": "FL",
-    "team": "Down East Bird Dawgs",
-    "opponent": "Tri-City ValleyCats",
-    "arena": "Grainger Stadium",
-    "city": "Kinston, North Carolina",
-    "date": "2026-07-31T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026073102",
-    "league": "FL",
-    "team": "New Jersey Jackals",
-    "opponent": "Washington Wild Things",
-    "arena": "Hinchliffe Stadium",
-    "city": "Paterson, New Jersey",
-    "date": "2026-07-31T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026073103",
-    "league": "FL",
-    "team": "Ottawa Titans",
-    "opponent": "Brockton Rox",
-    "arena": "Ottawa Stadium",
-    "city": "Ottawa, Ontario",
-    "date": "2026-07-31T23:00:00Z"
-  },
-  
-  {
-    "id": "fl_2026073104",
-    "league": "FL",
-    "team": "Florence Y'alls",
+    "team": "Schaumburg Boomers",
     "opponent": "Gateway Grizzlies",
+    "arena": "Wintrust Field",
+    "city": "Schaumburg, Illinois",
+    "date": "2026-08-29T23:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026082909",
+    "league": "FL",
+    "team": "Evansville Otters",
+    "opponent": "Lake Erie Crushers",
+    "arena": "Bosse Field",
+    "city": "Evansville, Indiana",
+    "date": "2026-08-29T23:35:00Z"
+  },
+  
+  {
+    "id": "fl_2026083001",
+    "league": "FL",
+    "team": "Florence Y'alls",
+    "opponent": "Washington Wild Things",
     "arena": "Thomas More Stadium",
     "city": "Florence, Kentucky",
-    "date": "2026-07-31T23:03:00Z"
+    "date": "2026-08-30T17:07:00Z"
   },
   
   {
-    "id": "fl_2026073105",
+    "id": "fl_2026083002",
+    "league": "FL",
+    "team": "Evansville Otters",
+    "opponent": "Lake Erie Crushers",
+    "arena": "Bosse Field",
+    "city": "Evansville, Indiana",
+    "date": "2026-08-30T17:35:00Z"
+  },
+  
+  {
+    "id": "fl_2026083003",
+    "league": "FL",
+    "team": "Schaumburg Boomers",
+    "opponent": "Gateway Grizzlies",
+    "arena": "Wintrust Field",
+    "city": "Schaumburg, Illinois",
+    "date": "2026-08-30T18:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026083004",
+    "league": "FL",
+    "team": "New Jersey Jackals",
+    "opponent": "Sussex County Miners",
+    "arena": "Hinchliffe Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-08-30T18:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026083005",
+    "league": "FL",
+    "team": "Brockton Rox",
+    "opponent": "New York Boulders",
+    "arena": "Campanelli Stadium",
+    "city": "Brockton, Massachusetts",
+    "date": "2026-08-30T19:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026083006",
+    "league": "FL",
+    "team": "Tri-City ValleyCats",
+    "opponent": "Down East Bird Dawgs",
+    "arena": "Joseph L. Bruno Stadium",
+    "city": "Troy, New York",
+    "date": "2026-08-30T21:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026083007",
     "league": "FL",
     "team": "Quebec Les Capitales",
-    "opponent": "Trois-Rivieres Aigles",
+    "opponent": "Ottawa Titans",
     "arena": "Stade Canac",
     "city": "Quebec City, Quebec",
-    "date": "2026-07-31T23:05:00Z"
+    "date": "2026-08-30T21:05:00Z"
   },
   
   {
-    "id": "fl_2026073106",
+    "id": "fl_2026083008",
     "league": "FL",
-    "team": "Sussex County Miners",
-    "opponent": "Lake Erie Crushers",
-    "arena": "Skylands Stadium",
-    "city": "Augusta, New Jersey",
-    "date": "2026-07-31T23:05:00Z"
+    "team": "Trois-Rivieres Aigles",
+    "opponent": "Joliet Slammers",
+    "arena": "Stade Quillorama",
+    "city": "Trois-Rivières, Quebec",
+    "date": "2026-08-30T21:05:00Z"
   },
   
   {
-    "id": "fl_2026073107",
+    "id": "fl_2026083009",
     "league": "FL",
     "team": "Mississippi Mud Monsters",
-    "opponent": "Schaumburg Boomers",
+    "opponent": "Windy City ThunderBolts",
     "arena": "Trustmark Park",
     "city": "Pearl, Mississippi",
-    "date": "2026-07-31T23:30:00Z"
+    "date": "2026-08-30T23:01:00Z"
+  },
+  
+    {
+    "id": "fl_2026090101",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "Trois-Rivieres Aigles",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-09-01T22:30:00Z"
   },
   
   {
-    "id": "fl_2026073108",
+    "id": "fl_2026090102",
+    "league": "FL",
+    "team": "Down East Bird Dawgs",
+    "opponent": "Evansville Otters",
+    "arena": "Grainger Stadium",
+    "city": "Kinston, North Carolina",
+    "date": "2026-09-01T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090103",
+    "league": "FL",
+    "team": "New York Boulders",
+    "opponent": "Tri-City ValleyCats",
+    "arena": "Clover Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-01T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090104",
+    "league": "FL",
+    "team": "Quebec Les Capitales",
+    "opponent": "New Jersey Jackals",
+    "arena": "Stade Canac",
+    "city": "Quebec City, Quebec",
+    "date": "2026-09-01T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090105",
+    "league": "FL",
+    "team": "Sussex County Miners",
+    "opponent": "Brockton Rox",
+    "arena": "Skylands Stadium",
+    "city": "Augusta, New Jersey",
+    "date": "2026-09-01T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090106",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Gateway Grizzlies",
+    "arena": "EQT Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-09-01T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090107",
+    "league": "FL",
+    "team": "Schaumburg Boomers",
+    "opponent": "Florence Y'alls",
+    "arena": "Wintrust Field",
+    "city": "Schaumburg, Illinois",
+    "date": "2026-09-01T23:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026090108",
     "league": "FL",
     "team": "Joliet Slammers",
-    "opponent": "New York Boulders",
+    "opponent": "Mississippi Mud Monsters",
     "arena": "Duly Health and Care Field",
     "city": "Joliet, Illinois",
-    "date": "2026-07-31T23:35:00Z"
+    "date": "2026-09-01T23:35:00Z"
   },
   
   {
-    "id": "fl_2026073109",
+    "id": "fl_2026090109",
     "league": "FL",
     "team": "Windy City ThunderBolts",
-    "opponent": "Evansville Otters",
+    "opponent": "Lake Erie Crushers",
     "arena": "Ozinga Field",
     "city": "Crestwood, Illinois",
-    "date": "2026-07-31T23:35:00Z"
+    "date": "2026-09-01T23:35:00Z"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-{
-  "id": "fl_2026080101",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Evansville Otters",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-01T18:05:00Z"
-},
-
-{
-  "id": "fl_2026080102",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Evansville Otters",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-01T21:05:00Z"
-},
-
-{
-  "id": "fl_2026080103",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Brockton Rox",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-01T22:00:00Z"
-},
-
-{
-  "id": "fl_2026080104",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-01T22:35:00Z"
-},
-
-{
-  "id": "fl_2026080105",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-01T22:36:00Z"
-},
-
-{
-  "id": "fl_2026080106",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-01T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080107",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Washington Wild Things",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-01T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080108",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-01T23:01:00Z"
-},
-
-{
-  "id": "fl_2026080109",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "New York Boulders",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-01T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080110",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-01T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080201",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Brockton Rox",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-02T17:00:00Z"
-},
-
-{
-  "id": "fl_2026080202",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-02T17:07:00Z"
-},
-
-{
-  "id": "fl_2026080203",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-02T17:35:00Z"
-},
-
-{
-  "id": "fl_2026080204",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "New York Boulders",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-02T18:05:00Z"
-},
-
-{
-  "id": "fl_2026080205",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Washington Wild Things",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-02T18:05:00Z"
-},
-
-{
-  "id": "fl_2026080206",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Evansville Otters",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-02T18:05:00Z"
-},
-
-{
-  "id": "fl_2026080207",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-02T20:00:00Z"
-},
-
-{
-  "id": "fl_2026080208",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-02T21:05:00Z"
-},
-
-{
-  "id": "fl_2026080209",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-02T23:01:00Z"
-},
-
-{
-  "id": "fl_2026080401",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Ottawa Titans",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-04T14:30:00Z"
-},
-
-{
-  "id": "fl_2026080402",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-04T15:00:00Z"
-},
-
-{
-  "id": "fl_2026080403",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-04T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080404",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Quebec Les Capitales",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-04T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080405",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-04T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080406",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Florence Y'alls",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-04T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080407",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-04T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080408",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-04T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080409",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Joliet Slammers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-04T23:35:00Z"
-},
-
-{
-  "id": "fl_2026080501",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Ottawa Titans",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-05T14:30:00Z"
-},
-
-{
-  "id": "fl_2026080502",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-05T15:00:00Z"
-},
-
-{
-  "id": "fl_2026080503",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-05T16:00:00Z"
-},
-
-{
-  "id": "fl_2026080504",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-05T22:05:00Z"
-},
-
-{
-  "id": "fl_2026080505",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Quebec Les Capitales",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-05T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080506",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-05T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080507",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Florence Y'alls",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-05T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080508",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-05T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080509",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Joliet Slammers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-05T23:35:00Z"
-},
-
-{
-  "id": "fl_2026080601",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-06T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080602",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Quebec Les Capitales",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-06T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080603",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Ottawa Titans",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-06T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080604",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-06T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080605",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-06T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080606",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Florence Y'alls",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-06T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080607",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-06T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080608",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-06T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080609",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Joliet Slammers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-06T23:35:00Z"
-},
-
-{
-  "id": "fl_2026080701",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-07T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080702",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Florence Y'alls",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-07T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080703",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-07T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080704",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Sussex County Miners",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-07T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080705",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-07T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080706",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "New Jersey Jackals",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-07T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080707",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Evansville Otters",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-07T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080708",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Joliet Slammers",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-07T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080709",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-07T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080801",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-08T22:00:00Z"
-},
-
-{
-  "id": "fl_2026080802",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Florence Y'alls",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-08T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080803",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Sussex County Miners",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-08T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080804",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-08T22:30:00Z"
-},
-
-{
-  "id": "fl_2026080805",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-08T23:00:00Z"
-},
-
-{
-  "id": "fl_2026080806",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "New Jersey Jackals",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-08T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080807",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Evansville Otters",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-08T23:05:00Z"
-},
-
-{
-  "id": "fl_2026080808",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Joliet Slammers",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-08T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080809",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-08T23:30:00Z"
-},
-
-{
-  "id": "fl_2026080901",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-09T17:00:00Z"
-},
-
-{
-  "id": "fl_2026080902",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-09T17:00:00Z"
-},
-
-{
-  "id": "fl_2026080903",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-09T18:00:00Z"
-},
-
-{
-  "id": "fl_2026080904",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Florence Y'alls",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-09T19:30:00Z"
-},
-
-{
-  "id": "fl_2026080905",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Sussex County Miners",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-09T20:00:00Z"
-},
-
-{
-  "id": "fl_2026080906",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Evansville Otters",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-09T20:05:00Z"
-},
-
-{
-  "id": "fl_2026080907",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-09T21:00:00Z"
-},
-
-{
-  "id": "fl_2026080908",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "New Jersey Jackals",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-09T21:05:00Z"
-},
-
-{
-  "id": "fl_2026080909",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Joliet Slammers",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-09T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081101",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Sussex County Miners",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-11T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081102",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-11T22:52:00Z"
-},
-
-{
-  "id": "fl_2026081103",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-11T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081104",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Brockton Rox",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-11T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081105",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "New York Boulders",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-11T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081106",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Washington Wild Things",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-11T23:30:00Z"
-},
-
-{
-  "id": "fl_2026081107",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-11T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081108",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-11T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081109",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Ottawa Titans",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-11T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081201",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Sussex County Miners",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-12T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081202",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-12T22:42:00Z"
-},
-
-{
-  "id": "fl_2026081203",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-12T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081204",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Brockton Rox",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-12T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081205",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "New York Boulders",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-12T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081206",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Washington Wild Things",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-12T23:30:00Z"
-},
-
-{
-  "id": "fl_2026081207",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081208",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081209",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Ottawa Titans",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-12T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081301",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Sussex County Miners",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-13T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081302",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-13T22:44:00Z"
-},
-
-{
-  "id": "fl_2026081303",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-13T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081304",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Brockton Rox",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-13T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081305",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "New York Boulders",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-13T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081306",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Washington Wild Things",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-13T23:30:00Z"
-},
-
-{
-  "id": "fl_2026081307",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081308",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081309",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Ottawa Titans",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-13T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081401",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-14T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081402",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-14T23:03:00Z"
-},
-
-{
-  "id": "fl_2026081403",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "New York Boulders",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-14T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081404",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "New Jersey Jackals",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-14T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081405",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-14T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081406",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Ottawa Titans",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-14T23:30:00Z"
-},
-
-{
-  "id": "fl_2026081407",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Washington Wild Things",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-14T23:30:00Z"
-},
-
-{
-  "id": "fl_2026081408",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-14T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081409",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Joliet Slammers",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-14T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081501",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-15T22:05:00Z"
-},
-
-{
-  "id": "fl_2026081502",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-15T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081503",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "New Jersey Jackals",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-15T22:35:00Z"
-},
-
-{
-  "id": "fl_2026081504",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-15T22:36:00Z"
-},
-
-{
-  "id": "fl_2026081505",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Washington Wild Things",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-15T23:01:00Z"
-},
-
-{
-  "id": "fl_2026081506",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "New York Boulders",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-15T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081507",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Joliet Slammers",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-15T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081508",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Ottawa Titans",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-15T23:30:00Z"
-},
-
-{
-  "id": "fl_2026081509",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-15T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081601",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-16T17:07:00Z"
-},
-
-{
-  "id": "fl_2026081602",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-16T17:35:00Z"
-},
-
-{
-  "id": "fl_2026081603",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "New Jersey Jackals",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-16T17:35:00Z"
-},
-
-{
-  "id": "fl_2026081604",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Ottawa Titans",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-16T18:05:00Z"
-},
-
-{
-  "id": "fl_2026081605",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Joliet Slammers",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-16T18:05:00Z"
-},
-
-{
-  "id": "fl_2026081606",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-16T19:30:00Z"
-},
-
-{
-  "id": "fl_2026081607",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "New York Boulders",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-16T21:05:00Z"
-},
-
-{
-  "id": "fl_2026081608",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-16T21:05:00Z"
-},
-
-{
-  "id": "fl_2026081609",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Washington Wild Things",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-16T23:01:00Z"
-},
-
-{
-  "id": "fl_2026081801",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Florence Y'alls",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-18T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081802",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-18T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081803",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-18T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081804",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-18T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081805",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "New York Boulders",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-18T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081806",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Sussex County Miners",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-18T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081807",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Evansville Otters",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-18T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081808",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081809",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Schaumburg Boomers",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-18T23:35:00Z"
-},
-
-{
-  "id": "fl_2026081901",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-19T17:00:00Z"
-},
-
-{
-  "id": "fl_2026081902",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Evansville Otters",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-19T22:05:00Z"
-},
-
-{
-  "id": "fl_2026081903",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Florence Y'alls",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-19T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081904",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-19T22:30:00Z"
-},
-
-{
-  "id": "fl_2026081905",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-19T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081906",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-19T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081907",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "New York Boulders",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-19T23:00:00Z"
-},
-
-{
-  "id": "fl_2026081908",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Sussex County Miners",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-19T23:05:00Z"
-},
-
-{
-  "id": "fl_2026081909",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-19T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082001",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Florence Y'alls",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-20T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082002",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-20T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082003",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-20T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082004",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-20T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082005",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Sussex County Miners",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-20T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082006",
-  "league": "FL",
-  "team": "Washington Wild Things",
-  "opponent": "Evansville Otters",
-  "arena": "EQT Park",
-  "city": "Washington, Pennsylvania",
-  "date": "2026-08-20T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082007",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-20T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082008",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-20T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082101",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-21T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082102",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Schaumburg Boomers",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-21T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082103",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-21T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082104",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Brockton Rox",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-21T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082105",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-21T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082106",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Quebec Les Capitales",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-21T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082107",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Florence Y'alls",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-21T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082108",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Washington Wild Things",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-21T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082109",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-21T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082201",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-22T22:00:00Z"
-},
-
-{
-  "id": "fl_2026082202",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Brockton Rox",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-22T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082203",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Quebec Les Capitales",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-22T22:35:00Z"
-},
-
-{
-  "id": "fl_2026082204",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-22T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082205",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Schaumburg Boomers",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-22T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082206",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-22T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082207",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Washington Wild Things",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082208",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-22T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082209",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Florence Y'alls",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-22T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082301",
-  "league": "FL",
-  "team": "Lake Erie Crushers",
-  "opponent": "Schaumburg Boomers",
-  "arena": "ForeFront Field",
-  "city": "Avon, Ohio",
-  "date": "2026-08-23T17:00:00Z"
-},
-
-{
-  "id": "fl_2026082302",
-  "league": "FL",
-  "team": "Ottawa Titans",
-  "opponent": "Mississippi Mud Monsters",
-  "arena": "Ottawa Stadium",
-  "city": "Ottawa, Ontario",
-  "date": "2026-08-23T17:00:00Z"
-},
-
-{
-  "id": "fl_2026082303",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Florence Y'alls",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-23T17:35:00Z"
-},
-
-{
-  "id": "fl_2026082304",
-  "league": "FL",
-  "team": "Sussex County Miners",
-  "opponent": "Quebec Les Capitales",
-  "arena": "Skylands Stadium",
-  "city": "Augusta, New Jersey",
-  "date": "2026-08-23T17:35:00Z"
-},
-
-{
-  "id": "fl_2026082305",
-  "league": "FL",
-  "team": "Joliet Slammers",
-  "opponent": "Washington Wild Things",
-  "arena": "Duly Health and Care Field",
-  "city": "Joliet, Illinois",
-  "date": "2026-08-23T18:05:00Z"
-},
-
-{
-  "id": "fl_2026082306",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Tri-City ValleyCats",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-23T18:05:00Z"
-},
-
-{
-  "id": "fl_2026082307",
-  "league": "FL",
-  "team": "Windy City ThunderBolts",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Ozinga Field",
-  "city": "Crestwood, Illinois",
-  "date": "2026-08-23T18:05:00Z"
-},
-
-{
-  "id": "fl_2026082308",
-  "league": "FL",
-  "team": "Down East Bird Dawgs",
-  "opponent": "Trois-Rivieres Aigles",
-  "arena": "Grainger Stadium",
-  "city": "Kinston, North Carolina",
-  "date": "2026-08-23T20:00:00Z"
-},
-
-{
-  "id": "fl_2026082309",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Brockton Rox",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-23T20:00:00Z"
-},
-
-{
-  "id": "fl_2026082501",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-25T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082502",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-25T22:52:00Z"
-},
-
-{
-  "id": "fl_2026082503",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Brockton Rox",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-25T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082504",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Ottawa Titans",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-25T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082505",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Joliet Slammers",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-25T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082506",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Sussex County Miners",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-25T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082507",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Washington Wild Things",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-25T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082508",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-25T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082509",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Evansville Otters",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-25T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082601",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-26T16:00:00Z"
-},
-
-{
-  "id": "fl_2026082602",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-26T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082603",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-26T22:42:00Z"
-},
-
-{
-  "id": "fl_2026082604",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Brockton Rox",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-26T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082605",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Ottawa Titans",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-26T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082606",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Joliet Slammers",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-26T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082607",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Sussex County Miners",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-26T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082608",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Washington Wild Things",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-26T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082609",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Evansville Otters",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-26T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082701",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-27T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082702",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-27T22:44:00Z"
-},
-
-{
-  "id": "fl_2026082703",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Brockton Rox",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-27T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082704",
-  "league": "FL",
-  "team": "New York Boulders",
-  "opponent": "Ottawa Titans",
-  "arena": "Clover Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-27T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082705",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Joliet Slammers",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-27T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082706",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Sussex County Miners",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-27T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082707",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-27T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082708",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Evansville Otters",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-27T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082709",
-  "league": "FL",
-  "team": "Gateway Grizzlies",
-  "opponent": "Washington Wild Things",
-  "arena": "Arsenal BG Ballpark",
-  "city": "Sauget, Illinois",
-  "date": "2026-08-28T00:15:00Z"
-},
-
-{
-  "id": "fl_2026082801",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-28T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082802",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "New York Boulders",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-28T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082803",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Sussex County Miners",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-28T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082804",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Washington Wild Things",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-28T23:03:00Z"
-},
-
-{
-  "id": "fl_2026082805",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Ottawa Titans",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-28T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082806",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Joliet Slammers",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-28T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082807",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-28T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082808",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-28T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082809",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-28T23:35:00Z"
-},
-
-{
-  "id": "fl_2026082901",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Joliet Slammers",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-29T22:05:00Z"
-},
-
-{
-  "id": "fl_2026082902",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "New York Boulders",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-29T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082903",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-29T22:30:00Z"
-},
-
-{
-  "id": "fl_2026082904",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Washington Wild Things",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-29T22:36:00Z"
-},
-
-{
-  "id": "fl_2026082905",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Sussex County Miners",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-29T23:00:00Z"
-},
-
-{
-  "id": "fl_2026082906",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-29T23:01:00Z"
-},
-
-{
-  "id": "fl_2026082907",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Ottawa Titans",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-29T23:05:00Z"
-},
-
-{
-  "id": "fl_2026082908",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-29T23:30:00Z"
-},
-
-{
-  "id": "fl_2026082909",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-29T23:35:00Z"
-},
-
-{
-  "id": "fl_2026083001",
-  "league": "FL",
-  "team": "Florence Y'alls",
-  "opponent": "Washington Wild Things",
-  "arena": "Thomas More Stadium",
-  "city": "Florence, Kentucky",
-  "date": "2026-08-30T17:07:00Z"
-},
-
-{
-  "id": "fl_2026083002",
-  "league": "FL",
-  "team": "Evansville Otters",
-  "opponent": "Lake Erie Crushers",
-  "arena": "Bosse Field",
-  "city": "Evansville, Indiana",
-  "date": "2026-08-30T17:35:00Z"
-},
-
-{
-  "id": "fl_2026083003",
-  "league": "FL",
-  "team": "Schaumburg Boomers",
-  "opponent": "Gateway Grizzlies",
-  "arena": "Wintrust Field",
-  "city": "Schaumburg, Illinois",
-  "date": "2026-08-30T18:00:00Z"
-},
-
-{
-  "id": "fl_2026083004",
-  "league": "FL",
-  "team": "New Jersey Jackals",
-  "opponent": "Sussex County Miners",
-  "arena": "Hinchliffe Stadium",
-  "city": "Paterson, New Jersey",
-  "date": "2026-08-30T18:05:00Z"
-},
-
-{
-  "id": "fl_2026083005",
-  "league": "FL",
-  "team": "Brockton Rox",
-  "opponent": "New York Boulders",
-  "arena": "Campanelli Stadium",
-  "city": "Brockton, Massachusetts",
-  "date": "2026-08-30T19:30:00Z"
-},
-
-{
-  "id": "fl_2026083006",
-  "league": "FL",
-  "team": "Tri-City ValleyCats",
-  "opponent": "Down East Bird Dawgs",
-  "arena": "Joseph L. Bruno Stadium",
-  "city": "Troy, New York",
-  "date": "2026-08-30T21:00:00Z"
-},
-
-{
-  "id": "fl_2026083007",
-  "league": "FL",
-  "team": "Quebec Les Capitales",
-  "opponent": "Ottawa Titans",
-  "arena": "Stade Canac",
-  "city": "Quebec City, Quebec",
-  "date": "2026-08-30T21:05:00Z"
-},
-
-{
-  "id": "fl_2026083008",
-  "league": "FL",
-  "team": "Trois-Rivieres Aigles",
-  "opponent": "Joliet Slammers",
-  "arena": "Stade Quillorama",
-  "city": "Trois-Rivières, Quebec",
-  "date": "2026-08-30T21:05:00Z"
-},
-
-{
-  "id": "fl_2026083009",
-  "league": "FL",
-  "team": "Mississippi Mud Monsters",
-  "opponent": "Windy City ThunderBolts",
-  "arena": "Trustmark Park",
-  "city": "Pearl, Mississippi",
-  "date": "2026-08-30T23:01:00Z"
-} 
+  
+  DEBUG day=2 looking_for='Frontier League' found=True
+  {
+    "id": "fl_2026090201",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Gateway Grizzlies",
+    "arena": "EQT Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-09-02T22:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090202",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "Trois-Rivieres Aigles",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-09-02T22:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026090203",
+    "league": "FL",
+    "team": "Down East Bird Dawgs",
+    "opponent": "Evansville Otters",
+    "arena": "Grainger Stadium",
+    "city": "Kinston, North Carolina",
+    "date": "2026-09-02T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090204",
+    "league": "FL",
+    "team": "New York Boulders",
+    "opponent": "Tri-City ValleyCats",
+    "arena": "Clover Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-02T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090205",
+    "league": "FL",
+    "team": "Quebec Les Capitales",
+    "opponent": "New Jersey Jackals",
+    "arena": "Stade Canac",
+    "city": "Quebec City, Quebec",
+    "date": "2026-09-02T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090206",
+    "league": "FL",
+    "team": "Sussex County Miners",
+    "opponent": "Brockton Rox",
+    "arena": "Skylands Stadium",
+    "city": "Augusta, New Jersey",
+    "date": "2026-09-02T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090207",
+    "league": "FL",
+    "team": "Schaumburg Boomers",
+    "opponent": "Florence Y'alls",
+    "arena": "Wintrust Field",
+    "city": "Schaumburg, Illinois",
+    "date": "2026-09-02T23:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026090208",
+    "league": "FL",
+    "team": "Joliet Slammers",
+    "opponent": "Mississippi Mud Monsters",
+    "arena": "Duly Health and Care Field",
+    "city": "Joliet, Illinois",
+    "date": "2026-09-02T23:35:00Z"
+  },
+  
+  {
+    "id": "fl_2026090209",
+    "league": "FL",
+    "team": "Windy City ThunderBolts",
+    "opponent": "Lake Erie Crushers",
+    "arena": "Ozinga Field",
+    "city": "Crestwood, Illinois",
+    "date": "2026-09-02T23:35:00Z"
+  },
+  
+  DEBUG day=3 looking_for='Frontier League' found=True
+  {
+    "id": "fl_2026090301",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "Trois-Rivieres Aigles",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-09-03T22:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026090302",
+    "league": "FL",
+    "team": "Down East Bird Dawgs",
+    "opponent": "Evansville Otters",
+    "arena": "Grainger Stadium",
+    "city": "Kinston, North Carolina",
+    "date": "2026-09-03T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090303",
+    "league": "FL",
+    "team": "New York Boulders",
+    "opponent": "Tri-City ValleyCats",
+    "arena": "Clover Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-03T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090304",
+    "league": "FL",
+    "team": "Quebec Les Capitales",
+    "opponent": "New Jersey Jackals",
+    "arena": "Stade Canac",
+    "city": "Quebec City, Quebec",
+    "date": "2026-09-03T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090305",
+    "league": "FL",
+    "team": "Sussex County Miners",
+    "opponent": "Brockton Rox",
+    "arena": "Skylands Stadium",
+    "city": "Augusta, New Jersey",
+    "date": "2026-09-03T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090306",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Gateway Grizzlies",
+    "arena": "EQT Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-09-03T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090307",
+    "league": "FL",
+    "team": "Schaumburg Boomers",
+    "opponent": "Florence Y'alls",
+    "arena": "Wintrust Field",
+    "city": "Schaumburg, Illinois",
+    "date": "2026-09-03T23:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026090308",
+    "league": "FL",
+    "team": "Joliet Slammers",
+    "opponent": "Mississippi Mud Monsters",
+    "arena": "Duly Health and Care Field",
+    "city": "Joliet, Illinois",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  {
+    "id": "fl_2026090309",
+    "league": "FL",
+    "team": "Windy City ThunderBolts",
+    "opponent": "Lake Erie Crushers",
+    "arena": "Ozinga Field",
+    "city": "Crestwood, Illinois",
+    "date": "2026-09-03T23:35:00Z"
+  },
+  
+  DEBUG day=4 looking_for='Frontier League' found=True
+  {
+    "id": "fl_2026090401",
+    "league": "FL",
+    "team": "Down East Bird Dawgs",
+    "opponent": "Evansville Otters",
+    "arena": "Grainger Stadium",
+    "city": "Kinston, North Carolina",
+    "date": "2026-09-04T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090402",
+    "league": "FL",
+    "team": "Lake Erie Crushers",
+    "opponent": "Joliet Slammers",
+    "arena": "ForeFront Field",
+    "city": "Avon, Ohio",
+    "date": "2026-09-04T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090403",
+    "league": "FL",
+    "team": "New Jersey Jackals",
+    "opponent": "Ottawa Titans",
+    "arena": "Hinchliffe Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-04T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090404",
+    "league": "FL",
+    "team": "New York Boulders",
+    "opponent": "Quebec Les Capitales",
+    "arena": "Clover Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-04T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090405",
+    "league": "FL",
+    "team": "Florence Y'alls",
+    "opponent": "Windy City ThunderBolts",
+    "arena": "Thomas More Stadium",
+    "city": "Florence, Kentucky",
+    "date": "2026-09-04T23:03:00Z"
+  },
+  
+  {
+    "id": "fl_2026090406",
+    "league": "FL",
+    "team": "Sussex County Miners",
+    "opponent": "Tri-City ValleyCats",
+    "arena": "Skylands Stadium",
+    "city": "Augusta, New Jersey",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090407",
+    "league": "FL",
+    "team": "Trois-Rivieres Aigles",
+    "opponent": "Brockton Rox",
+    "arena": "Stade Quillorama",
+    "city": "Trois-Rivières, Quebec",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090408",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Schaumburg Boomers",
+    "arena": "EQT Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090409",
+    "league": "FL",
+    "team": "Gateway Grizzlies",
+    "opponent": "Washington Wild Things",
+    "arena": "Arsenal BG Ballpark",
+    "city": "Sauget, Illinois",
+    "date": "2026-09-04T23:30:00Z"
+  },
+  
+  DEBUG day=5 looking_for='Frontier League' found=True
+  {
+    "id": "fl_2026090501",
+    "league": "FL",
+    "team": "Trois-Rivieres Aigles",
+    "opponent": "Brockton Rox",
+    "arena": "Stade Quillorama",
+    "city": "Trois-Rivières, Quebec",
+    "date": "2026-09-05T22:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090502",
+    "league": "FL",
+    "team": "New York Boulders",
+    "opponent": "Quebec Les Capitales",
+    "arena": "Clover Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-05T22:30:00Z"
+  },
+  
+  {
+    "id": "fl_2026090503",
+    "league": "FL",
+    "team": "Sussex County Miners",
+    "opponent": "Tri-City ValleyCats",
+    "arena": "Skylands Stadium",
+    "city": "Augusta, New Jersey",
+    "date": "2026-09-05T22:35:00Z"
+  },
+  
+  {
+    "id": "fl_2026090504",
+    "league": "FL",
+    "team": "Florence Y'alls",
+    "opponent": "Windy City ThunderBolts",
+    "arena": "Thomas More Stadium",
+    "city": "Florence, Kentucky",
+    "date": "2026-09-05T22:36:00Z"
+  },
+  
+  {
+    "id": "fl_2026090505",
+    "league": "FL",
+    "team": "Down East Bird Dawgs",
+    "opponent": "Evansville Otters",
+    "arena": "Grainger Stadium",
+    "city": "Kinston, North Carolina",
+    "date": "2026-09-05T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090506",
+    "league": "FL",
+    "team": "Lake Erie Crushers",
+    "opponent": "Joliet Slammers",
+    "arena": "ForeFront Field",
+    "city": "Avon, Ohio",
+    "date": "2026-09-05T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090507",
+    "league": "FL",
+    "team": "New Jersey Jackals",
+    "opponent": "Ottawa Titans",
+    "arena": "Hinchliffe Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-05T23:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090508",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Schaumburg Boomers",
+    "arena": "EQT Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090509",
+    "league": "FL",
+    "team": "Gateway Grizzlies",
+    "opponent": "Washington Wild Things",
+    "arena": "Arsenal BG Ballpark",
+    "city": "Sauget, Illinois",
+    "date": "2026-09-05T23:30:00Z"
+  },
+  
+  DEBUG day=6 looking_for='Frontier League' found=True
+  {
+    "id": "fl_2026090601",
+    "league": "FL",
+    "team": "Lake Erie Crushers",
+    "opponent": "Joliet Slammers",
+    "arena": "ForeFront Field",
+    "city": "Avon, Ohio",
+    "date": "2026-09-06T17:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090602",
+    "league": "FL",
+    "team": "Florence Y'alls",
+    "opponent": "Windy City ThunderBolts",
+    "arena": "Thomas More Stadium",
+    "city": "Florence, Kentucky",
+    "date": "2026-09-06T17:07:00Z"
+  },
+  
+  {
+    "id": "fl_2026090603",
+    "league": "FL",
+    "team": "Sussex County Miners",
+    "opponent": "Tri-City ValleyCats",
+    "arena": "Skylands Stadium",
+    "city": "Augusta, New Jersey",
+    "date": "2026-09-06T17:35:00Z"
+  },
+  
+  {
+    "id": "fl_2026090604",
+    "league": "FL",
+    "team": "New Jersey Jackals",
+    "opponent": "Ottawa Titans",
+    "arena": "Hinchliffe Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-06T18:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090605",
+    "league": "FL",
+    "team": "Down East Bird Dawgs",
+    "opponent": "Evansville Otters",
+    "arena": "Grainger Stadium",
+    "city": "Kinston, North Carolina",
+    "date": "2026-09-06T20:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090606",
+    "league": "FL",
+    "team": "Washington Wild Things",
+    "opponent": "Schaumburg Boomers",
+    "arena": "EQT Park",
+    "city": "Washington, Pennsylvania",
+    "date": "2026-09-06T20:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090607",
+    "league": "FL",
+    "team": "Trois-Rivieres Aigles",
+    "opponent": "Brockton Rox",
+    "arena": "Stade Quillorama",
+    "city": "Trois-Rivières, Quebec",
+    "date": "2026-09-06T21:05:00Z"
+  },
+  
+  {
+    "id": "fl_2026090608",
+    "league": "FL",
+    "team": "New York Boulders",
+    "opponent": "Quebec Les Capitales",
+    "arena": "Clover Stadium",
+    "city": "Paterson, New Jersey",
+    "date": "2026-09-06T22:00:00Z"
+  },
+  
+  {
+    "id": "fl_2026090609",
+    "league": "FL",
+    "team": "Gateway Grizzlies",
+    "opponent": "Washington Wild Things",
+    "arena": "Arsenal BG Ballpark",
+    "city": "Sauget, Illinois",
+    "date": "2026-09-06T23:05:00Z"
+  }  
 ]
