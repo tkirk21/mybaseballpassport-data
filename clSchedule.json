@@ -488,45 +488,5 @@
     "arena": "Pelicans Ballpark",
     "city": "Myrtle Beach, South Carolina",
     "date": "2026-09-06T21:05:00Z"
-  },
-  
-  {
-    "id": "cl_2026091001",
-    "league": "CL",
-    "team": "Fredericksburg Nationals",
-    "opponent": "To Be Determined",
-    "arena": "Virginia Credit Union Stadium",
-    "city": "Fredericksburg, Virginia",
-    "date": "2026-09-10T22:35:00Z"
-  },
-  
-  {
-    "id": "cl_2026091002",
-    "league": "CL",
-    "team": "Charleston RiverDogs",
-    "opponent": "To Be Determined",
-    "arena": "Joseph P. Riley Jr. Park",
-    "city": "Charleston, South Carolina",
-    "date": "2026-09-10T23:05:00Z"
-  },
-  
-  {
-    "id": "cl_2026091101",
-    "league": "CL",
-    "team": "Fredericksburg Nationals",
-    "opponent": "To Be Determined",
-    "arena": "Virginia Credit Union Stadium",
-    "city": "Fredericksburg, Virginia",
-    "date": "2026-09-11T22:35:00Z"
-  },
-  
-  {
-    "id": "cl_2026091102",
-    "league": "CL",
-    "team": "Charleston RiverDogs",
-    "opponent": "To Be Determined",
-    "arena": "Joseph P. Riley Jr. Park",
-    "city": "Charleston, South Carolina",
-    "date": "2026-09-11T07:33:00Z"
   }
 ]
