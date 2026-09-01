@@ -1,335 +1,4 @@
-[
-  {
-    "id": "mlb_2026082901",
-    "league": "MLB",
-    "team": "New York Yankees",
-    "opponent": "Boston Red Sox",
-    "arena": "Yankee Stadium",
-    "city": "Bronx, New York",
-    "date": "2026-08-29T17:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082902",
-    "league": "MLB",
-    "team": "New York Yankees",
-    "opponent": "Boston Red Sox",
-    "arena": "Yankee Stadium",
-    "city": "Bronx, New York",
-    "date": "2026-08-29T23:15:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082903",
-    "league": "MLB",
-    "team": "Detroit Tigers",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "Comerica Park",
-    "city": "Detroit, Michigan",
-    "date": "2026-08-29T17:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082904",
-    "league": "MLB",
-    "team": "Minnesota Twins",
-    "opponent": "Chicago White Sox",
-    "arena": "Target Field",
-    "city": "Minneapolis, Minnesota",
-    "date": "2026-08-29T18:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082905",
-    "league": "MLB",
-    "team": "St. Louis Cardinals",
-    "opponent": "Pittsburgh Pirates",
-    "arena": "Busch Stadium",
-    "city": "St. Louis, Missouri",
-    "date": "2026-08-29T18:15:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082906",
-    "league": "MLB",
-    "team": "Chicago Cubs",
-    "opponent": "Cincinnati Reds",
-    "arena": "Wrigley Field",
-    "city": "Chicago, Illinois",
-    "date": "2026-08-29T18:20:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082907",
-    "league": "MLB",
-    "team": "Toronto Blue Jays",
-    "opponent": "Seattle Mariners",
-    "arena": "Rogers Centre",
-    "city": "Toronto, Ontario",
-    "date": "2026-08-29T19:07:00Z",
-    "giveaway": [
-      {
-        "title": "Hall of Excellence Day & Buck Martinez Legacy Bobblehead",
-        "details": "Pregame ceremony & Hall of Excellence Day. First 15,000 fans on entrance receive a Buck Martinez legacy bobblehead."
-      }
-    ]
-  },
-  
-  {
-    "id": "mlb_2026082908",
-    "league": "MLB",
-    "team": "San Francisco Giants",
-    "opponent": "Arizona Diamondbacks",
-    "arena": "Oracle Park",
-    "city": "San Francisco, California",
-    "date": "2026-08-29T20:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083009",
-    "league": "MLB",
-    "team": "San Francisco Giants",
-    "opponent": "Arizona Diamondbacks",
-    "arena": "Oracle Park",
-    "city": "San Francisco, California",
-    "date": "2026-08-30T02:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082910",
-    "league": "MLB",
-    "team": "Washington Nationals",
-    "opponent": "Miami Marlins",
-    "arena": "Nationals Park",
-    "city": "Washington, DC",
-    "date": "2026-08-29T20:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082911",
-    "league": "MLB",
-    "team": "Cleveland Guardians",
-    "opponent": "Kansas City Royals",
-    "arena": "Progressive Field",
-    "city": "Cleveland, Ohio",
-    "date": "2026-08-29T20:10:00Z",
-    "giveaway": [
-      {
-        "title": "Bob Feller 1936 Jersey Giveaway",
-        "details": "First 15,000 fans receive a Bob Feller 1936 jersey. Courtesy of Franklin University."
-      }
-    ]
-  },
-  
-  {
-    "id": "mlb_2026082912",
-    "league": "MLB",
-    "team": "New York Mets",
-    "opponent": "Houston Astros",
-    "arena": "Citi Field",
-    "city": "Flushing, New York",
-    "date": "2026-08-29T20:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082913",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "San Diego Padres",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-08-29T20:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082914",
-    "league": "MLB",
-    "team": "Atlanta Braves",
-    "opponent": "Colorado Rockies",
-    "arena": "Truist Park",
-    "city": "Cumberland, Georgia",
-    "date": "2026-08-29T20:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026082915",
-    "league": "MLB",
-    "team": "Milwaukee Brewers",
-    "opponent": "Texas Rangers",
-    "arena": "American Family Field",
-    "city": "Milwaukee, Wisconsin",
-    "date": "2026-08-29T23:15:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083016",
-    "league": "MLB",
-    "team": "Athletics",
-    "opponent": "Baltimore Orioles",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, CA",
-    "date": "2026-08-30T02:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083017",
-    "league": "MLB",
-    "team": "Los Angeles Angels",
-    "opponent": "Philadelphia Phillies",
-    "arena": "Angel Stadium",
-    "city": "Anaheim, California",
-    "date": "2026-08-30T02:07:00Z",
-    "fireworks": {
-      "title": "Post-game fireworks show. Presented by your SoCal Hyundai Dealers."
-    }
-  },
-  
-  {
-    "id": "mlb_2026083001",
-    "league": "MLB",
-    "team": "Washington Nationals",
-    "opponent": "Miami Marlins",
-    "arena": "Nationals Park",
-    "city": "Washington, DC",
-    "date": "2026-08-30T16:15:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083002",
-    "league": "MLB",
-    "team": "Atlanta Braves",
-    "opponent": "Colorado Rockies",
-    "arena": "Truist Park",
-    "city": "Cumberland, Georgia",
-    "date": "2026-08-30T17:35:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083003",
-    "league": "MLB",
-    "team": "New York Yankees",
-    "opponent": "Boston Red Sox",
-    "arena": "Yankee Stadium",
-    "city": "Bronx, New York",
-    "date": "2026-08-30T17:35:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083004",
-    "league": "MLB",
-    "team": "Toronto Blue Jays",
-    "opponent": "Seattle Mariners",
-    "arena": "Rogers Centre",
-    "city": "Toronto, Ontario",
-    "date": "2026-08-30T17:37:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083005",
-    "league": "MLB",
-    "team": "Cleveland Guardians",
-    "opponent": "Kansas City Royals",
-    "arena": "Progressive Field",
-    "city": "Cleveland, Ohio",
-    "date": "2026-08-30T17:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083006",
-    "league": "MLB",
-    "team": "Detroit Tigers",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "Comerica Park",
-    "city": "Detroit, Michigan",
-    "date": "2026-08-30T17:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083007",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "San Diego Padres",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-08-30T17:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083008",
-    "league": "MLB",
-    "team": "Minnesota Twins",
-    "opponent": "Chicago White Sox",
-    "arena": "Target Field",
-    "city": "Minneapolis, Minnesota",
-    "date": "2026-08-30T18:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083009",
-    "league": "MLB",
-    "team": "Milwaukee Brewers",
-    "opponent": "Texas Rangers",
-    "arena": "American Family Field",
-    "city": "Milwaukee, Wisconsin",
-    "date": "2026-08-30T18:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083010",
-    "league": "MLB",
-    "team": "St. Louis Cardinals",
-    "opponent": "Pittsburgh Pirates",
-    "arena": "Busch Stadium",
-    "city": "St. Louis, Missouri",
-    "date": "2026-08-30T18:15:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083011",
-    "league": "MLB",
-    "team": "Chicago Cubs",
-    "opponent": "Cincinnati Reds",
-    "arena": "Wrigley Field",
-    "city": "Chicago, Illinois",
-    "date": "2026-08-30T19:10:00Z",
-    "giveaway": [
-      {
-        "title": "Harry Caray Bobblehead",
-        "details": "Up to the first 10,000 early arriving fans receive a Harry Caray bobblehead. Presented by Benjamin Moore. Subject to availability."
-      }
-    ]
-  },
-  
-  {
-    "id": "mlb_2026083012",
-    "league": "MLB",
-    "team": "Athletics",
-    "opponent": "Baltimore Orioles",
-    "arena": "Sutter Health Park",
-    "city": "West Sacramento, CA",
-    "date": "2026-08-30T20:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083013",
-    "league": "MLB",
-    "team": "Los Angeles Angels",
-    "opponent": "Philadelphia Phillies",
-    "arena": "Angel Stadium",
-    "city": "Anaheim, California",
-    "date": "2026-08-30T20:07:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083014",
-    "league": "MLB",
-    "team": "New York Mets",
-    "opponent": "Houston Astros",
-    "arena": "Citi Field",
-    "city": "Flushing, New York",
-    "date": "2026-08-30T23:20:00Z"
-  },
-  
+[ 
   {
     "id": "mlb_2026083101",
     "league": "MLB",
@@ -457,3612 +126,3612 @@
   },
 
   {
-  "id": "mlb_2026090101",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "San Diego Padres",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-01T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090102",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "San Francisco Giants",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-01T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090103",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "New York Mets",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-01T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090104",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-01T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090105",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Seattle Mariners",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-01T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026090106",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Atlanta Braves",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-01T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026090107",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Detroit Tigers",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-01T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090108",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Miami Marlins",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-01T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090109",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-01T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090210",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Athletics",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-02T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026090211",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Chicago White Sox",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-02T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026090212",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Baltimore Orioles",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-02T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026090213",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "New York Yankees",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-02T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026090214",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-02T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090215",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-02T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090201",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "San Diego Padres",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-02T16:40:00Z"
-},
-
-{
-  "id": "mlb_2026090202",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Atlanta Braves",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-02T17:05:00Z"
-},
-
-{
-  "id": "mlb_2026090203",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Athletics",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-02T18:35:00Z"
-},
-
-{
-  "id": "mlb_2026090204",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Baltimore Orioles",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-02T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026090205",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-02T19:40:00Z"
-},
-
-{
-  "id": "mlb_2026090206",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Seattle Mariners",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-02T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090207",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "San Francisco Giants",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-02T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090208",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "New York Mets",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-02T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090209",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-02T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090210",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Detroit Tigers",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-02T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090211",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Miami Marlins",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-02T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090212",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-02T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090313",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Chicago White Sox",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-03T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026090314",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "New York Yankees",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-03T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026090315",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-03T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090301",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "San Francisco Giants",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-03T16:35:00Z"
-},
-
-{
-  "id": "mlb_2026090302",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-03T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026090303",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Chicago White Sox",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-03T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026090304",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Boston Red Sox",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-03T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090305",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-03T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090306",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Miami Marlins",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-03T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090407",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-04T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026090408",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Athletics",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-04T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090409",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-04T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090401",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Detroit Tigers",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-04T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026090402",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Detroit Tigers",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-04T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090403",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-04T22:10:00Z"
-},
-
-{
-  "id": "mlb_2026090404",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Atlanta Braves",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-04T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090405",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Los Angeles Angels",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-04T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026090406",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Boston Red Sox",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-04T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026090407",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "San Francisco Giants",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-04T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026090408",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Chicago Cubs",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-04T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026090409",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Minnesota Twins",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-04T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090510",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-05T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026090511",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-05T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026090512",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-05T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026090513",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-05T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026090514",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "New York Yankees",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-05T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090515",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "Washington Nationals",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-05T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090516",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Athletics",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-05T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090501",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "San Francisco Giants",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-05T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090502",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Chicago Cubs",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-05T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090503",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Atlanta Braves",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-05T22:05:00Z"
-},
-
-{
-  "id": "mlb_2026090504",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Detroit Tigers",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-05T22:10:00Z"
-},
-
-{
-  "id": "mlb_2026090505",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Los Angeles Angels",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-05T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090506",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-05T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090507",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Boston Red Sox",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-05T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026090508",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-05T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026090509",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-05T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026090510",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Minnesota Twins",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-05T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026090511",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-05T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090512",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "New York Yankees",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-05T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090613",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-06T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026090614",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "Washington Nationals",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-06T01:10:00Z"
-},
-
-{
-  "id": "mlb_2026090615",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Athletics",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-06T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090601",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-06T16:10:00Z"
-},
-
-{
-  "id": "mlb_2026090602",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Atlanta Braves",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-06T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026090603",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Boston Red Sox",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-06T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026090604",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Los Angeles Angels",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-06T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026090605",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Detroit Tigers",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-06T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026090606",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "San Francisco Giants",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-06T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026090607",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Chicago Cubs",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-06T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026090608",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-06T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026090609",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-06T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026090610",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-06T18:35:00Z"
-},
-
-{
-  "id": "mlb_2026090611",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-06T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026090612",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Athletics",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-06T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090613",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "New York Yankees",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-06T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090614",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Minnesota Twins",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-06T22:20:00Z"
-},
-
-{
-  "id": "mlb_2026090715",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "Washington Nationals",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-07T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090701",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Atlanta Braves",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-07T17:05:00Z"
-},
-
-{
-  "id": "mlb_2026090702",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "New York Mets",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-07T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026090703",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Los Angeles Angels",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-07T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026090704",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Cleveland Guardians",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-07T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026090705",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-07T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026090706",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "Chicago Cubs",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-07T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026090707",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Minnesota Twins",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-07T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026090708",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Washington Nationals",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-07T21:10:00Z"
-},
-
-{
-  "id": "mlb_2026090809",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-08T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026090810",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "Cincinnati Reds",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-08T01:10:00Z"
-},
-
-{
-  "id": "mlb_2026090811",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-08T02:05:00Z"
-},
-
-{
-  "id": "mlb_2026090801",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Cleveland Guardians",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-08T22:35:00Z"
-},
-
-{
-  "id": "mlb_2026090802",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Minnesota Twins",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-08T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090803",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Houston Astros",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-08T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090804",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "New York Mets",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-08T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090805",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Los Angeles Angels",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-08T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026090806",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Colorado Rockies",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-08T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026090807",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-08T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090808",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-08T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090809",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-08T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090810",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "Chicago Cubs",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-08T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090911",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Washington Nationals",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-09T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090912",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Texas Rangers",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-09T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090913",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-09T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026090914",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-09T01:45:00Z"
-},
-
-{
-  "id": "mlb_2026090915",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "Cincinnati Reds",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-09T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026090901",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Minnesota Twins",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-09T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026090902",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-09T19:05:00Z"
-},
-
-{
-  "id": "mlb_2026090903",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "St. Louis Cardinals",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-09T19:45:00Z"
-},
-
-{
-  "id": "mlb_2026090904",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Washington Nationals",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-09T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090905",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Texas Rangers",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-09T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026090906",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Cleveland Guardians",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-09T22:35:00Z"
-},
-
-{
-  "id": "mlb_2026090907",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Houston Astros",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-09T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090908",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "New York Mets",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-09T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026090909",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Los Angeles Angels",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-09T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026090910",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Colorado Rockies",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-09T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026090911",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-09T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026090912",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-09T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090913",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-09T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026090914",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "Chicago Cubs",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-09T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091015",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "Cincinnati Reds",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-10T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026091001",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-10T16:15:00Z"
-},
-
-{
-  "id": "mlb_2026091002",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Houston Astros",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-10T17:05:00Z"
-},
-
-{
-  "id": "mlb_2026091003",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Texas Rangers",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-10T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091004",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Colorado Rockies",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-10T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026091005",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-10T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091101",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-11T18:20:00Z"
-},
-
-{
-  "id": "mlb_2026091102",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Colorado Rockies",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-11T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091103",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Los Angeles Angels",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-11T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026091104",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "New York Mets",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-11T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026091105",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Baltimore Orioles",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-11T23:07:00Z"
-},
-
-{
-  "id": "mlb_2026091106",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Kansas City Royals",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-11T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091107",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Houston Astros",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-11T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091108",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-11T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091109",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-11T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026091110",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "Cincinnati Reds",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-11T23:45:00Z"
-},
-
-{
-  "id": "mlb_2026091211",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Cleveland Guardians",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-12T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026091212",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "Chicago White Sox",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-12T00:15:00Z"
-},
-
-{
-  "id": "mlb_2026091213",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Seattle Mariners",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-12T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091214",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Texas Rangers",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-12T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091215",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "San Diego Padres",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-12T02:15:00Z"
-},
-
-{
-  "id": "mlb_2026091201",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Colorado Rockies",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-12T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026091202",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "New York Mets",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-12T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026091203",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-12T18:20:00Z"
-},
-
-{
-  "id": "mlb_2026091204",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Baltimore Orioles",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-12T19:07:00Z"
-},
-
-{
-  "id": "mlb_2026091205",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Los Angeles Angels",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-12T20:05:00Z"
-},
-
-{
-  "id": "mlb_2026091206",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "San Diego Padres",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-12T20:05:00Z"
-},
-
-{
-  "id": "mlb_2026091207",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Kansas City Royals",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-12T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091208",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Cleveland Guardians",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-12T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091209",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-12T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091210",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Houston Astros",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-12T22:10:00Z"
-},
-
-{
-  "id": "mlb_2026091211",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "Cincinnati Reds",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-12T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091212",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-12T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026091213",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "Chicago White Sox",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-12T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026091314",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Texas Rangers",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-13T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026091315",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Seattle Mariners",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-13T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091301",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Colorado Rockies",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-13T16:10:00Z"
-},
-
-{
-  "id": "mlb_2026091302",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Kansas City Royals",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-13T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026091303",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Los Angeles Angels",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-13T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026091304",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-13T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026091305",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "New York Mets",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-13T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026091306",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Baltimore Orioles",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-13T17:37:00Z"
-},
-
-{
-  "id": "mlb_2026091307",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Houston Astros",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-13T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026091308",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-13T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026091309",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Cleveland Guardians",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-13T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026091310",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "Cincinnati Reds",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-13T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026091311",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "Chicago White Sox",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-13T18:15:00Z"
-},
-
-{
-  "id": "mlb_2026091312",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-13T18:20:00Z"
-},
-
-{
-  "id": "mlb_2026091313",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Seattle Mariners",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-13T20:05:00Z"
-},
-
-{
-  "id": "mlb_2026091314",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Texas Rangers",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-13T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091315",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "San Diego Padres",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-13T23:20:00Z"
-},
-
-{
-  "id": "mlb_2026091401",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-14T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091402",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Chicago White Sox",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-14T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091403",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Detroit Tigers",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-14T23:07:00Z"
-},
-
-{
-  "id": "mlb_2026091404",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Baltimore Orioles",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-14T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091405",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Atlanta Braves",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-14T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091406",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "New York Yankees",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-14T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091407",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "San Francisco Giants",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-14T23:45:00Z"
-},
-
-{
-  "id": "mlb_2026091508",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "San Diego Padres",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-15T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026091509",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Seattle Mariners",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-15T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026091510",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Miami Marlins",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-15T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091501",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-15T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091502",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Athletics",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-15T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091503",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Chicago White Sox",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-15T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091504",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Milwaukee Brewers",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-15T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091505",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-15T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026091506",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Detroit Tigers",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-15T23:07:00Z"
-},
-
-{
-  "id": "mlb_2026091507",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Baltimore Orioles",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-15T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091508",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Atlanta Braves",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-15T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091509",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "New York Yankees",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-15T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091510",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "San Francisco Giants",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-15T23:45:00Z"
-},
-
-{
-  "id": "mlb_2026091611",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Boston Red Sox",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-16T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026091612",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Kansas City Royals",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-16T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026091613",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "San Diego Padres",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-16T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026091614",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Seattle Mariners",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-16T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026091615",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Miami Marlins",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-16T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091601",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Chicago White Sox",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-16T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026091602",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "San Francisco Giants",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-16T17:15:00Z"
-},
-
-{
-  "id": "mlb_2026091603",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "New York Yankees",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-16T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026091604",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Detroit Tigers",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-16T19:07:00Z"
-},
-
-{
-  "id": "mlb_2026091605",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-16T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091606",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Athletics",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-16T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091607",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Milwaukee Brewers",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-16T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091608",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-16T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026091609",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Baltimore Orioles",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-16T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091610",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Atlanta Braves",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-16T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091711",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Boston Red Sox",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-17T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026091712",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Kansas City Royals",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-17T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026091713",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "San Diego Padres",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-17T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026091714",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Seattle Mariners",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-17T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026091715",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "Miami Marlins",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-17T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091701",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Milwaukee Brewers",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-17T16:35:00Z"
-},
-
-{
-  "id": "mlb_2026091702",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-17T16:40:00Z"
-},
-
-{
-  "id": "mlb_2026091703",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Athletics",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-17T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026091704",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "San Diego Padres",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-17T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026091705",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Kansas City Royals",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-17T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026091706",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-17T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026091707",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Detroit Tigers",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-17T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091808",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Boston Red Sox",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-18T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026091809",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Minnesota Twins",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-18T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026091801",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Chicago Cubs",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-18T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091802",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Kansas City Royals",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-18T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091803",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-18T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026091804",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Athletics",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-18T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091805",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Boston Red Sox",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-18T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091806",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-18T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026091807",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Detroit Tigers",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-18T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026091908",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-19T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026091909",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Seattle Mariners",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-19T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026091910",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Atlanta Braves",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-19T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026091911",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "Washington Nationals",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-19T00:15:00Z"
-},
-
-{
-  "id": "mlb_2026091912",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Minnesota Twins",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-19T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026091913",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Miami Marlins",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-19T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091914",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "New York Yankees",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-19T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026091915",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "San Francisco Giants",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-19T02:15:00Z"
-},
-
-{
-  "id": "mlb_2026091901",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-19T20:05:00Z"
-},
-
-{
-  "id": "mlb_2026091902",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Boston Red Sox",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-19T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091903",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-19T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026091904",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Athletics",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-19T22:10:00Z"
-},
-
-{
-  "id": "mlb_2026091905",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Chicago Cubs",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-19T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091906",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Kansas City Royals",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-19T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026091907",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-19T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026091908",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Atlanta Braves",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-19T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091909",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Detroit Tigers",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-19T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026091910",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "Washington Nationals",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-19T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092011",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Seattle Mariners",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-20T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026092012",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "New York Yankees",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-20T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026092013",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Miami Marlins",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-20T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026092014",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "San Francisco Giants",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-20T01:10:00Z"
-},
-
-{
-  "id": "mlb_2026092015",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Minnesota Twins",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-20T01:38:00Z"
-},
-
-{
-  "id": "mlb_2026092001",
-  "league": "MLB",
-  "team": "New York Mets",
-  "opponent": "Philadelphia Phillies",
-  "arena": "Citi Field",
-  "city": "Flushing, New York",
-  "date": "2026-09-20T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026092002",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "Kansas City Royals",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-20T17:35:00Z"
-},
-
-{
-  "id": "mlb_2026092003",
-  "league": "MLB",
-  "team": "Cincinnati Reds",
-  "opponent": "Chicago Cubs",
-  "arena": "Great American Ball Park",
-  "city": "Cincinnati, Ohio",
-  "date": "2026-09-20T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026092004",
-  "league": "MLB",
-  "team": "Cleveland Guardians",
-  "opponent": "Athletics",
-  "arena": "Progressive Field",
-  "city": "Cleveland, Ohio",
-  "date": "2026-09-20T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026092005",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Boston Red Sox",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-09-20T17:40:00Z"
-},
-
-{
-  "id": "mlb_2026092006",
-  "league": "MLB",
-  "team": "Houston Astros",
-  "opponent": "Atlanta Braves",
-  "arena": "Daikin Park",
-  "city": "Houston, Texas",
-  "date": "2026-09-20T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026092007",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Detroit Tigers",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-20T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026092008",
-  "league": "MLB",
-  "team": "St. Louis Cardinals",
-  "opponent": "Washington Nationals",
-  "arena": "Busch Stadium",
-  "city": "St. Louis, Missouri",
-  "date": "2026-09-20T18:15:00Z"
-},
-
-{
-  "id": "mlb_2026092009",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-20T18:35:00Z"
-},
-
-{
-  "id": "mlb_2026092010",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Seattle Mariners",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-20T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092011",
-  "league": "MLB",
-  "team": "Los Angeles Angels",
-  "opponent": "Minnesota Twins",
-  "arena": "Angel Stadium",
-  "city": "Anaheim, California",
-  "date": "2026-09-20T20:07:00Z"
-},
-
-{
-  "id": "mlb_2026092012",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "San Francisco Giants",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-20T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026092013",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Miami Marlins",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-20T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026092014",
-  "league": "MLB",
-  "team": "Arizona Diamondbacks",
-  "opponent": "New York Yankees",
-  "arena": "Chase Field",
-  "city": "Phoenix, AZ",
-  "date": "2026-09-20T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026092015",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-20T23:20:00Z"
-},
-
-{
-  "id": "mlb_2026092101",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-21T22:35:00Z"
-},
-
-{
-  "id": "mlb_2026092102",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Washington Nationals",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-21T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092203",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "Minnesota Twins",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-22T01:45:00Z"
-},
-
-{
-  "id": "mlb_2026092201",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-22T17:05:00Z"
-},
-
-{
-  "id": "mlb_2026092202",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-22T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026092203",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-22T22:35:00Z"
-},
-
-{
-  "id": "mlb_2026092204",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Washington Nationals",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-22T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092205",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "St. Louis Cardinals",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-22T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092206",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-22T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092207",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Cleveland Guardians",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-22T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026092208",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Cincinnati Reds",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-22T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092209",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Chicago White Sox",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-22T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092210",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Miami Marlins",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-22T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092311",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "New York Mets",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-23T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026092312",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-23T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026092313",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Los Angeles Angels",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-23T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092314",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Houston Astros",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-23T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092315",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "Minnesota Twins",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-23T01:45:00Z"
-},
-
-{
-  "id": "mlb_2026092316",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "San Diego Padres",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-23T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026092301",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Washington Nationals",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-23T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026092302",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "Minnesota Twins",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-23T19:45:00Z"
-},
-
-{
-  "id": "mlb_2026092303",
-  "league": "MLB",
-  "team": "Baltimore Orioles",
-  "opponent": "Toronto Blue Jays",
-  "arena": "Oriole Park at Camden Yards",
-  "city": "Baltimore, Maryland",
-  "date": "2026-09-23T22:35:00Z"
-},
-
-{
-  "id": "mlb_2026092304",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "St. Louis Cardinals",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-23T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092305",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-23T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092306",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-23T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026092307",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Cleveland Guardians",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-23T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026092308",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Cincinnati Reds",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-23T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092309",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Chicago White Sox",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-23T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092310",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Miami Marlins",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-23T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092411",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "New York Mets",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-24T00:05:00Z"
-},
-
-{
-  "id": "mlb_2026092412",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-24T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026092413",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Los Angeles Angels",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-24T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092414",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "San Diego Padres",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-24T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026092415",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Houston Astros",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-24T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026092401",
-  "league": "MLB",
-  "team": "Pittsburgh Pirates",
-  "opponent": "St. Louis Cardinals",
-  "arena": "PNC Park",
-  "city": "Pittsburgh, Pennsylvania",
-  "date": "2026-09-24T16:35:00Z"
-},
-
-{
-  "id": "mlb_2026092402",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Chicago White Sox",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-24T18:10:00Z"
-},
-
-{
-  "id": "mlb_2026092403",
-  "league": "MLB",
-  "team": "Chicago Cubs",
-  "opponent": "Miami Marlins",
-  "arena": "Wrigley Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-24T18:20:00Z"
-},
-
-{
-  "id": "mlb_2026092404",
-  "league": "MLB",
-  "team": "Texas Rangers",
-  "opponent": "New York Mets",
-  "arena": "Globe Life Field",
-  "city": "Arlington, Texas",
-  "date": "2026-09-24T18:35:00Z"
-},
-
-{
-  "id": "mlb_2026092405",
-  "league": "MLB",
-  "team": "Colorado Rockies",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Coors Field",
-  "city": "Denver, Colorado",
-  "date": "2026-09-24T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092406",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Milwaukee Brewers",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-24T22:05:00Z"
-},
-
-{
-  "id": "mlb_2026092407",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Cleveland Guardians",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-24T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026092408",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-24T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026092409",
-  "league": "MLB",
-  "team": "Atlanta Braves",
-  "opponent": "Cincinnati Reds",
-  "arena": "Truist Park",
-  "city": "Cumberland, Georgia",
-  "date": "2026-09-24T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092510",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Houston Astros",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-25T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092511",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Los Angeles Angels",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-25T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092512",
-  "league": "MLB",
-  "team": "Los Angeles Dodgers",
-  "opponent": "San Diego Padres",
-  "arena": "Dodger Stadium",
-  "city": "Los Angeles, California",
-  "date": "2026-09-25T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026092501",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-25T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092502",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-25T22:40:00Z"
-},
-
-{
-  "id": "mlb_2026092503",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "New York Mets",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-25T22:45:00Z"
-},
-
-{
-  "id": "mlb_2026092504",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Baltimore Orioles",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-25T23:05:00Z"
-},
-
-{
-  "id": "mlb_2026092505",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Cincinnati Reds",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-25T23:07:00Z"
-},
-
-{
-  "id": "mlb_2026092506",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Chicago Cubs",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-25T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026092507",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Atlanta Braves",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-25T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026092508",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Cleveland Guardians",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-25T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092509",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Colorado Rockies",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-25T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092510",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "St. Louis Cardinals",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-25T23:40:00Z"
-},
-
-{
-  "id": "mlb_2026092611",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Texas Rangers",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-26T00:10:00Z"
-},
-
-{
-  "id": "mlb_2026092612",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Houston Astros",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-26T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092613",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-26T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092614",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Los Angeles Angels",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-26T02:10:00Z"
-},
-
-{
-  "id": "mlb_2026092615",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-26T02:15:00Z"
-},
-
-{
-  "id": "mlb_2026092601",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-26T17:10:00Z"
-},
-
-{
-  "id": "mlb_2026092602",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Cincinnati Reds",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-26T19:07:00Z"
-},
-
-{
-  "id": "mlb_2026092603",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "New York Mets",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-26T20:05:00Z"
-},
-
-{
-  "id": "mlb_2026092604",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-26T20:05:00Z"
-},
-
-{
-  "id": "mlb_2026092605",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Texas Rangers",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-26T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026092606",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Atlanta Braves",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-26T20:10:00Z"
-},
-
-{
-  "id": "mlb_2026092607",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Cleveland Guardians",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-26T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026092608",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Colorado Rockies",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-26T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026092609",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "St. Louis Cardinals",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-26T23:10:00Z"
-},
-
-{
-  "id": "mlb_2026092610",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Chicago Cubs",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-26T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092611",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-26T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092612",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Baltimore Orioles",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-26T23:15:00Z"
-},
-
-{
-  "id": "mlb_2026092713",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-27T00:40:00Z"
-},
-
-{
-  "id": "mlb_2026092714",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Houston Astros",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-27T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092715",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Los Angeles Angels",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-27T01:40:00Z"
-},
-
-{
-  "id": "mlb_2026092701",
-  "league": "MLB",
-  "team": "Boston Red Sox",
-  "opponent": "Chicago Cubs",
-  "arena": "Fenway Park",
-  "city": "Boston, Massachusetts",
-  "date": "2026-09-27T19:05:00Z"
-},
-
-{
-  "id": "mlb_2026092702",
-  "league": "MLB",
-  "team": "Washington Nationals",
-  "opponent": "New York Mets",
-  "arena": "Nationals Park",
-  "city": "Washington, DC",
-  "date": "2026-09-27T19:05:00Z"
-},
-
-{
-  "id": "mlb_2026092703",
-  "league": "MLB",
-  "team": "Athletics",
-  "opponent": "Houston Astros",
-  "arena": "Sutter Health Park",
-  "city": "West Sacramento, CA",
-  "date": "2026-09-27T19:05:00Z"
-},
-
-{
-  "id": "mlb_2026092704",
-  "league": "MLB",
-  "team": "San Francisco Giants",
-  "opponent": "Los Angeles Dodgers",
-  "arena": "Oracle Park",
-  "city": "San Francisco, California",
-  "date": "2026-09-27T19:05:00Z"
-},
-
-{
-  "id": "mlb_2026092705",
-  "league": "MLB",
-  "team": "Philadelphia Phillies",
-  "opponent": "Tampa Bay Rays",
-  "arena": "Citizens Bank Park",
-  "city": "Philadelphia, Pennsylia",
-  "date": "2026-09-27T19:05:00Z"
-},
-
-{
-  "id": "mlb_2026092706",
-  "league": "MLB",
-  "team": "Toronto Blue Jays",
-  "opponent": "Cincinnati Reds",
-  "arena": "Rogers Centre",
-  "city": "Toronto, Ontario",
-  "date": "2026-09-27T19:07:00Z"
-},
-
-{
-  "id": "mlb_2026092707",
-  "league": "MLB",
-  "team": "Kansas City Royals",
-  "opponent": "Cleveland Guardians",
-  "arena": "Kauffman Stadium",
-  "city": "Kansas City, Missouri",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092708",
-  "league": "MLB",
-  "team": "Detroit Tigers",
-  "opponent": "Pittsburgh Pirates",
-  "arena": "Comerica Park",
-  "city": "Detroit, Michigan",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092709",
-  "league": "MLB",
-  "team": "San Diego Padres",
-  "opponent": "Arizona Diamondbacks",
-  "arena": "Petco Park",
-  "city": "San Diego, California",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092710",
-  "league": "MLB",
-  "team": "Seattle Mariners",
-  "opponent": "Los Angeles Angels",
-  "arena": "T-Mobile Park",
-  "city": "Seattle, Washington",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092711",
-  "league": "MLB",
-  "team": "Minnesota Twins",
-  "opponent": "Texas Rangers",
-  "arena": "Target Field",
-  "city": "Minneapolis, Minnesota",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092712",
-  "league": "MLB",
-  "team": "Chicago White Sox",
-  "opponent": "Colorado Rockies",
-  "arena": "Rate Field",
-  "city": "Chicago, Illinois",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092713",
-  "league": "MLB",
-  "team": "Miami Marlins",
-  "opponent": "Atlanta Braves",
-  "arena": "LoanDepot Park",
-  "city": "Miami, Florida",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092714",
-  "league": "MLB",
-  "team": "Milwaukee Brewers",
-  "opponent": "St. Louis Cardinals",
-  "arena": "American Family Field",
-  "city": "Milwaukee, Wisconsin",
-  "date": "2026-09-27T19:10:00Z"
-},
-
-{
-  "id": "mlb_2026092715",
-  "league": "MLB",
-  "team": "New York Yankees",
-  "opponent": "Baltimore Orioles",
-  "arena": "Yankee Stadium",
-  "city": "Bronx, New York",
-  "date": "2026-09-27T19:20:00Z"
-}
+    "id": "mlb_2026090101",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "San Diego Padres",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-01T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090102",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "San Francisco Giants",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-01T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090103",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "New York Mets",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-01T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090104",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-01T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090105",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Seattle Mariners",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-01T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090106",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Atlanta Braves",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-01T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090107",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Detroit Tigers",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-01T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090108",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Miami Marlins",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-01T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090109",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-01T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090210",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Athletics",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-02T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090211",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Chicago White Sox",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-02T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090212",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Baltimore Orioles",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-02T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090213",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "New York Yankees",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-02T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090214",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-02T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090215",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-02T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090201",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "San Diego Padres",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-02T16:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090202",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Atlanta Braves",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-02T17:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090203",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Athletics",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-02T18:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090204",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Baltimore Orioles",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-02T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090205",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-02T19:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090206",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Seattle Mariners",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-02T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090207",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "San Francisco Giants",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-02T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090208",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "New York Mets",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-02T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090209",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-02T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090210",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Detroit Tigers",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-02T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090211",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Miami Marlins",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-02T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090212",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-02T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090313",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Chicago White Sox",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-03T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090314",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "New York Yankees",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-03T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090315",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-03T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090301",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "San Francisco Giants",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-03T16:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090302",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-03T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090303",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Chicago White Sox",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-03T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090304",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Boston Red Sox",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-03T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090305",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-03T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090306",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Miami Marlins",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-03T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090407",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-04T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090408",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Athletics",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-04T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090409",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-04T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090401",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Detroit Tigers",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-04T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090402",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Detroit Tigers",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-04T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090403",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-04T22:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090404",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Atlanta Braves",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-04T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090405",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Los Angeles Angels",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-04T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090406",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Boston Red Sox",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-04T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090407",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "San Francisco Giants",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-04T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090408",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Chicago Cubs",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-04T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090409",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Minnesota Twins",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-04T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090510",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-05T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090511",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-05T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090512",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-05T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090513",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-05T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090514",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "New York Yankees",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-05T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090515",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Washington Nationals",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-05T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090516",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Athletics",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-05T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090501",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "San Francisco Giants",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-05T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090502",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Chicago Cubs",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-05T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090503",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Atlanta Braves",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-05T22:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090504",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Detroit Tigers",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-05T22:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090505",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Los Angeles Angels",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-05T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090506",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-05T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090507",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Boston Red Sox",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090508",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-05T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090509",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-05T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090510",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Minnesota Twins",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-05T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090511",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-05T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090512",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "New York Yankees",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-05T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090613",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-06T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090614",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Washington Nationals",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-06T01:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090615",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Athletics",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-06T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090601",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-06T16:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090602",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Atlanta Braves",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-06T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090603",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Boston Red Sox",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-06T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090604",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Los Angeles Angels",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-06T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090605",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Detroit Tigers",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-06T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090606",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "San Francisco Giants",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-06T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090607",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Chicago Cubs",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-06T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090608",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-06T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090609",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-06T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090610",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-06T18:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090611",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-06T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090612",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Athletics",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-06T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090613",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "New York Yankees",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-06T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090614",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Minnesota Twins",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-06T22:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090715",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Washington Nationals",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-07T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090701",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Atlanta Braves",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-07T17:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090702",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "New York Mets",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-07T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090703",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Los Angeles Angels",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-07T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090704",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Cleveland Guardians",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-07T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090705",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-07T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090706",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Chicago Cubs",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-07T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090707",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Minnesota Twins",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-07T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090708",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Washington Nationals",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-07T21:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090809",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-08T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090810",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Cincinnati Reds",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-08T01:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090811",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-08T02:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090801",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Cleveland Guardians",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-08T22:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090802",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Minnesota Twins",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-08T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090803",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Houston Astros",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-08T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090804",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "New York Mets",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-08T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090805",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Los Angeles Angels",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-08T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090806",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Colorado Rockies",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-08T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090807",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-08T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090808",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-08T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090809",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-08T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090810",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Chicago Cubs",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-08T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090911",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Washington Nationals",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-09T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090912",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Texas Rangers",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-09T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090913",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-09T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090914",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-09T01:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090915",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Cincinnati Reds",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-09T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090901",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Minnesota Twins",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-09T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090902",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-09T19:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090903",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "St. Louis Cardinals",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-09T19:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090904",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Washington Nationals",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-09T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090905",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Texas Rangers",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-09T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090906",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Cleveland Guardians",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-09T22:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090907",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Houston Astros",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-09T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090908",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "New York Mets",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-09T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090909",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Los Angeles Angels",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-09T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090910",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Colorado Rockies",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-09T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090911",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-09T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090912",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-09T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090913",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-09T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026090914",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Chicago Cubs",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-09T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091015",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Cincinnati Reds",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-10T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091001",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-10T16:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091002",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Houston Astros",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-10T17:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091003",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Texas Rangers",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-10T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091004",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Colorado Rockies",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-10T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091005",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-10T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091101",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-11T18:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091102",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Colorado Rockies",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-11T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091103",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Los Angeles Angels",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-11T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091104",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "New York Mets",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-11T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091105",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Baltimore Orioles",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-11T23:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091106",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Kansas City Royals",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-11T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091107",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Houston Astros",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-11T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091108",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-11T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091109",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-11T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091110",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Cincinnati Reds",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-11T23:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091211",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Cleveland Guardians",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-12T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091212",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "Chicago White Sox",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-12T00:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091213",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Seattle Mariners",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-12T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091214",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Texas Rangers",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-12T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091215",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "San Diego Padres",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-12T02:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091201",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Colorado Rockies",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-12T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091202",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "New York Mets",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-12T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091203",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-12T18:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091204",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Baltimore Orioles",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-12T19:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091205",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Los Angeles Angels",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-12T20:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091206",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "San Diego Padres",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-12T20:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091207",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Kansas City Royals",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-12T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091208",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Cleveland Guardians",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-12T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091209",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-12T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091210",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Houston Astros",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-12T22:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091211",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Cincinnati Reds",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-12T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091212",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-12T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091213",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "Chicago White Sox",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-12T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091314",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Texas Rangers",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-13T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091315",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Seattle Mariners",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-13T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091301",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Colorado Rockies",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-13T16:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091302",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Kansas City Royals",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-13T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091303",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Los Angeles Angels",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-13T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091304",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-13T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091305",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "New York Mets",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-13T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091306",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Baltimore Orioles",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-13T17:37:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091307",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Houston Astros",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-13T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091308",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-13T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091309",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Cleveland Guardians",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-13T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091310",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Cincinnati Reds",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-13T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091311",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "Chicago White Sox",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-13T18:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091312",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-13T18:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091313",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Seattle Mariners",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-13T20:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091314",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Texas Rangers",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-13T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091315",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "San Diego Padres",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-13T23:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091401",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-14T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091402",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Chicago White Sox",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-14T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091403",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Detroit Tigers",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-14T23:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091404",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Baltimore Orioles",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-14T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091405",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Atlanta Braves",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-14T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091406",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "New York Yankees",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-14T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091407",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "San Francisco Giants",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-14T23:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091508",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "San Diego Padres",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-15T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091509",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Seattle Mariners",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-15T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091510",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Miami Marlins",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-15T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091501",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-15T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091502",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Athletics",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-15T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091503",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Chicago White Sox",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-15T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091504",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Milwaukee Brewers",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-15T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091505",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-15T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091506",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Detroit Tigers",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-15T23:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091507",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Baltimore Orioles",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-15T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091508",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Atlanta Braves",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-15T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091509",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "New York Yankees",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-15T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091510",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "San Francisco Giants",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-15T23:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091611",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Boston Red Sox",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-16T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091612",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Kansas City Royals",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-16T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091613",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "San Diego Padres",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-16T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091614",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Seattle Mariners",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-16T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091615",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Miami Marlins",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-16T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091601",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Chicago White Sox",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-16T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091602",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "San Francisco Giants",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-16T17:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091603",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "New York Yankees",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-16T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091604",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Detroit Tigers",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-16T19:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091605",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-16T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091606",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Athletics",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-16T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091607",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Milwaukee Brewers",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-16T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091608",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-16T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091609",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Baltimore Orioles",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-16T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091610",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Atlanta Braves",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-16T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091711",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Boston Red Sox",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-17T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091712",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Kansas City Royals",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-17T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091713",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "San Diego Padres",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-17T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091714",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Seattle Mariners",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-17T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091715",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "Miami Marlins",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-17T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091701",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Milwaukee Brewers",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-17T16:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091702",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-17T16:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091703",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Athletics",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-17T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091704",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "San Diego Padres",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-17T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091705",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Kansas City Royals",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-17T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091706",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-17T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091707",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Detroit Tigers",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-17T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091808",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Boston Red Sox",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-18T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091809",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Minnesota Twins",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-18T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091801",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Chicago Cubs",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-18T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091802",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Kansas City Royals",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-18T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091803",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-18T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091804",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Athletics",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-18T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091805",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Boston Red Sox",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-18T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091806",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-18T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091807",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Detroit Tigers",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-18T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091908",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-19T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091909",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Seattle Mariners",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-19T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091910",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Atlanta Braves",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-19T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091911",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "Washington Nationals",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-19T00:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091912",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Minnesota Twins",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-19T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091913",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Miami Marlins",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-19T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091914",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "New York Yankees",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-19T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091915",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "San Francisco Giants",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-19T02:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091901",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-19T20:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091902",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Boston Red Sox",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-19T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091903",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-19T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091904",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Athletics",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-19T22:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091905",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Chicago Cubs",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-19T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091906",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Kansas City Royals",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-19T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091907",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-19T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091908",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Atlanta Braves",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-19T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091909",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Detroit Tigers",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-19T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026091910",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "Washington Nationals",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-19T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092011",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Seattle Mariners",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-20T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092012",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "New York Yankees",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-20T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092013",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Miami Marlins",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-20T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092014",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "San Francisco Giants",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-20T01:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092015",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Minnesota Twins",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-20T01:38:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092001",
+    "league": "MLB",
+    "team": "New York Mets",
+    "opponent": "Philadelphia Phillies",
+    "arena": "Citi Field",
+    "city": "Flushing, New York",
+    "date": "2026-09-20T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092002",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "Kansas City Royals",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-20T17:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092003",
+    "league": "MLB",
+    "team": "Cincinnati Reds",
+    "opponent": "Chicago Cubs",
+    "arena": "Great American Ball Park",
+    "city": "Cincinnati, Ohio",
+    "date": "2026-09-20T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092004",
+    "league": "MLB",
+    "team": "Cleveland Guardians",
+    "opponent": "Athletics",
+    "arena": "Progressive Field",
+    "city": "Cleveland, Ohio",
+    "date": "2026-09-20T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092005",
+    "league": "MLB",
+    "team": "Tampa Bay Rays",
+    "opponent": "Boston Red Sox",
+    "arena": "Tropicana Field",
+    "city": "St. Petersburg, Florida",
+    "date": "2026-09-20T17:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092006",
+    "league": "MLB",
+    "team": "Houston Astros",
+    "opponent": "Atlanta Braves",
+    "arena": "Daikin Park",
+    "city": "Houston, Texas",
+    "date": "2026-09-20T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092007",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Detroit Tigers",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-20T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092008",
+    "league": "MLB",
+    "team": "St. Louis Cardinals",
+    "opponent": "Washington Nationals",
+    "arena": "Busch Stadium",
+    "city": "St. Louis, Missouri",
+    "date": "2026-09-20T18:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092009",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-20T18:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092010",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Seattle Mariners",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-20T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092011",
+    "league": "MLB",
+    "team": "Los Angeles Angels",
+    "opponent": "Minnesota Twins",
+    "arena": "Angel Stadium",
+    "city": "Anaheim, California",
+    "date": "2026-09-20T20:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092012",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "San Francisco Giants",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-20T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092013",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Miami Marlins",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-20T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092014",
+    "league": "MLB",
+    "team": "Arizona Diamondbacks",
+    "opponent": "New York Yankees",
+    "arena": "Chase Field",
+    "city": "Phoenix, AZ",
+    "date": "2026-09-20T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092015",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-20T23:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092101",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-21T22:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092102",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Washington Nationals",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-21T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092203",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "Minnesota Twins",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-22T01:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092201",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-22T17:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092202",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-22T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092203",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-22T22:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092204",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Washington Nationals",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-22T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092205",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "St. Louis Cardinals",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-22T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092206",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-22T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092207",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Cleveland Guardians",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-22T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092208",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Cincinnati Reds",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-22T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092209",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Chicago White Sox",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-22T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092210",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Miami Marlins",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-22T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092311",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "New York Mets",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-23T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092312",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-23T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092313",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Los Angeles Angels",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-23T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092314",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Houston Astros",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-23T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092315",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "Minnesota Twins",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-23T01:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092316",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "San Diego Padres",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-23T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092301",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Washington Nationals",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-23T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092302",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "Minnesota Twins",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-23T19:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092303",
+    "league": "MLB",
+    "team": "Baltimore Orioles",
+    "opponent": "Toronto Blue Jays",
+    "arena": "Oriole Park at Camden Yards",
+    "city": "Baltimore, Maryland",
+    "date": "2026-09-23T22:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092304",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "St. Louis Cardinals",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-23T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092305",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-23T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092306",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-23T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092307",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Cleveland Guardians",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-23T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092308",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Cincinnati Reds",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-23T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092309",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Chicago White Sox",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-23T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092310",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Miami Marlins",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-23T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092411",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "New York Mets",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-24T00:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092412",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-24T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092413",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Los Angeles Angels",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-24T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092414",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "San Diego Padres",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-24T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092415",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Houston Astros",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-24T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092401",
+    "league": "MLB",
+    "team": "Pittsburgh Pirates",
+    "opponent": "St. Louis Cardinals",
+    "arena": "PNC Park",
+    "city": "Pittsburgh, Pennsylvania",
+    "date": "2026-09-24T16:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092402",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Chicago White Sox",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-24T18:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092403",
+    "league": "MLB",
+    "team": "Chicago Cubs",
+    "opponent": "Miami Marlins",
+    "arena": "Wrigley Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-24T18:20:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092404",
+    "league": "MLB",
+    "team": "Texas Rangers",
+    "opponent": "New York Mets",
+    "arena": "Globe Life Field",
+    "city": "Arlington, Texas",
+    "date": "2026-09-24T18:35:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092405",
+    "league": "MLB",
+    "team": "Colorado Rockies",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Coors Field",
+    "city": "Denver, Colorado",
+    "date": "2026-09-24T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092406",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-24T22:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092407",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Cleveland Guardians",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-24T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092408",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-24T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092409",
+    "league": "MLB",
+    "team": "Atlanta Braves",
+    "opponent": "Cincinnati Reds",
+    "arena": "Truist Park",
+    "city": "Cumberland, Georgia",
+    "date": "2026-09-24T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092510",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Houston Astros",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-25T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092511",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Los Angeles Angels",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-25T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092512",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "San Diego Padres",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-09-25T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092501",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-25T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092502",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-25T22:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092503",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "New York Mets",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-25T22:45:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092504",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Baltimore Orioles",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-25T23:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092505",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Cincinnati Reds",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-25T23:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092506",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Chicago Cubs",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-25T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092507",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Atlanta Braves",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-25T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092508",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Cleveland Guardians",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-25T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092509",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Colorado Rockies",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-25T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092510",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "St. Louis Cardinals",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-25T23:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092611",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Texas Rangers",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-26T00:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092612",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Houston Astros",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-26T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092613",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-26T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092614",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Los Angeles Angels",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-26T02:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092615",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-26T02:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092601",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-26T17:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092602",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Cincinnati Reds",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-26T19:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092603",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "New York Mets",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-26T20:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092604",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-26T20:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092605",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Texas Rangers",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-26T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092606",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Atlanta Braves",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-26T20:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092607",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Cleveland Guardians",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-26T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092608",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Colorado Rockies",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-26T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092609",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "St. Louis Cardinals",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-26T23:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092610",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Chicago Cubs",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-26T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092611",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-26T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092612",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Baltimore Orioles",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-26T23:15:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092713",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-27T00:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092714",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Houston Astros",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-27T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092715",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Los Angeles Angels",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-27T01:40:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092701",
+    "league": "MLB",
+    "team": "Boston Red Sox",
+    "opponent": "Chicago Cubs",
+    "arena": "Fenway Park",
+    "city": "Boston, Massachusetts",
+    "date": "2026-09-27T19:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092702",
+    "league": "MLB",
+    "team": "Washington Nationals",
+    "opponent": "New York Mets",
+    "arena": "Nationals Park",
+    "city": "Washington, DC",
+    "date": "2026-09-27T19:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092703",
+    "league": "MLB",
+    "team": "Athletics",
+    "opponent": "Houston Astros",
+    "arena": "Sutter Health Park",
+    "city": "West Sacramento, CA",
+    "date": "2026-09-27T19:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092704",
+    "league": "MLB",
+    "team": "San Francisco Giants",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "Oracle Park",
+    "city": "San Francisco, California",
+    "date": "2026-09-27T19:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092705",
+    "league": "MLB",
+    "team": "Philadelphia Phillies",
+    "opponent": "Tampa Bay Rays",
+    "arena": "Citizens Bank Park",
+    "city": "Philadelphia, Pennsylia",
+    "date": "2026-09-27T19:05:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092706",
+    "league": "MLB",
+    "team": "Toronto Blue Jays",
+    "opponent": "Cincinnati Reds",
+    "arena": "Rogers Centre",
+    "city": "Toronto, Ontario",
+    "date": "2026-09-27T19:07:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092707",
+    "league": "MLB",
+    "team": "Kansas City Royals",
+    "opponent": "Cleveland Guardians",
+    "arena": "Kauffman Stadium",
+    "city": "Kansas City, Missouri",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092708",
+    "league": "MLB",
+    "team": "Detroit Tigers",
+    "opponent": "Pittsburgh Pirates",
+    "arena": "Comerica Park",
+    "city": "Detroit, Michigan",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092709",
+    "league": "MLB",
+    "team": "San Diego Padres",
+    "opponent": "Arizona Diamondbacks",
+    "arena": "Petco Park",
+    "city": "San Diego, California",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092710",
+    "league": "MLB",
+    "team": "Seattle Mariners",
+    "opponent": "Los Angeles Angels",
+    "arena": "T-Mobile Park",
+    "city": "Seattle, Washington",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092711",
+    "league": "MLB",
+    "team": "Minnesota Twins",
+    "opponent": "Texas Rangers",
+    "arena": "Target Field",
+    "city": "Minneapolis, Minnesota",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092712",
+    "league": "MLB",
+    "team": "Chicago White Sox",
+    "opponent": "Colorado Rockies",
+    "arena": "Rate Field",
+    "city": "Chicago, Illinois",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092713",
+    "league": "MLB",
+    "team": "Miami Marlins",
+    "opponent": "Atlanta Braves",
+    "arena": "LoanDepot Park",
+    "city": "Miami, Florida",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092714",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "St. Louis Cardinals",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-09-27T19:10:00Z"
+  },
+  
+  {
+    "id": "mlb_2026092715",
+    "league": "MLB",
+    "team": "New York Yankees",
+    "opponent": "Baltimore Orioles",
+    "arena": "Yankee Stadium",
+    "city": "Bronx, New York",
+    "date": "2026-09-27T19:20:00Z"
+  }
 ]
