@@ -1,281 +1,5 @@
 [ 
   {
-    "id": "mlb_2026083101",
-    "league": "MLB",
-    "team": "Atlanta Braves",
-    "opponent": "San Francisco Giants",
-    "arena": "Truist Park",
-    "city": "Cumberland, Georgia",
-    "date": "2026-08-31T22:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083102",
-    "league": "MLB",
-    "team": "Cincinnati Reds",
-    "opponent": "San Diego Padres",
-    "arena": "Great American Ball Park",
-    "city": "Cincinnati, Ohio",
-    "date": "2026-08-31T22:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083103",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "New York Mets",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-08-31T22:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083104",
-    "league": "MLB",
-    "team": "Boston Red Sox",
-    "opponent": "Seattle Mariners",
-    "arena": "Fenway Park",
-    "city": "Boston, Massachusetts",
-    "date": "2026-08-31T22:45:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083105",
-    "league": "MLB",
-    "team": "Washington Nationals",
-    "opponent": "Miami Marlins",
-    "arena": "Nationals Park",
-    "city": "Washington, DC",
-    "date": "2026-08-31T22:45:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083106",
-    "league": "MLB",
-    "team": "Minnesota Twins",
-    "opponent": "Detroit Tigers",
-    "arena": "Target Field",
-    "city": "Minneapolis, Minnesota",
-    "date": "2026-08-31T23:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026083107",
-    "league": "MLB",
-    "team": "Chicago Cubs",
-    "opponent": "Milwaukee Brewers",
-    "arena": "Wrigley Field",
-    "city": "Chicago, Illinois",
-    "date": "2026-08-31T23:40:00Z",
-    "giveaway": [
-      {
-        "title": "Illinois State University Cap",
-        "details": "Illinois State University cap. Presented by New Era. Special ticket purchase required."
-      }
-    ]
-  },
-  
-  {
-    "id": "mlb_2026090108",
-    "league": "MLB",
-    "team": "Texas Rangers",
-    "opponent": "Athletics",
-    "arena": "Globe Life Field",
-    "city": "Arlington, Texas",
-    "date": "2026-09-01T00:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090109",
-    "league": "MLB",
-    "team": "Houston Astros",
-    "opponent": "Chicago White Sox",
-    "arena": "Daikin Park",
-    "city": "Houston, Texas",
-    "date": "2026-09-01T00:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090110",
-    "league": "MLB",
-    "team": "Colorado Rockies",
-    "opponent": "Baltimore Orioles",
-    "arena": "Coors Field",
-    "city": "Denver, Colorado",
-    "date": "2026-09-01T00:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090111",
-    "league": "MLB",
-    "team": "Los Angeles Angels",
-    "opponent": "New York Yankees",
-    "arena": "Angel Stadium",
-    "city": "Anaheim, California",
-    "date": "2026-09-01T01:38:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090112",
-    "league": "MLB",
-    "team": "Arizona Diamondbacks",
-    "opponent": "Philadelphia Phillies",
-    "arena": "Chase Field",
-    "city": "Phoenix, AZ",
-    "date": "2026-09-01T01:40:00Z"
-  },
-
-  {
-    "id": "mlb_2026090101",
-    "league": "MLB",
-    "team": "Cincinnati Reds",
-    "opponent": "San Diego Padres",
-    "arena": "Great American Ball Park",
-    "city": "Cincinnati, Ohio",
-    "date": "2026-09-01T22:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090102",
-    "league": "MLB",
-    "team": "Pittsburgh Pirates",
-    "opponent": "San Francisco Giants",
-    "arena": "PNC Park",
-    "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-01T22:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090103",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "New York Mets",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-09-01T22:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090104",
-    "league": "MLB",
-    "team": "Cleveland Guardians",
-    "opponent": "Toronto Blue Jays",
-    "arena": "Progressive Field",
-    "city": "Cleveland, Ohio",
-    "date": "2026-09-01T22:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090105",
-    "league": "MLB",
-    "team": "Boston Red Sox",
-    "opponent": "Seattle Mariners",
-    "arena": "Fenway Park",
-    "city": "Boston, Massachusetts",
-    "date": "2026-09-01T22:45:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090106",
-    "league": "MLB",
-    "team": "Washington Nationals",
-    "opponent": "Atlanta Braves",
-    "arena": "Nationals Park",
-    "city": "Washington, DC",
-    "date": "2026-09-01T22:45:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090107",
-    "league": "MLB",
-    "team": "Minnesota Twins",
-    "opponent": "Detroit Tigers",
-    "arena": "Target Field",
-    "city": "Minneapolis, Minnesota",
-    "date": "2026-09-01T23:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090108",
-    "league": "MLB",
-    "team": "Kansas City Royals",
-    "opponent": "Miami Marlins",
-    "arena": "Kauffman Stadium",
-    "city": "Kansas City, Missouri",
-    "date": "2026-09-01T23:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090109",
-    "league": "MLB",
-    "team": "Chicago Cubs",
-    "opponent": "Milwaukee Brewers",
-    "arena": "Wrigley Field",
-    "city": "Chicago, Illinois",
-    "date": "2026-09-01T23:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090210",
-    "league": "MLB",
-    "team": "Texas Rangers",
-    "opponent": "Athletics",
-    "arena": "Globe Life Field",
-    "city": "Arlington, Texas",
-    "date": "2026-09-02T00:05:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090211",
-    "league": "MLB",
-    "team": "Houston Astros",
-    "opponent": "Chicago White Sox",
-    "arena": "Daikin Park",
-    "city": "Houston, Texas",
-    "date": "2026-09-02T00:10:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090212",
-    "league": "MLB",
-    "team": "Colorado Rockies",
-    "opponent": "Baltimore Orioles",
-    "arena": "Coors Field",
-    "city": "Denver, Colorado",
-    "date": "2026-09-02T00:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090213",
-    "league": "MLB",
-    "team": "Los Angeles Angels",
-    "opponent": "New York Yankees",
-    "arena": "Angel Stadium",
-    "city": "Anaheim, California",
-    "date": "2026-09-02T01:38:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090214",
-    "league": "MLB",
-    "team": "Arizona Diamondbacks",
-    "opponent": "Philadelphia Phillies",
-    "arena": "Chase Field",
-    "city": "Phoenix, AZ",
-    "date": "2026-09-02T01:40:00Z"
-  },
-  
-  {
-    "id": "mlb_2026090215",
-    "league": "MLB",
-    "team": "Los Angeles Dodgers",
-    "opponent": "St. Louis Cardinals",
-    "arena": "Dodger Stadium",
-    "city": "Los Angeles, California",
-    "date": "2026-09-02T02:10:00Z"
-  },
-  
-  {
     "id": "mlb_2026090201",
     "league": "MLB",
     "team": "Cincinnati Reds",
@@ -372,7 +96,17 @@
     "opponent": "Detroit Tigers",
     "arena": "Target Field",
     "city": "Minneapolis, Minnesota",
-    "date": "2026-09-02T23:40:00Z"
+    "date": "2026-09-02T23:40:00Z",
+    "giveaway": [
+      {
+        "title": "Student Discount",
+        "details": "Ballpark Access tickets are as low as $5 for students.. Students can also download a free Metro Transit ride pass. Limit one ticket per student with valid ID."
+      },
+      {
+        "title": "Military Discount",
+        "details": "Active military members or veterans with valid ID plus up to three guests receive half-price Diamond Box High or Upper Deck tickets."
+      }
+    ]
   },
   
   {
@@ -492,7 +226,17 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-09-04T00:05:00Z"
+    "date": "2026-09-04T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "Naruto Jersey",
+        "details": "Limited-edition Naruto x Texas Rangers co-branded jersey."
+      },
+      {
+        "title": "Naruto x Texas Rangers Jersey",
+        "details": "Limited-edition Naruto x Texas Rangers co-branded jersey for theme night ticket purchasers."
+      }
+    ]
   },
   
   {
@@ -502,7 +246,13 @@
     "opponent": "Athletics",
     "arena": "T-Mobile Park",
     "city": "Seattle, Washington",
-    "date": "2026-09-04T01:40:00Z"
+    "date": "2026-09-04T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Jimi Hendrix Night Jersey",
+        "details": "Mariners-themed Jimi Hendrix Jersey exclusively via online offer at Mariners.com/Hendrix."
+      }
+    ]
   },
   
   {
@@ -542,7 +292,10 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-09-04T22:10:00Z"
+    "date": "2026-09-04T22:10:00Z",
+    "fireworks": {
+      "title": "Post-Game Fireworks Show."
+    }
   },
   
   {
@@ -551,7 +304,7 @@
     "team": "Philadelphia Phillies",
     "opponent": "Atlanta Braves",
     "arena": "Citizens Bank Park",
-    "city": "Philadelphia, Pennsylia",
+    "city": "Philadelphia, Pennsylvania",
     "date": "2026-09-04T22:40:00Z"
   },
   
@@ -562,7 +315,16 @@
     "opponent": "Los Angeles Angels",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-04T22:45:00Z"
+    "date": "2026-09-04T22:45:00Z",
+    "fireworks": {
+      "title": "Postgame Zambelli drone show."
+    },
+    "giveaway": [
+      {
+        "title": "Pregame Miller Lite Happy Hour",
+        "details": "Pregame happy hour from gates open until first pitch."
+      }
+    ]
   },
   
   {
@@ -572,7 +334,10 @@
     "opponent": "Boston Red Sox",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-09-04T23:05:00Z"
+    "date": "2026-09-04T23:05:00Z",
+    "fireworks": {
+        "title": "Party at The Yard"
+      }
   },
   
   {
@@ -582,7 +347,13 @@
     "opponent": "San Francisco Giants",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-09-04T23:10:00Z"
+    "date": "2026-09-04T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "WWE Bobblehead",
+        "details": "First 18,000 fans receive a WWE x Mets Francisco Lindor bobblehead."
+      }
+    ]
   },
   
   {
@@ -602,7 +373,16 @@
     "opponent": "Minnesota Twins",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-09-04T23:40:00Z"
+    "date": "2026-09-04T23:40:00Z",
+    "fireworks": {
+      "title": "Postgame fireworks show."
+    },
+    "giveaway": [
+      {
+        "title": "White Sox Magic Wand",
+        "details": "First 20,000 fans receive a White Sox Magic Wand."
+      }
+    ]
   },
   
   {
@@ -612,7 +392,17 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Globe Life Field",
     "city": "Arlington, Texas",
-    "date": "2026-09-05T00:05:00Z"
+    "date": "2026-09-05T00:05:00Z",
+    "giveaway": [
+      {
+        "title": "Retro Windbreaker Pull-Over",
+        "details": "First 10,000 fans receive a retro windbreaker pull-over."
+      },
+      {
+        "title": "Budweiser Sky Porch Happy Hour",
+        "details": "$4.49 beer in the Sky Porch from gates open to first pitch."
+      }
+    ]
   },
   
   {
@@ -622,7 +412,20 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-09-05T00:10:00Z"
+    "date": "2026-09-05T00:10:00Z",
+    "giveaway": [
+      {
+        "title": "Orbit Foul Pole Bobblehead",
+        "details": "First 10,000 fans receive an Orbit Foul Pole bobblehead."
+      },
+      {
+        "title": "First Bud Friday",
+        "details": "Beer special 5:00-7:00 PM."
+      }
+    ],
+    "fireworks": {
+      "title": "Post-game fireworks show with Girls Trip Playlist theme."
+    }
   },
   
   {
@@ -632,7 +435,10 @@
     "opponent": "Toronto Blue Jays",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-09-05T00:10:00Z"
+    "date": "2026-09-05T00:10:00Z",
+    "fireworks": {
+      "title": "Post-game fireworks show."
+    }
   },
   
   {
@@ -672,7 +478,20 @@
     "opponent": "Athletics",
     "arena": "T-Mobile Park",
     "city": "Seattle, Washington",
-    "date": "2026-09-05T02:10:00Z"
+    "date": "2026-09-05T02:10:00Z",
+    "giveaway": [
+      {
+        "title": "Mexican Heritage Night T-Shirt",
+        "details": "Mariners-themed Mexican Heritage T-Shirt exclusively via online offer at Mariners.com/MexicanHeritage."
+      },
+      {
+        "title": "Naruto Night Jersey",
+        "details": "Mariners x NARUTO Jersey exclusively via online offer at Mariners.com/Naruto."
+      }
+    ],
+    "fireworks": {
+      "title": "Post-game fireworks show open to all fans with a cell phone light."
+    }
   },
   
   {
@@ -682,7 +501,13 @@
     "opponent": "San Francisco Giants",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-09-05T20:10:00Z"
+    "date": "2026-09-05T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "Mrs. Met Tennis Bobblehead",
+        "details": "First 18,000 fans receive a Mrs. Met Tennis bobblehead."
+      }
+    ]
   },
   
   {
@@ -692,7 +517,13 @@
     "opponent": "Chicago Cubs",
     "arena": "LoanDepot Park",
     "city": "Miami, Florida",
-    "date": "2026-09-05T20:10:00Z"
+    "date": "2026-09-05T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "Anibal Sanchez Legends Pin",
+        "details": "Special package includes a Legends Level ticket and a limited-edition collector's Anibal Sanchez (20th anniversary of No-Hitter) pin."
+      }
+    ]
   },
   
   {
@@ -701,8 +532,14 @@
     "team": "Philadelphia Phillies",
     "opponent": "Atlanta Braves",
     "arena": "Citizens Bank Park",
-    "city": "Philadelphia, Pennsylia",
-    "date": "2026-09-05T22:05:00Z"
+    "city": "Philadelphia, Pennsylvania",
+    "date": "2026-09-05T22:05:00Z",
+    "giveaway": [
+      {
+        "title": "Squeeze Bottle",
+        "details": "Children 14 and under receive a squeeze bottle."
+      }
+    ]
   },
   
   {
@@ -712,7 +549,13 @@
     "opponent": "Detroit Tigers",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-09-05T22:10:00Z"
+    "date": "2026-09-05T22:10:00Z",
+    "giveaway": [
+      {
+        "title": "Jersey Hoodie Giveaway",
+        "details": "First 15,000 fans receive a jersey hoodie."
+      }
+    ]
   },
   
   {
@@ -722,7 +565,13 @@
     "opponent": "Los Angeles Angels",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-05T22:40:00Z"
+    "date": "2026-09-05T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Free T-Shirt Giveaway",
+        "details": "First 20,000 fans receive a Pirates themed t-shirt."
+      }
+    ]
   },
   
   {
@@ -732,7 +581,13 @@
     "opponent": "Milwaukee Brewers",
     "arena": "Great American Ball Park",
     "city": "Cincinnati, Ohio",
-    "date": "2026-09-05T22:40:00Z"
+    "date": "2026-09-05T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Bobblehead",
+        "details": "Fans in attendance will receive Elly De La Cruz City Connect 2.0 Bobblehead."
+      }
+    ]
   },
   
   {
@@ -742,7 +597,13 @@
     "opponent": "Boston Red Sox",
     "arena": "Oriole Park at Camden Yards",
     "city": "Baltimore, Maryland",
-    "date": "2026-09-05T23:05:00Z"
+    "date": "2026-09-05T23:05:00Z",
+    "giveaway": [
+      {
+        "title": "Zay Flowers Jersey",
+        "details": "First 15,000 fans receive a Zay Flowers jersey."
+      }
+    ]
   },
   
   {
@@ -762,7 +623,13 @@
     "opponent": "Toronto Blue Jays",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-09-05T23:10:00Z"
+    "date": "2026-09-05T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Royal-Tees Giveaway",
+        "details": "First 10,000 fans receive a Pasquatch Royal-Tee featuring the mythical massive beast of first base and Vinnie."
+      }
+    ]
   },
   
   {
@@ -772,7 +639,13 @@
     "opponent": "Minnesota Twins",
     "arena": "Rate Field",
     "city": "Chicago, Illinois",
-    "date": "2026-09-05T23:10:00Z"
+    "date": "2026-09-05T23:10:00Z",
+    "giveaway": [
+      {
+        "title": "Finance Bro Vest",
+        "details": "First 15,000 fans receive a Finance Bro Vest (available in M or XL)."
+      }
+    ]
   },
   
   {
@@ -782,7 +655,13 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Daikin Park",
     "city": "Houston, Texas",
-    "date": "2026-09-05T23:15:00Z"
+    "date": "2026-09-05T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Astros Retro Clear Purse",
+        "details": "First 10,000 fans receive an Astros retro clear purse."
+      }
+    ]
   },
   
   {
@@ -792,7 +671,13 @@
     "opponent": "New York Yankees",
     "arena": "Petco Park",
     "city": "San Diego, California",
-    "date": "2026-09-05T23:15:00Z"
+    "date": "2026-09-05T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Don and Mud Mini Yacht Night #2 Bobblehead",
+        "details": "Limited-edition bobblehead of announcers Don and Mud included with Theme Game package."
+      }
+    ]
   },
   
   {
@@ -802,7 +687,13 @@
     "opponent": "St. Louis Cardinals",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-09-06T00:10:00Z"
+    "date": "2026-09-06T00:10:00Z",
+    "giveaway": [
+      {
+        "title": "Rock the Purple T-Shirt",
+        "details": "First 15,000 fans receive a Rock the Purple t-shirt featuring Hunter Goodman, Kyle Karros, Cole Carrigg and Jake McCarthy. Available in Medium and XL while supplies last."
+      }
+    ]
   },
   
   {
@@ -812,7 +703,13 @@
     "opponent": "Washington Nationals",
     "arena": "Dodger Stadium",
     "city": "Los Angeles, California",
-    "date": "2026-09-06T01:10:00Z"
+    "date": "2026-09-06T01:10:00Z",
+    "giveaway": [
+      {
+        "title": "Yoshinobu Yamamoto \"Starter Series\" Bobblehead",
+        "details": "All fans receive a Yoshinobu Yamamoto \"Starter Series\" bobblehead. Limited to 40,000 units while supplies last."
+      }
+    ]
   },
   
   {
@@ -822,7 +719,13 @@
     "opponent": "Athletics",
     "arena": "T-Mobile Park",
     "city": "Seattle, Washington",
-    "date": "2026-09-06T01:40:00Z"
+    "date": "2026-09-06T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Bryan Woo Bobblehead Night",
+        "details": "First 20,000 fans receive a Bryan Woo bobblehead."
+      }
+    ]
   },
   
   {
@@ -1002,7 +905,13 @@
     "opponent": "Los Angeles Angels",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-09-07T17:35:00Z"
+    "date": "2026-09-07T17:35:00Z",
+    "giveaway": [
+      {
+        "title": "Marcelo Mayer Football Jersey",
+        "details": "First 7,500 fans receive a Marcelo Mayer football jersey (adult sizes M and XL)."
+      }
+    ]
   },
   
   {
@@ -1022,7 +931,13 @@
     "opponent": "Arizona Diamondbacks",
     "arena": "Kauffman Stadium",
     "city": "Kansas City, Missouri",
-    "date": "2026-09-07T18:10:00Z"
+    "date": "2026-09-07T18:10:00Z",
+    "giveaway": [
+      {
+        "title": "Iced Out Hockey Jersey Giveaway",
+        "details": "First 10,000 fans receive an iced out hockey jersey."
+      }
+    ]
   },
   
   {
@@ -1052,7 +967,13 @@
     "opponent": "Washington Nationals",
     "arena": "Petco Park",
     "city": "San Diego, California",
-    "date": "2026-09-07T21:10:00Z"
+    "date": "2026-09-07T21:10:00Z",
+    "giveaway": [
+      {
+        "title": "Harry Potter Day Bobblehead",
+        "details": "Limited-edition Harry Potter themed bobblehead featured in Joe Musgrove's 'School of Pitchcraft and Wizardry' included with Theme Game package."
+      }
+    ]
   },
   
   {
@@ -1142,7 +1063,17 @@
     "opponent": "Colorado Rockies",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-09-08T23:05:00Z"
+    "date": "2026-09-08T23:05:00Z",
+    "giveaway": [
+      {
+        "title": "Mastercard Half-Price Games",
+        "details": "For select games during the 2026 season, fans can purchase tickets in select areas of the Terrace Level, Grandstand Level or Bleachers at half-price savings off the advance ticket price."
+      },
+      {
+        "title": "NARUTO Yankee Stadium Exclusive Card",
+        "details": "First 40,000 fans receive a NARUTO Yankee Stadium exclusive card."
+      }
+    ]
   },
   
   {
@@ -1152,7 +1083,10 @@
     "opponent": "Tampa Bay Rays",
     "arena": "Truist Park",
     "city": "Cumberland, Georgia",
-    "date": "2026-09-08T23:15:00Z"
+    "date": "2026-09-08T23:15:00Z",
+    "fireworks": {
+      "title": "The Avett Brothers Postgame Concert"
+    }
   },
   
   {
@@ -1192,7 +1126,13 @@
     "opponent": "Washington Nationals",
     "arena": "Petco Park",
     "city": "San Diego, California",
-    "date": "2026-09-09T01:40:00Z"
+    "date": "2026-09-09T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Tatis City Connect Bobblehead",
+        "details": "Limited to the first 40,000 fans in attendance, the Tatis City Connect Bobblehead."
+      }
+    ]
   },
   
   {
@@ -1272,7 +1212,13 @@
     "opponent": "Washington Nationals",
     "arena": "Petco Park",
     "city": "San Diego, California",
-    "date": "2026-09-09T20:10:00Z"
+    "date": "2026-09-09T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "Bark at the Park #6 Dog Treats",
+        "details": "Package of WholeHearted Chicken Stick Dog Treats for the final Bark at the Park of the season included with Theme Game package."
+      }
+    ]
   },
   
   {
@@ -1322,7 +1268,13 @@
     "opponent": "Los Angeles Angels",
     "arena": "Fenway Park",
     "city": "Boston, Massachusetts",
-    "date": "2026-09-09T22:45:00Z"
+    "date": "2026-09-09T22:45:00Z",
+    "giveaway": [
+      {
+        "title": "'Tini Hat Ticket Special",
+        "details": "Ticket special that includes a martini hat giveaway. Ticket specials are only available to fans who purchase their ticket via the respective special offer."
+      }
+    ]
   },
   
   {
@@ -1372,7 +1324,10 @@
     "opponent": "Chicago Cubs",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-09-09T23:40:00Z"
+    "date": "2026-09-09T23:40:00Z",
+    "fireworks": {
+      "title": "Postgame Laser Show."
+    }
   },
   
   {
@@ -1422,7 +1377,13 @@
     "opponent": "Colorado Rockies",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-09-10T23:05:00Z"
+    "date": "2026-09-10T23:05:00Z",
+    "giveaway": [
+      {
+        "title": "Mastercard Half-Price Games",
+        "details": "Fans can purchase tickets in select areas of the Terrace Level, Grandstand Level or Bleachers at half-price savings off the advance ticket price."
+      }
+    ]
   },
   
   {
@@ -1462,7 +1423,11 @@
     "opponent": "Los Angeles Angels",
     "arena": "Nationals Park",
     "city": "Washington, DC",
-    "date": "2026-09-11T22:45:00Z"
+    "date": "2026-09-11T22:45:00Z",
+    "fireworks": {
+      "title": "Post-game Friday night fireworks show."
+    }
+  },
   },
   
   {
@@ -1482,7 +1447,13 @@
     "opponent": "Baltimore Orioles",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-09-11T23:07:00Z"
+    "date": "2026-09-11T23:07:00Z",
+    "giveaway": [
+      {
+        "title": "Blue Jays Classic Retro Bag",
+        "details": "First 15,000 fans on entrance receive a Blue Jays classic retro bag."
+      }
+    ]
   },
   
   {
@@ -1522,7 +1493,10 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Truist Park",
     "city": "Cumberland, Georgia",
-    "date": "2026-09-11T23:15:00Z"
+    "date": "2026-09-11T23:15:00Z",
+    "fireworks": {
+      "title": "Friday Night Fireworks."
+    }
   },
   
   {
@@ -1552,7 +1526,13 @@
     "opponent": "Chicago White Sox",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-09-12T00:15:00Z"
+    "date": "2026-09-12T00:15:00Z",
+    "giveaway": [
+      {
+        "title": "2006 World Series All-Over Print Shirt",
+        "details": "First 15,000 fans, 13 and older, receive a vibrant all-over-print shirt honoring the unforgettable 2006 World Series run, available in Medium and XL."
+      }
+    ]
   },
   
   {
@@ -1572,7 +1552,10 @@
     "opponent": "Texas Rangers",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-09-12T01:40:00Z"
+    "date": "2026-09-12T01:40:00Z",
+    "fireworks": {
+      "title": "Postgame fireworks show."
+    }
   },
   
   {
@@ -1592,7 +1575,13 @@
     "opponent": "Colorado Rockies",
     "arena": "Comerica Park",
     "city": "Detroit, Michigan",
-    "date": "2026-09-12T17:10:00Z"
+    "date": "2026-09-12T17:10:00Z",
+    "giveaway": [
+      {
+        "title": "Gate Giveaway",
+        "details": "Details coming soon."
+      }
+    ]
   },
   
   {
@@ -1622,8 +1611,15 @@
     "opponent": "Baltimore Orioles",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-09-12T19:07:00Z"
+    "date": "2026-09-12T19:07:00Z",
+    "giveaway": [
+      {
+        "title": "Blue Jays Hello Kitty Day & Hello Kitty Bobblehead",
+        "details": "Hello Kitty activities around the ballpark. First 15,000 fans on entrance receive a Blue Jays Hello Kitty bobblehead."
+      }
+    ]
   },
+    
   
   {
     "id": "mlb_2026091205",
@@ -1632,7 +1628,13 @@
     "opponent": "Los Angeles Angels",
     "arena": "Nationals Park",
     "city": "Washington, DC",
-    "date": "2026-09-12T20:05:00Z"
+    "date": "2026-09-12T20:05:00Z",
+    "giveaway": [
+      {
+        "title": "Expos Replica Jersey",
+        "details": "First 20,000 fans receive an Expos replica jersey."
+      }
+    ]
   },
   
   {
@@ -1642,7 +1644,14 @@
     "opponent": "San Diego Padres",
     "arena": "Oracle Park",
     "city": "San Francisco, California",
-    "date": "2026-09-12T20:05:00Z"
+    "date": "2026-09-12T20:05:00Z",
+    "giveaway": [
+      {
+        "title": "Willy Adames Long Sleeve Jersey",
+        "details": "First 15,000 fans receive a Willy Adames long sleeve jersey."
+      }
+    ]
+  },
   },
   
   {
@@ -1682,7 +1691,13 @@
     "opponent": "Houston Astros",
     "arena": "Tropicana Field",
     "city": "St. Petersburg, Florida",
-    "date": "2026-09-12T22:10:00Z"
+    "date": "2026-09-12T22:10:00Z",
+    "giveaway": [
+      {
+        "title": "Rays Hockey Jersey",
+        "details": "First 10,000 fans receive a Rays hockey jersey."
+      }
+    ]
   },
   
   {
@@ -1692,7 +1707,16 @@
     "opponent": "Cincinnati Reds",
     "arena": "American Family Field",
     "city": "Milwaukee, Wisconsin",
-    "date": "2026-09-12T23:10:00Z"
+    "date": "2026-09-12T23:10:00Z",
+    "fireworks": {
+      "title": "Postgame Fireworks Show."
+    },
+    "giveaway": [
+      {
+        "title": "Oktoberfest Alpine Hat",
+        "details": "First 25,000 ticketed fans receive an Oktoberfest Alpine Hat."
+      }
+    ]
   },
   
   {
@@ -1712,7 +1736,13 @@
     "opponent": "Chicago White Sox",
     "arena": "Busch Stadium",
     "city": "St. Louis, Missouri",
-    "date": "2026-09-12T23:15:00Z"
+    "date": "2026-09-12T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Yadier Molina Bobblecard",
+        "details": "First 15,000 fans, 13 and older, receive a Bobblecard commemorating the iconic career of Cardinals Catcher Yadier Molina, newest Cardinals Hall of Famer. 400 rookie Bobblecards will be mixed in at random."
+      }
+    ]
   },
   
   {
@@ -1722,7 +1752,13 @@
     "opponent": "Texas Rangers",
     "arena": "Chase Field",
     "city": "Phoenix, AZ",
-    "date": "2026-09-13T00:10:00Z"
+    "date": "2026-09-13T00:10:00Z",
+    "giveaway": [
+      {
+        "title": "Merrill Kelly Bobble",
+        "details": "First 20,000 fans receive a Merrill Kelly bobble."
+      }
+    ]
   },
   
   {
@@ -1852,7 +1888,13 @@
     "opponent": "Pittsburgh Pirates",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-09-13T18:20:00Z"
+    "date": "2026-09-13T18:20:00Z",
+    "giveaway": [
+      {
+        "title": "Sammy Sosa Bobblehead",
+        "details": "Up to the first 10,000 early arriving fans receive a Sammy Sosa bobblehead."
+      }
+    ]
   },
   
   {
@@ -1882,7 +1924,12 @@
     "opponent": "San Diego Padres",
     "arena": "Oracle Park",
     "city": "San Francisco, California",
-    "date": "2026-09-13T23:20:00Z"
+    "date": "2026-09-13T23:20:00Z",
+    "giveaway": [
+      {
+        "title": "Logan Webb Football Jersey",
+        "details": "First 15,000 fans receive a Logan Webb football jersey."
+    ]
   },
   
   {
@@ -1902,7 +1949,13 @@
     "opponent": "Chicago White Sox",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-09-14T22:40:00Z"
+    "date": "2026-09-14T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Jersey Hoodie Giveaway",
+        "details": "First 15,000 fans receive a jersey hoodie."
+      }
+    ]
   },
   
   {
@@ -1932,7 +1985,12 @@
     "opponent": "Atlanta Braves",
     "arena": "Wrigley Field",
     "city": "Chicago, Illinois",
-    "date": "2026-09-14T23:40:00Z"
+    "date": "2026-09-14T23:40:00Z",
+    "giveaway": [
+      {
+        "title": "Seiya Suzuki Bobblehead",
+        "details": "Up to the first 10,000 early arriving fans receive a Seiya Suzuki bobblehead."
+      }
   },
   
   {
@@ -2022,7 +2080,14 @@
     "opponent": "Milwaukee Brewers",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-15T22:40:00Z"
+    "date": "2026-09-15T22:40:00Z",
+    "giveaway": [
+      {
+        "title": "Bobblehead Night #3",
+        "details": "The first 21,000 fans take home a limited-edition Roberto Clemente Bobblehead."
+      }
+    ]
+
   },
   
   {
@@ -2112,7 +2177,13 @@
     "opponent": "San Diego Padres",
     "arena": "Coors Field",
     "city": "Denver, Colorado",
-    "date": "2026-09-16T00:40:00Z"
+    "date": "2026-09-16T00:40:00Z",
+    "giveaway": [
+      {
+        "title": "BOGO Hot Dogs",
+        "details": "Buy one, get one hot dogs. Available with Mile High Value Play package."
+      }
+    ]
   },
   
   {
@@ -2122,7 +2193,13 @@
     "opponent": "Seattle Mariners",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-09-16T01:38:00Z"
+    "date": "2026-09-16T01:38:00Z",
+    "giveaway": [
+      {
+        "title": "Jo Adell Home Run Robbery Bobblehead",
+        "details": "First 25,000 fans receive a Jo Adell Home Run Robbery bobblehead."
+      }
+    ]
   },
   
   {
@@ -2342,7 +2419,13 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-09-17T23:15:00Z"
+    "date": "2026-09-17T23:15:00Z",
+    "giveaway": [
+      {
+        "title": "Francisco Lindor Bobblehead",
+        "details": "First 18,000 fans receive a Francisco Lindor bobblehead."
+      }
+    ]
   },
   
   {
@@ -2392,7 +2475,10 @@
     "opponent": "Kansas City Royals",
     "arena": "PNC Park",
     "city": "Pittsburgh, Pennsylvania",
-    "date": "2026-09-18T22:40:00Z"
+    "date": "2026-09-18T22:40:00Z",
+    "fireworks": {
+      "title": "Post-game Zambelli fireworks display."
+    }
   },
   
   {
@@ -2492,7 +2578,13 @@
     "opponent": "Minnesota Twins",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-09-19T01:38:00Z"
+    "date": "2026-09-19T01:38:00Z",
+    "giveaway": [
+      {
+        "title": "Angels & Ducks Blanket",
+        "details": "First 25,000 fans receive an Angels & Ducks blanket."
+      }
+    ]
   },
   
   {
@@ -2502,7 +2594,13 @@
     "opponent": "Miami Marlins",
     "arena": "Petco Park",
     "city": "San Diego, California",
-    "date": "2026-09-19T01:40:00Z"
+    "date": "2026-09-19T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "La Catrina Belt Bag",
+        "details": "Limited-edition belt bag featuring La Catrina."
+      }
+    ]
   },
   
   {
@@ -2552,7 +2650,13 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-09-19T20:10:00Z"
+    "date": "2026-09-19T20:10:00Z",
+    "giveaway": [
+      {
+        "title": "Francisco Lindor Bobblehead",
+        "details": "First 18,000 fans receive a Francisco Lindor bobblehead."
+      }
+    ]
   },
   
   {
@@ -2672,7 +2776,16 @@
     "opponent": "Minnesota Twins",
     "arena": "Angel Stadium",
     "city": "Anaheim, California",
-    "date": "2026-09-20T01:38:00Z"
+    "date": "2026-09-20T01:38:00Z",
+    "giveaway": [
+      {
+        "title": "Team Photo",
+        "details": "First 25,000 fans receive a team photo."
+      }
+    ],
+    "fireworks": {
+      "title": "Post-game Saturday Night Fireworks."
+    }
   },
   
   {
@@ -2682,7 +2795,13 @@
     "opponent": "Philadelphia Phillies",
     "arena": "Citi Field",
     "city": "Flushing, New York",
-    "date": "2026-09-20T17:10:00Z"
+    "date": "2026-09-20T17:10:00Z",
+    "giveaway": [
+      {
+        "title": "Howie Rose Retirement Ceremony",
+        "details": "Howie Rose Retirement Ceremony with \"Put It in the Books\" notebook and scorecard. First 15,000 fans receive the giveaway."
+      }
+    ]
   },
   
   {
@@ -3262,7 +3381,13 @@
     "opponent": "Houston Astros",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, CA",
-    "date": "2026-09-25T01:40:00Z"
+    "date": "2026-09-25T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "A's Soccer Jersey",
+        "details": "Early arriving fans receive an exclusive A's soccer jersey, while supplies last."
+      }
+    ]
   },
   
   {
@@ -3312,7 +3437,13 @@
     "opponent": "New York Mets",
     "arena": "Nationals Park",
     "city": "Washington, DC",
-    "date": "2026-09-25T22:45:00Z"
+    "date": "2026-09-25T22:45:00Z",
+    "giveaway": [
+      {
+        "title": "Nationals Football Jersey",
+        "details": "First 20,000 fans receive a Nationals football jersey."
+      }
+    ]
   },
   
   {
@@ -3322,7 +3453,13 @@
     "opponent": "Baltimore Orioles",
     "arena": "Yankee Stadium",
     "city": "Bronx, New York",
-    "date": "2026-09-25T23:05:00Z"
+    "date": "2026-09-25T23:05:00Z",
+    "giveaway": [
+      {
+        "title": "Josh Hart Yankees Bobblehead Night",
+        "details": "First 18,000 guests receive a Josh Hart Yankees bobblehead."
+      }
+    ]
   },
   
   {
@@ -3332,7 +3469,13 @@
     "opponent": "Cincinnati Reds",
     "arena": "Rogers Centre",
     "city": "Toronto, Ontario",
-    "date": "2026-09-25T23:07:00Z"
+    "date": "2026-09-25T23:07:00Z",
+    "giveaway": [
+      {
+        "title": "Carlos Delgado Short-Sleeved Retro Windbreaker",
+        "details": "First 15,000 fans on entrance receive a Carlos Delgado short-sleeved retro windbreaker."
+      }
+    ]
   },
   
   {
@@ -3402,7 +3545,10 @@
     "opponent": "Houston Astros",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, CA",
-    "date": "2026-09-26T01:40:00Z"
+    "date": "2026-09-26T01:40:00Z",
+    "fireworks": {
+      "title": "Post-game fireworks show."
+    }
   },
   
   {
@@ -3572,7 +3718,16 @@
     "opponent": "Houston Astros",
     "arena": "Sutter Health Park",
     "city": "West Sacramento, CA",
-    "date": "2026-09-27T01:40:00Z"
+    "date": "2026-09-27T01:40:00Z",
+    "giveaway": [
+      {
+        "title": "Fan Appreciation Mystery Item",
+        "details": "Early arriving fans, while supplies last."
+      }
+    ],
+    "fireworks": {
+      "title": "Fan Appreciation Mystery Item \u2014 Sacramento Saturdays presented by SAFE Credit Union: Each Saturday brings something special with premium wearables, unique collectibles, and in-game celebrations that you won't want to miss. Lock in your seat!"
+    }
   },
   
   {
