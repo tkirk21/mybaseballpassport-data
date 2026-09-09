@@ -4186,7 +4186,7 @@
 	"colorCode2": "#D31145",
 	"league": "DSL",
 	"timezone": "America/New_York",
-	"startDate": "1987-03-01",
+	"startDate": "1987-01-01",
 	"endDate": null
   },
   {
@@ -4203,7 +4203,7 @@
 	"colorCode2": "#C4CED4",
 	"league": "DSL",
 	"timezone": "America/New_York",
-	"startDate": "1987-03-01",
+	"startDate": "1987-01-01",
 	"endDate": null
   },
   {
@@ -4222,7 +4222,7 @@
     "colorCode4": "#FFFFFF",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2024-03-01",
+    "startDate": "2024-01-01",
     "endDate": null
   },	
   {
@@ -4241,7 +4241,7 @@
     "colorCode4": "#FFFFFF",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2025-03-01",
+    "startDate": "2025-01-01",
     "endDate": null
   },	
   {
@@ -4263,7 +4263,7 @@
 	"colorCode7": "#F2ECE5",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "1995-03-01",
+    "startDate": "1995-01-01",
     "endDate": null
   },	
   {
@@ -4281,7 +4281,7 @@
 	"colorCode3": "#FCF9EC",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2020-03-01",
+    "startDate": "2020-01-01",
     "endDate": null
   },
   {
@@ -4302,7 +4302,7 @@
 	"colorCode6": "#A7A8A9",  
     "league": "FL",
     "timezone": "America/Chicago",
-    "startDate": "2001-03-01",
+    "startDate": "2001-01-01",
     "endDate": null
   },
   {
@@ -4321,7 +4321,7 @@
 	"colorCode4": "#000000",
     "league": "FL",
     "timezone": "America/Chicago",
-    "startDate": "2011-03-01",
+    "startDate": "2011-01-01",
     "endDate": null
   },
   {
@@ -4338,7 +4338,7 @@
 	"colorCode2": "#330072",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2009-03-01",
+    "startDate": "2009-01-01",
     "endDate": null
   },
   {
@@ -4359,7 +4359,7 @@
     "colorCode6": "#000000",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2025-03-01",
+    "startDate": "2025-01-01",
     "endDate": null
   },
   {
@@ -4378,7 +4378,7 @@
     "colorCode4": "#FFFFFF",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2020-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4396,7 +4396,7 @@
     "colorCode3": "#ffffff",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2020-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4415,7 +4415,7 @@
     "colorCode3": "#B3B3B3",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2020-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4433,7 +4433,7 @@
     "colorCode3": "#ffffff",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2020-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4454,7 +4454,7 @@
     "colorCode6": "#215732",
     "league": "FL",
     "timezone": "America/Chicago",
-    "startDate": "2012-03-01",
+    "startDate": "2012-01-01",
     "endDate": null
   },
   {
@@ -4472,7 +4472,7 @@
     "colorCode3": "#ffffff",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2015-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4493,7 +4493,7 @@
     "colorCode6": "#B9975B",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2021-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4513,7 +4513,7 @@
     "colorCode35": "#FFFFFF",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2020-03-01",
+    "startDate": "2021-01-01",
     "endDate": null
   },
   {
@@ -4530,7 +4530,7 @@
     "colorCode2": "#5A2D81",
     "league": "FL",
     "timezone": "America/New_York",
-    "startDate": "2002-03-01",
+    "startDate": "2002-01-01",
     "endDate": null
   },
   {
@@ -4548,7 +4548,7 @@
     "colorCode3": "#C5986B",
     "league": "FL",
     "timezone": "America/Chicago",
-    "startDate": "1999-03-01",
+    "startDate": "1999-01-01",
     "endDate": null
   },
   {
