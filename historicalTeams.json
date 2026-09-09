@@ -14522,26 +14522,6 @@
 	"startDate": "2017-02-01",
 	"endDate": "2019-11-30"
   },
-  {
-	"teamName": "Florida Fire Frogs",
-	"teamCode": "FFF",
-	"arena": "CoolToday Park",
-	"arenaId": "cooltoday_park_venice",
-	"city": "Venice, Florida",
-	"address": "18800 W Villages Pkwy, Venice, FL 34293, United States",
-	"website": null,
-	"latitude": 27.032861478467925, 
-	"longitude": -82.31951998353456,
-	"colorCode": "#000000",
-	"colorCode2": "#BA0C2F",
-	"colorCode3": "#FA4616", 
-	"colorCode4": "#FFB81C",  
-	"colorCode5": "#FFFFFF",   
-	"league": "FSL",
-	"timezone": "America/New York",
-	"startDate": "2020-02-01",
-	"endDate": "2020-11-30"
-  },	
 
 
 
