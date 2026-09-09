@@ -35,6 +35,25 @@
     "timezone": "America/New_York",
     "startDate": "2026-07-14",
     "endDate": "2026-07-15"
+  },
+  {
+    "teamName": "Arizona Diamondbacks",
+    "teamCode": "ARI",
+    "arena": "Sydney Cricket Ground",
+    "arenaId": "sydney_cricket_ground_moore_park",
+    "city": "Moore Park, New South Wales",
+    "address": "4 Driver Ave, Moore Park NSW 2021, Australia",
+    "website": "mlb.com/dbacks",
+    "latitude": -33.891619317349736, 
+    "longitude": 151.22482016438846,
+    "colorCode": "#AA182C",
+    "colorCode2": "#3EC1CC",
+    "colorCode3": "#000000",
+    "colorCode4": "#FFFFFF",
+    "league": "MLB",
+    "timezone": "Australia/Sydney",
+    "startDate": "2014-03-22",
+    "endDate": "2014-03-24"
   },	
   {
     "teamName": "Athletics",
@@ -1854,6 +1873,24 @@
 	"startDate": "1958-02-01",
     "endDate": "1961-11-01"
   },
+  {
+    "teamName": "Los Angeles Dodgers",
+    "teamCode": "LAD",
+    "arena": "Sydney Cricket Ground",
+    "arenaId": "sydney_cricket_ground_moore_park",
+    "city": "Moore Park, New South Wales",
+    "address": "4 Driver Ave, Moore Park NSW 2021, Australia",
+    "website": "mlb.com/dodgers",
+    "latitude": -33.891619317349736, 
+    "longitude": 151.22482016438846,
+    "colorCode": "#FFFFFF",
+    "colorCode2": "#005A9C",
+    "colorCode3": "#EF3E42",
+    "league": "MLB",
+    "timezone": "Australia/Sydney",
+    "startDate": "2014-03-22",
+    "endDate": "2014-03-24"
+  },	
   {
     "teamName": "Louisville Colonels",
     "teamCode": "LOU",
