@@ -14853,8 +14853,28 @@
   {
     "teamName": "St. Paul Saints",
     "teamCode": "STP",
+    "arena": "Midway Stadium",
+    "arenaId": "midway_stadium_st_paul",
+    "city": "St Paul, Minnesota",
+    "address": "1771 Energy Park Dr, St Paul, MN 55101",
+    "website": "milb.com/st-paul",
+    "latitude": 44.97251874789248, 
+    "longitude": -93.17388649273003,
+    "colorCode": "#001489",
+    "colorCode2": "#DA291C",
+    "colorCode3": "#FFFFFF",
+    "colorCode4": "#000000",
+    "colorCode5": "#FFC72C",
+    "league": "AAPB",
+    "timezone": "America/Phoenix",
+    "startDate": "2006-02-01",
+    "endDate": "2014-12-31"
+  },	
+  {
+    "teamName": "St. Paul Saints",
+    "teamCode": "STP",
     "arena": "CHS Field",
-    "arenaId": "pnc_field_moosic",
+    "arenaId": "chs_field_moosic",
     "city": "St Paul, Minnesota",
     "address": "360 N Broadway St, St Paul, MN 55101",
     "website": "milb.com/st-paul",
@@ -14867,7 +14887,7 @@
     "colorCode5": "#FFC72C",
     "league": "AAPB",
     "timezone": "America/Phoenix",
-    "startDate": "2006-02-01",
+    "startDate": "2015-02-01",
     "endDate": "2019-12-31"
   },
   {
