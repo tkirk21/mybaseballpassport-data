@@ -20647,7 +20647,7 @@
     "league": "NEL",
     "timezone": "America/New_York",
     "startDate": "1998-01-01",
-    "end Date": "1998-12-31"
+    "endDate": "1998-12-31"
   },
   {
     "teamName": "New Jersey Jackals",
@@ -20666,7 +20666,7 @@
     "league": "NLE",
     "timezone": "America/New_York",
     "startDate": "1999-01-01",
-    "end Date": "2002-12-31"
+    "endDate": "2002-12-31"
   },
   {
     "teamName": "New Jersey Jackals",
@@ -20685,7 +20685,7 @@
     "league": "NLE",
     "timezone": "America/New_York",
     "startDate": "2003-01-01",
-    "end Date": "2004-12-31"
+    "endDate": "2004-12-31"
   },
   {
     "teamName": "Northeast League Aces",
