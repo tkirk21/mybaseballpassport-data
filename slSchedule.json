@@ -1,44 +1,24 @@
 [
   
   {
-    "id": "sl_2026091701",
+    "id": "sl_2026092201",
     "league": "SL",
-    "team": "Biloxi Shuckers",
-    "opponent": "To Be Determined",
-    "arena": "Keesler Federal Park",
-    "city": "Biloxi, Mississippi",
-    "date": "2026-09-17T08:33:00Z"
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-09-22T23:35:00Z"
   },
-  
+
   {
-    "id": "sl_2026091702",
+    "id": "sl_2026092301",
     "league": "SL",
-    "team": "Knoxville Smokies",
-    "opponent": "To Be Determined",
-    "arena": "Covenant Health Park",
-    "city": "Knoxville, Tennessee",
-    "date": "2026-09-17T23:00:00Z"
-  },
-  
-  {
-    "id": "sl_2026091801",
-    "league": "SL",
-    "team": "Biloxi Shuckers",
-    "opponent": "To Be Determined",
-    "arena": "Keesler Federal Park",
-    "city": "Biloxi, Mississippi",
-    "date": "2026-09-18T08:33:00Z"
-  },
-  
-  {
-    "id": "sl_2026091802",
-    "league": "SL",
-    "team": "Knoxville Smokies",
-    "opponent": "To Be Determined",
-    "arena": "Covenant Health Park",
-    "city": "Knoxville, Tennessee",
-    "date": "2026-09-18T23:00:00Z"
-  }  
+    "team": "Rocket City Trash Pandas",
+    "opponent": "Biloxi Shuckers",
+    "arena": "Toyota Field",
+    "city": "Madison, Alabama",
+    "date": "2026-09-23T23:35:00Z"
+  } 
   
 
 ]
