@@ -1,2 +1,47 @@
 [
+  {
+    "id": "fl_2026092201",
+    "league": "FL",
+    "team": "Evansville Otters",
+    "opponent": "Ottawa Titans",
+    "arena": "Bosse Field",
+    "city": "Evansville, Indiana",
+    "date": "2026-09-22T23:35:00Z"
+  },
+  {
+    "id": "fl_2026092301",
+    "league": "FL",
+    "team": "Evansville Otters",
+    "opponent": "Ottawa Titans",
+    "arena": "Bosse Field",
+    "city": "Evansville, Indiana",
+    "date": "2026-09-23T23:35:00Z"
+  },
+  {
+    "id": "fl_2026092501",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "Evansville Otters",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-09-25T23:05:00Z"
+  },
+  {
+    "id": "fl_2026092601",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "Evansville Otters",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-09-26T23:05:00Z"
+  },
+  {
+    "id": "fl_2026092701",
+    "league": "FL",
+    "team": "Ottawa Titans",
+    "opponent": "Evansville Otters",
+    "arena": "Ottawa Stadium",
+    "city": "Ottawa, Ontario",
+    "date": "2026-09-27T21:05:00Z"
+  }
 ]
