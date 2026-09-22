@@ -1,3 +1,416 @@
 [ 
- 
+  {
+    "id": "npb_2026092301",
+    "league": "NPB",
+    "team": "Fukuoka SoftBank Hawks",
+    "opponent": "Seibu Lions",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-09-23T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092302",
+    "league": "NPB",
+    "team": "Yakult Swallows",
+    "opponent": "Hanshin Tigers",
+    "arena": "Meiji Jingu Stadium",
+    "city": "Shinjuku City, Tokyo",
+    "date": "2026-09-23T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092303",
+    "league": "NPB",
+    "team": "Hiroshima Carp",
+    "opponent": "Yomiuri Giants",
+    "arena": "Mazda Zoom-Zoom Stadium",
+    "city": "Hiroshima, Hiroshima",
+    "date": "2026-09-23T05:00:00Z"
+  },
+  {
+    "id": "npb_2026092304",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Orix Buffaloes",
+    "arena": "ZOZO Marine Stadium",
+    "city": "Chiba, Chiba",
+    "date": "2026-09-23T07:00:00Z"
+  },
+  {
+    "id": "npb_2026092305",
+    "league": "NPB",
+    "team": "Nippon Ham Fighters",
+    "opponent": "Rakuten Gold. Eagles",
+    "arena": "Es Con Field",
+    "city": "Kitahiroshima, Hokkaido",
+    "date": "2026-09-23T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092306",
+    "league": "NPB",
+    "team": "Yokohama BayStars",
+    "opponent": "Chunichi Dragons",
+    "arena": "Yokohama Stadium",
+    "city": "Yokohama, Kanagawa",
+    "date": "2026-09-23T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092401",
+    "league": "NPB",
+    "team": "Hiroshima Carp",
+    "opponent": "Yomiuri Giants",
+    "arena": "Mazda Zoom-Zoom Stadium",
+    "city": "Hiroshima, Hiroshima",
+    "date": "2026-09-24T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092402",
+    "league": "NPB",
+    "team": "Nippon Ham Fighters",
+    "opponent": "Rakuten Gold. Eagles",
+    "arena": "Es Con Field",
+    "city": "Kitahiroshima, Hokkaido",
+    "date": "2026-09-24T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092501",
+    "league": "NPB",
+    "team": "Hiroshima Carp",
+    "opponent": "Yomiuri Giants",
+    "arena": "Mazda Zoom-Zoom Stadium",
+    "city": "Hiroshima, Hiroshima",
+    "date": "2026-09-25T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092502",
+    "league": "NPB",
+    "team": "Orix Buffaloes",
+    "opponent": "Fukuoka SoftBank Hawks",
+    "arena": "Kyocera Dome",
+    "city": "Osaka, Osaka",
+    "date": "2026-09-25T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092503",
+    "league": "NPB",
+    "team": "Seibu Lions",
+    "opponent": "Chiba Lotte Marines",
+    "arena": "Belluna Dome",
+    "city": "Tokorozawa, Saitama",
+    "date": "2026-09-25T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092504",
+    "league": "NPB",
+    "team": "Yakult Swallows",
+    "opponent": "Chunichi Dragons",
+    "arena": "Meiji Jingu Stadium",
+    "city": "Shinjuku City, Tokyo",
+    "date": "2026-09-25T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092505",
+    "league": "NPB",
+    "team": "Yokohama BayStars",
+    "opponent": "Hanshin Tigers",
+    "arena": "Yokohama Stadium",
+    "city": "Yokohama, Kanagawa",
+    "date": "2026-09-25T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092601",
+    "league": "NPB",
+    "team": "Orix Buffaloes",
+    "opponent": "Nippon Ham Fighters",
+    "arena": "Kyocera Dome",
+    "city": "Osaka, Osaka",
+    "date": "2026-09-26T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092602",
+    "league": "NPB",
+    "team": "Seibu Lions",
+    "opponent": "Chiba Lotte Marines",
+    "arena": "Belluna Dome",
+    "city": "Tokorozawa, Saitama",
+    "date": "2026-09-26T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092603",
+    "league": "NPB",
+    "team": "Yokohama BayStars",
+    "opponent": "Hanshin Tigers",
+    "arena": "Yokohama Stadium",
+    "city": "Yokohama, Kanagawa",
+    "date": "2026-09-26T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092604",
+    "league": "NPB",
+    "team": "Fukuoka SoftBank Hawks",
+    "opponent": "Rakuten Gold. Eagles",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-09-26T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092605",
+    "league": "NPB",
+    "team": "Yakult Swallows",
+    "opponent": "Chunichi Dragons",
+    "arena": "Meiji Jingu Stadium",
+    "city": "Shinjuku City, Tokyo",
+    "date": "2026-09-26T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092701",
+    "league": "NPB",
+    "team": "Fukuoka SoftBank Hawks",
+    "opponent": "Orix Buffaloes",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-09-27T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092702",
+    "league": "NPB",
+    "team": "Yokohama BayStars",
+    "opponent": "Hiroshima Carp",
+    "arena": "Yokohama Stadium",
+    "city": "Yokohama, Kanagawa",
+    "date": "2026-09-27T04:00:00Z"
+  },
+  {
+    "id": "npb_2026092703",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Nippon Ham Fighters",
+    "arena": "ZOZO Marine Stadium",
+    "city": "Chiba, Chiba",
+    "date": "2026-09-27T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092704",
+    "league": "NPB",
+    "team": "Seibu Lions",
+    "opponent": "Rakuten Gold. Eagles",
+    "arena": "Belluna Dome",
+    "city": "Tokorozawa, Saitama",
+    "date": "2026-09-27T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092705",
+    "league": "NPB",
+    "team": "Yomiuri Giants",
+    "opponent": "Yakult Swallows",
+    "arena": "Tokyo Dome",
+    "city": "Bunkyō City, Tokyo",
+    "date": "2026-09-27T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092801",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Nippon Ham Fighters",
+    "arena": "Es Con Field",
+    "city": "Kitahiroshima, Hokkaido",
+    "date": "2026-09-28T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092802",
+    "league": "NPB",
+    "team": "Seibu Lions",
+    "opponent": "Rakuten Gold. Eagles",
+    "arena": "Rakuten Mobile Park",
+    "city": "Sendai, Miyagi",
+    "date": "2026-09-28T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092803",
+    "league": "NPB",
+    "team": "Yokohama BayStars",
+    "opponent": "Hiroshima Carp",
+    "arena": "Mazda Zoom-Zoom Stadium",
+    "city": "Hiroshima, Hiroshima",
+    "date": "2026-09-28T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092901",
+    "league": "NPB",
+    "team": "Hanshin Tigers",
+    "opponent": "Yakult Swallows",
+    "arena": "Meiji Jingu Stadium",
+    "city": "Shinjuku City, Tokyo",
+    "date": "2026-09-29T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092902",
+    "league": "NPB",
+    "team": "Rakuten Gold. Eagles",
+    "opponent": "Chiba Lotte Marines",
+    "arena": "ZOZO Marine Stadium",
+    "city": "Chiba, Chiba",
+    "date": "2026-09-29T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092903",
+    "league": "NPB",
+    "team": "Seibu Lions",
+    "opponent": "Orix Buffaloes",
+    "arena": "Kyocera Dome",
+    "city": "Osaka, Osaka",
+    "date": "2026-09-29T08:00:00Z"
+  },
+  {
+    "id": "npb_2026092904",
+    "league": "NPB",
+    "team": "Yomiuri Giants",
+    "opponent": "Hiroshima Carp",
+    "arena": "Mazda Zoom-Zoom Stadium",
+    "city": "Hiroshima, Hiroshima",
+    "date": "2026-09-29T08:00:00Z"
+  },
+  {
+    "id": "npb_2026093001",
+    "league": "NPB",
+    "team": "Hanshin Tigers",
+    "opponent": "Yakult Swallows",
+    "arena": "Meiji Jingu Stadium",
+    "city": "Shinjuku City, Tokyo",
+    "date": "2026-09-30T08:00:00Z"
+  },
+  {
+    "id": "npb_2026093002",
+    "league": "NPB",
+    "team": "Rakuten Gold. Eagles",
+    "opponent": "Chiba Lotte Marines",
+    "arena": "ZOZO Marine Stadium",
+    "city": "Chiba, Chiba",
+    "date": "2026-09-30T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100101",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Nippon Ham Fighters",
+    "arena": "Es Con Field",
+    "city": "Kitahiroshima, Hokkaido",
+    "date": "2026-10-01T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100102",
+    "league": "NPB",
+    "team": "Hanshin Tigers",
+    "opponent": "Yomiuri Giants",
+    "arena": "Tokyo Dome",
+    "city": "Bunkyō City, Tokyo",
+    "date": "2026-10-01T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100103",
+    "league": "NPB",
+    "team": "Hiroshima Carp",
+    "opponent": "Chunichi Dragons",
+    "arena": "Vantelin Dome",
+    "city": "Nagoya, Aichi",
+    "date": "2026-10-01T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100104",
+    "league": "NPB",
+    "team": "Rakuten Gold. Eagles",
+    "opponent": "Fukuoka SoftBank Hawks",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-10-01T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100201",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Fukuoka SoftBank Hawks",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-10-02T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100202",
+    "league": "NPB",
+    "team": "Yakult Swallows",
+    "opponent": "Yomiuri Giants",
+    "arena": "Tokyo Dome",
+    "city": "Bunkyō City, Tokyo",
+    "date": "2026-10-02T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100301",
+    "league": "NPB",
+    "team": "Hiroshima Carp",
+    "opponent": "Hanshin Tigers",
+    "arena": "Koshien Stadium",
+    "city": "Nishinomiya, Hyogo",
+    "date": "2026-10-03T04:00:00Z"
+  },
+  {
+    "id": "npb_2026100302",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Fukuoka SoftBank Hawks",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-10-03T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100303",
+    "league": "NPB",
+    "team": "Rakuten Gold. Eagles",
+    "opponent": "Orix Buffaloes",
+    "arena": "Kyocera Dome",
+    "city": "Osaka, Osaka",
+    "date": "2026-10-03T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100304",
+    "league": "NPB",
+    "team": "Yomiuri Giants",
+    "opponent": "Yokohama BayStars",
+    "arena": "Yokohama Stadium",
+    "city": "Yokohama, Kanagawa",
+    "date": "2026-10-03T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100401",
+    "league": "NPB",
+    "team": "Chiba Lotte Marines",
+    "opponent": "Rakuten Gold. Eagles",
+    "arena": "Rakuten Mobile Park",
+    "city": "Sendai, Miyagi",
+    "date": "2026-10-04T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100402",
+    "league": "NPB",
+    "team": "Yakult Swallows",
+    "opponent": "Hiroshima Carp",
+    "arena": "Mazda Zoom-Zoom Stadium",
+    "city": "Hiroshima, Hiroshima",
+    "date": "2026-10-04T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100403",
+    "league": "NPB",
+    "team": "Yokohama BayStars",
+    "opponent": "Hanshin Tigers",
+    "arena": "Koshien Stadium",
+    "city": "Nishinomiya, Hyogo",
+    "date": "2026-10-04T08:00:00Z"
+  },
+  {
+    "id": "npb_2026100501",
+    "league": "NPB",
+    "team": "Rakuten Gold. Eagles",
+    "opponent": "Fukuoka SoftBank Hawks",
+    "arena": "Mizuho PayPay Dome",
+    "city": "Fukuoka, Fukuoka",
+    "date": "2026-10-05T08:00:00Z"
+   } 
 ]
