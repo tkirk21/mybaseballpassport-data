@@ -1,23 +1,4 @@
 [
-  {
-    "id": "aapb_20260922064",
-    "league": "AAPB",
-    "team": "Milwaukee Milkmen",
-    "opponent": "Kansas City Monarchs",
-    "arena": "Franklin Field",
-    "city": "Franklin, Wisconsin",
-    "date": "2026-09-22T23:35:00Z"
-  },
-  
-  {
-    "id": "aapb_20260924065",
-    "league": "AAPB",
-    "team": "Kansas City Monarchs",
-    "opponent": "Milwaukee Milkmen",
-    "arena": "Legends Field",
-    "city": "Kansas City, Kansas",
-    "date": "2026-09-24T23:35:00Z"
-  },
   
   {
     "id": "aapb_20260925066",
