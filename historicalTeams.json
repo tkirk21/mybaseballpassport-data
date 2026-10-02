@@ -4790,7 +4790,7 @@
     "endDate": "1961-05-18"
   },
   {
-    "teamName": "Scranton Wilkes-Barre Yankees",
+    "teamName": "Scranton/Wilkes-Barre Yankees",
     "teamCode": "SWB",
     "arena": "PNC Field",
     "arenaId": "pnc_field_moosic",
@@ -4809,7 +4809,7 @@
     "endDate": "2012-11-01"
   },
   {
-    "teamName": "Scranton Wilkes-Barre Red Barons",
+    "teamName": "Scranton/Wilkes-Barre Red Barons",
     "teamCode": "SWB",
     "arena": "Lackawanna County Stadium",
     "arenaId": "pnc_field_moosic",
