@@ -1,22 +1,84 @@
 [   
-  
+
+
   {
-    "id": "mlb_2026100801",
-    "league": "MLB",
-    "team": "Chicago White Sox",
-    "opponent": "Cleveland Guardians",
-    "arena": "Rate Field",
-    "city": "Chicago, Illinois",
-    "date": "2026-10-08T21:00:00Z"
-  },
-  {
-    "id": "mlb_2026101001",
+    "id": "mlb_2026101101",
     "league": "MLB",
     "team": "Cleveland Guardians",
     "opponent": "Chicago White Sox",
     "arena": "Progressive Field",
     "city": "Cleveland, Ohio",
-    "date": "2026-10-10T21:00:00Z"
+    "date": "2026-10-11T00:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026101201",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-10-12T00:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026101201",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-10-12T21:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026101501",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-10-15T00:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026101601",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-10-16T01:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026101701",
+    "league": "MLB",
+    "team": "Los Angeles Dodgers",
+    "opponent": "Milwaukee Brewers",
+    "arena": "Dodger Stadium",
+    "city": "Los Angeles, California",
+    "date": "2026-10-17T01:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026101901",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-10-19T00:00:00Z"
+  },
+  
+  {
+    "id": "mlb_2026102002",
+    "league": "MLB",
+    "team": "Milwaukee Brewers",
+    "opponent": "Los Angeles Dodgers",
+    "arena": "American Family Field",
+    "city": "Milwaukee, Wisconsin",
+    "date": "2026-10-20T00:00:00Z"
   }
   
 
