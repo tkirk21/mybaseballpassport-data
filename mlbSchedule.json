@@ -1,143 +1,83 @@
 [   
   {
-    "id": "mlb_2026101201",
-    "league": "MLB",
-    "team": "Milwaukee Brewers",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "American Family Field",
-    "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-12T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101201",
-    "league": "MLB",
-    "team": "Milwaukee Brewers",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "American Family Field",
-    "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-12T21:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101302",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "Cleveland Guardians",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-10-13T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101401",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "Cleveland Guardians",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-10-14T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101501",
-    "league": "MLB",
-    "team": "Los Angeles Dodgers",
-    "opponent": "Milwaukee Brewers",
-    "arena": "Dodger Stadium",
-    "city": "Los Angeles, California",
-    "date": "2026-10-15T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101501",
-    "league": "MLB",
-    "team": "Cleveland Guardians",
-    "opponent": "Tampa Bay Rays",
-    "arena": "Progressive Field",
-    "city": "Cleveland, Ohio",
-    "date": "2026-10-15T22:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101602",
-    "league": "MLB",
-    "team": "Los Angeles Dodgers",
-    "opponent": "Milwaukee Brewers",
-    "arena": "Dodger Stadium",
-    "city": "Los Angeles, California",
-    "date": "2026-10-16T01:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101601",
-    "league": "MLB",
-    "team": "Cleveland Guardians",
-    "opponent": "Tampa Bay Rays",
-    "arena": "Progressive Field",
-    "city": "Cleveland, Ohio",
-    "date": "2026-10-16T22:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101702",
-    "league": "MLB",
-    "team": "Los Angeles Dodgers",
-    "opponent": "Milwaukee Brewers",
-    "arena": "Dodger Stadium",
-    "city": "Los Angeles, California",
-    "date": "2026-10-17T01:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101801",
-    "league": "MLB",
-    "team": "Cleveland Guardians",
-    "opponent": "Tampa Bay Rays",
-    "arena": "Progressive Field",
-    "city": "Cleveland, Ohio",
-    "date": "2026-10-18T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101901",
-    "league": "MLB",
-    "team": "Milwaukee Brewers",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "American Family Field",
-    "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-19T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026101901",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "Cleveland Guardians",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-10-19T21:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026102002",
-    "league": "MLB",
-    "team": "Milwaukee Brewers",
-    "opponent": "Los Angeles Dodgers",
-    "arena": "American Family Field",
-    "city": "Milwaukee, Wisconsin",
-    "date": "2026-10-20T00:00:00Z"
-  },
-  
-  {
-    "id": "mlb_2026102101",
-    "league": "MLB",
-    "team": "Tampa Bay Rays",
-    "opponent": "Cleveland Guardians",
-    "arena": "Tropicana Field",
-    "city": "St. Petersburg, Florida",
-    "date": "2026-10-21T00:00:00Z"
-  }
+  "id": "mlb_2026102001",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Cleveland Guardians",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2026-10-20T00:08:00Z"
+},
+
+{
+  "id": "mlb_2026102401",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Tampa Bay Rays",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-10-24T00:00:00Z"
+},
+
+{
+  "id": "mlb_2026102501",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Tampa Bay Rays",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-10-25T00:00:00Z"
+},
+
+{
+  "id": "mlb_2026102701",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2026-10-27T00:00:00Z"
+},
+
+{
+  "id": "mlb_2026102801",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2026-10-28T00:00:00Z"
+},
+
+{
+  "id": "mlb_2026102901",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2026-10-29T00:00:00Z"
+},
+
+{
+  "id": "mlb_2026103101",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Tampa Bay Rays",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-10-31T00:00:00Z"
+},
+
+{
+  "id": "mlb_2026110101",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Tampa Bay Rays",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2026-11-01T00:00:00Z"
+}
   
 
 ]
