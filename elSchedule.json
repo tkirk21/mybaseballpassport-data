@@ -1,21 +1,1501 @@
 [
   {
-    "id": "el_2026092201",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "Erie SeaWolves",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-09-22T22:45:00Z"
-  },
-  
-  {
-    "id": "el_2026092301",
-    "league": "EL",
-    "team": "Reading Fightin Phils",
-    "opponent": "Erie SeaWolves",
-    "arena": "FirstEnergy Stadium",
-    "city": "Reading, Pennsylvania",
-    "date": "2026-09-23T22:45:00Z"
-  }
+  "id": "el_2027040201",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-02T22:00:00Z"
+},
+
+{
+  "id": "el_2027040202",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Hartford Yard Goats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-02T22:35:00Z"
+},
+
+{
+  "id": "el_2027040203",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-02T22:45:00Z"
+},
+
+{
+  "id": "el_2027040204",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Altoona Curve",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-02T22:45:00Z"
+},
+
+{
+  "id": "el_2027040205",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-02T23:00:00Z"
+},
+
+{
+  "id": "el_2027040206",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Erie SeaWolves",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-02T23:17:00Z"
+},
+
+{
+  "id": "el_2027040301",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-03T17:00:00Z"
+},
+
+{
+  "id": "el_2027040302",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Erie SeaWolves",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-03T19:05:00Z"
+},
+
+{
+  "id": "el_2027040303",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Hartford Yard Goats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-03T21:00:00Z"
+},
+
+{
+  "id": "el_2027040304",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-03T21:15:00Z"
+},
+
+{
+  "id": "el_2027040305",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-03T22:00:00Z"
+},
+
+{
+  "id": "el_2027040306",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Altoona Curve",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-03T22:45:00Z"
+},
+
+{
+  "id": "el_2027040401",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-04T17:00:00Z"
+},
+
+{
+  "id": "el_2027040402",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Chesapeake Baysox",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-04T17:00:00Z"
+},
+
+{
+  "id": "el_2027040403",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Erie SeaWolves",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-04T17:05:00Z"
+},
+
+{
+  "id": "el_2027040404",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Hartford Yard Goats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-04T17:05:00Z"
+},
+
+{
+  "id": "el_2027040405",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-04T18:00:00Z"
+},
+
+{
+  "id": "el_2027040406",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Altoona Curve",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-04T18:15:00Z"
+},
+
+{
+  "id": "el_2027040601",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-06T22:00:00Z"
+},
+
+{
+  "id": "el_2027040602",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Somerset Patriots",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-06T22:03:00Z"
+},
+
+{
+  "id": "el_2027040603",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Harrisburg Senators",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-06T22:05:00Z"
+},
+
+{
+  "id": "el_2027040604",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-06T22:07:00Z"
+},
+
+{
+  "id": "el_2027040605",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-06T22:35:00Z"
+},
+
+{
+  "id": "el_2027040606",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-06T23:10:00Z"
+},
+
+{
+  "id": "el_2027040701",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-07T15:00:00Z"
+},
+
+{
+  "id": "el_2027040702",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-07T22:00:00Z"
+},
+
+{
+  "id": "el_2027040703",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Somerset Patriots",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-07T22:03:00Z"
+},
+
+{
+  "id": "el_2027040704",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Harrisburg Senators",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-07T22:05:00Z"
+},
+
+{
+  "id": "el_2027040705",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-07T22:05:00Z"
+},
+
+{
+  "id": "el_2027040706",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-07T23:10:00Z"
+},
+
+{
+  "id": "el_2027040801",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-08T15:00:00Z"
+},
+
+{
+  "id": "el_2027040802",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-08T22:00:00Z"
+},
+
+{
+  "id": "el_2027040803",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Somerset Patriots",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-08T22:03:00Z"
+},
+
+{
+  "id": "el_2027040804",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Harrisburg Senators",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-08T22:05:00Z"
+},
+
+{
+  "id": "el_2027040805",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-08T22:07:00Z"
+},
+
+{
+  "id": "el_2027040806",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-08T23:10:00Z"
+},
+
+{
+  "id": "el_2027040901",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-09T22:00:00Z"
+},
+
+{
+  "id": "el_2027040902",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Somerset Patriots",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-09T22:03:00Z"
+},
+
+{
+  "id": "el_2027040903",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Harrisburg Senators",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-09T22:05:00Z"
+},
+
+{
+  "id": "el_2027040904",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-09T22:07:00Z"
+},
+
+{
+  "id": "el_2027040905",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-09T23:05:00Z"
+},
+
+{
+  "id": "el_2027040906",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-09T23:10:00Z"
+},
+
+{
+  "id": "el_2027041001",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-10T17:00:00Z"
+},
+
+{
+  "id": "el_2027041002",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Somerset Patriots",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-10T17:00:00Z"
+},
+
+{
+  "id": "el_2027041003",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-10T17:10:00Z"
+},
+
+{
+  "id": "el_2027041004",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Harrisburg Senators",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-10T17:35:00Z"
+},
+
+{
+  "id": "el_2027041005",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-10T20:00:00Z"
+},
+
+{
+  "id": "el_2027041006",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-10T22:35:00Z"
+},
+
+{
+  "id": "el_2027041101",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Akron RubberDucks",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-11T17:00:00Z"
+},
+
+{
+  "id": "el_2027041102",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-11T17:00:00Z"
+},
+
+{
+  "id": "el_2027041103",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Somerset Patriots",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-11T17:00:00Z"
+},
+
+{
+  "id": "el_2027041104",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-11T17:05:00Z"
+},
+
+{
+  "id": "el_2027041105",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-11T17:10:00Z"
+},
+
+{
+  "id": "el_2027041106",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Harrisburg Senators",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-11T17:35:00Z"
+},
+
+{
+  "id": "el_2027041301",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Erie SeaWolves",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-13T15:10:00Z"
+},
+
+{
+  "id": "el_2027041302",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-13T22:00:00Z"
+},
+
+{
+  "id": "el_2027041303",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Altoona Curve",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-13T22:30:00Z"
+},
+
+{
+  "id": "el_2027041304",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Chesapeake Baysox",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-13T22:35:00Z"
+},
+
+{
+  "id": "el_2027041305",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-13T22:35:00Z"
+},
+
+{
+  "id": "el_2027041306",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Hartford Yard Goats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-13T22:45:00Z"
+},
+
+{
+  "id": "el_2027041401",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Chesapeake Baysox",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-14T16:35:00Z"
+},
+
+{
+  "id": "el_2027041402",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-14T22:00:00Z"
+},
+
+{
+  "id": "el_2027041403",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Altoona Curve",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-14T22:30:00Z"
+},
+
+{
+  "id": "el_2027041404",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-14T22:35:00Z"
+},
+
+{
+  "id": "el_2027041405",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Hartford Yard Goats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-14T22:45:00Z"
+},
+
+{
+  "id": "el_2027041406",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Erie SeaWolves",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-14T22:45:00Z"
+},
+
+{
+  "id": "el_2027041501",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-15T22:00:00Z"
+},
+
+{
+  "id": "el_2027041502",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Altoona Curve",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-15T22:30:00Z"
+},
+
+{
+  "id": "el_2027041503",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Chesapeake Baysox",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-15T22:35:00Z"
+},
+
+{
+  "id": "el_2027041504",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-15T22:35:00Z"
+},
+
+{
+  "id": "el_2027041505",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Hartford Yard Goats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-15T22:45:00Z"
+},
+
+{
+  "id": "el_2027041506",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Erie SeaWolves",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-15T22:45:00Z"
+},
+
+{
+  "id": "el_2027041601",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-16T22:00:00Z"
+},
+
+{
+  "id": "el_2027041602",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-16T22:35:00Z"
+},
+
+{
+  "id": "el_2027041603",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Hartford Yard Goats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-16T22:45:00Z"
+},
+
+{
+  "id": "el_2027041604",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Erie SeaWolves",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-16T22:45:00Z"
+},
+
+{
+  "id": "el_2027041605",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Altoona Curve",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-16T23:00:00Z"
+},
+
+{
+  "id": "el_2027041606",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Chesapeake Baysox",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-16T23:17:00Z"
+},
+
+{
+  "id": "el_2027041701",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-17T17:00:00Z"
+},
+
+{
+  "id": "el_2027041702",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Chesapeake Baysox",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-17T19:05:00Z"
+},
+
+{
+  "id": "el_2027041703",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Hartford Yard Goats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-17T22:00:00Z"
+},
+
+{
+  "id": "el_2027041704",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Altoona Curve",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-17T22:00:00Z"
+},
+
+{
+  "id": "el_2027041705",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-17T22:05:00Z"
+},
+
+{
+  "id": "el_2027041706",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Erie SeaWolves",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-17T22:45:00Z"
+},
+
+{
+  "id": "el_2027041801",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-18T17:00:00Z"
+},
+
+{
+  "id": "el_2027041802",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Altoona Curve",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-18T17:00:00Z"
+},
+
+{
+  "id": "el_2027041803",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Chesapeake Baysox",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-18T17:05:00Z"
+},
+
+{
+  "id": "el_2027041804",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-18T17:05:00Z"
+},
+
+{
+  "id": "el_2027041805",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Hartford Yard Goats",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-18T18:00:00Z"
+},
+
+{
+  "id": "el_2027041806",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Erie SeaWolves",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-18T18:15:00Z"
+},
+
+{
+  "id": "el_2027042001",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-20T22:00:00Z"
+},
+
+{
+  "id": "el_2027042002",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-20T22:03:00Z"
+},
+
+{
+  "id": "el_2027042003",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-20T22:05:00Z"
+},
+
+{
+  "id": "el_2027042004",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-20T22:07:00Z"
+},
+
+{
+  "id": "el_2027042005",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-20T22:35:00Z"
+},
+
+{
+  "id": "el_2027042006",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-20T23:10:00Z"
+},
+
+{
+  "id": "el_2027042101",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-21T15:00:00Z"
+},
+
+{
+  "id": "el_2027042102",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-21T22:00:00Z"
+},
+
+{
+  "id": "el_2027042103",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-21T22:05:00Z"
+},
+
+{
+  "id": "el_2027042104",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-21T22:05:00Z"
+},
+
+{
+  "id": "el_2027042105",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-21T22:07:00Z"
+},
+
+{
+  "id": "el_2027042106",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-21T23:10:00Z"
+},
+
+{
+  "id": "el_2027042201",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-22T15:00:00Z"
+},
+
+{
+  "id": "el_2027042202",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-22T15:00:00Z"
+},
+
+{
+  "id": "el_2027042203",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-22T17:00:00Z"
+},
+
+{
+  "id": "el_2027042204",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-22T22:03:00Z"
+},
+
+{
+  "id": "el_2027042205",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-22T22:05:00Z"
+},
+
+{
+  "id": "el_2027042206",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-22T23:10:00Z"
+},
+
+{
+  "id": "el_2027042301",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-23T22:00:00Z"
+},
+
+{
+  "id": "el_2027042302",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-23T22:03:00Z"
+},
+
+{
+  "id": "el_2027042303",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-23T22:05:00Z"
+},
+
+{
+  "id": "el_2027042304",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-23T22:07:00Z"
+},
+
+{
+  "id": "el_2027042305",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-23T23:05:00Z"
+},
+
+{
+  "id": "el_2027042306",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-23T23:10:00Z"
+},
+
+{
+  "id": "el_2027042401",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-24T17:00:00Z"
+},
+
+{
+  "id": "el_2027042402",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-24T17:00:00Z"
+},
+
+{
+  "id": "el_2027042403",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-24T17:35:00Z"
+},
+
+{
+  "id": "el_2027042404",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-24T20:00:00Z"
+},
+
+{
+  "id": "el_2027042405",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-24T22:10:00Z"
+},
+
+{
+  "id": "el_2027042406",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-24T22:35:00Z"
+},
+
+{
+  "id": "el_2027042501",
+  "league": "EL",
+  "team": "New Hampshire Fisher Cats",
+  "opponent": "Reading Fightin Phils",
+  "arena": "Delta Dental Stadium",
+  "city": "Manchester, New Hampshire",
+  "date": "2027-04-25T17:00:00Z"
+},
+
+{
+  "id": "el_2027042502",
+  "league": "EL",
+  "team": "Binghamton Rumble Ponies",
+  "opponent": "Portland Sea Dogs",
+  "arena": "Mirabito Stadium",
+  "city": "Binghamton, New York",
+  "date": "2027-04-25T17:00:00Z"
+},
+
+{
+  "id": "el_2027042503",
+  "league": "EL",
+  "team": "Altoona Curve",
+  "opponent": "Richmond Flying Squirrels",
+  "arena": "Peoples Natural Gas Field",
+  "city": "Altoona, Pennsylvania",
+  "date": "2027-04-25T17:00:00Z"
+},
+
+{
+  "id": "el_2027042504",
+  "league": "EL",
+  "team": "Chesapeake Baysox",
+  "opponent": "Harrisburg Senators",
+  "arena": "Prince George's Stadium",
+  "city": "Bowie, Maryland",
+  "date": "2027-04-25T17:05:00Z"
+},
+
+{
+  "id": "el_2027042505",
+  "league": "EL",
+  "team": "Hartford Yard Goats",
+  "opponent": "Somerset Patriots",
+  "arena": "Dunkin' Park",
+  "city": "Hartford, Connecticut",
+  "date": "2027-04-25T17:10:00Z"
+},
+
+{
+  "id": "el_2027042506",
+  "league": "EL",
+  "team": "Erie SeaWolves",
+  "opponent": "Akron RubberDucks",
+  "arena": "UPMC Park",
+  "city": "Erie, Pennsylvania",
+  "date": "2027-04-25T17:35:00Z"
+},
+
+{
+  "id": "el_2027042701",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Erie SeaWolves",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-27T16:00:00Z"
+},
+
+{
+  "id": "el_2027042702",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Altoona Curve",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-27T22:00:00Z"
+},
+
+{
+  "id": "el_2027042703",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-27T22:05:00Z"
+},
+
+{
+  "id": "el_2027042704",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Hartford Yard Goats",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-27T22:35:00Z"
+},
+
+{
+  "id": "el_2027042705",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-27T22:45:00Z"
+},
+
+{
+  "id": "el_2027042706",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Chesapeake Baysox",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-27T22:45:00Z"
+},
+
+{
+  "id": "el_2027042801",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-28T15:05:00Z"
+},
+
+{
+  "id": "el_2027042802",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Hartford Yard Goats",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-28T16:35:00Z"
+},
+
+{
+  "id": "el_2027042803",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Altoona Curve",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-28T22:00:00Z"
+},
+
+{
+  "id": "el_2027042804",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Erie SeaWolves",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-28T22:30:00Z"
+},
+
+{
+  "id": "el_2027042805",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-28T22:45:00Z"
+},
+
+{
+  "id": "el_2027042806",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Chesapeake Baysox",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-28T22:45:00Z"
+},
+
+{
+  "id": "el_2027042901",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Altoona Curve",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-29T22:00:00Z"
+},
+
+{
+  "id": "el_2027042902",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Erie SeaWolves",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-29T22:30:00Z"
+},
+
+{
+  "id": "el_2027042903",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Hartford Yard Goats",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-29T22:35:00Z"
+},
+
+{
+  "id": "el_2027042904",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-29T22:35:00Z"
+},
+
+{
+  "id": "el_2027042905",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-29T22:45:00Z"
+},
+
+{
+  "id": "el_2027042906",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Chesapeake Baysox",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-29T22:45:00Z"
+},
+
+{
+  "id": "el_2027043001",
+  "league": "EL",
+  "team": "Portland Sea Dogs",
+  "opponent": "Altoona Curve",
+  "arena": "Delta Dental Park at Hadlock Field",
+  "city": "Portland, Maine",
+  "date": "2027-04-30T22:00:00Z"
+},
+
+{
+  "id": "el_2027043002",
+  "league": "EL",
+  "team": "Somerset Patriots",
+  "opponent": "New Hampshire Fisher Cats",
+  "arena": "TD Bank Ballpark",
+  "city": "Bridgewater Township, New Jersey",
+  "date": "2027-04-30T22:35:00Z"
+},
+
+{
+  "id": "el_2027043003",
+  "league": "EL",
+  "team": "Reading Fightin Phils",
+  "opponent": "Binghamton Rumble Ponies",
+  "arena": "FirstEnergy Stadium",
+  "city": "Reading, Pennsylvania",
+  "date": "2027-04-30T22:45:00Z"
+},
+
+{
+  "id": "el_2027043004",
+  "league": "EL",
+  "team": "Richmond Flying Squirrels",
+  "opponent": "Chesapeake Baysox",
+  "arena": "CarMax Park",
+  "city": "Richmond, Virginia",
+  "date": "2027-04-30T22:45:00Z"
+},
+
+{
+  "id": "el_2027043005",
+  "league": "EL",
+  "team": "Harrisburg Senators",
+  "opponent": "Erie SeaWolves",
+  "arena": "FNB Field",
+  "city": "Harrisburg, Pennsylvania",
+  "date": "2027-04-30T23:00:00Z"
+},
+
+{
+  "id": "el_2027043006",
+  "league": "EL",
+  "team": "Akron RubberDucks",
+  "opponent": "Hartford Yard Goats",
+  "arena": "7 17 Credit Union Park",
+  "city": "Akron, Ohio",
+  "date": "2027-04-30T23:17:00Z"
+}
 ]
