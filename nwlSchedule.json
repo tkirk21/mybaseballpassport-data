@@ -1,2 +1,751 @@
-[    
+[ 
+  {
+  "id": "nwl_2027040201",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-02T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040202",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Eugene Emeralds",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-02T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040203",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Spokane Indians",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-02T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040301",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-03T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040302",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Eugene Emeralds",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-03T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040303",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Spokane Indians",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-03T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040401",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-04T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040402",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Eugene Emeralds",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-04T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040403",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Spokane Indians",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-04T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040601",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Everett AquaSox",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-06T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040602",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Vancouver Canadians",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-06T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040603",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Hillsboro Hops",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-06T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040701",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Everett AquaSox",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-07T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040702",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Vancouver Canadians",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-07T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040703",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Hillsboro Hops",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-07T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040801",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Everett AquaSox",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-08T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040802",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Vancouver Canadians",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-08T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040803",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Hillsboro Hops",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-08T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040901",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Everett AquaSox",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-09T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040902",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Vancouver Canadians",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-09T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027040903",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Hillsboro Hops",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-09T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041001",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Everett AquaSox",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-10T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041002",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Vancouver Canadians",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-10T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041003",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Hillsboro Hops",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-10T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041101",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Everett AquaSox",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-11T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041102",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Vancouver Canadians",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-11T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041103",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Hillsboro Hops",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-11T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041301",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-13T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041302",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Eugene Emeralds",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-13T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041303",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Spokane Indians",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-13T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041401",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-14T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041402",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Eugene Emeralds",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-14T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041403",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Spokane Indians",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-14T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041501",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-15T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041502",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Eugene Emeralds",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-15T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041503",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Spokane Indians",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-15T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041601",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-16T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041602",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Eugene Emeralds",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-16T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041603",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Spokane Indians",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-16T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041701",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-17T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041702",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Eugene Emeralds",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-17T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041703",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Spokane Indians",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-17T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041801",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Tri-City Dust Devils",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-18T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041802",
+  "league": "NWL",
+  "team": "Everett AquaSox",
+  "opponent": "Eugene Emeralds",
+  "arena": "Funko Field",
+  "city": "Everett, Washington",
+  "date": "2027-04-18T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027041803",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Spokane Indians",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-18T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042001",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Vancouver Canadians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-20T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042002",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Everett AquaSox",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-20T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042101",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Vancouver Canadians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-21T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042102",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Hillsboro Hops",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-21T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042103",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Everett AquaSox",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-21T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042201",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Vancouver Canadians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-22T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042202",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Hillsboro Hops",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-22T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042203",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Everett AquaSox",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-22T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042301",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Vancouver Canadians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-23T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042302",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Hillsboro Hops",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-23T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042303",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Everett AquaSox",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-23T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042401",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Hillsboro Hops",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-24T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042402",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Hillsboro Hops",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-24T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042403",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Vancouver Canadians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-24T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042404",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Everett AquaSox",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-24T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042501",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Vancouver Canadians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-25T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042502",
+  "league": "NWL",
+  "team": "Eugene Emeralds",
+  "opponent": "Hillsboro Hops",
+  "arena": "PK Park",
+  "city": "Eugene, Oregon",
+  "date": "2027-04-25T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042503",
+  "league": "NWL",
+  "team": "Spokane Indians",
+  "opponent": "Everett AquaSox",
+  "arena": "Avista Stadium",
+  "city": "Spokane Valley, Washington",
+  "date": "2027-04-25T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042701",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Everett AquaSox",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-27T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042702",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Eugene Emeralds",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-27T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042703",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Spokane Indians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-27T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042801",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Everett AquaSox",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-28T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042802",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Eugene Emeralds",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-28T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042803",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Spokane Indians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-28T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042901",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Everett AquaSox",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-29T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042902",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Eugene Emeralds",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-29T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027042903",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Spokane Indians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-29T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027043001",
+  "league": "NWL",
+  "team": "Hillsboro Hops",
+  "opponent": "Everett AquaSox",
+  "arena": "Hillsboro Ballpark",
+  "city": "Hillsboro, Oregon",
+  "date": "2027-04-30T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027043002",
+  "league": "NWL",
+  "team": "Vancouver Canadians",
+  "opponent": "Eugene Emeralds",
+  "arena": "Nat Bailey Stadium",
+  "city": "Vancouver, British Columbia",
+  "date": "2027-04-30T10:33:00Z"
+},
+
+{
+  "id": "nwl_2027043003",
+  "league": "NWL",
+  "team": "Tri-City Dust Devils",
+  "opponent": "Spokane Indians",
+  "arena": "Gesa Stadium",
+  "city": "Pasco, Washington",
+  "date": "2027-04-30T10:33:00Z"
+}
 ]
