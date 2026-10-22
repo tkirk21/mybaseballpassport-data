@@ -1,13 +1,4 @@
 [   
-  {
-  "id": "mlb_2026102001",
-  "league": "MLB",
-  "team": "Tampa Bay Rays",
-  "opponent": "Cleveland Guardians",
-  "arena": "Tropicana Field",
-  "city": "St. Petersburg, Florida",
-  "date": "2026-10-20T00:08:00Z"
-},
 
 {
   "id": "mlb_2026102401",
@@ -77,7 +68,5617 @@
   "arena": "American Family Field",
   "city": "Milwaukee, Wisconsin",
   "date": "2026-11-01T00:00:00Z"
-}
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "id": "mlb_2027021901",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Atlanta Braves",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-02-19T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027021902",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Chicago White Sox",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-02-19T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027021903",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-02-19T23:05:00Z"
+},
+
+{
+  "id": "mlb_2027021904",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Cleveland Guardians",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021905",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Colorado Rockies",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021906",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Washington Nationals",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021907",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Chicago Cubs",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021908",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "San Diego Padres",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021909",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021910",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Texas Rangers",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021911",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Toronto Blue Jays",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021912",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021913",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Miami Marlins",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021914",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "St. Louis Cardinals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021915",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "New York Yankees",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021916",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Los Angeles Angels",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027021917",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Northeastern Huskies",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-02-19T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022001",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Baltimore Orioles",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-02-20T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022002",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Cincinnati Reds",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-20T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022003",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Kansas City Royals",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-02-20T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022004",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Washington Nationals",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022005",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Detroit Tigers",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022006",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Houston Astros",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022007",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Boston Red Sox",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022008",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022009",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Miami Marlins",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022010",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Atlanta Braves",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-02-20T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022011",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Cleveland Guardians",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-02-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022012",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-02-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022013",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Seattle Mariners",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-02-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022014",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "San Francisco Giants",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-02-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022015",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Athletics",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-02-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022016",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Chicago White Sox",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-02-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022101",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-02-21T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022102",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "San Diego Padres",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-21T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022103",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Cincinnati Reds",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-21T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022104",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Houston Astros",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022105",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022106",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022107",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Minnesota Twins",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022108",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022109",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Mets",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022110",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "New York Yankees",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-02-21T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022111",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Los Angeles Angels",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-02-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022112",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-02-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022113",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-02-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022114",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Texas Rangers",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-02-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022115",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Chicago White Sox",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-02-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022116",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-02-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022201",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Boston Red Sox",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-02-22T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022202",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-02-22T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022203",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Seattle Mariners",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-22T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022204",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "New York Mets",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-02-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022205",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-02-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022206",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-02-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022207",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-02-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022208",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Washington Nationals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-02-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022209",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Detroit Tigers",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-02-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022210",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Chicago Cubs",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022211",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Kansas City Royals",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022212",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022213",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Colorado Rockies",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022214",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "San Francisco Giants",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022215",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Cleveland Guardians",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022216",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Texas Rangers",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-02-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022301",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Colorado Rockies",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-02-23T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022302",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Chicago White Sox",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-23T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022303",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Houston Astros",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022304",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "New York Mets",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022305",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022306",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Minnesota Twins",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022307",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022308",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Atlanta Braves",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022309",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Miami Marlins",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022310",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "New York Yankees",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-02-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022311",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Kansas City Royals",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-02-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022312",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Athletics",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-02-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022313",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Los Angeles Angels",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-02-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022314",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "San Diego Padres",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-02-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022315",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-02-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022401",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-02-24T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022402",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-02-24T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022403",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Texas Rangers",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-24T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022404",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Washington Nationals",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-02-24T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022405",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Boston Red Sox",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-02-24T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022406",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Detroit Tigers",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-02-24T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022407",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "St. Louis Cardinals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-02-24T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022408",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-02-24T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022409",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "New York Yankees",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-02-24T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022410",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Cincinnati Reds",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022411",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022412",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Chicago Cubs",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022413",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022414",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Kansas City Royals",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022415",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Athletics",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022416",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Seattle Mariners",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-02-24T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022501",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Los Angeles Angels",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-25T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022502",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "San Francisco Giants",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-02-25T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022503",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Baltimore Orioles",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022504",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "New York Mets",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022505",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Washington Nationals",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022506",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Minnesota Twins",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022507",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022508",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Atlanta Braves",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022509",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Miami Marlins",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-02-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022510",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-02-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022511",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "San Diego Padres",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-02-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022512",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Cleveland Guardians",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-02-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022513",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Texas Rangers",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-02-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022514",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Chicago White Sox",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-02-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022515",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-02-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022601",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Boston Red Sox",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-02-26T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022602",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "San Diego Padres",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-26T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022603",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "New York Mets",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022604",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Baltimore Orioles",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022605",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Houston Astros",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022606",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Detroit Tigers",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022607",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022608",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Miami Marlins",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022609",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-02-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022610",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Los Angeles Angels",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022611",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Colorado Rockies",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022612",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022613",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Chicago Cubs",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022614",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Cleveland Guardians",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022615",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Seattle Mariners",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022616",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Kansas City Royals",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-02-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022701",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Detroit Tigers",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-02-27T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022702",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Colorado Rockies",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-27T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022703",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Cleveland Guardians",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-27T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022704",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Washington Nationals",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022705",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022706",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022707",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Minnesota Twins",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022708",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Atlanta Braves",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022709",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Houston Astros",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022710",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "New York Yankees",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-02-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022711",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Athletics",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-02-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022712",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "San Diego Padres",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-02-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022713",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Cincinnati Reds",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-02-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022714",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "San Francisco Giants",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-02-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022715",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Texas Rangers",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-02-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022716",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-02-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022801",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Baltimore Orioles",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-02-28T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027022802",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Kansas City Royals",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-28T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022803",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-02-28T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027022804",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Boston Red Sox",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022805",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Houston Astros",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022806",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Washington Nationals",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022807",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Philadelphia Phillies",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022808",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022809",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Miami Marlins",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022810",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-02-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027022811",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-02-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022812",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Los Angeles Angels",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-02-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022813",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Seattle Mariners",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-02-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022814",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Cincinnati Reds",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-02-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022815",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Chicago Cubs",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-02-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027022816",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-02-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030101",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-01T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030102",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Seattle Mariners",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-01T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030103",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Houston Astros",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-01T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030104",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-01T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030105",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-01T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030106",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Minnesota Twins",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-01T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030107",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "St. Louis Cardinals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-01T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030108",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Chicago Cubs",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-01T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030109",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Cleveland Guardians",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-01T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030110",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-01T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030111",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Athletics",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-01T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030112",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Chicago White Sox",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-01T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030201",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-02T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030202",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Detroit Tigers",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-02T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030203",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Boston Red Sox",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-02T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030204",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "New York Mets",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-02T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030205",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-02T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030206",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "San Diego Padres",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-02T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030207",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "San Francisco Giants",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-02T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030208",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Colorado Rockies",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-02T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030209",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-02T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030301",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "New York Mets",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-03T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030402",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Texas Rangers",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-04T01:05:00Z"
+},
+
+{
+  "id": "mlb_2027030303",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Boston Red Sox",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-03T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030304",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-03T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030305",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Atlanta Braves",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-03T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030306",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Detroit Tigers",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-03T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030307",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "New York Yankees",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-03T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030308",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Chicago Cubs",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-03T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030309",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-03T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030310",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Seattle Mariners",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-03T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030311",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "San Francisco Giants",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-03T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030312",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-03T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030313",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Chicago White Sox",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-03T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030401",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Texas Rangers",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-04T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030402",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Kansas City Royals",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-04T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030403",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Washington Nationals",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030404",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030405",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Toronto Blue Jays",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030406",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030407",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Atlanta Braves",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030408",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Miami Marlins",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030409",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Minnesota Twins",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-04T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030410",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-04T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030411",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Athletics",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-04T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030412",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Cleveland Guardians",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-04T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030413",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Los Angeles Angels",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-04T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030414",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-04T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030501",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Chicago Cubs",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-05T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030502",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030503",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Boston Red Sox",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030504",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Detroit Tigers",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030505",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Minnesota Twins",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030506",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030507",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Atlanta Braves",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030508",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Houston Astros",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030509",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Baltimore Orioles",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-05T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030510",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Cincinnati Reds",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030511",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030512",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "San Diego Padres",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030513",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "San Francisco Giants",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030514",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Texas Rangers",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030515",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Chicago White Sox",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030516",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Cleveland Guardians",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-05T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030601",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Minnesota Twins",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-06T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030602",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-06T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030603",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Seattle Mariners",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-06T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030604",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-06T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030605",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-06T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030606",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "New York Mets",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-06T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030607",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-06T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030608",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Boston Red Sox",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-06T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030609",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Miami Marlins",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-06T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030610",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "New York Yankees",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-06T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030611",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-06T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030612",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Kansas City Royals",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-06T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030613",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Athletics",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-06T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030614",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Los Angeles Angels",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-06T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030615",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Cincinnati Reds",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-06T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030616",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Chicago White Sox",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-06T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030701",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-07T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030702",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "San Diego Padres",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-07T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030703",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Baltimore Orioles",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030704",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Washington Nationals",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030705",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030706",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030707",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Minnesota Twins",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030708",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030709",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Yankees",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-07T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030710",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Los Angeles Angels",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030711",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Cleveland Guardians",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030712",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Colorado Rockies",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030713",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "San Francisco Giants",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030714",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Texas Rangers",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030715",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Chicago White Sox",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030716",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Chicago Cubs",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-07T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030801",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Atlanta Braves",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-08T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027030802",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "San Francisco Giants",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-08T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030803",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-08T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030804",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Houston Astros",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-08T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030805",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-08T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030806",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Boston Red Sox",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-08T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030807",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Miami Marlins",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-08T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030808",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Detroit Tigers",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-08T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030809",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Cincinnati Reds",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-08T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030810",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Colorado Rockies",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-08T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030811",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Athletics",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-08T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030812",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Seattle Mariners",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-08T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030813",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Kansas City Royals",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-08T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030901",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Los Angeles Angels",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-09T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027030902",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Houston Astros",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030903",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Baltimore Orioles",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030904",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Washington Nationals",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030905",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Minnesota Twins",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030906",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030907",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Detroit Tigers",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030908",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Boston Red Sox",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-09T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027030909",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "San Diego Padres",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-09T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030910",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Kansas City Royals",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-09T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030911",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "San Francisco Giants",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-09T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030912",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-09T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027030913",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-09T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031001",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-10T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027031002",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-10T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027031103",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Athletics",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-11T01:05:00Z"
+},
+
+{
+  "id": "mlb_2027031104",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-11T01:05:00Z"
+},
+
+{
+  "id": "mlb_2027031005",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "New York Mets",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-10T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031006",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-10T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031007",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Atlanta Braves",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-10T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031008",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "St. Louis Cardinals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-10T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031009",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "New York Yankees",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-10T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031010",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Cincinnati Reds",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-10T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031011",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Cleveland Guardians",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-10T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031012",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Colorado Rockies",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-10T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031013",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Seattle Mariners",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-10T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031201",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Cincinnati Reds",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-12T01:05:00Z"
+},
+
+{
+  "id": "mlb_2027031102",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Washington Nationals",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-11T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031103",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-11T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031104",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-11T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031105",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Minnesota Twins",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-11T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031106",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Houston Astros",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-11T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031107",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "New York Yankees",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-11T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031108",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Chicago Cubs",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-11T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031109",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Athletics",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-11T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031110",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-11T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031111",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Texas Rangers",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-11T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031112",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Chicago White Sox",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-11T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031113",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "San Francisco Giants",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-11T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031201",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Washington Nationals",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-12T18:05:00Z"
+},
+
+{
+  "id": "mlb_2027031202",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Cleveland Guardians",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-12T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031203",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Chicago Cubs",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-12T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031204",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-12T23:05:00Z"
+},
+
+{
+  "id": "mlb_2027031205",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "New York Mets",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-12T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031206",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Boston Red Sox",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-12T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031207",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Detroit Tigers",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-12T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031208",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Atlanta Braves",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-12T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031209",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Miami Marlins",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-12T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031210",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-12T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031211",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Kansas City Royals",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-12T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031212",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Colorado Rockies",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-12T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031213",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Seattle Mariners",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-12T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031214",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "San Francisco Giants",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-12T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031215",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-12T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031216",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-12T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031301",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-13T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031302",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031303",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031304",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031305",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Minnesota Twins",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031306",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031307",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Baltimore Orioles",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031308",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Miami Marlins",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031309",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Mets",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031310",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "New York Yankees",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-13T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027031311",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Chicago Cubs",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031312",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Colorado Rockies",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031313",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Cleveland Guardians",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031314",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Los Angeles Angels",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031315",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "San Diego Padres",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031316",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Texas Rangers",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031317",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Cincinnati Reds",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-13T11:33:00Z"
+},
+
+{
+  "id": "mlb_2027031401",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Detroit Tigers",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-14T17:05:00Z"
+},
+
+{
+  "id": "mlb_2027031402",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-14T17:05:00Z"
+},
+
+{
+  "id": "mlb_2027031403",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-14T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031404",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Athletics",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-14T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031405",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "New York Mets",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-14T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031406",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-14T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031407",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Boston Red Sox",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-14T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031408",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Atlanta Braves",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-14T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031409",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Miami Marlins",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-14T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031410",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Houston Astros",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-14T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031411",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Los Angeles Angels",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-14T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031412",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Cincinnati Reds",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-14T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031413",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Seattle Mariners",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-14T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031414",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Kansas City Royals",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-14T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031415",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Chicago White Sox",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-14T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031416",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-14T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031501",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-15T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031502",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Colorado Rockies",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-15T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031503",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-15T22:05:00Z"
+},
+
+{
+  "id": "mlb_2027031504",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Detroit Tigers",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-15T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031505",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-15T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031506",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Philadelphia Phillies",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-15T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031507",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Minnesota Twins",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-15T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031508",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Miami Marlins",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-15T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031509",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Los Angeles Angels",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-15T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031510",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Texas Rangers",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-15T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031511",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "San Francisco Giants",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-15T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031512",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Athletics",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-15T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031601",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "New York Yankees",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-16T17:05:00Z"
+},
+
+{
+  "id": "mlb_2027031602",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Cleveland Guardians",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-16T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031603",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Baltimore Orioles",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-16T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031604",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "New York Mets",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-16T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031605",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-16T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031606",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Atlanta Braves",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-16T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031607",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Washington Nationals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-16T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031608",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Chicago Cubs",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-16T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031609",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "San Diego Padres",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-16T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031610",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Texas Rangers",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-16T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031611",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Chicago White Sox",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-16T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031612",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Milwaukee Brewers",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-16T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031701",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Los Angeles Angels",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-17T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031702",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-17T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031703",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "New York Mets",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-17T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031704",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Houston Astros",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-17T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031705",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Tampa Bay Rays",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-17T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031706",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Detroit Tigers",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-17T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031707",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Baltimore Orioles",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-17T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031708",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "New York Yankees",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-17T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031709",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Kansas City Royals",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031710",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Cincinnati Reds",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031711",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Athletics",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031712",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Seattle Mariners",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031713",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "San Diego Padres",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031714",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031715",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-17T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031801",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Boston Red Sox",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-18T17:05:00Z"
+},
+
+{
+  "id": "mlb_2027031802",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "San Francisco Giants",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-18T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027031803",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-18T22:05:00Z"
+},
+
+{
+  "id": "mlb_2027031804",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Washington Nationals",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-18T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031805",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-18T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031806",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Miami Marlins",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-18T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031807",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-18T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031808",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-18T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031809",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Los Angeles Angels",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-18T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031810",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-18T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031811",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "Seattle Mariners",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-18T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031812",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Colorado Rockies",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-18T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031813",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Kansas City Royals",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-18T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031901",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "New York Yankees",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-19T22:05:00Z"
+},
+
+{
+  "id": "mlb_2027032002",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-20T01:05:00Z"
+},
+
+{
+  "id": "mlb_2027032003",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Athletics",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-20T01:05:00Z"
+},
+
+{
+  "id": "mlb_2027031904",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Houston Astros",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031905",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031906",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031907",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Minnesota Twins",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031908",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031909",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Atlanta Braves",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031910",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Washington Nationals",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-19T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027031911",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Colorado Rockies",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-19T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031912",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Cincinnati Reds",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-19T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031913",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "San Francisco Giants",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-19T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031914",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Texas Rangers",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-19T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031915",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Chicago White Sox",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-19T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027031916",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "San Diego Padres",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-19T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032001",
+  "league": "MLB",
+  "team": "Minnesota Twins",
+  "opponent": "Atlanta Braves",
+  "arena": "Target Field",
+  "city": "Minneapolis, Minnesota",
+  "date": "2027-03-20T17:05:00Z"
+},
+
+{
+  "id": "mlb_2027032002",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Seattle Mariners",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-20T19:05:00Z"
+},
+
+{
+  "id": "mlb_2027032003",
+  "league": "MLB",
+  "team": "New York Mets",
+  "opponent": "Houston Astros",
+  "arena": "Citi Field",
+  "city": "Flushing, New York",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032004",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Baltimore Orioles",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032005",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032006",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032007",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Boston Red Sox",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032008",
+  "league": "MLB",
+  "team": "St. Louis Cardinals",
+  "opponent": "Miami Marlins",
+  "arena": "Busch Stadium",
+  "city": "St. Louis, Missouri",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032009",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "New York Yankees",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032010",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-20T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032011",
+  "league": "MLB",
+  "team": "Cleveland Guardians",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Progressive Field",
+  "city": "Cleveland, Ohio",
+  "date": "2027-03-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032012",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Kansas City Royals",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032013",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Cincinnati Reds",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032014",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Chicago Cubs",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032015",
+  "league": "MLB",
+  "team": "Colorado Rockies",
+  "opponent": "Chicago White Sox",
+  "arena": "Coors Field",
+  "city": "Denver, Colorado",
+  "date": "2027-03-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032016",
+  "league": "MLB",
+  "team": "Texas Rangers",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Globe Life Field",
+  "city": "Arlington, Texas",
+  "date": "2027-03-20T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032101",
+  "league": "MLB",
+  "team": "Chicago White Sox",
+  "opponent": "Athletics",
+  "arena": "Rate Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-21T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027032102",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Washington Nationals",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032103",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032104",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Detroit Tigers",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032105",
+  "league": "MLB",
+  "team": "Boston Red Sox",
+  "opponent": "Minnesota Twins",
+  "arena": "Fenway Park",
+  "city": "Boston, Massachusetts",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032106",
+  "league": "MLB",
+  "team": "Toronto Blue Jays",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Rogers Centre",
+  "city": "Toronto, Ontario",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032107",
+  "league": "MLB",
+  "team": "Atlanta Braves",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Truist Park",
+  "city": "Cumberland, Georgia",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032108",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Mets",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032109",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-21T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032110",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Cleveland Guardians",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032111",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Los Angeles Angels",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032112",
+  "league": "MLB",
+  "team": "Arizona Diamondbacks",
+  "opponent": "San Diego Padres",
+  "arena": "Chase Field",
+  "city": "Phoenix, AZ",
+  "date": "2027-03-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032113",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Chicago Cubs",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032114",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Colorado Rockies",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-21T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032201",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-22T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027032202",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Baltimore Orioles",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-22T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032203",
+  "league": "MLB",
+  "team": "Philadelphia Phillies",
+  "opponent": "Tampa Bay Rays",
+  "arena": "Citizens Bank Park",
+  "city": "Philadelphia, Pennsylvania",
+  "date": "2027-03-22T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032204",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "New York Yankees",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-22T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032205",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Sugar Land Space Cowboys",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-22T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032206",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032207",
+  "league": "MLB",
+  "team": "Athletics",
+  "opponent": "Cleveland Guardians",
+  "arena": "Sutter Health Park",
+  "city": "West Sacramento, CA",
+  "date": "2027-03-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032208",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Seattle Mariners",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032209",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Boston Red Sox",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-22T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032301",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Milwaukee Brewers",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-23T19:05:00Z"
+},
+
+{
+  "id": "mlb_2027032302",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Detroit Tigers",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-23T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032303",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Sugar Land Space Cowboys",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-23T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032304",
+  "league": "MLB",
+  "team": "Los Angeles Angels",
+  "opponent": "Los Angeles Dodgers",
+  "arena": "Angel Stadium",
+  "city": "Anaheim, California",
+  "date": "2027-03-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032305",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Boston Red Sox",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-23T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032501",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-25T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027032502",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Athletics",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-25T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032503",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-25T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032504",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-25T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032505",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Chicago White Sox",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-25T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032506",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Mets",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-25T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032507",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-25T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032508",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Cleveland Guardians",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032509",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Texas Rangers",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032510",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Minnesota Twins",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032511",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Los Angeles Angels",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-25T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032512",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032513",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Boston Red Sox",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032514",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Colorado Rockies",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032515",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Atlanta Braves",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-25T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032601",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Athletics",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-26T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032602",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-26T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032603",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Texas Rangers",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-26T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032604",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032605",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Boston Red Sox",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-26T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032701",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-27T20:05:00Z"
+},
+
+{
+  "id": "mlb_2027032702",
+  "league": "MLB",
+  "team": "Pittsburgh Pirates",
+  "opponent": "Athletics",
+  "arena": "PNC Park",
+  "city": "Pittsburgh, Pennsylvania",
+  "date": "2027-03-27T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032703",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-27T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032704",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Baltimore Orioles",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-27T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032705",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Chicago White Sox",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-27T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032706",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Mets",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-27T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032707",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-27T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032708",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Cleveland Guardians",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032709",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Texas Rangers",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032710",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Minnesota Twins",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032711",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Los Angeles Angels",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-27T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032712",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032713",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Boston Red Sox",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032714",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Colorado Rockies",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032715",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Atlanta Braves",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-27T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032801",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "Philadelphia Phillies",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-28T17:35:00Z"
+},
+
+{
+  "id": "mlb_2027032802",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-28T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032803",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Chicago White Sox",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-28T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032804",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "New York Mets",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-28T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032805",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-28T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032806",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "Cleveland Guardians",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032807",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Minnesota Twins",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032808",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Los Angeles Angels",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-28T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032809",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032810",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Boston Red Sox",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032811",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Colorado Rockies",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032812",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Atlanta Braves",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-28T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032901",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "New York Mets",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-29T22:45:00Z"
+},
+
+{
+  "id": "mlb_2027032902",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Cleveland Guardians",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-29T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032903",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-29T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032904",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Los Angeles Angels",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-29T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032905",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Philadelphia Phillies",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-29T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032906",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Athletics",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-29T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027032907",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Boston Red Sox",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-29T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032908",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-29T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032909",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Chicago White Sox",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-29T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032910",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Atlanta Braves",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-29T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027032911",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Colorado Rockies",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-29T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032912",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-29T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032913",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Texas Rangers",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-29T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032914",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Minnesota Twins",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-29T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027032915",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-29T19:05:00Z"
+},
+
+{
+  "id": "mlb_2027033001",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "New York Mets",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-30T22:45:00Z"
+},
+
+{
+  "id": "mlb_2027033002",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Cleveland Guardians",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-30T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033003",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-30T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033004",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Los Angeles Angels",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-30T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033005",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Philadelphia Phillies",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-30T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033006",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Athletics",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-30T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033007",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Boston Red Sox",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-30T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033008",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-30T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033009",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Chicago White Sox",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-30T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033010",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Atlanta Braves",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-30T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033011",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Colorado Rockies",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-30T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033012",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-30T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033013",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Texas Rangers",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-30T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033014",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Minnesota Twins",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-30T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033101",
+  "league": "MLB",
+  "team": "Washington Nationals",
+  "opponent": "New York Mets",
+  "arena": "Nationals Park",
+  "city": "Washington, DC",
+  "date": "2027-03-31T17:05:00Z"
+},
+
+{
+  "id": "mlb_2027033102",
+  "league": "MLB",
+  "team": "Detroit Tigers",
+  "opponent": "Cleveland Guardians",
+  "arena": "Comerica Park",
+  "city": "Detroit, Michigan",
+  "date": "2027-03-31T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033103",
+  "league": "MLB",
+  "team": "Cincinnati Reds",
+  "opponent": "Pittsburgh Pirates",
+  "arena": "Great American Ball Park",
+  "city": "Cincinnati, Ohio",
+  "date": "2027-03-31T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033104",
+  "league": "MLB",
+  "team": "Tampa Bay Rays",
+  "opponent": "Los Angeles Angels",
+  "arena": "Tropicana Field",
+  "city": "St. Petersburg, Florida",
+  "date": "2027-03-31T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033105",
+  "league": "MLB",
+  "team": "Miami Marlins",
+  "opponent": "Philadelphia Phillies",
+  "arena": "LoanDepot Park",
+  "city": "Miami, Florida",
+  "date": "2027-03-31T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033106",
+  "league": "MLB",
+  "team": "New York Yankees",
+  "opponent": "Athletics",
+  "arena": "Yankee Stadium",
+  "city": "Bronx, New York",
+  "date": "2027-03-31T07:33:00Z"
+},
+
+{
+  "id": "mlb_2027033107",
+  "league": "MLB",
+  "team": "Houston Astros",
+  "opponent": "Boston Red Sox",
+  "arena": "Daikin Park",
+  "city": "Houston, Texas",
+  "date": "2027-03-31T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033108",
+  "league": "MLB",
+  "team": "Chicago Cubs",
+  "opponent": "St. Louis Cardinals",
+  "arena": "Wrigley Field",
+  "city": "Chicago, Illinois",
+  "date": "2027-03-31T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033109",
+  "league": "MLB",
+  "team": "Kansas City Royals",
+  "opponent": "Chicago White Sox",
+  "arena": "Kauffman Stadium",
+  "city": "Kansas City, Missouri",
+  "date": "2027-03-31T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033110",
+  "league": "MLB",
+  "team": "Milwaukee Brewers",
+  "opponent": "Atlanta Braves",
+  "arena": "American Family Field",
+  "city": "Milwaukee, Wisconsin",
+  "date": "2027-03-31T08:33:00Z"
+},
+
+{
+  "id": "mlb_2027033111",
+  "league": "MLB",
+  "team": "San Diego Padres",
+  "opponent": "Colorado Rockies",
+  "arena": "Petco Park",
+  "city": "San Diego, California",
+  "date": "2027-03-31T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033112",
+  "league": "MLB",
+  "team": "San Francisco Giants",
+  "opponent": "Arizona Diamondbacks",
+  "arena": "Oracle Park",
+  "city": "San Francisco, California",
+  "date": "2027-03-31T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033113",
+  "league": "MLB",
+  "team": "Seattle Mariners",
+  "opponent": "Texas Rangers",
+  "arena": "T-Mobile Park",
+  "city": "Seattle, Washington",
+  "date": "2027-03-31T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033114",
+  "league": "MLB",
+  "team": "Los Angeles Dodgers",
+  "opponent": "Minnesota Twins",
+  "arena": "Dodger Stadium",
+  "city": "Los Angeles, California",
+  "date": "2027-03-31T10:33:00Z"
+},
+
+{
+  "id": "mlb_2027033115",
+  "league": "MLB",
+  "team": "Baltimore Orioles",
+  "opponent": "Toronto Blue Jays",
+  "arena": "Oriole Park at Camden Yards",
+  "city": "Baltimore, Maryland",
+  "date": "2027-03-31T22:35:00Z"
+}  
   
 
 ]
