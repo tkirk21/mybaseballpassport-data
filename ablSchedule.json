@@ -1,164 +1,783 @@
 [
   {
-    "id": "abl_2026111201",
-    "league": "ABL",
-    "team": "Brisbane Bandits",
-    "opponent": "Sydney Blue Sox",
-    "arena": "Holloway Field",
-    "city": "Newmarket, Queensland",
-    "date": "2026-11-12T09:00:00Z"
-  },
-  {
-    "id": "abl_2026111202",
-    "league": "ABL",
-    "team": "Perth Heat",
-    "opponent": "Adelaide Giants",
-    "arena": "Empire BallPark",
-    "city": "Thornlie, Western Australia",
-    "date": "2026-11-12T11:00:00Z"
-  },
-  {
-    "id": "abl_2026111301",
-    "league": "ABL",
-    "team": "Perth Heat",
-    "opponent": "Adelaide Giants",
-    "arena": "Empire BallPark",
-    "city": "Thornlie, Western Australia",
-    "date": "2026-11-13T11:00:00Z"
-  },
-  {
-    "id": "abl_2026111302",
-    "league": "ABL",
-    "team": "Brisbane Bandits",
-    "opponent": "Sydney Blue Sox",
-    "arena": "Holloway Field",
-    "city": "Newmarket, Queensland",
-    "date": "2026-11-13T04:00:00Z"
-  },
-  {
-    "id": "abl_2026111401",
-    "league": "ABL",
-    "team": "Brisbane Bandits",
-    "opponent": "Sydney Blue Sox",
-    "arena": "Holloway Field",
-    "city": "Newmarket, Queensland",
-    "date": "2026-11-14T09:00:00Z"
-  },
-  {
-    "id": "abl_2026111402",
-    "league": "ABL",
-    "team": "Brisbane Bandits",
-    "opponent": "Sydney Blue Sox",
-    "arena": "Holloway Field",
-    "city": "Newmarket, Queensland",
-    "date": "2026-11-14T09:00:00Z"
-  },
-  {
-    "id": "abl_2026111403",
-    "league": "ABL",
-    "team": "Perth Heat",
-    "opponent": "Adelaide Giants",
-    "arena": "Empire BallPark",
-    "city": "Thornlie, Western Australia",
-    "date": "2026-11-14T11:00:00Z"
-  },
-  {
-    "id": "abl_2026111404",
-    "league": "ABL",
-    "team": "Perth Heat",
-    "opponent": "Adelaide Giants",
-    "arena": "Empire BallPark",
-    "city": "Thornlie, Western Australia",
-    "date": "2026-11-14T11:00:00Z"
-  },
-  {
-    "id": "abl_2026111501",
-    "league": "ABL",
-    "team": "Brisbane Bandits",
-    "opponent": "Sydney Blue Sox",
-    "arena": "Holloway Field",
-    "city": "Newmarket, Queensland",
-    "date": "2026-11-15T10:00:00Z"
-  },
-  {
-    "id": "abl_2026111901",
-    "league": "ABL",
-    "team": "Sydney Blue Sox",
-    "opponent": "Brisbane Bandits",
-    "arena": "Blue Sox Stadium",
-    "city": "Rooty Hill, New South Wales",
-    "date": "2026-11-19T08:00:00Z"
-  },
-  {
-    "id": "abl_2026111902",
-    "league": "ABL",
-    "team": "Adelaide Giants",
-    "opponent": "Perth Heat",
-    "arena": "Dicolor Australia Stadium",
-    "city": "West Beach, South Australia",
-    "date": "2026-11-19T08:30:00Z"
-  },
-  {
-    "id": "abl_2026112001",
-    "league": "ABL",
-    "team": "Sydney Blue Sox",
-    "opponent": "Brisbane Bandits",
-    "arena": "Blue Sox Stadium",
-    "city": "Rooty Hill, New South Wales",
-    "date": "2026-11-20T08:00:00Z"
-  },
-  {
-    "id": "abl_2026112002",
-    "league": "ABL",
-    "team": "Adelaide Giants",
-    "opponent": "Perth Heat",
-    "arena": "Dicolor Australia Stadium",
-    "city": "West Beach, South Australia",
-    "date": "2026-11-20T08:30:00Z"
-  },
-  {
-    "id": "abl_2026112101",
-    "league": "ABL",
-    "team": "Sydney Blue Sox",
-    "opponent": "Brisbane Bandits",
-    "arena": "Blue Sox Stadium",
-    "city": "Rooty Hill, New South Wales",
-    "date": "2026-11-21T08:00:00Z"
-  },
-  {
-    "id": "abl_2026112102",
-    "league": "ABL",
-    "team": "Sydney Blue Sox",
-    "opponent": "Brisbane Bandits",
-    "arena": "Blue Sox Stadium",
-    "city": "Rooty Hill, New South Wales",
-    "date": "2026-11-21T08:00:00Z"
-  },
-  {
-    "id": "abl_2026112103",
-    "league": "ABL",
-    "team": "Adelaide Giants",
-    "opponent": "Perth Heat",
-    "arena": "Dicolor Australia Stadium",
-    "city": "West Beach, South Australia",
-    "date": "2026-11-21T13:00:00Z"
-  },
-  {
-    "id": "abl_2026112104",
-    "league": "ABL",
-    "team": "Adelaide Giants",
-    "opponent": "Perth Heat",
-    "arena": "Dicolor Australia Stadium",
-    "city": "West Beach, South Australia",
-    "date": "2026-11-21T16:00:00Z"
-  },
-  {
-    "id": "abl_2026112201",
-    "league": "ABL",
-    "team": "Adelaide Giants",
-    "opponent": "Perth Heat",
-    "arena": "Dicolor Australia Stadium",
-    "city": "West Beach, South Australia",
-    "date": "2026-11-22T09:00:00Z"
-  }
+  "id": "abl_2026111901",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-11-19T08:30:00Z"
+},
+
+{
+  "id": "abl_2026111902",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-11-19T11:00:00Z"
+},
+
+{
+  "id": "abl_2026112003",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-11-20T08:30:00Z"
+},
+
+{
+  "id": "abl_2026112004",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-11-20T11:00:00Z"
+},
+
+{
+  "id": "abl_2026112105",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-11-21T04:30:00Z"
+},
+
+{
+  "id": "abl_2026112106",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-11-21T08:30:00Z"
+},
+
+{
+  "id": "abl_2026112107",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-11-21T10:00:00Z"
+},
+
+{
+  "id": "abl_2026112208",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-11-22T02:00:00Z"
+},
+
+{
+  "id": "abl_2026112609",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-11-26T08:00:00Z"
+},
+
+{
+  "id": "abl_2026112610",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-11-26T08:30:00Z"
+},
+
+{
+  "id": "abl_2026112711",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-11-27T08:00:00Z"
+},
+
+{
+  "id": "abl_2026112712",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-11-27T08:00:00Z"
+},
+
+{
+  "id": "abl_2026112813",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-11-28T04:30:00Z"
+},
+
+{
+  "id": "abl_2026112814",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-11-28T08:00:00Z"
+},
+
+{
+  "id": "abl_2026112815",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-11-28T07:00:00Z"
+},
+
+{
+  "id": "abl_2026112916",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-11-29T02:00:00Z"
+},
+
+{
+  "id": "abl_2026120301",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Perth Heat",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-03T08:00:00Z"
+},
+
+{
+  "id": "abl_2026120402",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Perth Heat",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-04T08:00:00Z"
+},
+
+{
+  "id": "abl_2026120403",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-04T08:30:00Z"
+},
+
+{
+  "id": "abl_2026120504",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-05T04:30:00Z"
+},
+
+{
+  "id": "abl_2026120505",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-05T08:30:00Z"
+},
+
+{
+  "id": "abl_2026120506",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Perth Heat",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-05T07:00:00Z"
+},
+
+{
+  "id": "abl_2026120607",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Perth Heat",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-06T02:00:00Z"
+},
+
+{
+  "id": "abl_2026120608",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Brisbane Bandits",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-06T03:30:00Z"
+},
+
+{
+  "id": "abl_2026121009",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-10T08:30:00Z"
+},
+
+{
+  "id": "abl_2026121010",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-10T08:30:00Z"
+},
+
+{
+  "id": "abl_2026121111",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-11T08:00:00Z"
+},
+
+{
+  "id": "abl_2026121112",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-11T08:30:00Z"
+},
+
+{
+  "id": "abl_2026121213",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-12T04:30:00Z"
+},
+
+{
+  "id": "abl_2026121214",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-12T08:00:00Z"
+},
+
+{
+  "id": "abl_2026121215",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-12T08:30:00Z"
+},
+
+{
+  "id": "abl_2026121316",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-13T03:30:00Z"
+},
+
+{
+  "id": "abl_2026121717",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-17T08:00:00Z"
+},
+
+{
+  "id": "abl_2026121718",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Brisbane Bandits",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-17T11:00:00Z"
+},
+
+{
+  "id": "abl_2026121819",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-18T08:00:00Z"
+},
+
+{
+  "id": "abl_2026121820",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Brisbane Bandits",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-18T11:00:00Z"
+},
+
+{
+  "id": "abl_2026121921",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-19T07:00:00Z"
+},
+
+{
+  "id": "abl_2026121922",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Brisbane Bandits",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-19T10:00:00Z"
+},
+
+{
+  "id": "abl_2026122023",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Adelaide Giants",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-20T02:00:00Z"
+},
+
+{
+  "id": "abl_2026122024",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Brisbane Bandits",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-20T04:00:00Z"
+},
+
+{
+  "id": "abl_2026122625",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-26T08:00:00Z"
+},
+
+{
+  "id": "abl_2026122626",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-26T10:00:00Z"
+},
+
+{
+  "id": "abl_2026122727",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-27T04:30:00Z"
+},
+
+{
+  "id": "abl_2026122728",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2026-12-27T08:00:00Z"
+},
+
+{
+  "id": "abl_2026122729",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-27T10:00:00Z"
+},
+
+{
+  "id": "abl_2026122830",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2026-12-28T03:00:00Z"
+},
+
+{
+  "id": "abl_2026123131",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2026-12-31T08:00:00Z"
+},
+
+{
+  "id": "abl_2026123132",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2026-12-31T08:30:00Z"
+},
+
+{
+  "id": "abl_2027010101",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-01T08:00:00Z"
+},
+
+{
+  "id": "abl_2027010102",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-01T08:30:00Z"
+},
+
+{
+  "id": "abl_2027010203",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-02T07:00:00Z"
+},
+
+{
+  "id": "abl_2027010204",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-02T08:30:00Z"
+},
+
+{
+  "id": "abl_2027010305",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-03T02:00:00Z"
+},
+
+{
+  "id": "abl_2027010306",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Perth Heat",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-03T03:30:00Z"
+},
+
+{
+  "id": "abl_2027010707",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Adelaide Giants",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-07T08:30:00Z"
+},
+
+{
+  "id": "abl_2027010708",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-07T11:00:00Z"
+},
+
+{
+  "id": "abl_2027010809",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Adelaide Giants",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-08T08:00:00Z"
+},
+
+{
+  "id": "abl_2027010810",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-08T11:00:00Z"
+},
+
+{
+  "id": "abl_2027010911",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Adelaide Giants",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-09T04:30:00Z"
+},
+
+{
+  "id": "abl_2027010912",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Adelaide Giants",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-09T08:00:00Z"
+},
+
+{
+  "id": "abl_2027010913",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-09T10:00:00Z"
+},
+
+{
+  "id": "abl_2027011014",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-10T02:00:00Z"
+},
+
+{
+  "id": "abl_2027011415",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-14T08:00:00Z"
+},
+
+{
+  "id": "abl_2027011416",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-14T11:00:00Z"
+},
+
+{
+  "id": "abl_2027011517",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-15T08:00:00Z"
+},
+
+{
+  "id": "abl_2027011518",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-15T11:00:00Z"
+},
+
+{
+  "id": "abl_2027011619",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-16T07:00:00Z"
+},
+
+{
+  "id": "abl_2027011620",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-16T10:00:00Z"
+},
+
+{
+  "id": "abl_2027011721",
+  "league": "ABL",
+  "team": "Sydney Blue Sox",
+  "opponent": "Brisbane Bandits",
+  "arena": "Blue Sox Stadium",
+  "city": "Rooty Hill, New South Wales",
+  "date": "2027-01-17T02:00:00Z"
+},
+
+{
+  "id": "abl_2027011722",
+  "league": "ABL",
+  "team": "Perth Heat",
+  "opponent": "Adelaide Giants",
+  "arena": "Empire BallPark",
+  "city": "Thornlie, Western Australia",
+  "date": "2027-01-17T03:00:00Z"
+},
+
+{
+  "id": "abl_2027012123",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-21T08:30:00Z"
+},
+
+{
+  "id": "abl_2027012124",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-21T08:30:00Z"
+},
+
+{
+  "id": "abl_2027012225",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-22T08:00:00Z"
+},
+
+{
+  "id": "abl_2027012226",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-22T08:30:00Z"
+},
+
+{
+  "id": "abl_2027012327",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-23T04:30:00Z"
+},
+
+{
+  "id": "abl_2027012328",
+  "league": "ABL",
+  "team": "Brisbane Bandits",
+  "opponent": "Perth Heat",
+  "arena": "Holloway Field",
+  "city": "Newmarket, Queensland",
+  "date": "2027-01-23T08:00:00Z"
+},
+
+{
+  "id": "abl_2027012329",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-23T08:30:00Z"
+},
+
+{
+  "id": "abl_2027012430",
+  "league": "ABL",
+  "team": "Adelaide Giants",
+  "opponent": "Sydney Blue Sox",
+  "arena": "Dicolor Australia Stadium",
+  "city": "West Beach, South Australia",
+  "date": "2027-01-24T03:30:00Z"
+}
+
+  
 ]
