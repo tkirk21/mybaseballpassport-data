@@ -1,5 +1,1253 @@
 [
-  
+  {
+  "id": "fsl_2027040201",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-02T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040202",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-02T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040203",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-02T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040204",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-02T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040205",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-02T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040301",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-03T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040302",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-03T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040303",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-03T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040304",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-03T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040305",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-03T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040401",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-04T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040402",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Daytona Tortugas",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-04T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040403",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-04T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040404",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Tampa Tarpons",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-04T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040405",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-04T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040601",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-06T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040602",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-06T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040603",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Clearwater Threshers",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-06T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040604",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Tampa Tarpons",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-06T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040605",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Bradenton Marauders",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-06T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040701",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-07T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040702",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-07T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040703",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Clearwater Threshers",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-07T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040704",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Tampa Tarpons",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-07T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040705",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Bradenton Marauders",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-07T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040801",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-08T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040802",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-08T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040803",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Clearwater Threshers",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-08T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040804",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Tampa Tarpons",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-08T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040805",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Bradenton Marauders",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-08T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040901",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-09T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040902",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-09T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040903",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Clearwater Threshers",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-09T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040904",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Tampa Tarpons",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-09T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027040905",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Bradenton Marauders",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-09T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041001",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-10T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041002",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-10T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041003",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Clearwater Threshers",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-10T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041004",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Tampa Tarpons",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-10T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041005",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Bradenton Marauders",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-10T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041101",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "St. Lucie Mets",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-11T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041102",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-11T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041103",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Clearwater Threshers",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-11T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041104",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "Tampa Tarpons",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-11T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041105",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Bradenton Marauders",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-11T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041301",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Daytona Tortugas",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-13T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041302",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-13T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041303",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-13T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041304",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-13T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041305",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-13T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041401",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Daytona Tortugas",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-14T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041402",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-14T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041403",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-14T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041404",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-14T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041405",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-14T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041501",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Daytona Tortugas",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-15T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041502",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-15T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041503",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-15T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041504",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-15T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041505",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-15T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041601",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Daytona Tortugas",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-16T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041602",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-16T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041603",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-16T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041604",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-16T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041605",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-16T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041701",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Daytona Tortugas",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-17T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041702",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-17T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041703",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-17T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041704",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-17T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041705",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-17T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041801",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Daytona Tortugas",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-18T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041802",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-18T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041803",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-18T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041804",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-18T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027041805",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-18T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042001",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-20T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042002",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-20T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042003",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "St. Lucie Mets",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-20T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042004",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Tampa Tarpons",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-20T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042005",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-20T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042101",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-21T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042102",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-21T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042103",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "St. Lucie Mets",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-21T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042104",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Tampa Tarpons",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-21T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042105",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-21T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042201",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-22T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042202",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-22T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042203",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "St. Lucie Mets",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-22T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042204",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Tampa Tarpons",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-22T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042205",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-22T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042301",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-23T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042302",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-23T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042303",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "St. Lucie Mets",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-23T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042304",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Tampa Tarpons",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-23T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042305",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-23T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042401",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-24T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042402",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-24T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042403",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "St. Lucie Mets",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-24T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042404",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Tampa Tarpons",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-24T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042405",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-24T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042501",
+  "league": "FSL",
+  "team": "Palm Beach Cardinals",
+  "opponent": "Jupiter Hammerheads",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-25T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042502",
+  "league": "FSL",
+  "team": "Dunedin Blue Jays",
+  "opponent": "Clearwater Threshers",
+  "arena": "TD Ballpark",
+  "city": "Dunedin, Florida",
+  "date": "2027-04-25T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042503",
+  "league": "FSL",
+  "team": "Lakeland Flying Tigers",
+  "opponent": "St. Lucie Mets",
+  "arena": "Publix Field at Joker Marchant Stadium",
+  "city": "Lakeland, Florida",
+  "date": "2027-04-25T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042504",
+  "league": "FSL",
+  "team": "Fort Myers Mighty Mussels",
+  "opponent": "Tampa Tarpons",
+  "arena": "Hammond Stadium",
+  "city": "Fort Myers, Florida",
+  "date": "2027-04-25T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042505",
+  "league": "FSL",
+  "team": "Daytona Tortugas",
+  "opponent": "Bradenton Marauders",
+  "arena": "Jackie Robinson Ballpark",
+  "city": "Daytona Beach, Florida",
+  "date": "2027-04-25T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042701",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-27T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042702",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-27T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042703",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-27T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042704",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-27T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042705",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-27T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042801",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-28T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042802",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-28T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042803",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-28T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042804",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-28T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042805",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-28T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042901",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-29T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042902",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-29T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042903",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-29T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042904",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-29T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027042905",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-29T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027043001",
+  "league": "FSL",
+  "team": "St. Lucie Mets",
+  "opponent": "Palm Beach Cardinals",
+  "arena": "Clover Park",
+  "city": "Port St. Lucie, Florida",
+  "date": "2027-04-30T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027043002",
+  "league": "FSL",
+  "team": "Clearwater Threshers",
+  "opponent": "Fort Myers Mighty Mussels",
+  "arena": "BayCare Ballpark",
+  "city": "Clearwater, Florida",
+  "date": "2027-04-30T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027043003",
+  "league": "FSL",
+  "team": "Jupiter Hammerheads",
+  "opponent": "Lakeland Flying Tigers",
+  "arena": "Roger Dean Chevrolet Stadium",
+  "city": "Jupiter, Florida",
+  "date": "2027-04-30T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027043004",
+  "league": "FSL",
+  "team": "Tampa Tarpons",
+  "opponent": "Daytona Tortugas",
+  "arena": "George M. Steinbrenner Field",
+  "city": "Tampa, Florida",
+  "date": "2027-04-30T07:33:00Z"
+},
+
+{
+  "id": "fsl_2027043005",
+  "league": "FSL",
+  "team": "Bradenton Marauders",
+  "opponent": "Dunedin Blue Jays",
+  "arena": "LECOM Park",
+  "city": "Bradenton, Florida",
+  "date": "2027-04-30T07:33:00Z"
+}
 
 
 ]
